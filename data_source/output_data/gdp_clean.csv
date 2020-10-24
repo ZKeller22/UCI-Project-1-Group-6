@@ -20,13 +20,6 @@ Country ID,Source Data,Country Name,Year,GDP
 2,GDP in 2010 dollars ($),Africa,2015,2290892.0
 2,GDP in 2010 dollars ($),Africa,2016,2330484.0
 2,GDP in 2010 dollars ($),Africa,2017,2397256.0
-2,GDP real rates of growth (percent),Africa,1985,3.6
-2,GDP real rates of growth (percent),Africa,1995,3.2
-2,GDP real rates of growth (percent),Africa,2005,6.0
-2,GDP real rates of growth (percent),Africa,2010,5.3
-2,GDP real rates of growth (percent),Africa,2015,2.7
-2,GDP real rates of growth (percent),Africa,2016,1.7
-2,GDP real rates of growth (percent),Africa,2017,2.9
 15,GDP (millions of $),Northern Africa,1985,142523.0
 15,GDP (millions of $),Northern Africa,1995,207392.0
 15,GDP (millions of $),Northern Africa,2005,373106.0
@@ -48,13 +41,6 @@ Country ID,Source Data,Country Name,Year,GDP
 15,GDP in 2010 dollars ($),Northern Africa,2015,665365.0
 15,GDP in 2010 dollars ($),Northern Africa,2016,686921.0
 15,GDP in 2010 dollars ($),Northern Africa,2017,714839.0
-15,GDP real rates of growth (percent),Northern Africa,1985,5.8
-15,GDP real rates of growth (percent),Northern Africa,1995,1.7
-15,GDP real rates of growth (percent),Northern Africa,2005,5.7
-15,GDP real rates of growth (percent),Northern Africa,2010,4.6
-15,GDP real rates of growth (percent),Northern Africa,2015,2.6
-15,GDP real rates of growth (percent),Northern Africa,2016,3.2
-15,GDP real rates of growth (percent),Northern Africa,2017,4.1
 202,GDP (millions of $),Sub-Saharan Africa,1985,374778.0
 202,GDP (millions of $),Sub-Saharan Africa,1995,375048.0
 202,GDP (millions of $),Sub-Saharan Africa,2005,755612.0
@@ -76,13 +62,6 @@ Country ID,Source Data,Country Name,Year,GDP
 202,GDP in 2010 dollars ($),Sub-Saharan Africa,2015,1625527.0
 202,GDP in 2010 dollars ($),Sub-Saharan Africa,2016,1643563.0
 202,GDP in 2010 dollars ($),Sub-Saharan Africa,2017,1682416.0
-202,GDP real rates of growth (percent),Sub-Saharan Africa,1985,2.6
-202,GDP real rates of growth (percent),Sub-Saharan Africa,1995,3.9
-202,GDP real rates of growth (percent),Sub-Saharan Africa,2005,6.1
-202,GDP real rates of growth (percent),Sub-Saharan Africa,2010,5.7
-202,GDP real rates of growth (percent),Sub-Saharan Africa,2015,2.8
-202,GDP real rates of growth (percent),Sub-Saharan Africa,2016,1.1
-202,GDP real rates of growth (percent),Sub-Saharan Africa,2017,2.4
 14,GDP (millions of $),Eastern Africa,1985,64114.0
 14,GDP (millions of $),Eastern Africa,1995,67938.0
 14,GDP (millions of $),Eastern Africa,2005,111482.0
@@ -104,13 +83,6 @@ Country ID,Source Data,Country Name,Year,GDP
 14,GDP in 2010 dollars ($),Eastern Africa,2015,283341.0
 14,GDP in 2010 dollars ($),Eastern Africa,2016,297113.0
 14,GDP in 2010 dollars ($),Eastern Africa,2017,313742.0
-14,GDP real rates of growth (percent),Eastern Africa,1985,2.2
-14,GDP real rates of growth (percent),Eastern Africa,1995,4.6
-14,GDP real rates of growth (percent),Eastern Africa,2005,6.4
-14,GDP real rates of growth (percent),Eastern Africa,2010,7.2
-14,GDP real rates of growth (percent),Eastern Africa,2015,5.9
-14,GDP real rates of growth (percent),Eastern Africa,2016,4.9
-14,GDP real rates of growth (percent),Eastern Africa,2017,5.6
 17,GDP (millions of $),Middle Africa,1985,35267.0
 17,GDP (millions of $),Middle Africa,1995,36081.0
 17,GDP (millions of $),Middle Africa,2005,99548.0
@@ -132,13 +104,6 @@ Country ID,Source Data,Country Name,Year,GDP
 17,GDP in 2010 dollars ($),Middle Africa,2015,233260.0
 17,GDP in 2010 dollars ($),Middle Africa,2016,231174.0
 17,GDP in 2010 dollars ($),Middle Africa,2017,230035.0
-17,GDP real rates of growth (percent),Middle Africa,1985,1.6
-17,GDP real rates of growth (percent),Middle Africa,1995,6.6
-17,GDP real rates of growth (percent),Middle Africa,2005,8.7
-17,GDP real rates of growth (percent),Middle Africa,2010,4.9
-17,GDP real rates of growth (percent),Middle Africa,2015,1.0
-17,GDP real rates of growth (percent),Middle Africa,2016,-0.9
-17,GDP real rates of growth (percent),Middle Africa,2017,-0.5
 18,GDP (millions of $),Southern Africa,1985,62927.0
 18,GDP (millions of $),Southern Africa,1995,168964.0
 18,GDP (millions of $),Southern Africa,2005,279562.0
@@ -160,13 +125,6 @@ Country ID,Source Data,Country Name,Year,GDP
 18,GDP in 2010 dollars ($),Southern Africa,2015,457976.0
 18,GDP in 2010 dollars ($),Southern Africa,2016,461285.0
 18,GDP in 2010 dollars ($),Southern Africa,2017,467187.0
-18,GDP real rates of growth (percent),Southern Africa,1985,-1.0
-18,GDP real rates of growth (percent),Southern Africa,1995,3.3
-18,GDP real rates of growth (percent),Southern Africa,2005,5.2
-18,GDP real rates of growth (percent),Southern Africa,2010,3.3
-18,GDP real rates of growth (percent),Southern Africa,2015,1.3
-18,GDP real rates of growth (percent),Southern Africa,2016,0.7
-18,GDP real rates of growth (percent),Southern Africa,2017,1.3
 11,GDP (millions of $),Western Africa,1985,212470.0
 11,GDP (millions of $),Western Africa,1995,102064.0
 11,GDP (millions of $),Western Africa,2005,265020.0
@@ -188,13 +146,6 @@ Country ID,Source Data,Country Name,Year,GDP
 11,GDP in 2010 dollars ($),Western Africa,2015,650950.0
 11,GDP in 2010 dollars ($),Western Africa,2016,653991.0
 11,GDP in 2010 dollars ($),Western Africa,2017,671453.0
-11,GDP real rates of growth (percent),Western Africa,1985,8.9
-11,GDP real rates of growth (percent),Western Africa,1995,3.3
-11,GDP real rates of growth (percent),Western Africa,2005,6.0
-11,GDP real rates of growth (percent),Western Africa,2010,7.3
-11,GDP real rates of growth (percent),Western Africa,2015,3.1
-11,GDP real rates of growth (percent),Western Africa,2016,0.5
-11,GDP real rates of growth (percent),Western Africa,2017,2.7
 19,GDP (millions of $),Americas,1985,5491739.0
 19,GDP (millions of $),Americas,1995,10213265.0
 19,GDP (millions of $),Americas,2005,17070406.0
@@ -216,13 +167,6 @@ Country ID,Source Data,Country Name,Year,GDP
 19,GDP in 2010 dollars ($),Americas,2015,24436405.0
 19,GDP in 2010 dollars ($),Americas,2016,24635134.0
 19,GDP in 2010 dollars ($),Americas,2017,25113358.0
-19,GDP real rates of growth (percent),Americas,1985,4.1
-19,GDP real rates of growth (percent),Americas,1995,2.4
-19,GDP real rates of growth (percent),Americas,2005,3.7
-19,GDP real rates of growth (percent),Americas,2010,3.4
-19,GDP real rates of growth (percent),Americas,2015,1.9
-19,GDP real rates of growth (percent),Americas,2016,0.8
-19,GDP real rates of growth (percent),Americas,2017,1.9
 21,GDP (millions of $),Northern America,1985,4705619.0
 21,GDP (millions of $),Northern America,1995,8247641.0
 21,GDP (millions of $),Northern America,2005,14212748.0
@@ -244,13 +188,6 @@ Country ID,Source Data,Country Name,Year,GDP
 21,GDP in 2010 dollars ($),Northern America,2015,18520758.0
 21,GDP in 2010 dollars ($),Northern America,2016,18808282.0
 21,GDP in 2010 dollars ($),Northern America,2017,19240424.0
-21,GDP real rates of growth (percent),Northern America,1985,4.2
-21,GDP real rates of growth (percent),Northern America,1995,2.7
-21,GDP real rates of growth (percent),Northern America,2005,3.5
-21,GDP real rates of growth (percent),Northern America,2010,2.6
-21,GDP real rates of growth (percent),Northern America,2015,2.7
-21,GDP real rates of growth (percent),Northern America,2016,1.6
-21,GDP real rates of growth (percent),Northern America,2017,2.3
 419,GDP (millions of $),Latin America & the Caribbean,1985,786120.0
 419,GDP (millions of $),Latin America & the Caribbean,1995,1965625.0
 419,GDP (millions of $),Latin America & the Caribbean,2005,2857658.0
@@ -272,13 +209,6 @@ Country ID,Source Data,Country Name,Year,GDP
 419,GDP in 2010 dollars ($),Latin America & the Caribbean,2015,5915647.0
 419,GDP in 2010 dollars ($),Latin America & the Caribbean,2016,5826853.0
 419,GDP in 2010 dollars ($),Latin America & the Caribbean,2017,5872934.0
-419,GDP real rates of growth (percent),Latin America & the Caribbean,1985,3.6
-419,GDP real rates of growth (percent),Latin America & the Caribbean,1995,1.5
-419,GDP real rates of growth (percent),Latin America & the Caribbean,2005,4.3
-419,GDP real rates of growth (percent),Latin America & the Caribbean,2010,5.8
-419,GDP real rates of growth (percent),Latin America & the Caribbean,2015,-0.5
-419,GDP real rates of growth (percent),Latin America & the Caribbean,2016,-1.5
-419,GDP real rates of growth (percent),Latin America & the Caribbean,2017,0.8
 29,GDP (millions of $),Caribbean,1985,69195.0
 29,GDP (millions of $),Caribbean,1995,119686.0
 29,GDP (millions of $),Caribbean,2005,221390.0
@@ -300,13 +230,6 @@ Country ID,Source Data,Country Name,Year,GDP
 29,GDP in 2010 dollars ($),Caribbean,2015,313919.0
 29,GDP in 2010 dollars ($),Caribbean,2016,316894.0
 29,GDP in 2010 dollars ($),Caribbean,2017,319330.0
-29,GDP real rates of growth (percent),Caribbean,1985,0.8
-29,GDP real rates of growth (percent),Caribbean,1995,4.0
-29,GDP real rates of growth (percent),Caribbean,2005,3.4
-29,GDP real rates of growth (percent),Caribbean,2010,1.8
-29,GDP real rates of growth (percent),Caribbean,2015,2.3
-29,GDP real rates of growth (percent),Caribbean,2016,0.9
-29,GDP real rates of growth (percent),Caribbean,2017,0.8
 13,GDP (millions of $),Central America,1985,258698.0
 13,GDP (millions of $),Central America,1995,412184.0
 13,GDP (millions of $),Central America,2005,972224.0
@@ -328,13 +251,6 @@ Country ID,Source Data,Country Name,Year,GDP
 13,GDP in 2010 dollars ($),Central America,2015,1412539.0
 13,GDP in 2010 dollars ($),Central America,2016,1455557.0
 13,GDP in 2010 dollars ($),Central America,2017,1488924.0
-13,GDP real rates of growth (percent),Central America,1985,2.6
-13,GDP real rates of growth (percent),Central America,1995,-5.2
-13,GDP real rates of growth (percent),Central America,2005,2.5
-13,GDP real rates of growth (percent),Central America,2010,5.0
-13,GDP real rates of growth (percent),Central America,2015,3.4
-13,GDP real rates of growth (percent),Central America,2016,3.0
-13,GDP real rates of growth (percent),Central America,2017,2.3
 5,GDP (millions of $),South America,1985,458228.0
 5,GDP (millions of $),South America,1995,1433755.0
 5,GDP (millions of $),South America,2005,1664043.0
@@ -356,13 +272,6 @@ Country ID,Source Data,Country Name,Year,GDP
 5,GDP in 2010 dollars ($),South America,2015,4189190.0
 5,GDP in 2010 dollars ($),South America,2016,4054401.0
 5,GDP in 2010 dollars ($),South America,2017,4064679.0
-5,GDP real rates of growth (percent),South America,1985,4.2
-5,GDP real rates of growth (percent),South America,1995,3.7
-5,GDP real rates of growth (percent),South America,2005,5.0
-5,GDP real rates of growth (percent),South America,2010,6.4
-5,GDP real rates of growth (percent),South America,2015,-1.9
-5,GDP real rates of growth (percent),South America,2016,-3.2
-5,GDP real rates of growth (percent),South America,2017,0.3
 142,GDP (millions of $),Asia,1985,2880324.0
 142,GDP (millions of $),Asia,1995,9195635.0
 142,GDP (millions of $),Asia,2005,12338718.0
@@ -384,13 +293,6 @@ Country ID,Source Data,Country Name,Year,GDP
 142,GDP in 2010 dollars ($),Asia,2015,26343440.0
 142,GDP in 2010 dollars ($),Asia,2016,27525475.0
 142,GDP in 2010 dollars ($),Asia,2017,28810433.0
-142,GDP real rates of growth (percent),Asia,1985,4.6
-142,GDP real rates of growth (percent),Asia,1995,5.1
-142,GDP real rates of growth (percent),Asia,2005,5.6
-142,GDP real rates of growth (percent),Asia,2010,7.3
-142,GDP real rates of growth (percent),Asia,2015,4.5
-142,GDP real rates of growth (percent),Asia,2016,4.5
-142,GDP real rates of growth (percent),Asia,2017,4.7
 143,GDP (millions of $),Central Asia,1995,38937.0
 143,GDP (millions of $),Central Asia,2005,90468.0
 143,GDP (millions of $),Central Asia,2010,220593.0
@@ -409,12 +311,6 @@ Country ID,Source Data,Country Name,Year,GDP
 143,GDP in 2010 dollars ($),Central Asia,2015,297786.0
 143,GDP in 2010 dollars ($),Central Asia,2016,306560.0
 143,GDP in 2010 dollars ($),Central Asia,2017,320870.0
-143,GDP real rates of growth (percent),Central Asia,1995,-6.9
-143,GDP real rates of growth (percent),Central Asia,2005,9.2
-143,GDP real rates of growth (percent),Central Asia,2010,7.5
-143,GDP real rates of growth (percent),Central Asia,2015,3.2
-143,GDP real rates of growth (percent),Central Asia,2016,2.9
-143,GDP real rates of growth (percent),Central Asia,2017,4.7
 30,GDP (millions of $),Eastern Asia,1985,1922987.0
 30,GDP (millions of $),Eastern Asia,1995,7177176.0
 30,GDP (millions of $),Eastern Asia,2005,8524913.0
@@ -436,13 +332,6 @@ Country ID,Source Data,Country Name,Year,GDP
 30,GDP in 2010 dollars ($),Eastern Asia,2015,17002833.0
 30,GDP in 2010 dollars ($),Eastern Asia,2016,17708096.0
 30,GDP in 2010 dollars ($),Eastern Asia,2017,18532899.0
-30,GDP real rates of growth (percent),Eastern Asia,1985,6.2
-30,GDP real rates of growth (percent),Eastern Asia,1995,4.8
-30,GDP real rates of growth (percent),Eastern Asia,2005,5.2
-30,GDP real rates of growth (percent),Eastern Asia,2010,7.5
-30,GDP real rates of growth (percent),Eastern Asia,2015,4.2
-30,GDP real rates of growth (percent),Eastern Asia,2016,4.1
-30,GDP real rates of growth (percent),Eastern Asia,2017,4.7
 35,GDP (millions of $),South-eastern Asia,1985,243805.0
 35,GDP (millions of $),South-eastern Asia,1995,703488.0
 35,GDP (millions of $),South-eastern Asia,2005,958893.0
@@ -464,13 +353,6 @@ Country ID,Source Data,Country Name,Year,GDP
 35,GDP in 2010 dollars ($),South-eastern Asia,2015,2528012.0
 35,GDP in 2010 dollars ($),South-eastern Asia,2016,2644528.0
 35,GDP in 2010 dollars ($),South-eastern Asia,2017,2780478.0
-35,GDP real rates of growth (percent),South-eastern Asia,1985,0.7
-35,GDP real rates of growth (percent),South-eastern Asia,1995,7.9
-35,GDP real rates of growth (percent),South-eastern Asia,2005,5.7
-35,GDP real rates of growth (percent),South-eastern Asia,2010,7.8
-35,GDP real rates of growth (percent),South-eastern Asia,2015,4.6
-35,GDP real rates of growth (percent),South-eastern Asia,2016,4.6
-35,GDP real rates of growth (percent),South-eastern Asia,2017,5.1
 34,GDP (millions of $),Southern Asia,1985,370097.0
 34,GDP (millions of $),Southern Asia,1995,616292.0
 34,GDP (millions of $),Southern Asia,2005,1270195.0
@@ -492,13 +374,6 @@ Country ID,Source Data,Country Name,Year,GDP
 34,GDP in 2010 dollars ($),Southern Asia,2015,3261710.0
 34,GDP in 2010 dollars ($),Southern Asia,2016,3516335.0
 34,GDP in 2010 dollars ($),Southern Asia,2017,3730638.0
-34,GDP real rates of growth (percent),Southern Asia,1985,4.3
-34,GDP real rates of growth (percent),Southern Asia,1995,6.1
-34,GDP real rates of growth (percent),Southern Asia,2005,6.7
-34,GDP real rates of growth (percent),Southern Asia,2010,7.3
-34,GDP real rates of growth (percent),Southern Asia,2015,6.2
-34,GDP real rates of growth (percent),Southern Asia,2016,7.8
-34,GDP real rates of growth (percent),Southern Asia,2017,6.1
 145,GDP (millions of $),Western Asia,1985,343435.0
 145,GDP (millions of $),Western Asia,1995,659741.0
 145,GDP (millions of $),Western Asia,2005,1494249.0
@@ -520,13 +395,6 @@ Country ID,Source Data,Country Name,Year,GDP
 145,GDP in 2010 dollars ($),Western Asia,2015,3253100.0
 145,GDP in 2010 dollars ($),Western Asia,2016,3349955.0
 145,GDP in 2010 dollars ($),Western Asia,2017,3445547.0
-145,GDP real rates of growth (percent),Western Asia,1985,-0.7
-145,GDP real rates of growth (percent),Western Asia,1995,4.3
-145,GDP real rates of growth (percent),Western Asia,2005,6.9
-145,GDP real rates of growth (percent),Western Asia,2010,5.7
-145,GDP real rates of growth (percent),Western Asia,2015,4.0
-145,GDP real rates of growth (percent),Western Asia,2016,3.0
-145,GDP real rates of growth (percent),Western Asia,2017,2.9
 150,GDP (millions of $),Europe,1985,4415032.0
 150,GDP (millions of $),Europe,1995,10619622.0
 150,GDP (millions of $),Europe,2005,16112496.0
@@ -548,13 +416,6 @@ Country ID,Source Data,Country Name,Year,GDP
 150,GDP in 2010 dollars ($),Europe,2015,21061693.0
 150,GDP in 2010 dollars ($),Europe,2016,21435436.0
 150,GDP in 2010 dollars ($),Europe,2017,21936347.0
-150,GDP real rates of growth (percent),Europe,1985,2.5
-150,GDP real rates of growth (percent),Europe,1995,2.3
-150,GDP real rates of growth (percent),Europe,2005,2.5
-150,GDP real rates of growth (percent),Europe,2010,2.3
-150,GDP real rates of growth (percent),Europe,2015,1.8
-150,GDP real rates of growth (percent),Europe,2016,1.8
-150,GDP real rates of growth (percent),Europe,2017,2.3
 151,GDP (millions of $),Eastern Europe,1985,1124317.0
 151,GDP (millions of $),Eastern Europe,1995,789180.0
 151,GDP (millions of $),Eastern Europe,2005,1628697.0
@@ -576,13 +437,6 @@ Country ID,Source Data,Country Name,Year,GDP
 151,GDP in 2010 dollars ($),Eastern Europe,2015,3125437.0
 151,GDP in 2010 dollars ($),Eastern Europe,2016,3164279.0
 151,GDP in 2010 dollars ($),Eastern Europe,2017,3257826.0
-151,GDP real rates of growth (percent),Eastern Europe,1985,1.6
-151,GDP real rates of growth (percent),Eastern Europe,1995,-1.0
-151,GDP real rates of growth (percent),Eastern Europe,2005,5.6
-151,GDP real rates of growth (percent),Eastern Europe,2010,3.4
-151,GDP real rates of growth (percent),Eastern Europe,2015,-0.3
-151,GDP real rates of growth (percent),Eastern Europe,2016,1.2
-151,GDP real rates of growth (percent),Eastern Europe,2017,3.0
 154,GDP (millions of $),Northern Europe,1985,810121.0
 154,GDP (millions of $),Northern Europe,1995,2164279.0
 154,GDP (millions of $),Northern Europe,2005,3977645.0
@@ -604,13 +458,6 @@ Country ID,Source Data,Country Name,Year,GDP
 154,GDP in 2010 dollars ($),Northern Europe,2015,4749867.0
 154,GDP in 2010 dollars ($),Northern Europe,2016,4852040.0
 154,GDP in 2010 dollars ($),Northern Europe,2017,4967407.0
-154,GDP real rates of growth (percent),Northern Europe,1985,4.0
-154,GDP real rates of growth (percent),Northern Europe,1995,4.0
-154,GDP real rates of growth (percent),Northern Europe,2005,3.2
-154,GDP real rates of growth (percent),Northern Europe,2010,2.1
-154,GDP real rates of growth (percent),Northern Europe,2015,3.7
-154,GDP real rates of growth (percent),Northern Europe,2016,2.2
-154,GDP real rates of growth (percent),Northern Europe,2017,2.4
 39,GDP (millions of $),Southern Europe,1985,783494.0
 39,GDP (millions of $),Southern Europe,1995,2120827.0
 39,GDP (millions of $),Southern Europe,2005,3606052.0
@@ -632,13 +479,6 @@ Country ID,Source Data,Country Name,Year,GDP
 39,GDP in 2010 dollars ($),Southern Europe,2015,4174239.0
 39,GDP in 2010 dollars ($),Southern Europe,2016,4243555.0
 39,GDP in 2010 dollars ($),Southern Europe,2017,4333303.0
-39,GDP real rates of growth (percent),Southern Europe,1985,2.5
-39,GDP real rates of growth (percent),Southern Europe,1995,3.0
-39,GDP real rates of growth (percent),Southern Europe,2005,1.9
-39,GDP real rates of growth (percent),Southern Europe,2010,0.6
-39,GDP real rates of growth (percent),Southern Europe,2015,1.9
-39,GDP real rates of growth (percent),Southern Europe,2016,1.7
-39,GDP real rates of growth (percent),Southern Europe,2017,2.1
 155,GDP (millions of $),Western Europe,1985,1697100.0
 155,GDP (millions of $),Western Europe,1995,5545336.0
 155,GDP (millions of $),Western Europe,2005,6900101.0
@@ -660,13 +500,6 @@ Country ID,Source Data,Country Name,Year,GDP
 155,GDP in 2010 dollars ($),Western Europe,2015,9012149.0
 155,GDP in 2010 dollars ($),Western Europe,2016,9175562.0
 155,GDP in 2010 dollars ($),Western Europe,2017,9377812.0
-155,GDP real rates of growth (percent),Western Europe,1985,2.2
-155,GDP real rates of growth (percent),Western Europe,1995,2.0
-155,GDP real rates of growth (percent),Western Europe,2005,1.5
-155,GDP real rates of growth (percent),Western Europe,2010,2.9
-155,GDP real rates of growth (percent),Western Europe,2015,1.6
-155,GDP real rates of growth (percent),Western Europe,2016,1.8
-155,GDP real rates of growth (percent),Western Europe,2017,2.2
 9,GDP (millions of $),Oceania,1985,214454.0
 9,GDP (millions of $),Oceania,1995,473260.0
 9,GDP (millions of $),Oceania,2005,899792.0
@@ -688,13 +521,6 @@ Country ID,Source Data,Country Name,Year,GDP
 9,GDP in 2010 dollars ($),Oceania,2015,1707081.0
 9,GDP in 2010 dollars ($),Oceania,2016,1742769.0
 9,GDP in 2010 dollars ($),Oceania,2017,1792997.0
-9,GDP real rates of growth (percent),Oceania,1985,3.6
-9,GDP real rates of growth (percent),Oceania,1995,3.9
-9,GDP real rates of growth (percent),Oceania,2005,2.9
-9,GDP real rates of growth (percent),Oceania,2010,2.4
-9,GDP real rates of growth (percent),Oceania,2015,3.0
-9,GDP real rates of growth (percent),Oceania,2016,2.1
-9,GDP real rates of growth (percent),Oceania,2017,2.9
 53,GDP (millions of $),Australia and New Zealand,1985,206320.0
 53,GDP (millions of $),Australia and New Zealand,1995,454246.0
 53,GDP (millions of $),Australia and New Zealand,2005,875117.0
@@ -716,13 +542,6 @@ Country ID,Source Data,Country Name,Year,GDP
 53,GDP in 2010 dollars ($),Australia and New Zealand,2015,1663631.0
 53,GDP in 2010 dollars ($),Australia and New Zealand,2016,1698849.0
 53,GDP in 2010 dollars ($),Australia and New Zealand,2017,1748706.0
-53,GDP real rates of growth (percent),Australia and New Zealand,1985,3.6
-53,GDP real rates of growth (percent),Australia and New Zealand,1995,4.0
-53,GDP real rates of growth (percent),Australia and New Zealand,2005,2.9
-53,GDP real rates of growth (percent),Australia and New Zealand,2010,2.3
-53,GDP real rates of growth (percent),Australia and New Zealand,2015,3.0
-53,GDP real rates of growth (percent),Australia and New Zealand,2016,2.1
-53,GDP real rates of growth (percent),Australia and New Zealand,2017,2.9
 54,GDP (millions of $),Melanesia,1985,5971.0
 54,GDP (millions of $),Melanesia,1995,13533.0
 54,GDP (millions of $),Melanesia,2005,17353.0
@@ -744,13 +563,6 @@ Country ID,Source Data,Country Name,Year,GDP
 54,GDP in 2010 dollars ($),Melanesia,2015,34965.0
 54,GDP in 2010 dollars ($),Melanesia,2016,35245.0
 54,GDP in 2010 dollars ($),Melanesia,2017,35444.0
-54,GDP real rates of growth (percent),Melanesia,1985,2.5
-54,GDP real rates of growth (percent),Melanesia,1995,0.8
-54,GDP real rates of growth (percent),Melanesia,2005,3.6
-54,GDP real rates of growth (percent),Melanesia,2010,8.0
-54,GDP real rates of growth (percent),Melanesia,2015,5.3
-54,GDP real rates of growth (percent),Melanesia,2016,0.8
-54,GDP real rates of growth (percent),Melanesia,2017,0.6
 57,GDP (millions of $),Micronesia,1985,257.0
 57,GDP (millions of $),Micronesia,1995,544.0
 57,GDP (millions of $),Micronesia,2005,718.0
@@ -772,13 +584,6 @@ Country ID,Source Data,Country Name,Year,GDP
 57,GDP in 2010 dollars ($),Micronesia,2015,1050.0
 57,GDP in 2010 dollars ($),Micronesia,2016,1071.0
 57,GDP in 2010 dollars ($),Micronesia,2017,1086.0
-57,GDP real rates of growth (percent),Micronesia,1985,2.4
-57,GDP real rates of growth (percent),Micronesia,1995,3.9
-57,GDP real rates of growth (percent),Micronesia,2005,1.5
-57,GDP real rates of growth (percent),Micronesia,2010,2.8
-57,GDP real rates of growth (percent),Micronesia,2015,5.8
-57,GDP real rates of growth (percent),Micronesia,2016,2.0
-57,GDP real rates of growth (percent),Micronesia,2017,1.4
 61,GDP (millions of $),Polynesia,1985,1906.0
 61,GDP (millions of $),Polynesia,1995,4937.0
 61,GDP (millions of $),Polynesia,2005,6603.0
@@ -800,13 +605,6 @@ Country ID,Source Data,Country Name,Year,GDP
 61,GDP in 2010 dollars ($),Polynesia,2015,7435.0
 61,GDP in 2010 dollars ($),Polynesia,2016,7603.0
 61,GDP in 2010 dollars ($),Polynesia,2017,7762.0
-61,GDP real rates of growth (percent),Polynesia,1985,5.4
-61,GDP real rates of growth (percent),Polynesia,1995,0.8
-61,GDP real rates of growth (percent),Polynesia,2005,1.6
-61,GDP real rates of growth (percent),Polynesia,2010,-1.6
-61,GDP real rates of growth (percent),Polynesia,2015,1.7
-61,GDP real rates of growth (percent),Polynesia,2016,2.3
-61,GDP real rates of growth (percent),Polynesia,2017,2.1
 4,GDP (millions of $),Afghanistan,1985,3322.0
 4,GDP (millions of $),Afghanistan,1995,3236.0
 4,GDP (millions of $),Afghanistan,2005,6622.0
@@ -828,13 +626,6 @@ Country ID,Source Data,Country Name,Year,GDP
 4,GDP in 2010 dollars ($),Afghanistan,2015,20890.0
 4,GDP in 2010 dollars ($),Afghanistan,2016,21634.0
 4,GDP in 2010 dollars ($),Afghanistan,2017,22175.0
-4,GDP real rates of growth (percent),Afghanistan,1985,0.3
-4,GDP real rates of growth (percent),Afghanistan,1995,49.9
-4,GDP real rates of growth (percent),Afghanistan,2005,9.9
-4,GDP real rates of growth (percent),Afghanistan,2010,3.2
-4,GDP real rates of growth (percent),Afghanistan,2015,-1.8
-4,GDP real rates of growth (percent),Afghanistan,2016,3.6
-4,GDP real rates of growth (percent),Afghanistan,2017,2.5
 8,GDP (millions of $),Albania,1985,2324.0
 8,GDP (millions of $),Albania,1995,2393.0
 8,GDP (millions of $),Albania,2005,8052.0
@@ -856,13 +647,6 @@ Country ID,Source Data,Country Name,Year,GDP
 8,GDP in 2010 dollars ($),Albania,2015,13033.0
 8,GDP in 2010 dollars ($),Albania,2016,13470.0
 8,GDP in 2010 dollars ($),Albania,2017,13988.0
-8,GDP real rates of growth (percent),Albania,1985,1.8
-8,GDP real rates of growth (percent),Albania,1995,13.3
-8,GDP real rates of growth (percent),Albania,2005,5.5
-8,GDP real rates of growth (percent),Albania,2010,3.7
-8,GDP real rates of growth (percent),Albania,2015,2.2
-8,GDP real rates of growth (percent),Albania,2016,3.4
-8,GDP real rates of growth (percent),Albania,2017,3.8
 12,GDP (millions of $),Algeria,1985,57866.0
 12,GDP (millions of $),Algeria,1995,41971.0
 12,GDP (millions of $),Algeria,2005,103198.0
@@ -884,13 +668,6 @@ Country ID,Source Data,Country Name,Year,GDP
 12,GDP in 2010 dollars ($),Algeria,2015,189797.0
 12,GDP in 2010 dollars ($),Algeria,2016,195871.0
 12,GDP in 2010 dollars ($),Algeria,2017,198613.0
-12,GDP real rates of growth (percent),Algeria,1985,3.7
-12,GDP real rates of growth (percent),Algeria,1995,3.8
-12,GDP real rates of growth (percent),Algeria,2005,5.9
-12,GDP real rates of growth (percent),Algeria,2010,3.6
-12,GDP real rates of growth (percent),Algeria,2015,3.7
-12,GDP real rates of growth (percent),Algeria,2016,3.2
-12,GDP real rates of growth (percent),Algeria,2017,1.4
 20,GDP (millions of $),Andorra,1985,439.0
 20,GDP (millions of $),Andorra,1995,1491.0
 20,GDP (millions of $),Andorra,2005,3256.0
@@ -912,13 +689,6 @@ Country ID,Source Data,Country Name,Year,GDP
 20,GDP in 2010 dollars ($),Andorra,2015,3258.0
 20,GDP in 2010 dollars ($),Andorra,2016,3320.0
 20,GDP in 2010 dollars ($),Andorra,2017,3377.0
-20,GDP real rates of growth (percent),Andorra,1985,2.3
-20,GDP real rates of growth (percent),Andorra,1995,2.8
-20,GDP real rates of growth (percent),Andorra,2005,7.4
-20,GDP real rates of growth (percent),Andorra,2010,-5.4
-20,GDP real rates of growth (percent),Andorra,2015,0.8
-20,GDP real rates of growth (percent),Andorra,2016,1.9
-20,GDP real rates of growth (percent),Andorra,2017,1.7
 24,GDP (millions of $),Angola,1985,9109.0
 24,GDP (millions of $),Angola,1995,6642.0
 24,GDP (millions of $),Angola,2005,36971.0
@@ -940,13 +710,6 @@ Country ID,Source Data,Country Name,Year,GDP
 24,GDP in 2010 dollars ($),Angola,2015,104520.0
 24,GDP in 2010 dollars ($),Angola,2016,101823.0
 24,GDP in 2010 dollars ($),Angola,2017,99277.0
-24,GDP real rates of growth (percent),Angola,1985,3.5
-24,GDP real rates of growth (percent),Angola,1995,15.0
-24,GDP real rates of growth (percent),Angola,2005,15.0
-24,GDP real rates of growth (percent),Angola,2010,4.9
-24,GDP real rates of growth (percent),Angola,2015,0.9
-24,GDP real rates of growth (percent),Angola,2016,-2.6
-24,GDP real rates of growth (percent),Angola,2017,-2.5
 660,GDP (millions of $),Anguilla,1985,27.0
 660,GDP (millions of $),Anguilla,1995,104.0
 660,GDP (millions of $),Anguilla,2005,229.0
@@ -968,13 +731,6 @@ Country ID,Source Data,Country Name,Year,GDP
 660,GDP in 2010 dollars ($),Anguilla,2015,281.0
 660,GDP in 2010 dollars ($),Anguilla,2016,277.0
 660,GDP in 2010 dollars ($),Anguilla,2017,256.0
-660,GDP real rates of growth (percent),Anguilla,1985,12.9
-660,GDP real rates of growth (percent),Anguilla,1995,-2.3
-660,GDP real rates of growth (percent),Anguilla,2005,13.1
-660,GDP real rates of growth (percent),Anguilla,2010,-4.5
-660,GDP real rates of growth (percent),Anguilla,2015,3.1
-660,GDP real rates of growth (percent),Anguilla,2016,-1.3
-660,GDP real rates of growth (percent),Anguilla,2017,-7.7
 28,GDP (millions of $),Antigua and Barbuda,1985,245.0
 28,GDP (millions of $),Antigua and Barbuda,1995,577.0
 28,GDP (millions of $),Antigua and Barbuda,2005,1022.0
@@ -996,13 +752,6 @@ Country ID,Source Data,Country Name,Year,GDP
 28,GDP in 2010 dollars ($),Antigua and Barbuda,2015,1270.0
 28,GDP in 2010 dollars ($),Antigua and Barbuda,2016,1341.0
 28,GDP in 2010 dollars ($),Antigua and Barbuda,2017,1382.0
-28,GDP real rates of growth (percent),Antigua and Barbuda,1985,7.7
-28,GDP real rates of growth (percent),Antigua and Barbuda,1995,-4.4
-28,GDP real rates of growth (percent),Antigua and Barbuda,2005,6.4
-28,GDP real rates of growth (percent),Antigua and Barbuda,2010,-7.2
-28,GDP real rates of growth (percent),Antigua and Barbuda,2015,4.0
-28,GDP real rates of growth (percent),Antigua and Barbuda,2016,5.6
-28,GDP real rates of growth (percent),Antigua and Barbuda,2017,3.0
 32,GDP (millions of $),Argentina,1985,95530.0
 32,GDP (millions of $),Argentina,1995,279701.0
 32,GDP (millions of $),Argentina,2005,200622.0
@@ -1024,13 +773,6 @@ Country ID,Source Data,Country Name,Year,GDP
 32,GDP in 2010 dollars ($),Argentina,2015,458903.0
 32,GDP in 2010 dollars ($),Argentina,2016,450539.0
 32,GDP in 2010 dollars ($),Argentina,2017,463442.0
-32,GDP real rates of growth (percent),Argentina,1985,-7.0
-32,GDP real rates of growth (percent),Argentina,1995,-2.8
-32,GDP real rates of growth (percent),Argentina,2005,8.9
-32,GDP real rates of growth (percent),Argentina,2010,10.1
-32,GDP real rates of growth (percent),Argentina,2015,2.7
-32,GDP real rates of growth (percent),Argentina,2016,-1.8
-32,GDP real rates of growth (percent),Argentina,2017,2.9
 51,GDP (millions of $),Armenia,1995,1372.0
 51,GDP (millions of $),Armenia,2005,5226.0
 51,GDP (millions of $),Armenia,2010,9875.0
@@ -1049,12 +791,6 @@ Country ID,Source Data,Country Name,Year,GDP
 51,GDP in 2010 dollars ($),Armenia,2015,12236.0
 51,GDP in 2010 dollars ($),Armenia,2016,12257.0
 51,GDP in 2010 dollars ($),Armenia,2017,13175.0
-51,GDP real rates of growth (percent),Armenia,1995,6.9
-51,GDP real rates of growth (percent),Armenia,2005,13.9
-51,GDP real rates of growth (percent),Armenia,2010,2.2
-51,GDP real rates of growth (percent),Armenia,2015,3.2
-51,GDP real rates of growth (percent),Armenia,2016,0.2
-51,GDP real rates of growth (percent),Armenia,2017,7.5
 533,GDP (millions of $),Aruba,1985,385.0
 533,GDP (millions of $),Aruba,1995,1321.0
 533,GDP (millions of $),Aruba,2005,2331.0
@@ -1076,13 +812,6 @@ Country ID,Source Data,Country Name,Year,GDP
 533,GDP in 2010 dollars ($),Aruba,2015,2554.0
 533,GDP in 2010 dollars ($),Aruba,2016,2548.0
 533,GDP in 2010 dollars ($),Aruba,2017,2582.0
-533,GDP real rates of growth (percent),Aruba,1985,9.1
-533,GDP real rates of growth (percent),Aruba,1995,2.5
-533,GDP real rates of growth (percent),Aruba,2005,1.2
-533,GDP real rates of growth (percent),Aruba,2010,-3.4
-533,GDP real rates of growth (percent),Aruba,2015,-0.5
-533,GDP real rates of growth (percent),Aruba,2016,-0.2
-533,GDP real rates of growth (percent),Aruba,2017,1.3
 36,GDP (millions of $),Australia,1985,182212.0
 36,GDP (millions of $),Australia,1995,391094.0
 36,GDP (millions of $),Australia,2005,760397.0
@@ -1104,13 +833,6 @@ Country ID,Source Data,Country Name,Year,GDP
 36,GDP in 2010 dollars ($),Australia,2015,1493121.0
 36,GDP in 2010 dollars ($),Australia,2016,1522350.0
 36,GDP in 2010 dollars ($),Australia,2017,1567225.0
-36,GDP real rates of growth (percent),Australia,1985,3.9
-36,GDP real rates of growth (percent),Australia,1995,3.9
-36,GDP real rates of growth (percent),Australia,2005,2.8
-36,GDP real rates of growth (percent),Australia,2010,2.5
-36,GDP real rates of growth (percent),Australia,2015,2.8
-36,GDP real rates of growth (percent),Australia,2016,2.0
-36,GDP real rates of growth (percent),Australia,2017,2.9
 40,GDP (millions of $),Austria,1985,69388.0
 40,GDP (millions of $),Austria,1995,241054.0
 40,GDP (millions of $),Austria,2005,315967.0
@@ -1132,13 +854,6 @@ Country ID,Source Data,Country Name,Year,GDP
 40,GDP in 2010 dollars ($),Austria,2015,413555.0
 40,GDP in 2010 dollars ($),Austria,2016,421989.0
 40,GDP in 2010 dollars ($),Austria,2017,432754.0
-40,GDP real rates of growth (percent),Austria,1985,2.5
-40,GDP real rates of growth (percent),Austria,1995,2.7
-40,GDP real rates of growth (percent),Austria,2005,2.2
-40,GDP real rates of growth (percent),Austria,2010,1.8
-40,GDP real rates of growth (percent),Austria,2015,1.1
-40,GDP real rates of growth (percent),Austria,2016,2.0
-40,GDP real rates of growth (percent),Austria,2017,2.6
 31,GDP (millions of $),Azerbaijan,1995,3081.0
 31,GDP (millions of $),Azerbaijan,2005,13245.0
 31,GDP (millions of $),Azerbaijan,2010,52906.0
@@ -1157,12 +872,6 @@ Country ID,Source Data,Country Name,Year,GDP
 31,GDP in 2010 dollars ($),Azerbaijan,2015,58515.0
 31,GDP in 2010 dollars ($),Azerbaijan,2016,56722.0
 31,GDP in 2010 dollars ($),Azerbaijan,2017,56782.0
-31,GDP real rates of growth (percent),Azerbaijan,1995,-11.8
-31,GDP real rates of growth (percent),Azerbaijan,2005,28.0
-31,GDP real rates of growth (percent),Azerbaijan,2010,4.8
-31,GDP real rates of growth (percent),Azerbaijan,2015,1.0
-31,GDP real rates of growth (percent),Azerbaijan,2016,-3.1
-31,GDP real rates of growth (percent),Azerbaijan,2017,0.1
 44,GDP (millions of $),Bahamas,1985,2880.0
 44,GDP (millions of $),Bahamas,1995,5117.0
 44,GDP (millions of $),Bahamas,2005,9836.0
@@ -1184,13 +893,6 @@ Country ID,Source Data,Country Name,Year,GDP
 44,GDP in 2010 dollars ($),Bahamas,2015,9967.0
 44,GDP in 2010 dollars ($),Bahamas,2016,9983.0
 44,GDP in 2010 dollars ($),Bahamas,2017,10163.0
-44,GDP real rates of growth (percent),Bahamas,1985,4.8
-44,GDP real rates of growth (percent),Bahamas,1995,4.4
-44,GDP real rates of growth (percent),Bahamas,2005,3.4
-44,GDP real rates of growth (percent),Bahamas,2010,1.5
-44,GDP real rates of growth (percent),Bahamas,2015,-3.1
-44,GDP real rates of growth (percent),Bahamas,2016,0.2
-44,GDP real rates of growth (percent),Bahamas,2017,1.8
 48,GDP (millions of $),Bahrain,1985,4475.0
 48,GDP (millions of $),Bahrain,1995,6787.0
 48,GDP (millions of $),Bahrain,2005,15969.0
@@ -1212,13 +914,6 @@ Country ID,Source Data,Country Name,Year,GDP
 48,GDP in 2010 dollars ($),Bahrain,2015,30781.0
 48,GDP in 2010 dollars ($),Bahrain,2016,31843.0
 48,GDP in 2010 dollars ($),Bahrain,2017,33039.0
-48,GDP real rates of growth (percent),Bahrain,1985,-16.1
-48,GDP real rates of growth (percent),Bahrain,1995,1.9
-48,GDP real rates of growth (percent),Bahrain,2005,6.8
-48,GDP real rates of growth (percent),Bahrain,2010,4.3
-48,GDP real rates of growth (percent),Bahrain,2015,2.9
-48,GDP real rates of growth (percent),Bahrain,2016,3.5
-48,GDP real rates of growth (percent),Bahrain,2017,3.8
 50,GDP (millions of $),Bangladesh,1985,19169.0
 50,GDP (millions of $),Bangladesh,1995,37866.0
 50,GDP (millions of $),Bangladesh,2005,57628.0
@@ -1240,13 +935,6 @@ Country ID,Source Data,Country Name,Year,GDP
 50,GDP in 2010 dollars ($),Bangladesh,2015,155582.0
 50,GDP in 2010 dollars ($),Bangladesh,2016,166649.0
 50,GDP in 2010 dollars ($),Bangladesh,2017,178788.0
-50,GDP real rates of growth (percent),Bangladesh,1985,3.0
-50,GDP real rates of growth (percent),Bangladesh,1995,4.9
-50,GDP real rates of growth (percent),Bangladesh,2005,6.0
-50,GDP real rates of growth (percent),Bangladesh,2010,5.6
-50,GDP real rates of growth (percent),Bangladesh,2015,6.6
-50,GDP real rates of growth (percent),Bangladesh,2016,7.1
-50,GDP real rates of growth (percent),Bangladesh,2017,7.3
 52,GDP (millions of $),Barbados,1985,1425.0
 52,GDP (millions of $),Barbados,1995,2275.0
 52,GDP (millions of $),Barbados,2005,3897.0
@@ -1268,13 +956,6 @@ Country ID,Source Data,Country Name,Year,GDP
 52,GDP in 2010 dollars ($),Barbados,2015,4448.0
 52,GDP in 2010 dollars ($),Barbados,2016,4521.0
 52,GDP in 2010 dollars ($),Barbados,2017,4561.0
-52,GDP real rates of growth (percent),Barbados,1985,1.1
-52,GDP real rates of growth (percent),Barbados,1995,2.0
-52,GDP real rates of growth (percent),Barbados,2005,4.0
-52,GDP real rates of growth (percent),Barbados,2010,0.3
-52,GDP real rates of growth (percent),Barbados,2015,0.9
-52,GDP real rates of growth (percent),Barbados,2016,1.6
-52,GDP real rates of growth (percent),Barbados,2017,0.9
 112,GDP (millions of $),Belarus,1995,14324.0
 112,GDP (millions of $),Belarus,2005,31232.0
 112,GDP (millions of $),Belarus,2010,57232.0
@@ -1293,12 +974,6 @@ Country ID,Source Data,Country Name,Year,GDP
 112,GDP in 2010 dollars ($),Belarus,2015,60712.0
 112,GDP in 2010 dollars ($),Belarus,2016,59216.0
 112,GDP in 2010 dollars ($),Belarus,2017,60667.0
-112,GDP real rates of growth (percent),Belarus,1995,-10.4
-112,GDP real rates of growth (percent),Belarus,2005,9.4
-112,GDP real rates of growth (percent),Belarus,2010,7.8
-112,GDP real rates of growth (percent),Belarus,2015,-3.8
-112,GDP real rates of growth (percent),Belarus,2016,-2.5
-112,GDP real rates of growth (percent),Belarus,2017,2.4
 56,GDP (millions of $),Belgium,1985,86728.0
 56,GDP (millions of $),Belgium,1995,289571.0
 56,GDP (millions of $),Belgium,2005,387356.0
@@ -1320,13 +995,6 @@ Country ID,Source Data,Country Name,Year,GDP
 56,GDP in 2010 dollars ($),Belgium,2015,509186.0
 56,GDP in 2010 dollars ($),Belgium,2016,516766.0
 56,GDP in 2010 dollars ($),Belgium,2017,525514.0
-56,GDP real rates of growth (percent),Belgium,1985,1.7
-56,GDP real rates of growth (percent),Belgium,1995,2.4
-56,GDP real rates of growth (percent),Belgium,2005,2.1
-56,GDP real rates of growth (percent),Belgium,2010,2.7
-56,GDP real rates of growth (percent),Belgium,2015,1.7
-56,GDP real rates of growth (percent),Belgium,2016,1.5
-56,GDP real rates of growth (percent),Belgium,2017,1.7
 84,GDP (millions of $),Belize,1985,209.0
 84,GDP (millions of $),Belize,1995,587.0
 84,GDP (millions of $),Belize,2005,1114.0
@@ -1348,13 +1016,6 @@ Country ID,Source Data,Country Name,Year,GDP
 84,GDP in 2010 dollars ($),Belize,2015,1611.0
 84,GDP in 2010 dollars ($),Belize,2016,1603.0
 84,GDP in 2010 dollars ($),Belize,2017,1610.0
-84,GDP real rates of growth (percent),Belize,1985,1.0
-84,GDP real rates of growth (percent),Belize,1995,4.2
-84,GDP real rates of growth (percent),Belize,2005,3.0
-84,GDP real rates of growth (percent),Belize,2010,3.3
-84,GDP real rates of growth (percent),Belize,2015,3.8
-84,GDP real rates of growth (percent),Belize,2016,-0.5
-84,GDP real rates of growth (percent),Belize,2017,0.5
 204,GDP (millions of $),Benin,1985,1130.0
 204,GDP (millions of $),Benin,1995,2345.0
 204,GDP (millions of $),Benin,2005,4804.0
@@ -1376,13 +1037,6 @@ Country ID,Source Data,Country Name,Year,GDP
 204,GDP in 2010 dollars ($),Benin,2015,9108.0
 204,GDP in 2010 dollars ($),Benin,2016,9563.0
 204,GDP in 2010 dollars ($),Benin,2017,10041.0
-204,GDP real rates of growth (percent),Benin,1985,7.5
-204,GDP real rates of growth (percent),Benin,1995,10.1
-204,GDP real rates of growth (percent),Benin,2005,1.7
-204,GDP real rates of growth (percent),Benin,2010,2.1
-204,GDP real rates of growth (percent),Benin,2015,6.5
-204,GDP real rates of growth (percent),Benin,2016,5.0
-204,GDP real rates of growth (percent),Benin,2017,5.0
 60,GDP (millions of $),Bermuda,1985,1428.0
 60,GDP (millions of $),Bermuda,1995,2557.0
 60,GDP (millions of $),Bermuda,2005,4868.0
@@ -1404,13 +1058,6 @@ Country ID,Source Data,Country Name,Year,GDP
 60,GDP in 2010 dollars ($),Bermuda,2015,5244.0
 60,GDP in 2010 dollars ($),Bermuda,2016,5238.0
 60,GDP in 2010 dollars ($),Bermuda,2017,5369.0
-60,GDP real rates of growth (percent),Bermuda,1985,4.2
-60,GDP real rates of growth (percent),Bermuda,1995,5.4
-60,GDP real rates of growth (percent),Bermuda,2005,1.7
-60,GDP real rates of growth (percent),Bermuda,2010,-2.5
-60,GDP real rates of growth (percent),Bermuda,2015,0.4
-60,GDP real rates of growth (percent),Bermuda,2016,-0.1
-60,GDP real rates of growth (percent),Bermuda,2017,2.5
 64,GDP (millions of $),Bhutan,1985,172.0
 64,GDP (millions of $),Bhutan,1995,289.0
 64,GDP (millions of $),Bhutan,2005,819.0
@@ -1432,13 +1079,6 @@ Country ID,Source Data,Country Name,Year,GDP
 64,GDP in 2010 dollars ($),Bhutan,2015,2069.0
 64,GDP in 2010 dollars ($),Bhutan,2016,2235.0
 64,GDP in 2010 dollars ($),Bhutan,2017,2369.0
-64,GDP real rates of growth (percent),Bhutan,1985,5.7
-64,GDP real rates of growth (percent),Bhutan,1995,6.8
-64,GDP real rates of growth (percent),Bhutan,2005,7.1
-64,GDP real rates of growth (percent),Bhutan,2010,11.7
-64,GDP real rates of growth (percent),Bhutan,2015,6.6
-64,GDP real rates of growth (percent),Bhutan,2016,8.0
-64,GDP real rates of growth (percent),Bhutan,2017,6.0
 68,GDP (millions of $),Bolivia (Plurin. State of),1985,4122.0
 68,GDP (millions of $),Bolivia (Plurin. State of),1995,6715.0
 68,GDP (millions of $),Bolivia (Plurin. State of),2005,9549.0
@@ -1460,13 +1100,6 @@ Country ID,Source Data,Country Name,Year,GDP
 68,GDP in 2010 dollars ($),Bolivia (Plurin. State of),2015,25664.0
 68,GDP in 2010 dollars ($),Bolivia (Plurin. State of),2016,26759.0
 68,GDP in 2010 dollars ($),Bolivia (Plurin. State of),2017,27881.0
-68,GDP real rates of growth (percent),Bolivia (Plurin. State of),1985,-1.0
-68,GDP real rates of growth (percent),Bolivia (Plurin. State of),1995,4.7
-68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2005,4.4
-68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2010,4.1
-68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2015,4.9
-68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2016,4.3
-68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2017,4.2
 70,GDP (millions of $),Bosnia and Herzegovina,1995,2034.0
 70,GDP (millions of $),Bosnia and Herzegovina,2005,11223.0
 70,GDP (millions of $),Bosnia and Herzegovina,2010,17176.0
@@ -1485,12 +1118,6 @@ Country ID,Source Data,Country Name,Year,GDP
 70,GDP in 2010 dollars ($),Bosnia and Herzegovina,2015,18351.0
 70,GDP in 2010 dollars ($),Bosnia and Herzegovina,2016,18928.0
 70,GDP in 2010 dollars ($),Bosnia and Herzegovina,2017,19502.0
-70,GDP real rates of growth (percent),Bosnia and Herzegovina,1995,20.8
-70,GDP real rates of growth (percent),Bosnia and Herzegovina,2005,3.9
-70,GDP real rates of growth (percent),Bosnia and Herzegovina,2010,0.9
-70,GDP real rates of growth (percent),Bosnia and Herzegovina,2015,3.1
-70,GDP real rates of growth (percent),Bosnia and Herzegovina,2016,3.1
-70,GDP real rates of growth (percent),Bosnia and Herzegovina,2017,3.0
 72,GDP (millions of $),Botswana,1985,838.0
 72,GDP (millions of $),Botswana,1995,4731.0
 72,GDP (millions of $),Botswana,2005,9931.0
@@ -1512,13 +1139,6 @@ Country ID,Source Data,Country Name,Year,GDP
 72,GDP in 2010 dollars ($),Botswana,2015,16146.0
 72,GDP in 2010 dollars ($),Botswana,2016,16843.0
 72,GDP in 2010 dollars ($),Botswana,2017,17241.0
-72,GDP real rates of growth (percent),Botswana,1985,9.2
-72,GDP real rates of growth (percent),Botswana,1995,7.0
-72,GDP real rates of growth (percent),Botswana,2005,4.6
-72,GDP real rates of growth (percent),Botswana,2010,8.6
-72,GDP real rates of growth (percent),Botswana,2015,-1.7
-72,GDP real rates of growth (percent),Botswana,2016,4.3
-72,GDP real rates of growth (percent),Botswana,2017,2.4
 76,GDP (millions of $),Brazil,1985,187460.0
 76,GDP (millions of $),Brazil,1995,778053.0
 76,GDP (millions of $),Brazil,2005,891634.0
@@ -1540,13 +1160,6 @@ Country ID,Source Data,Country Name,Year,GDP
 76,GDP in 2010 dollars ($),Brazil,2015,2331897.0
 76,GDP in 2010 dollars ($),Brazil,2016,2251150.0
 76,GDP in 2010 dollars ($),Brazil,2017,2273334.0
-76,GDP real rates of growth (percent),Brazil,1985,7.8
-76,GDP real rates of growth (percent),Brazil,1995,4.2
-76,GDP real rates of growth (percent),Brazil,2005,3.2
-76,GDP real rates of growth (percent),Brazil,2010,7.5
-76,GDP real rates of growth (percent),Brazil,2015,-3.8
-76,GDP real rates of growth (percent),Brazil,2016,-3.5
-76,GDP real rates of growth (percent),Brazil,2017,1.0
 92,GDP (millions of $),British Virgin Islands,1985,45.0
 92,GDP (millions of $),British Virgin Islands,1995,389.0
 92,GDP (millions of $),British Virgin Islands,2005,853.0
@@ -1568,13 +1181,6 @@ Country ID,Source Data,Country Name,Year,GDP
 92,GDP in 2010 dollars ($),British Virgin Islands,2015,889.0
 92,GDP in 2010 dollars ($),British Virgin Islands,2016,892.0
 92,GDP in 2010 dollars ($),British Virgin Islands,2017,897.0
-92,GDP real rates of growth (percent),British Virgin Islands,1985,1.4
-92,GDP real rates of growth (percent),British Virgin Islands,1995,24.1
-92,GDP real rates of growth (percent),British Virgin Islands,2005,15.5
-92,GDP real rates of growth (percent),British Virgin Islands,2010,-0.1
-92,GDP real rates of growth (percent),British Virgin Islands,2015,0.3
-92,GDP real rates of growth (percent),British Virgin Islands,2016,0.3
-92,GDP real rates of growth (percent),British Virgin Islands,2017,0.5
 96,GDP (millions of $),Brunei Darussalam,1985,4425.0
 96,GDP (millions of $),Brunei Darussalam,1995,5245.0
 96,GDP (millions of $),Brunei Darussalam,2005,10561.0
@@ -1596,13 +1202,6 @@ Country ID,Source Data,Country Name,Year,GDP
 96,GDP in 2010 dollars ($),Brunei Darussalam,2015,13639.0
 96,GDP in 2010 dollars ($),Brunei Darussalam,2016,13301.0
 96,GDP in 2010 dollars ($),Brunei Darussalam,2017,13478.0
-96,GDP real rates of growth (percent),Brunei Darussalam,1985,-1.5
-96,GDP real rates of growth (percent),Brunei Darussalam,1995,4.5
-96,GDP real rates of growth (percent),Brunei Darussalam,2005,0.4
-96,GDP real rates of growth (percent),Brunei Darussalam,2010,2.6
-96,GDP real rates of growth (percent),Brunei Darussalam,2015,-0.4
-96,GDP real rates of growth (percent),Brunei Darussalam,2016,-2.5
-96,GDP real rates of growth (percent),Brunei Darussalam,2017,1.3
 100,GDP (millions of $),Bulgaria,1985,16486.0
 100,GDP (millions of $),Bulgaria,1995,14433.0
 100,GDP (millions of $),Bulgaria,2005,29636.0
@@ -1624,13 +1223,6 @@ Country ID,Source Data,Country Name,Year,GDP
 100,GDP in 2010 dollars ($),Bulgaria,2015,54636.0
 100,GDP in 2010 dollars ($),Bulgaria,2016,56787.0
 100,GDP in 2010 dollars ($),Bulgaria,2017,58951.0
-100,GDP real rates of growth (percent),Bulgaria,1985,2.7
-100,GDP real rates of growth (percent),Bulgaria,1995,2.9
-100,GDP real rates of growth (percent),Bulgaria,2005,7.1
-100,GDP real rates of growth (percent),Bulgaria,2010,1.3
-100,GDP real rates of growth (percent),Bulgaria,2015,3.5
-100,GDP real rates of growth (percent),Bulgaria,2016,3.9
-100,GDP real rates of growth (percent),Bulgaria,2017,3.8
 854,GDP (millions of $),Burkina Faso,1985,1569.0
 854,GDP (millions of $),Burkina Faso,1995,2404.0
 854,GDP (millions of $),Burkina Faso,2005,5463.0
@@ -1652,13 +1244,6 @@ Country ID,Source Data,Country Name,Year,GDP
 854,GDP in 2010 dollars ($),Burkina Faso,2015,11688.0
 854,GDP in 2010 dollars ($),Burkina Faso,2016,12379.0
 854,GDP in 2010 dollars ($),Burkina Faso,2017,13162.0
-854,GDP real rates of growth (percent),Burkina Faso,1985,8.5
-854,GDP real rates of growth (percent),Burkina Faso,1995,5.7
-854,GDP real rates of growth (percent),Burkina Faso,2005,8.7
-854,GDP real rates of growth (percent),Burkina Faso,2010,8.4
-854,GDP real rates of growth (percent),Burkina Faso,2015,3.9
-854,GDP real rates of growth (percent),Burkina Faso,2016,5.9
-854,GDP real rates of growth (percent),Burkina Faso,2017,6.3
 108,GDP (millions of $),Burundi,1985,1171.0
 108,GDP (millions of $),Burundi,1995,1000.0
 108,GDP (millions of $),Burundi,2005,1117.0
@@ -1680,13 +1265,6 @@ Country ID,Source Data,Country Name,Year,GDP
 108,GDP in 2010 dollars ($),Burundi,2015,2404.0
 108,GDP in 2010 dollars ($),Burundi,2016,2472.0
 108,GDP in 2010 dollars ($),Burundi,2017,2472.0
-108,GDP real rates of growth (percent),Burundi,1985,11.7
-108,GDP real rates of growth (percent),Burundi,1995,-7.0
-108,GDP real rates of growth (percent),Burundi,2005,0.9
-108,GDP real rates of growth (percent),Burundi,2010,5.1
-108,GDP real rates of growth (percent),Burundi,2015,-0.4
-108,GDP real rates of growth (percent),Burundi,2016,2.8
-108,GDP real rates of growth (percent),Burundi,2017,0.0
 132,GDP (millions of $),Cabo Verde,1985,157.0
 132,GDP (millions of $),Cabo Verde,1995,558.0
 132,GDP (millions of $),Cabo Verde,2005,1105.0
@@ -1708,13 +1286,6 @@ Country ID,Source Data,Country Name,Year,GDP
 132,GDP in 2010 dollars ($),Cabo Verde,2015,1792.0
 132,GDP in 2010 dollars ($),Cabo Verde,2016,1876.0
 132,GDP in 2010 dollars ($),Cabo Verde,2017,1951.0
-132,GDP real rates of growth (percent),Cabo Verde,1985,8.6
-132,GDP real rates of growth (percent),Cabo Verde,1995,7.5
-132,GDP real rates of growth (percent),Cabo Verde,2005,6.5
-132,GDP real rates of growth (percent),Cabo Verde,2010,1.5
-132,GDP real rates of growth (percent),Cabo Verde,2015,1.0
-132,GDP real rates of growth (percent),Cabo Verde,2016,4.7
-132,GDP real rates of growth (percent),Cabo Verde,2017,4.0
 116,GDP (millions of $),Cambodia,1985,1059.0
 116,GDP (millions of $),Cambodia,1995,3309.0
 116,GDP (millions of $),Cambodia,2005,6293.0
@@ -1736,13 +1307,6 @@ Country ID,Source Data,Country Name,Year,GDP
 116,GDP in 2010 dollars ($),Cambodia,2015,15904.0
 116,GDP in 2010 dollars ($),Cambodia,2016,16998.0
 116,GDP in 2010 dollars ($),Cambodia,2017,18189.0
-116,GDP real rates of growth (percent),Cambodia,1985,4.7
-116,GDP real rates of growth (percent),Cambodia,1995,5.9
-116,GDP real rates of growth (percent),Cambodia,2005,13.2
-116,GDP real rates of growth (percent),Cambodia,2010,6.0
-116,GDP real rates of growth (percent),Cambodia,2015,7.0
-116,GDP real rates of growth (percent),Cambodia,2016,6.9
-116,GDP real rates of growth (percent),Cambodia,2017,7.0
 120,GDP (millions of $),Cameroon,1985,9597.0
 120,GDP (millions of $),Cameroon,1995,9641.0
 120,GDP (millions of $),Cameroon,2005,17944.0
@@ -1764,13 +1328,6 @@ Country ID,Source Data,Country Name,Year,GDP
 120,GDP in 2010 dollars ($),Cameroon,2015,33558.0
 120,GDP in 2010 dollars ($),Cameroon,2016,35118.0
 120,GDP in 2010 dollars ($),Cameroon,2017,36365.0
-120,GDP real rates of growth (percent),Cameroon,1985,2.4
-120,GDP real rates of growth (percent),Cameroon,1995,3.5
-120,GDP real rates of growth (percent),Cameroon,2005,2.0
-120,GDP real rates of growth (percent),Cameroon,2010,3.4
-120,GDP real rates of growth (percent),Cameroon,2015,5.7
-120,GDP real rates of growth (percent),Cameroon,2016,4.6
-120,GDP real rates of growth (percent),Cameroon,2017,3.5
 124,GDP (millions of $),Canada,1985,364761.0
 124,GDP (millions of $),Canada,1995,604014.0
 124,GDP (millions of $),Canada,2005,1169393.0
@@ -1792,13 +1349,6 @@ Country ID,Source Data,Country Name,Year,GDP
 124,GDP in 2010 dollars ($),Canada,2015,1802512.0
 124,GDP in 2010 dollars ($),Canada,2016,1828001.0
 124,GDP in 2010 dollars ($),Canada,2017,1883707.0
-124,GDP real rates of growth (percent),Canada,1985,4.7
-124,GDP real rates of growth (percent),Canada,1995,2.7
-124,GDP real rates of growth (percent),Canada,2005,3.2
-124,GDP real rates of growth (percent),Canada,2010,3.1
-124,GDP real rates of growth (percent),Canada,2015,1.0
-124,GDP real rates of growth (percent),Canada,2016,1.4
-124,GDP real rates of growth (percent),Canada,2017,3.0
 136,GDP (millions of $),Cayman Islands,1985,416.0
 136,GDP (millions of $),Cayman Islands,1995,1296.0
 136,GDP (millions of $),Cayman Islands,2005,3042.0
@@ -1820,13 +1370,6 @@ Country ID,Source Data,Country Name,Year,GDP
 136,GDP in 2010 dollars ($),Cayman Islands,2015,3577.0
 136,GDP in 2010 dollars ($),Cayman Islands,2016,3704.0
 136,GDP in 2010 dollars ($),Cayman Islands,2017,3789.0
-136,GDP real rates of growth (percent),Cayman Islands,1985,3.5
-136,GDP real rates of growth (percent),Cayman Islands,1995,4.8
-136,GDP real rates of growth (percent),Cayman Islands,2005,6.5
-136,GDP real rates of growth (percent),Cayman Islands,2010,-2.7
-136,GDP real rates of growth (percent),Cayman Islands,2015,2.8
-136,GDP real rates of growth (percent),Cayman Islands,2016,3.5
-136,GDP real rates of growth (percent),Cayman Islands,2017,2.3
 140,GDP (millions of $),Central African Republic,1985,905.0
 140,GDP (millions of $),Central African Republic,1995,1167.0
 140,GDP (millions of $),Central African Republic,2005,1413.0
@@ -1848,13 +1391,6 @@ Country ID,Source Data,Country Name,Year,GDP
 140,GDP in 2010 dollars ($),Central African Republic,2015,1431.0
 140,GDP in 2010 dollars ($),Central African Republic,2016,1496.0
 140,GDP in 2010 dollars ($),Central African Republic,2017,1561.0
-140,GDP real rates of growth (percent),Central African Republic,1985,3.3
-140,GDP real rates of growth (percent),Central African Republic,1995,5.2
-140,GDP real rates of growth (percent),Central African Republic,2005,2.4
-140,GDP real rates of growth (percent),Central African Republic,2010,3.6
-140,GDP real rates of growth (percent),Central African Republic,2015,4.8
-140,GDP real rates of growth (percent),Central African Republic,2016,4.5
-140,GDP real rates of growth (percent),Central African Republic,2017,4.3
 148,GDP (millions of $),Chad,1985,987.0
 148,GDP (millions of $),Chad,1995,1643.0
 148,GDP (millions of $),Chad,2005,6681.0
@@ -1876,13 +1412,6 @@ Country ID,Source Data,Country Name,Year,GDP
 148,GDP in 2010 dollars ($),Chad,2015,13101.0
 148,GDP in 2010 dollars ($),Chad,2016,12747.0
 148,GDP in 2010 dollars ($),Chad,2017,12346.0
-148,GDP real rates of growth (percent),Chad,1985,7.9
-148,GDP real rates of growth (percent),Chad,1995,1.4
-148,GDP real rates of growth (percent),Chad,2005,7.9
-148,GDP real rates of growth (percent),Chad,2010,15.0
-148,GDP real rates of growth (percent),Chad,2015,3.8
-148,GDP real rates of growth (percent),Chad,2016,-2.7
-148,GDP real rates of growth (percent),Chad,2017,-3.1
 152,GDP (millions of $),Chile,1985,18985.0
 152,GDP (millions of $),Chile,1995,75099.0
 152,GDP (millions of $),Chile,2005,122965.0
@@ -1904,13 +1433,6 @@ Country ID,Source Data,Country Name,Year,GDP
 152,GDP in 2010 dollars ($),Chile,2015,264555.0
 152,GDP in 2010 dollars ($),Chile,2016,267904.0
 152,GDP in 2010 dollars ($),Chile,2017,271896.0
-152,GDP real rates of growth (percent),Chile,1985,2.0
-152,GDP real rates of growth (percent),Chile,1995,10.6
-152,GDP real rates of growth (percent),Chile,2005,6.2
-152,GDP real rates of growth (percent),Chile,2010,5.8
-152,GDP real rates of growth (percent),Chile,2015,2.3
-152,GDP real rates of growth (percent),Chile,2016,1.3
-152,GDP real rates of growth (percent),Chile,2017,1.5
 156,GDP (millions of $),China,1985,309839.0
 156,GDP (millions of $),China,1995,734485.0
 156,GDP (millions of $),China,2005,2285960.0
@@ -1932,13 +1454,6 @@ Country ID,Source Data,Country Name,Year,GDP
 156,GDP in 2010 dollars ($),China,2015,8908435.0
 156,GDP in 2010 dollars ($),China,2016,9507063.0
 156,GDP in 2010 dollars ($),China,2017,10158897.0
-156,GDP real rates of growth (percent),China,1985,13.4
-156,GDP real rates of growth (percent),China,1995,11.0
-156,GDP real rates of growth (percent),China,2005,11.4
-156,GDP real rates of growth (percent),China,2010,10.6
-156,GDP real rates of growth (percent),China,2015,6.9
-156,GDP real rates of growth (percent),China,2016,6.7
-156,GDP real rates of growth (percent),China,2017,6.9
 344,GDP (millions of $),"China, Hong Kong SAR",1985,35700.0
 344,GDP (millions of $),"China, Hong Kong SAR",1995,144652.0
 344,GDP (millions of $),"China, Hong Kong SAR",2005,181569.0
@@ -1960,13 +1475,6 @@ Country ID,Source Data,Country Name,Year,GDP
 344,GDP in 2010 dollars ($),"China, Hong Kong SAR",2015,264388.0
 344,GDP in 2010 dollars ($),"China, Hong Kong SAR",2016,270039.0
 344,GDP in 2010 dollars ($),"China, Hong Kong SAR",2017,280363.0
-344,GDP real rates of growth (percent),"China, Hong Kong SAR",1985,0.8
-344,GDP real rates of growth (percent),"China, Hong Kong SAR",1995,2.4
-344,GDP real rates of growth (percent),"China, Hong Kong SAR",2005,7.4
-344,GDP real rates of growth (percent),"China, Hong Kong SAR",2010,6.8
-344,GDP real rates of growth (percent),"China, Hong Kong SAR",2015,2.4
-344,GDP real rates of growth (percent),"China, Hong Kong SAR",2016,2.1
-344,GDP real rates of growth (percent),"China, Hong Kong SAR",2017,3.8
 446,GDP (millions of $),"China, Macao SAR",1985,1349.0
 446,GDP (millions of $),"China, Macao SAR",1995,6996.0
 446,GDP (millions of $),"China, Macao SAR",2005,12092.0
@@ -1988,13 +1496,6 @@ Country ID,Source Data,Country Name,Year,GDP
 446,GDP in 2010 dollars ($),"China, Macao SAR",2015,32199.0
 446,GDP in 2010 dollars ($),"China, Macao SAR",2016,31921.0
 446,GDP in 2010 dollars ($),"China, Macao SAR",2017,34824.0
-446,GDP real rates of growth (percent),"China, Macao SAR",1985,0.7
-446,GDP real rates of growth (percent),"China, Macao SAR",1995,3.3
-446,GDP real rates of growth (percent),"China, Macao SAR",2005,8.1
-446,GDP real rates of growth (percent),"China, Macao SAR",2010,25.3
-446,GDP real rates of growth (percent),"China, Macao SAR",2015,-21.6
-446,GDP real rates of growth (percent),"China, Macao SAR",2016,-0.9
-446,GDP real rates of growth (percent),"China, Macao SAR",2017,9.1
 170,GDP (millions of $),Colombia,1985,49322.0
 170,GDP (millions of $),Colombia,1995,110292.0
 170,GDP (millions of $),Colombia,2005,146566.0
@@ -2016,13 +1517,6 @@ Country ID,Source Data,Country Name,Year,GDP
 170,GDP in 2010 dollars ($),Colombia,2015,359120.0
 170,GDP in 2010 dollars ($),Colombia,2016,366457.0
 170,GDP in 2010 dollars ($),Colombia,2017,372936.0
-170,GDP real rates of growth (percent),Colombia,1985,3.1
-170,GDP real rates of growth (percent),Colombia,1995,5.2
-170,GDP real rates of growth (percent),Colombia,2005,4.7
-170,GDP real rates of growth (percent),Colombia,2010,4.0
-170,GDP real rates of growth (percent),Colombia,2015,3.1
-170,GDP real rates of growth (percent),Colombia,2016,2.0
-170,GDP real rates of growth (percent),Colombia,2017,1.8
 174,GDP (millions of $),Comoros,1985,240.0
 174,GDP (millions of $),Comoros,1995,483.0
 174,GDP (millions of $),Comoros,2005,787.0
@@ -2044,13 +1538,6 @@ Country ID,Source Data,Country Name,Year,GDP
 174,GDP in 2010 dollars ($),Comoros,2015,1179.0
 174,GDP in 2010 dollars ($),Comoros,2016,1227.0
 174,GDP in 2010 dollars ($),Comoros,2017,1269.0
-174,GDP real rates of growth (percent),Comoros,1985,2.0
-174,GDP real rates of growth (percent),Comoros,1995,3.6
-174,GDP real rates of growth (percent),Comoros,2005,2.8
-174,GDP real rates of growth (percent),Comoros,2010,4.8
-174,GDP real rates of growth (percent),Comoros,2015,2.0
-174,GDP real rates of growth (percent),Comoros,2016,4.1
-174,GDP real rates of growth (percent),Comoros,2017,3.4
 178,GDP (millions of $),Congo,1985,2339.0
 178,GDP (millions of $),Congo,1995,2207.0
 178,GDP (millions of $),Congo,2005,6350.0
@@ -2072,13 +1559,6 @@ Country ID,Source Data,Country Name,Year,GDP
 178,GDP in 2010 dollars ($),Congo,2015,14081.0
 178,GDP in 2010 dollars ($),Congo,2016,13683.0
 178,GDP in 2010 dollars ($),Congo,2017,13258.0
-178,GDP real rates of growth (percent),Congo,1985,-1.2
-178,GDP real rates of growth (percent),Congo,1995,4.0
-178,GDP real rates of growth (percent),Congo,2005,7.6
-178,GDP real rates of growth (percent),Congo,2010,15.0
-178,GDP real rates of growth (percent),Congo,2015,-13.2
-178,GDP real rates of growth (percent),Congo,2016,-2.8
-178,GDP real rates of growth (percent),Congo,2017,-3.1
 184,GDP (millions of $),Cook Islands,1985,28.0
 184,GDP (millions of $),Cook Islands,1995,106.0
 184,GDP (millions of $),Cook Islands,2005,183.0
@@ -2100,13 +1580,6 @@ Country ID,Source Data,Country Name,Year,GDP
 184,GDP in 2010 dollars ($),Cook Islands,2015,293.0
 184,GDP in 2010 dollars ($),Cook Islands,2016,310.0
 184,GDP in 2010 dollars ($),Cook Islands,2017,316.0
-184,GDP real rates of growth (percent),Cook Islands,1985,8.8
-184,GDP real rates of growth (percent),Cook Islands,1995,-4.4
-184,GDP real rates of growth (percent),Cook Islands,2005,-1.1
-184,GDP real rates of growth (percent),Cook Islands,2010,-3.0
-184,GDP real rates of growth (percent),Cook Islands,2015,3.8
-184,GDP real rates of growth (percent),Cook Islands,2016,5.9
-184,GDP real rates of growth (percent),Cook Islands,2017,1.9
 188,GDP (millions of $),Costa Rica,1985,4989.0
 188,GDP (millions of $),Costa Rica,1995,11507.0
 188,GDP (millions of $),Costa Rica,2005,19952.0
@@ -2128,13 +1601,6 @@ Country ID,Source Data,Country Name,Year,GDP
 188,GDP in 2010 dollars ($),Costa Rica,2015,44694.0
 188,GDP in 2010 dollars ($),Costa Rica,2016,46551.0
 188,GDP in 2010 dollars ($),Costa Rica,2017,48037.0
-188,GDP real rates of growth (percent),Costa Rica,1985,0.7
-188,GDP real rates of growth (percent),Costa Rica,1995,4.1
-188,GDP real rates of growth (percent),Costa Rica,2005,3.9
-188,GDP real rates of growth (percent),Costa Rica,2010,5.0
-188,GDP real rates of growth (percent),Costa Rica,2015,3.6
-188,GDP real rates of growth (percent),Costa Rica,2016,4.2
-188,GDP real rates of growth (percent),Costa Rica,2017,3.2
 384,GDP (millions of $),Côte dIvoire,1985,6978.0
 384,GDP (millions of $),Côte dIvoire,1995,11105.0
 384,GDP (millions of $),Côte dIvoire,2005,17085.0
@@ -2156,13 +1622,6 @@ Country ID,Source Data,Country Name,Year,GDP
 384,GDP in 2010 dollars ($),Côte dIvoire,2015,33960.0
 384,GDP in 2010 dollars ($),Côte dIvoire,2016,36667.0
 384,GDP in 2010 dollars ($),Côte dIvoire,2017,39491.0
-384,GDP real rates of growth (percent),Côte dIvoire,1985,4.5
-384,GDP real rates of growth (percent),Côte dIvoire,1995,7.1
-384,GDP real rates of growth (percent),Côte dIvoire,2005,1.7
-384,GDP real rates of growth (percent),Côte dIvoire,2010,2.0
-384,GDP real rates of growth (percent),Côte dIvoire,2015,8.8
-384,GDP real rates of growth (percent),Côte dIvoire,2016,8.0
-384,GDP real rates of growth (percent),Côte dIvoire,2017,7.7
 191,GDP (millions of $),Croatia,1995,22388.0
 191,GDP (millions of $),Croatia,2005,45347.0
 191,GDP (millions of $),Croatia,2010,59866.0
@@ -2181,12 +1640,6 @@ Country ID,Source Data,Country Name,Year,GDP
 191,GDP in 2010 dollars ($),Croatia,2015,59343.0
 191,GDP in 2010 dollars ($),Croatia,2016,61442.0
 191,GDP in 2010 dollars ($),Croatia,2017,63237.0
-191,GDP real rates of growth (percent),Croatia,1995,6.8
-191,GDP real rates of growth (percent),Croatia,2005,4.1
-191,GDP real rates of growth (percent),Croatia,2010,-1.5
-191,GDP real rates of growth (percent),Croatia,2015,2.4
-191,GDP real rates of growth (percent),Croatia,2016,3.5
-191,GDP real rates of growth (percent),Croatia,2017,2.9
 192,GDP (millions of $),Cuba,1985,22921.0
 192,GDP (millions of $),Cuba,1995,30428.0
 192,GDP (millions of $),Cuba,2005,42644.0
@@ -2208,13 +1661,6 @@ Country ID,Source Data,Country Name,Year,GDP
 192,GDP in 2010 dollars ($),Cuba,2015,73869.0
 192,GDP in 2010 dollars ($),Cuba,2016,74248.0
 192,GDP in 2010 dollars ($),Cuba,2017,75572.0
-192,GDP real rates of growth (percent),Cuba,1985,1.6
-192,GDP real rates of growth (percent),Cuba,1995,2.5
-192,GDP real rates of growth (percent),Cuba,2005,11.2
-192,GDP real rates of growth (percent),Cuba,2010,2.4
-192,GDP real rates of growth (percent),Cuba,2015,4.4
-192,GDP real rates of growth (percent),Cuba,2016,0.5
-192,GDP real rates of growth (percent),Cuba,2017,1.8
 531,GDP (millions of $),Curaçao,2005,2345.0
 531,GDP (millions of $),Curaçao,2010,2951.0
 531,GDP (millions of $),Curaçao,2015,3152.0
@@ -2228,10 +1674,6 @@ Country ID,Source Data,Country Name,Year,GDP
 531,GDP in 2010 dollars ($),Curaçao,2015,2916.0
 531,GDP in 2010 dollars ($),Curaçao,2016,2888.0
 531,GDP in 2010 dollars ($),Curaçao,2017,2837.0
-531,GDP real rates of growth (percent),Curaçao,2010,0.1
-531,GDP real rates of growth (percent),Curaçao,2015,0.3
-531,GDP real rates of growth (percent),Curaçao,2016,-1.0
-531,GDP real rates of growth (percent),Curaçao,2017,-1.7
 196,GDP (millions of $),Cyprus,1985,2682.0
 196,GDP (millions of $),Cyprus,1995,9827.0
 196,GDP (millions of $),Cyprus,2005,18967.0
@@ -2253,13 +1695,6 @@ Country ID,Source Data,Country Name,Year,GDP
 196,GDP in 2010 dollars ($),Cyprus,2015,23627.0
 196,GDP in 2010 dollars ($),Cyprus,2016,24763.0
 196,GDP in 2010 dollars ($),Cyprus,2017,25811.0
-196,GDP real rates of growth (percent),Cyprus,1985,4.7
-196,GDP real rates of growth (percent),Cyprus,1995,9.9
-196,GDP real rates of growth (percent),Cyprus,2005,4.9
-196,GDP real rates of growth (percent),Cyprus,2010,1.3
-196,GDP real rates of growth (percent),Cyprus,2015,2.0
-196,GDP real rates of growth (percent),Cyprus,2016,4.8
-196,GDP real rates of growth (percent),Cyprus,2017,4.2
 203,GDP (millions of $),Czechia,1995,59774.0
 203,GDP (millions of $),Czechia,2005,136281.0
 203,GDP (millions of $),Czechia,2010,207478.0
@@ -2278,12 +1713,6 @@ Country ID,Source Data,Country Name,Year,GDP
 203,GDP in 2010 dollars ($),Czechia,2015,225493.0
 203,GDP in 2010 dollars ($),Czechia,2016,231018.0
 203,GDP in 2010 dollars ($),Czechia,2017,240919.0
-203,GDP real rates of growth (percent),Czechia,1995,6.2
-203,GDP real rates of growth (percent),Czechia,2005,6.5
-203,GDP real rates of growth (percent),Czechia,2010,2.3
-203,GDP real rates of growth (percent),Czechia,2015,5.3
-203,GDP real rates of growth (percent),Czechia,2016,2.5
-203,GDP real rates of growth (percent),Czechia,2017,4.3
 408,GDP (millions of $),Dem. People's Rep. Korea,1985,12075.0
 408,GDP (millions of $),Dem. People's Rep. Korea,1995,4849.0
 408,GDP (millions of $),Dem. People's Rep. Korea,2005,13031.0
@@ -2305,13 +1734,6 @@ Country ID,Source Data,Country Name,Year,GDP
 408,GDP in 2010 dollars ($),Dem. People's Rep. Korea,2015,14377.0
 408,GDP in 2010 dollars ($),Dem. People's Rep. Korea,2016,14933.0
 408,GDP in 2010 dollars ($),Dem. People's Rep. Korea,2017,14413.0
-408,GDP real rates of growth (percent),Dem. People's Rep. Korea,1985,3.7
-408,GDP real rates of growth (percent),Dem. People's Rep. Korea,1995,-4.4
-408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2005,3.8
-408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2010,-0.5
-408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2015,-1.1
-408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2016,3.9
-408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2017,-3.5
 180,GDP (millions of $),Dem. Rep. of the Congo,1985,7524.0
 180,GDP (millions of $),Dem. Rep. of the Congo,1995,8947.0
 180,GDP (millions of $),Dem. Rep. of the Congo,2005,11965.0
@@ -2333,13 +1755,6 @@ Country ID,Source Data,Country Name,Year,GDP
 180,GDP in 2010 dollars ($),Dem. Rep. of the Congo,2015,31338.0
 180,GDP in 2010 dollars ($),Dem. Rep. of the Congo,2016,32090.0
 180,GDP in 2010 dollars ($),Dem. Rep. of the Congo,2017,33278.0
-180,GDP real rates of growth (percent),Dem. Rep. of the Congo,1985,0.5
-180,GDP real rates of growth (percent),Dem. Rep. of the Congo,1995,0.7
-180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2005,6.1
-180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2010,7.1
-180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2015,6.9
-180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2016,2.4
-180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2017,3.7
 208,GDP (millions of $),Denmark,1985,62659.0
 208,GDP (millions of $),Denmark,1995,185008.0
 208,GDP (millions of $),Denmark,2005,264467.0
@@ -2361,13 +1776,6 @@ Country ID,Source Data,Country Name,Year,GDP
 208,GDP in 2010 dollars ($),Denmark,2015,343294.0
 208,GDP in 2010 dollars ($),Denmark,2016,351532.0
 208,GDP in 2010 dollars ($),Denmark,2017,359485.0
-208,GDP real rates of growth (percent),Denmark,1985,4.0
-208,GDP real rates of growth (percent),Denmark,1995,3.0
-208,GDP real rates of growth (percent),Denmark,2005,2.3
-208,GDP real rates of growth (percent),Denmark,2010,1.9
-208,GDP real rates of growth (percent),Denmark,2015,2.3
-208,GDP real rates of growth (percent),Denmark,2016,2.4
-208,GDP real rates of growth (percent),Denmark,2017,2.3
 262,GDP (millions of $),Djibouti,1985,360.0
 262,GDP (millions of $),Djibouti,1995,497.0
 262,GDP (millions of $),Djibouti,2005,674.0
@@ -2389,13 +1797,6 @@ Country ID,Source Data,Country Name,Year,GDP
 262,GDP in 2010 dollars ($),Djibouti,2015,1394.0
 262,GDP in 2010 dollars ($),Djibouti,2016,1516.0
 262,GDP in 2010 dollars ($),Djibouti,2017,1578.0
-262,GDP real rates of growth (percent),Djibouti,1985,-0.2
-262,GDP real rates of growth (percent),Djibouti,1995,5.6
-262,GDP real rates of growth (percent),Djibouti,2005,3.2
-262,GDP real rates of growth (percent),Djibouti,2010,3.5
-262,GDP real rates of growth (percent),Djibouti,2015,9.7
-262,GDP real rates of growth (percent),Djibouti,2016,8.7
-262,GDP real rates of growth (percent),Djibouti,2017,4.1
 212,GDP (millions of $),Dominica,1985,117.0
 212,GDP (millions of $),Dominica,1995,260.0
 212,GDP (millions of $),Dominica,2005,370.0
@@ -2417,13 +1818,6 @@ Country ID,Source Data,Country Name,Year,GDP
 212,GDP in 2010 dollars ($),Dominica,2015,495.0
 212,GDP in 2010 dollars ($),Dominica,2016,507.0
 212,GDP in 2010 dollars ($),Dominica,2017,459.0
-212,GDP real rates of growth (percent),Dominica,1985,1.3
-212,GDP real rates of growth (percent),Dominica,1995,2.0
-212,GDP real rates of growth (percent),Dominica,2005,-0.3
-212,GDP real rates of growth (percent),Dominica,2010,1.2
-212,GDP real rates of growth (percent),Dominica,2015,-2.6
-212,GDP real rates of growth (percent),Dominica,2016,2.5
-212,GDP real rates of growth (percent),Dominica,2017,-9.5
 214,GDP (millions of $),Dominican Republic,1985,5618.0
 214,GDP (millions of $),Dominican Republic,1995,15747.0
 214,GDP (millions of $),Dominican Republic,2005,35510.0
@@ -2445,13 +1839,6 @@ Country ID,Source Data,Country Name,Year,GDP
 214,GDP in 2010 dollars ($),Dominican Republic,2015,68042.0
 214,GDP in 2010 dollars ($),Dominican Republic,2016,72541.0
 214,GDP in 2010 dollars ($),Dominican Republic,2017,75843.0
-214,GDP real rates of growth (percent),Dominican Republic,1985,-2.1
-214,GDP real rates of growth (percent),Dominican Republic,1995,5.5
-214,GDP real rates of growth (percent),Dominican Republic,2005,9.3
-214,GDP real rates of growth (percent),Dominican Republic,2010,8.3
-214,GDP real rates of growth (percent),Dominican Republic,2015,7.0
-214,GDP real rates of growth (percent),Dominican Republic,2016,6.6
-214,GDP real rates of growth (percent),Dominican Republic,2017,4.6
 218,GDP (millions of $),Ecuador,1985,17141.0
 218,GDP (millions of $),Ecuador,1995,24421.0
 218,GDP (millions of $),Ecuador,2005,41507.0
@@ -2473,13 +1860,6 @@ Country ID,Source Data,Country Name,Year,GDP
 218,GDP in 2010 dollars ($),Ecuador,2015,86419.0
 218,GDP in 2010 dollars ($),Ecuador,2016,85057.0
 218,GDP in 2010 dollars ($),Ecuador,2017,87606.0
-218,GDP real rates of growth (percent),Ecuador,1985,3.9
-218,GDP real rates of growth (percent),Ecuador,1995,2.3
-218,GDP real rates of growth (percent),Ecuador,2005,5.3
-218,GDP real rates of growth (percent),Ecuador,2010,3.5
-218,GDP real rates of growth (percent),Ecuador,2015,0.1
-218,GDP real rates of growth (percent),Ecuador,2016,-1.6
-218,GDP real rates of growth (percent),Ecuador,2017,3.0
 818,GDP (millions of $),Egypt,1985,23801.0
 818,GDP (millions of $),Egypt,1995,65758.0
 818,GDP (millions of $),Egypt,2005,94456.0
@@ -2501,13 +1881,6 @@ Country ID,Source Data,Country Name,Year,GDP
 818,GDP in 2010 dollars ($),Egypt,2015,245076.0
 818,GDP in 2010 dollars ($),Egypt,2016,255728.0
 818,GDP in 2010 dollars ($),Egypt,2017,266421.0
-818,GDP real rates of growth (percent),Egypt,1985,6.8
-818,GDP real rates of growth (percent),Egypt,1995,4.6
-818,GDP real rates of growth (percent),Egypt,2005,4.5
-818,GDP real rates of growth (percent),Egypt,2010,5.1
-818,GDP real rates of growth (percent),Egypt,2015,4.4
-818,GDP real rates of growth (percent),Egypt,2016,4.3
-818,GDP real rates of growth (percent),Egypt,2017,4.2
 222,GDP (millions of $),El Salvador,1985,5183.0
 222,GDP (millions of $),El Salvador,1995,8922.0
 222,GDP (millions of $),El Salvador,2005,14698.0
@@ -2529,13 +1902,6 @@ Country ID,Source Data,Country Name,Year,GDP
 222,GDP in 2010 dollars ($),El Salvador,2015,20318.0
 222,GDP in 2010 dollars ($),El Salvador,2016,20842.0
 222,GDP in 2010 dollars ($),El Salvador,2017,21325.0
-222,GDP real rates of growth (percent),El Salvador,1985,2.0
-222,GDP real rates of growth (percent),El Salvador,1995,6.4
-222,GDP real rates of growth (percent),El Salvador,2005,3.6
-222,GDP real rates of growth (percent),El Salvador,2010,1.4
-222,GDP real rates of growth (percent),El Salvador,2015,2.4
-222,GDP real rates of growth (percent),El Salvador,2016,2.6
-222,GDP real rates of growth (percent),El Salvador,2017,2.3
 226,GDP (millions of $),Equatorial Guinea,1985,88.0
 226,GDP (millions of $),Equatorial Guinea,1995,215.0
 226,GDP (millions of $),Equatorial Guinea,2005,8520.0
@@ -2557,13 +1923,6 @@ Country ID,Source Data,Country Name,Year,GDP
 226,GDP in 2010 dollars ($),Equatorial Guinea,2015,16457.0
 226,GDP in 2010 dollars ($),Equatorial Guinea,2016,15046.0
 226,GDP in 2010 dollars ($),Equatorial Guinea,2017,14561.0
-226,GDP real rates of growth (percent),Equatorial Guinea,1985,12.9
-226,GDP real rates of growth (percent),Equatorial Guinea,1995,11.7
-226,GDP real rates of growth (percent),Equatorial Guinea,2005,8.9
-226,GDP real rates of growth (percent),Equatorial Guinea,2010,-8.9
-226,GDP real rates of growth (percent),Equatorial Guinea,2015,-9.1
-226,GDP real rates of growth (percent),Equatorial Guinea,2016,-8.6
-226,GDP real rates of growth (percent),Equatorial Guinea,2017,-3.2
 232,GDP (millions of $),Eritrea,1995,640.0
 232,GDP (millions of $),Eritrea,2005,1098.0
 232,GDP (millions of $),Eritrea,2010,2117.0
@@ -2582,12 +1941,6 @@ Country ID,Source Data,Country Name,Year,GDP
 232,GDP in 2010 dollars ($),Eritrea,2015,2719.0
 232,GDP in 2010 dollars ($),Eritrea,2016,2770.0
 232,GDP in 2010 dollars ($),Eritrea,2017,2909.0
-232,GDP real rates of growth (percent),Eritrea,1995,20.9
-232,GDP real rates of growth (percent),Eritrea,2005,1.5
-232,GDP real rates of growth (percent),Eritrea,2010,2.2
-232,GDP real rates of growth (percent),Eritrea,2015,2.6
-232,GDP real rates of growth (percent),Eritrea,2016,1.9
-232,GDP real rates of growth (percent),Eritrea,2017,5.0
 233,GDP (millions of $),Estonia,1995,4423.0
 233,GDP (millions of $),Estonia,2005,14003.0
 233,GDP (millions of $),Estonia,2010,19503.0
@@ -2606,12 +1959,6 @@ Country ID,Source Data,Country Name,Year,GDP
 233,GDP in 2010 dollars ($),Estonia,2015,23341.0
 233,GDP in 2010 dollars ($),Estonia,2016,23823.0
 233,GDP in 2010 dollars ($),Estonia,2017,24979.0
-233,GDP real rates of growth (percent),Estonia,1995,4.3
-233,GDP real rates of growth (percent),Estonia,2005,9.6
-233,GDP real rates of growth (percent),Estonia,2010,2.3
-233,GDP real rates of growth (percent),Estonia,2015,1.7
-233,GDP real rates of growth (percent),Estonia,2016,2.1
-233,GDP real rates of growth (percent),Estonia,2017,4.9
 748,GDP (millions of $),Eswatini,1985,539.0
 748,GDP (millions of $),Eswatini,1995,1902.0
 748,GDP (millions of $),Eswatini,2005,3178.0
@@ -2633,13 +1980,6 @@ Country ID,Source Data,Country Name,Year,GDP
 748,GDP in 2010 dollars ($),Eswatini,2015,5176.0
 748,GDP in 2010 dollars ($),Eswatini,2016,5246.0
 748,GDP in 2010 dollars ($),Eswatini,2017,5351.0
-748,GDP real rates of growth (percent),Eswatini,1985,1.9
-748,GDP real rates of growth (percent),Eswatini,1995,4.8
-748,GDP real rates of growth (percent),Eswatini,2005,6.0
-748,GDP real rates of growth (percent),Eswatini,2010,3.8
-748,GDP real rates of growth (percent),Eswatini,2015,0.4
-748,GDP real rates of growth (percent),Eswatini,2016,1.4
-748,GDP real rates of growth (percent),Eswatini,2017,2.0
 231,GDP (millions of $),Ethiopia,1995,7587.0
 231,GDP (millions of $),Ethiopia,2005,12164.0
 231,GDP (millions of $),Ethiopia,2010,26311.0
@@ -2658,12 +1998,6 @@ Country ID,Source Data,Country Name,Year,GDP
 231,GDP in 2010 dollars ($),Ethiopia,2015,43538.0
 231,GDP in 2010 dollars ($),Ethiopia,2016,46831.0
 231,GDP in 2010 dollars ($),Ethiopia,2017,52035.0
-231,GDP real rates of growth (percent),Ethiopia,1995,6.1
-231,GDP real rates of growth (percent),Ethiopia,2005,11.8
-231,GDP real rates of growth (percent),Ethiopia,2010,12.6
-231,GDP real rates of growth (percent),Ethiopia,2015,10.4
-231,GDP real rates of growth (percent),Ethiopia,2016,7.6
-231,GDP real rates of growth (percent),Ethiopia,2017,11.1
 242,GDP (millions of $),Fiji,1985,1143.0
 242,GDP (millions of $),Fiji,1995,1993.0
 242,GDP (millions of $),Fiji,2005,2980.0
@@ -2685,13 +2019,6 @@ Country ID,Source Data,Country Name,Year,GDP
 242,GDP in 2010 dollars ($),Fiji,2015,3756.0
 242,GDP in 2010 dollars ($),Fiji,2016,3781.0
 242,GDP in 2010 dollars ($),Fiji,2017,3895.0
-242,GDP real rates of growth (percent),Fiji,1985,-3.9
-242,GDP real rates of growth (percent),Fiji,1995,2.5
-242,GDP real rates of growth (percent),Fiji,2005,0.7
-242,GDP real rates of growth (percent),Fiji,2010,3.0
-242,GDP real rates of growth (percent),Fiji,2015,3.8
-242,GDP real rates of growth (percent),Fiji,2016,0.7
-242,GDP real rates of growth (percent),Fiji,2017,3.0
 246,GDP (millions of $),Finland,1985,55914.0
 246,GDP (millions of $),Finland,1995,134196.0
 246,GDP (millions of $),Finland,2005,204431.0
@@ -2713,13 +2040,6 @@ Country ID,Source Data,Country Name,Year,GDP
 246,GDP in 2010 dollars ($),Finland,2015,247409.0
 246,GDP in 2010 dollars ($),Finland,2016,253539.0
 246,GDP in 2010 dollars ($),Finland,2017,260631.0
-246,GDP real rates of growth (percent),Finland,1985,3.5
-246,GDP real rates of growth (percent),Finland,1995,4.2
-246,GDP real rates of growth (percent),Finland,2005,2.8
-246,GDP real rates of growth (percent),Finland,2010,3.0
-246,GDP real rates of growth (percent),Finland,2015,0.1
-246,GDP real rates of growth (percent),Finland,2016,2.5
-246,GDP real rates of growth (percent),Finland,2017,2.8
 250,GDP (millions of $),France,1985,553143.0
 250,GDP (millions of $),France,1995,1600997.0
 250,GDP (millions of $),France,2005,2196071.0
@@ -2741,13 +2061,6 @@ Country ID,Source Data,Country Name,Year,GDP
 250,GDP in 2010 dollars ($),France,2015,2781288.0
 250,GDP in 2010 dollars ($),France,2016,2813858.0
 250,GDP in 2010 dollars ($),France,2017,2874672.0
-250,GDP real rates of growth (percent),France,1985,1.6
-250,GDP real rates of growth (percent),France,1995,2.1
-250,GDP real rates of growth (percent),France,2005,1.7
-250,GDP real rates of growth (percent),France,2010,1.9
-250,GDP real rates of growth (percent),France,2015,1.1
-250,GDP real rates of growth (percent),France,2016,1.2
-250,GDP real rates of growth (percent),France,2017,2.2
 258,GDP (millions of $),French Polynesia,1985,1716.0
 258,GDP (millions of $),French Polynesia,1995,4421.0
 258,GDP (millions of $),French Polynesia,2005,5703.0
@@ -2769,13 +2082,6 @@ Country ID,Source Data,Country Name,Year,GDP
 258,GDP in 2010 dollars ($),French Polynesia,2015,5982.0
 258,GDP in 2010 dollars ($),French Polynesia,2016,6070.0
 258,GDP in 2010 dollars ($),French Polynesia,2017,6212.0
-258,GDP real rates of growth (percent),French Polynesia,1985,5.4
-258,GDP real rates of growth (percent),French Polynesia,1995,0.5
-258,GDP real rates of growth (percent),French Polynesia,2005,1.4
-258,GDP real rates of growth (percent),French Polynesia,2010,-2.5
-258,GDP real rates of growth (percent),French Polynesia,2015,1.3
-258,GDP real rates of growth (percent),French Polynesia,2016,1.5
-258,GDP real rates of growth (percent),French Polynesia,2017,2.3
 266,GDP (millions of $),Gabon,1985,4639.0
 266,GDP (millions of $),Gabon,1995,5519.0
 266,GDP (millions of $),Gabon,2005,9579.0
@@ -2797,13 +2103,6 @@ Country ID,Source Data,Country Name,Year,GDP
 266,GDP in 2010 dollars ($),Gabon,2015,18527.0
 266,GDP in 2010 dollars ($),Gabon,2016,18913.0
 266,GDP in 2010 dollars ($),Gabon,2017,19121.0
-266,GDP real rates of growth (percent),Gabon,1985,-2.3
-266,GDP real rates of growth (percent),Gabon,1995,5.0
-266,GDP real rates of growth (percent),Gabon,2005,1.1
-266,GDP real rates of growth (percent),Gabon,2010,7.1
-266,GDP real rates of growth (percent),Gabon,2015,3.9
-266,GDP real rates of growth (percent),Gabon,2016,2.1
-266,GDP real rates of growth (percent),Gabon,2017,1.1
 270,GDP (millions of $),Gambia,1985,990.0
 270,GDP (millions of $),Gambia,1995,1189.0
 270,GDP (millions of $),Gambia,2005,944.0
@@ -2825,13 +2124,6 @@ Country ID,Source Data,Country Name,Year,GDP
 270,GDP in 2010 dollars ($),Gambia,2015,1603.0
 270,GDP in 2010 dollars ($),Gambia,2016,1610.0
 270,GDP in 2010 dollars ($),Gambia,2017,1683.0
-270,GDP real rates of growth (percent),Gambia,1985,3.4
-270,GDP real rates of growth (percent),Gambia,1995,0.9
-270,GDP real rates of growth (percent),Gambia,2005,-0.9
-270,GDP real rates of growth (percent),Gambia,2010,6.5
-270,GDP real rates of growth (percent),Gambia,2015,5.9
-270,GDP real rates of growth (percent),Gambia,2016,0.4
-270,GDP real rates of growth (percent),Gambia,2017,4.6
 268,GDP (millions of $),Georgia,1995,2703.0
 268,GDP (millions of $),Georgia,2005,6411.0
 268,GDP (millions of $),Georgia,2010,11638.0
@@ -2850,12 +2142,6 @@ Country ID,Source Data,Country Name,Year,GDP
 268,GDP in 2010 dollars ($),Georgia,2015,14768.0
 268,GDP in 2010 dollars ($),Georgia,2016,15189.0
 268,GDP in 2010 dollars ($),Georgia,2017,15923.0
-268,GDP real rates of growth (percent),Georgia,1995,2.6
-268,GDP real rates of growth (percent),Georgia,2005,9.6
-268,GDP real rates of growth (percent),Georgia,2010,6.2
-268,GDP real rates of growth (percent),Georgia,2015,2.9
-268,GDP real rates of growth (percent),Georgia,2016,2.8
-268,GDP real rates of growth (percent),Georgia,2017,4.8
 276,GDP (millions of $),Germany,1985,729751.0
 276,GDP (millions of $),Germany,1995,2591447.0
 276,GDP (millions of $),Germany,2005,2861339.0
@@ -2877,13 +2163,6 @@ Country ID,Source Data,Country Name,Year,GDP
 276,GDP in 2010 dollars ($),Germany,2015,3718482.0
 276,GDP in 2010 dollars ($),Germany,2016,3801859.0
 276,GDP in 2010 dollars ($),Germany,2017,3883870.0
-276,GDP real rates of growth (percent),Germany,1985,2.3
-276,GDP real rates of growth (percent),Germany,1995,1.7
-276,GDP real rates of growth (percent),Germany,2005,0.7
-276,GDP real rates of growth (percent),Germany,2010,4.1
-276,GDP real rates of growth (percent),Germany,2015,1.7
-276,GDP real rates of growth (percent),Germany,2016,2.2
-276,GDP real rates of growth (percent),Germany,2017,2.2
 288,GDP (millions of $),Ghana,1985,8743.0
 288,GDP (millions of $),Ghana,1995,13714.0
 288,GDP (millions of $),Ghana,2005,22765.0
@@ -2905,13 +2184,6 @@ Country ID,Source Data,Country Name,Year,GDP
 288,GDP in 2010 dollars ($),Ghana,2015,59891.0
 288,GDP in 2010 dollars ($),Ghana,2016,61956.0
 288,GDP in 2010 dollars ($),Ghana,2017,67001.0
-288,GDP real rates of growth (percent),Ghana,1985,5.1
-288,GDP real rates of growth (percent),Ghana,1995,4.0
-288,GDP real rates of growth (percent),Ghana,2005,6.2
-288,GDP real rates of growth (percent),Ghana,2010,7.9
-288,GDP real rates of growth (percent),Ghana,2015,2.2
-288,GDP real rates of growth (percent),Ghana,2016,3.4
-288,GDP real rates of growth (percent),Ghana,2017,8.1
 300,GDP (millions of $),Greece,1985,47816.0
 300,GDP (millions of $),Greece,1995,136886.0
 300,GDP (millions of $),Greece,2005,247777.0
@@ -2933,13 +2205,6 @@ Country ID,Source Data,Country Name,Year,GDP
 300,GDP in 2010 dollars ($),Greece,2015,244719.0
 300,GDP in 2010 dollars ($),Greece,2016,244251.0
 300,GDP in 2010 dollars ($),Greece,2017,247927.0
-300,GDP real rates of growth (percent),Greece,1985,2.5
-300,GDP real rates of growth (percent),Greece,1995,2.1
-300,GDP real rates of growth (percent),Greece,2005,0.6
-300,GDP real rates of growth (percent),Greece,2010,-5.5
-300,GDP real rates of growth (percent),Greece,2015,-0.4
-300,GDP real rates of growth (percent),Greece,2016,-0.2
-300,GDP real rates of growth (percent),Greece,2017,1.5
 304,GDP (millions of $),Greenland,1985,451.0
 304,GDP (millions of $),Greenland,1995,1321.0
 304,GDP (millions of $),Greenland,2005,1850.0
@@ -2961,13 +2226,6 @@ Country ID,Source Data,Country Name,Year,GDP
 304,GDP in 2010 dollars ($),Greenland,2015,2544.0
 304,GDP in 2010 dollars ($),Greenland,2016,2695.0
 304,GDP in 2010 dollars ($),Greenland,2017,2722.0
-304,GDP real rates of growth (percent),Greenland,1985,3.7
-304,GDP real rates of growth (percent),Greenland,1995,3.7
-304,GDP real rates of growth (percent),Greenland,2005,5.0
-304,GDP real rates of growth (percent),Greenland,2010,1.7
-304,GDP real rates of growth (percent),Greenland,2015,-2.5
-304,GDP real rates of growth (percent),Greenland,2016,6.0
-304,GDP real rates of growth (percent),Greenland,2017,1.0
 308,GDP (millions of $),Grenada,1985,136.0
 308,GDP (millions of $),Grenada,1995,278.0
 308,GDP (millions of $),Grenada,2005,695.0
@@ -2989,13 +2247,6 @@ Country ID,Source Data,Country Name,Year,GDP
 308,GDP in 2010 dollars ($),Grenada,2015,898.0
 308,GDP in 2010 dollars ($),Grenada,2016,932.0
 308,GDP in 2010 dollars ($),Grenada,2017,979.0
-308,GDP real rates of growth (percent),Grenada,1985,8.1
-308,GDP real rates of growth (percent),Grenada,1995,2.1
-308,GDP real rates of growth (percent),Grenada,2005,13.3
-308,GDP real rates of growth (percent),Grenada,2010,-0.5
-308,GDP real rates of growth (percent),Grenada,2015,6.4
-308,GDP real rates of growth (percent),Grenada,2016,3.7
-308,GDP real rates of growth (percent),Grenada,2017,5.1
 320,GDP (millions of $),Guatemala,1985,9967.0
 320,GDP (millions of $),Guatemala,1995,13066.0
 320,GDP (millions of $),Guatemala,2005,27211.0
@@ -3017,13 +2268,6 @@ Country ID,Source Data,Country Name,Year,GDP
 320,GDP in 2010 dollars ($),Guatemala,2015,49879.0
 320,GDP in 2010 dollars ($),Guatemala,2016,51421.0
 320,GDP in 2010 dollars ($),Guatemala,2017,52841.0
-320,GDP real rates of growth (percent),Guatemala,1985,-0.6
-320,GDP real rates of growth (percent),Guatemala,1995,5.0
-320,GDP real rates of growth (percent),Guatemala,2005,3.3
-320,GDP real rates of growth (percent),Guatemala,2010,2.9
-320,GDP real rates of growth (percent),Guatemala,2015,4.1
-320,GDP real rates of growth (percent),Guatemala,2016,3.1
-320,GDP real rates of growth (percent),Guatemala,2017,2.8
 324,GDP (millions of $),Guinea,1985,2848.0
 324,GDP (millions of $),Guinea,1995,5260.0
 324,GDP (millions of $),Guinea,2005,4063.0
@@ -3045,13 +2289,6 @@ Country ID,Source Data,Country Name,Year,GDP
 324,GDP in 2010 dollars ($),Guinea,2015,8579.0
 324,GDP in 2010 dollars ($),Guinea,2016,9475.0
 324,GDP in 2010 dollars ($),Guinea,2017,10257.0
-324,GDP real rates of growth (percent),Guinea,1985,5.0
-324,GDP real rates of growth (percent),Guinea,1995,4.7
-324,GDP real rates of growth (percent),Guinea,2005,3.0
-324,GDP real rates of growth (percent),Guinea,2010,4.8
-324,GDP real rates of growth (percent),Guinea,2015,3.8
-324,GDP real rates of growth (percent),Guinea,2016,10.5
-324,GDP real rates of growth (percent),Guinea,2017,8.2
 624,GDP (millions of $),Guinea-Bissau,1985,415.0
 624,GDP (millions of $),Guinea-Bissau,1995,800.0
 624,GDP (millions of $),Guinea-Bissau,2005,587.0
@@ -3073,13 +2310,6 @@ Country ID,Source Data,Country Name,Year,GDP
 624,GDP in 2010 dollars ($),Guinea-Bissau,2015,998.0
 624,GDP in 2010 dollars ($),Guinea-Bissau,2016,1061.0
 624,GDP in 2010 dollars ($),Guinea-Bissau,2017,1123.0
-624,GDP real rates of growth (percent),Guinea-Bissau,1985,4.3
-624,GDP real rates of growth (percent),Guinea-Bissau,1995,4.0
-624,GDP real rates of growth (percent),Guinea-Bissau,2005,4.3
-624,GDP real rates of growth (percent),Guinea-Bissau,2010,4.6
-624,GDP real rates of growth (percent),Guinea-Bissau,2015,6.1
-624,GDP real rates of growth (percent),Guinea-Bissau,2016,6.3
-624,GDP real rates of growth (percent),Guinea-Bissau,2017,5.9
 328,GDP (millions of $),Guyana,1985,737.0
 328,GDP (millions of $),Guyana,1995,991.0
 328,GDP (millions of $),Guyana,2005,1315.0
@@ -3101,13 +2331,6 @@ Country ID,Source Data,Country Name,Year,GDP
 328,GDP in 2010 dollars ($),Guyana,2015,2813.0
 328,GDP in 2010 dollars ($),Guyana,2016,2908.0
 328,GDP in 2010 dollars ($),Guyana,2017,2971.0
-328,GDP real rates of growth (percent),Guyana,1985,2.4
-328,GDP real rates of growth (percent),Guyana,1995,5.0
-328,GDP real rates of growth (percent),Guyana,2005,-2.0
-328,GDP real rates of growth (percent),Guyana,2010,4.1
-328,GDP real rates of growth (percent),Guyana,2015,3.1
-328,GDP real rates of growth (percent),Guyana,2016,3.4
-328,GDP real rates of growth (percent),Guyana,2017,2.2
 332,GDP (millions of $),Haiti,1985,2665.0
 332,GDP (millions of $),Haiti,1995,2696.0
 332,GDP (millions of $),Haiti,2005,4154.0
@@ -3129,13 +2352,6 @@ Country ID,Source Data,Country Name,Year,GDP
 332,GDP in 2010 dollars ($),Haiti,2015,7899.0
 332,GDP in 2010 dollars ($),Haiti,2016,8013.0
 332,GDP in 2010 dollars ($),Haiti,2017,8107.0
-332,GDP real rates of growth (percent),Haiti,1985,0.6
-332,GDP real rates of growth (percent),Haiti,1995,9.9
-332,GDP real rates of growth (percent),Haiti,2005,1.8
-332,GDP real rates of growth (percent),Haiti,2010,-5.5
-332,GDP real rates of growth (percent),Haiti,2015,1.2
-332,GDP real rates of growth (percent),Haiti,2016,1.5
-332,GDP real rates of growth (percent),Haiti,2017,1.2
 340,GDP (millions of $),Honduras,1985,4342.0
 340,GDP (millions of $),Honduras,1995,4724.0
 340,GDP (millions of $),Honduras,2005,9757.0
@@ -3157,13 +2373,6 @@ Country ID,Source Data,Country Name,Year,GDP
 340,GDP in 2010 dollars ($),Honduras,2015,18839.0
 340,GDP in 2010 dollars ($),Honduras,2016,19546.0
 340,GDP in 2010 dollars ($),Honduras,2017,20481.0
-340,GDP real rates of growth (percent),Honduras,1985,4.2
-340,GDP real rates of growth (percent),Honduras,1995,4.1
-340,GDP real rates of growth (percent),Honduras,2005,6.1
-340,GDP real rates of growth (percent),Honduras,2010,3.7
-340,GDP real rates of growth (percent),Honduras,2015,3.8
-340,GDP real rates of growth (percent),Honduras,2016,3.8
-340,GDP real rates of growth (percent),Honduras,2017,4.8
 348,GDP (millions of $),Hungary,1985,23709.0
 348,GDP (millions of $),Hungary,1995,46432.0
 348,GDP (millions of $),Hungary,2005,113035.0
@@ -3185,13 +2394,6 @@ Country ID,Source Data,Country Name,Year,GDP
 348,GDP in 2010 dollars ($),Hungary,2015,144236.0
 348,GDP in 2010 dollars ($),Hungary,2016,147526.0
 348,GDP in 2010 dollars ($),Hungary,2017,153629.0
-348,GDP real rates of growth (percent),Hungary,1985,-0.3
-348,GDP real rates of growth (percent),Hungary,1995,1.5
-348,GDP real rates of growth (percent),Hungary,2005,4.4
-348,GDP real rates of growth (percent),Hungary,2010,0.7
-348,GDP real rates of growth (percent),Hungary,2015,3.5
-348,GDP real rates of growth (percent),Hungary,2016,2.3
-348,GDP real rates of growth (percent),Hungary,2017,4.1
 352,GDP (millions of $),Iceland,1985,2940.0
 352,GDP (millions of $),Iceland,1995,7018.0
 352,GDP (millions of $),Iceland,2005,16813.0
@@ -3213,13 +2415,6 @@ Country ID,Source Data,Country Name,Year,GDP
 352,GDP in 2010 dollars ($),Iceland,2015,15682.0
 352,GDP in 2010 dollars ($),Iceland,2016,16835.0
 352,GDP in 2010 dollars ($),Iceland,2017,17507.0
-352,GDP real rates of growth (percent),Iceland,1985,3.3
-352,GDP real rates of growth (percent),Iceland,1995,0.1
-352,GDP real rates of growth (percent),Iceland,2005,6.3
-352,GDP real rates of growth (percent),Iceland,2010,-3.4
-352,GDP real rates of growth (percent),Iceland,2015,4.5
-352,GDP real rates of growth (percent),Iceland,2016,7.4
-352,GDP real rates of growth (percent),Iceland,2017,4.0
 356,GDP (millions of $),India,1985,222557.0
 356,GDP (millions of $),India,1995,362877.0
 356,GDP (millions of $),India,2005,823612.0
@@ -3241,13 +2436,6 @@ Country ID,Source Data,Country Name,Year,GDP
 356,GDP in 2010 dollars ($),India,2015,2290085.0
 356,GDP in 2010 dollars ($),India,2016,2452971.0
 356,GDP in 2010 dollars ($),India,2017,2616859.0
-356,GDP real rates of growth (percent),India,1985,5.5
-356,GDP real rates of growth (percent),India,1995,7.6
-356,GDP real rates of growth (percent),India,2005,7.9
-356,GDP real rates of growth (percent),India,2010,8.5
-356,GDP real rates of growth (percent),India,2015,8.2
-356,GDP real rates of growth (percent),India,2016,7.1
-356,GDP real rates of growth (percent),India,2017,6.7
 360,GDP (millions of $),Indonesia,1985,102171.0
 360,GDP (millions of $),Indonesia,1995,236456.0
 360,GDP (millions of $),Indonesia,2005,304372.0
@@ -3269,13 +2457,6 @@ Country ID,Source Data,Country Name,Year,GDP
 360,GDP in 2010 dollars ($),Indonesia,2015,988129.0
 360,GDP in 2010 dollars ($),Indonesia,2016,1037864.0
 360,GDP in 2010 dollars ($),Indonesia,2017,1090459.0
-360,GDP real rates of growth (percent),Indonesia,1985,2.5
-360,GDP real rates of growth (percent),Indonesia,1995,8.2
-360,GDP real rates of growth (percent),Indonesia,2005,5.7
-360,GDP real rates of growth (percent),Indonesia,2010,6.2
-360,GDP real rates of growth (percent),Indonesia,2015,4.9
-360,GDP real rates of growth (percent),Indonesia,2016,5.0
-360,GDP real rates of growth (percent),Indonesia,2017,5.1
 364,GDP (millions of $),Iran (Islamic Republic of),1985,76257.0
 364,GDP (millions of $),Iran (Islamic Republic of),1995,114364.0
 364,GDP (millions of $),Iran (Islamic Republic of),2005,226452.0
@@ -3297,13 +2478,6 @@ Country ID,Source Data,Country Name,Year,GDP
 364,GDP in 2010 dollars ($),Iran (Islamic Republic of),2015,480662.0
 364,GDP in 2010 dollars ($),Iran (Islamic Republic of),2016,545053.0
 364,GDP in 2010 dollars ($),Iran (Islamic Republic of),2017,565521.0
-364,GDP real rates of growth (percent),Iran (Islamic Republic of),1985,1.9
-364,GDP real rates of growth (percent),Iran (Islamic Republic of),1995,2.4
-364,GDP real rates of growth (percent),Iran (Islamic Republic of),2005,3.2
-364,GDP real rates of growth (percent),Iran (Islamic Republic of),2010,5.8
-364,GDP real rates of growth (percent),Iran (Islamic Republic of),2015,-1.3
-364,GDP real rates of growth (percent),Iran (Islamic Republic of),2016,13.4
-364,GDP real rates of growth (percent),Iran (Islamic Republic of),2017,3.8
 368,GDP (millions of $),Iraq,1985,12074.0
 368,GDP (millions of $),Iraq,1995,3477.0
 368,GDP (millions of $),Iraq,2005,36268.0
@@ -3325,13 +2499,6 @@ Country ID,Source Data,Country Name,Year,GDP
 368,GDP in 2010 dollars ($),Iraq,2015,190599.0
 368,GDP in 2010 dollars ($),Iraq,2016,208842.0
 368,GDP in 2010 dollars ($),Iraq,2017,210990.0
-368,GDP real rates of growth (percent),Iraq,1985,0.0
-368,GDP real rates of growth (percent),Iraq,1995,-18.3
-368,GDP real rates of growth (percent),Iraq,2005,4.4
-368,GDP real rates of growth (percent),Iraq,2010,5.5
-368,GDP real rates of growth (percent),Iraq,2015,3.8
-368,GDP real rates of growth (percent),Iraq,2016,9.6
-368,GDP real rates of growth (percent),Iraq,2017,1.0
 372,GDP (millions of $),Ireland,1985,21296.0
 372,GDP (millions of $),Ireland,1995,69225.0
 372,GDP (millions of $),Ireland,2005,211644.0
@@ -3353,13 +2520,6 @@ Country ID,Source Data,Country Name,Year,GDP
 372,GDP in 2010 dollars ($),Ireland,2015,316887.0
 372,GDP in 2010 dollars ($),Ireland,2016,332635.0
 372,GDP in 2010 dollars ($),Ireland,2017,358589.0
-372,GDP real rates of growth (percent),Ireland,1985,3.1
-372,GDP real rates of growth (percent),Ireland,1995,9.6
-372,GDP real rates of growth (percent),Ireland,2005,6.0
-372,GDP real rates of growth (percent),Ireland,2010,1.8
-372,GDP real rates of growth (percent),Ireland,2015,25.8
-372,GDP real rates of growth (percent),Ireland,2016,5.0
-372,GDP real rates of growth (percent),Ireland,2017,7.8
 376,GDP (millions of $),Israel,1985,27379.0
 376,GDP (millions of $),Israel,1995,100239.0
 376,GDP (millions of $),Israel,2005,142411.0
@@ -3381,13 +2541,6 @@ Country ID,Source Data,Country Name,Year,GDP
 376,GDP in 2010 dollars ($),Israel,2015,279247.0
 376,GDP in 2010 dollars ($),Israel,2016,290439.0
 376,GDP in 2010 dollars ($),Israel,2017,300480.0
-376,GDP real rates of growth (percent),Israel,1985,4.0
-376,GDP real rates of growth (percent),Israel,1995,8.7
-376,GDP real rates of growth (percent),Israel,2005,4.1
-376,GDP real rates of growth (percent),Israel,2010,5.5
-376,GDP real rates of growth (percent),Israel,2015,2.6
-376,GDP real rates of growth (percent),Israel,2016,4.0
-376,GDP real rates of growth (percent),Israel,2017,3.5
 380,GDP (millions of $),Italy,1985,450706.0
 380,GDP (millions of $),Italy,1995,1170824.0
 380,GDP (millions of $),Italy,2005,1852616.0
@@ -3409,13 +2562,6 @@ Country ID,Source Data,Country Name,Year,GDP
 380,GDP in 2010 dollars ($),Italy,2015,2062368.0
 380,GDP in 2010 dollars ($),Italy,2016,2085992.0
 380,GDP in 2010 dollars ($),Italy,2017,2118779.0
-380,GDP real rates of growth (percent),Italy,1985,2.8
-380,GDP real rates of growth (percent),Italy,1995,2.9
-380,GDP real rates of growth (percent),Italy,2005,0.9
-380,GDP real rates of growth (percent),Italy,2010,1.7
-380,GDP real rates of growth (percent),Italy,2015,0.9
-380,GDP real rates of growth (percent),Italy,2016,1.1
-380,GDP real rates of growth (percent),Italy,2017,1.6
 388,GDP (millions of $),Jamaica,1985,2605.0
 388,GDP (millions of $),Jamaica,1995,6578.0
 388,GDP (millions of $),Jamaica,2005,11244.0
@@ -3437,13 +2583,6 @@ Country ID,Source Data,Country Name,Year,GDP
 388,GDP in 2010 dollars ($),Jamaica,2015,13643.0
 388,GDP in 2010 dollars ($),Jamaica,2016,13837.0
 388,GDP in 2010 dollars ($),Jamaica,2017,13972.0
-388,GDP real rates of growth (percent),Jamaica,1985,-4.6
-388,GDP real rates of growth (percent),Jamaica,1995,1.0
-388,GDP real rates of growth (percent),Jamaica,2005,0.9
-388,GDP real rates of growth (percent),Jamaica,2010,-1.5
-388,GDP real rates of growth (percent),Jamaica,2015,0.9
-388,GDP real rates of growth (percent),Jamaica,2016,1.4
-388,GDP real rates of growth (percent),Jamaica,2017,1.0
 392,GDP (millions of $),Japan,1985,1398893.0
 392,GDP (millions of $),Japan,1995,5449118.0
 392,GDP (millions of $),Japan,2005,4755410.0
@@ -3465,13 +2604,6 @@ Country ID,Source Data,Country Name,Year,GDP
 392,GDP in 2010 dollars ($),Japan,2015,5996414.0
 392,GDP in 2010 dollars ($),Japan,2016,6052672.0
 392,GDP in 2010 dollars ($),Japan,2017,6157659.0
-392,GDP real rates of growth (percent),Japan,1985,5.2
-392,GDP real rates of growth (percent),Japan,1995,2.7
-392,GDP real rates of growth (percent),Japan,2005,1.7
-392,GDP real rates of growth (percent),Japan,2010,4.2
-392,GDP real rates of growth (percent),Japan,2015,1.4
-392,GDP real rates of growth (percent),Japan,2016,0.9
-392,GDP real rates of growth (percent),Japan,2017,1.7
 400,GDP (millions of $),Jordan,1985,5173.0
 400,GDP (millions of $),Jordan,1995,6802.0
 400,GDP (millions of $),Jordan,2005,12720.0
@@ -3493,13 +2625,6 @@ Country ID,Source Data,Country Name,Year,GDP
 400,GDP in 2010 dollars ($),Jordan,2015,30218.0
 400,GDP in 2010 dollars ($),Jordan,2016,30844.0
 400,GDP in 2010 dollars ($),Jordan,2017,31496.0
-400,GDP real rates of growth (percent),Jordan,1985,-2.7
-400,GDP real rates of growth (percent),Jordan,1995,6.2
-400,GDP real rates of growth (percent),Jordan,2005,8.1
-400,GDP real rates of growth (percent),Jordan,2010,2.7
-400,GDP real rates of growth (percent),Jordan,2015,2.6
-400,GDP real rates of growth (percent),Jordan,2016,2.1
-400,GDP real rates of growth (percent),Jordan,2017,2.1
 398,GDP (millions of $),Kazakhstan,1995,20563.0
 398,GDP (millions of $),Kazakhstan,2005,57124.0
 398,GDP (millions of $),Kazakhstan,2010,148047.0
@@ -3518,12 +2643,6 @@ Country ID,Source Data,Country Name,Year,GDP
 398,GDP in 2010 dollars ($),Kazakhstan,2015,188652.0
 398,GDP in 2010 dollars ($),Kazakhstan,2016,190714.0
 398,GDP in 2010 dollars ($),Kazakhstan,2017,198400.0
-398,GDP real rates of growth (percent),Kazakhstan,1995,-8.2
-398,GDP real rates of growth (percent),Kazakhstan,2005,9.7
-398,GDP real rates of growth (percent),Kazakhstan,2010,7.3
-398,GDP real rates of growth (percent),Kazakhstan,2015,1.2
-398,GDP real rates of growth (percent),Kazakhstan,2016,1.1
-398,GDP real rates of growth (percent),Kazakhstan,2017,4.0
 404,GDP (millions of $),Kenya,1985,9110.0
 404,GDP (millions of $),Kenya,1995,13428.0
 404,GDP (millions of $),Kenya,2005,21506.0
@@ -3545,13 +2664,6 @@ Country ID,Source Data,Country Name,Year,GDP
 404,GDP in 2010 dollars ($),Kenya,2015,52339.0
 404,GDP in 2010 dollars ($),Kenya,2016,55410.0
 404,GDP in 2010 dollars ($),Kenya,2017,58117.0
-404,GDP real rates of growth (percent),Kenya,1985,4.3
-404,GDP real rates of growth (percent),Kenya,1995,4.4
-404,GDP real rates of growth (percent),Kenya,2005,5.9
-404,GDP real rates of growth (percent),Kenya,2010,8.4
-404,GDP real rates of growth (percent),Kenya,2015,5.7
-404,GDP real rates of growth (percent),Kenya,2016,5.9
-404,GDP real rates of growth (percent),Kenya,2017,4.9
 296,GDP (millions of $),Kiribati,1985,30.0
 296,GDP (millions of $),Kiribati,1995,56.0
 296,GDP (millions of $),Kiribati,2005,112.0
@@ -3573,13 +2685,6 @@ Country ID,Source Data,Country Name,Year,GDP
 296,GDP in 2010 dollars ($),Kiribati,2015,190.0
 296,GDP in 2010 dollars ($),Kiribati,2016,192.0
 296,GDP in 2010 dollars ($),Kiribati,2017,198.0
-296,GDP real rates of growth (percent),Kiribati,1985,-4.6
-296,GDP real rates of growth (percent),Kiribati,1995,-0.6
-296,GDP real rates of growth (percent),Kiribati,2005,5.0
-296,GDP real rates of growth (percent),Kiribati,2010,-0.9
-296,GDP real rates of growth (percent),Kiribati,2015,10.3
-296,GDP real rates of growth (percent),Kiribati,2016,1.1
-296,GDP real rates of growth (percent),Kiribati,2017,3.1
 412,GDP (millions of $),Kosovo,1995,5304.0
 412,GDP (millions of $),Kosovo,2005,3680.0
 412,GDP (millions of $),Kosovo,2010,5830.0
@@ -3598,12 +2703,6 @@ Country ID,Source Data,Country Name,Year,GDP
 412,GDP in 2010 dollars ($),Kosovo,2015,6819.0
 412,GDP in 2010 dollars ($),Kosovo,2016,7096.0
 412,GDP in 2010 dollars ($),Kosovo,2017,7396.0
-412,GDP real rates of growth (percent),Kosovo,1995,8.1
-412,GDP real rates of growth (percent),Kosovo,2005,3.9
-412,GDP real rates of growth (percent),Kosovo,2010,3.3
-412,GDP real rates of growth (percent),Kosovo,2015,4.1
-412,GDP real rates of growth (percent),Kosovo,2016,4.1
-412,GDP real rates of growth (percent),Kosovo,2017,4.2
 414,GDP (millions of $),Kuwait,1985,21446.0
 414,GDP (millions of $),Kuwait,1995,26554.0
 414,GDP (millions of $),Kuwait,2005,80798.0
@@ -3625,13 +2724,6 @@ Country ID,Source Data,Country Name,Year,GDP
 414,GDP in 2010 dollars ($),Kuwait,2015,137959.0
 414,GDP in 2010 dollars ($),Kuwait,2016,141997.0
 414,GDP in 2010 dollars ($),Kuwait,2017,137054.0
-414,GDP real rates of growth (percent),Kuwait,1985,-4.3
-414,GDP real rates of growth (percent),Kuwait,1995,1.4
-414,GDP real rates of growth (percent),Kuwait,2005,10.6
-414,GDP real rates of growth (percent),Kuwait,2010,-2.4
-414,GDP real rates of growth (percent),Kuwait,2015,0.6
-414,GDP real rates of growth (percent),Kuwait,2016,2.9
-414,GDP real rates of growth (percent),Kuwait,2017,-3.5
 417,GDP (millions of $),Kyrgyzstan,1995,1492.0
 417,GDP (millions of $),Kyrgyzstan,2005,2460.0
 417,GDP (millions of $),Kyrgyzstan,2010,4794.0
@@ -3650,12 +2742,6 @@ Country ID,Source Data,Country Name,Year,GDP
 417,GDP in 2010 dollars ($),Kyrgyzstan,2015,6083.0
 417,GDP in 2010 dollars ($),Kyrgyzstan,2016,6347.0
 417,GDP in 2010 dollars ($),Kyrgyzstan,2017,6638.0
-417,GDP real rates of growth (percent),Kyrgyzstan,1995,-5.4
-417,GDP real rates of growth (percent),Kyrgyzstan,2005,-0.2
-417,GDP real rates of growth (percent),Kyrgyzstan,2010,-0.5
-417,GDP real rates of growth (percent),Kyrgyzstan,2015,3.9
-417,GDP real rates of growth (percent),Kyrgyzstan,2016,4.3
-417,GDP real rates of growth (percent),Kyrgyzstan,2017,4.6
 418,GDP (millions of $),Lao People's Dem. Rep.,1985,626.0
 418,GDP (millions of $),Lao People's Dem. Rep.,1995,1852.0
 418,GDP (millions of $),Lao People's Dem. Rep.,2005,2946.0
@@ -3677,13 +2763,6 @@ Country ID,Source Data,Country Name,Year,GDP
 418,GDP in 2010 dollars ($),Lao People's Dem. Rep.,2015,10631.0
 418,GDP in 2010 dollars ($),Lao People's Dem. Rep.,2016,11378.0
 418,GDP in 2010 dollars ($),Lao People's Dem. Rep.,2017,12162.0
-418,GDP real rates of growth (percent),Lao People's Dem. Rep.,1985,5.1
-418,GDP real rates of growth (percent),Lao People's Dem. Rep.,1995,7.5
-418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2005,6.8
-418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2010,8.1
-418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2015,7.3
-418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2016,7.0
-418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2017,6.9
 428,GDP (millions of $),Latvia,1995,5404.0
 428,GDP (millions of $),Latvia,2005,16922.0
 428,GDP (millions of $),Latvia,2010,23765.0
@@ -3702,12 +2781,6 @@ Country ID,Source Data,Country Name,Year,GDP
 428,GDP in 2010 dollars ($),Latvia,2015,28257.0
 428,GDP in 2010 dollars ($),Latvia,2016,28840.0
 428,GDP in 2010 dollars ($),Latvia,2017,30177.0
-428,GDP real rates of growth (percent),Latvia,1995,-1.1
-428,GDP real rates of growth (percent),Latvia,2005,10.7
-428,GDP real rates of growth (percent),Latvia,2010,-3.9
-428,GDP real rates of growth (percent),Latvia,2015,3.0
-428,GDP real rates of growth (percent),Latvia,2016,2.1
-428,GDP real rates of growth (percent),Latvia,2017,4.6
 422,GDP (millions of $),Lebanon,1985,2275.0
 422,GDP (millions of $),Lebanon,1995,11506.0
 422,GDP (millions of $),Lebanon,2005,21490.0
@@ -3729,13 +2802,6 @@ Country ID,Source Data,Country Name,Year,GDP
 422,GDP in 2010 dollars ($),Lebanon,2015,41813.0
 422,GDP in 2010 dollars ($),Lebanon,2016,42484.0
 422,GDP in 2010 dollars ($),Lebanon,2017,42719.0
-422,GDP real rates of growth (percent),Lebanon,1985,24.3
-422,GDP real rates of growth (percent),Lebanon,1995,6.5
-422,GDP real rates of growth (percent),Lebanon,2005,2.7
-422,GDP real rates of growth (percent),Lebanon,2010,8.0
-422,GDP real rates of growth (percent),Lebanon,2015,0.4
-422,GDP real rates of growth (percent),Lebanon,2016,1.6
-422,GDP real rates of growth (percent),Lebanon,2017,0.6
 426,GDP (millions of $),Lesotho,1985,297.0
 426,GDP (millions of $),Lesotho,1995,955.0
 426,GDP (millions of $),Lesotho,2005,1560.0
@@ -3757,13 +2823,6 @@ Country ID,Source Data,Country Name,Year,GDP
 426,GDP in 2010 dollars ($),Lesotho,2015,2911.0
 426,GDP in 2010 dollars ($),Lesotho,2016,2981.0
 426,GDP in 2010 dollars ($),Lesotho,2017,2934.0
-426,GDP real rates of growth (percent),Lesotho,1985,9.4
-426,GDP real rates of growth (percent),Lesotho,1995,4.6
-426,GDP real rates of growth (percent),Lesotho,2005,2.7
-426,GDP real rates of growth (percent),Lesotho,2010,6.1
-426,GDP real rates of growth (percent),Lesotho,2015,2.5
-426,GDP real rates of growth (percent),Lesotho,2016,2.4
-426,GDP real rates of growth (percent),Lesotho,2017,-1.6
 430,GDP (millions of $),Liberia,1985,1076.0
 430,GDP (millions of $),Liberia,1995,209.0
 430,GDP (millions of $),Liberia,2005,706.0
@@ -3785,13 +2844,6 @@ Country ID,Source Data,Country Name,Year,GDP
 430,GDP in 2010 dollars ($),Liberia,2015,1871.0
 430,GDP in 2010 dollars ($),Liberia,2016,1862.0
 430,GDP in 2010 dollars ($),Liberia,2017,1908.0
-430,GDP real rates of growth (percent),Liberia,1985,-2.0
-430,GDP real rates of growth (percent),Liberia,1995,-4.3
-430,GDP real rates of growth (percent),Liberia,2005,5.3
-430,GDP real rates of growth (percent),Liberia,2010,7.3
-430,GDP real rates of growth (percent),Liberia,2015,9.3
-430,GDP real rates of growth (percent),Liberia,2016,-0.5
-430,GDP real rates of growth (percent),Liberia,2017,2.5
 434,GDP (millions of $),Libya,1985,29887.0
 434,GDP (millions of $),Libya,1995,28292.0
 434,GDP (millions of $),Libya,2005,45451.0
@@ -3813,13 +2865,6 @@ Country ID,Source Data,Country Name,Year,GDP
 434,GDP in 2010 dollars ($),Libya,2015,9171.0
 434,GDP in 2010 dollars ($),Libya,2016,7695.0
 434,GDP in 2010 dollars ($),Libya,2017,12621.0
-434,GDP real rates of growth (percent),Libya,1985,8.3
-434,GDP real rates of growth (percent),Libya,1995,-2.2
-434,GDP real rates of growth (percent),Libya,2005,10.3
-434,GDP real rates of growth (percent),Libya,2010,4.3
-434,GDP real rates of growth (percent),Libya,2015,-45.5
-434,GDP real rates of growth (percent),Libya,2016,-16.1
-434,GDP real rates of growth (percent),Libya,2017,64.0
 438,GDP (millions of $),Liechtenstein,1985,681.0
 438,GDP (millions of $),Liechtenstein,1995,2695.0
 438,GDP (millions of $),Liechtenstein,2005,4046.0
@@ -3841,13 +2886,6 @@ Country ID,Source Data,Country Name,Year,GDP
 438,GDP in 2010 dollars ($),Liechtenstein,2015,5892.0
 438,GDP in 2010 dollars ($),Liechtenstein,2016,6007.0
 438,GDP in 2010 dollars ($),Liechtenstein,2017,6049.0
-438,GDP real rates of growth (percent),Liechtenstein,1985,7.0
-438,GDP real rates of growth (percent),Liechtenstein,1995,1.9
-438,GDP real rates of growth (percent),Liechtenstein,2005,4.8
-438,GDP real rates of growth (percent),Liechtenstein,2010,7.4
-438,GDP real rates of growth (percent),Liechtenstein,2015,0.0
-438,GDP real rates of growth (percent),Liechtenstein,2016,2.0
-438,GDP real rates of growth (percent),Liechtenstein,2017,0.7
 440,GDP (millions of $),Lithuania,1995,6702.0
 440,GDP (millions of $),Lithuania,2005,26141.0
 440,GDP (millions of $),Lithuania,2010,37130.0
@@ -3866,12 +2904,6 @@ Country ID,Source Data,Country Name,Year,GDP
 440,GDP in 2010 dollars ($),Lithuania,2015,44693.0
 440,GDP in 2010 dollars ($),Lithuania,2016,45745.0
 440,GDP in 2010 dollars ($),Lithuania,2017,47639.0
-440,GDP real rates of growth (percent),Lithuania,1995,3.3
-440,GDP real rates of growth (percent),Lithuania,2005,7.7
-440,GDP real rates of growth (percent),Lithuania,2010,1.6
-440,GDP real rates of growth (percent),Lithuania,2015,2.0
-440,GDP real rates of growth (percent),Lithuania,2016,2.4
-440,GDP real rates of growth (percent),Lithuania,2017,4.1
 442,GDP (millions of $),Luxembourg,1985,4738.0
 442,GDP (millions of $),Luxembourg,1995,21588.0
 442,GDP (millions of $),Luxembourg,2005,37346.0
@@ -3893,13 +2925,6 @@ Country ID,Source Data,Country Name,Year,GDP
 442,GDP in 2010 dollars ($),Luxembourg,2015,61082.0
 442,GDP in 2010 dollars ($),Luxembourg,2016,62555.0
 442,GDP in 2010 dollars ($),Luxembourg,2017,63522.0
-442,GDP real rates of growth (percent),Luxembourg,1985,2.8
-442,GDP real rates of growth (percent),Luxembourg,1995,1.4
-442,GDP real rates of growth (percent),Luxembourg,2005,3.2
-442,GDP real rates of growth (percent),Luxembourg,2010,4.9
-442,GDP real rates of growth (percent),Luxembourg,2015,3.9
-442,GDP real rates of growth (percent),Luxembourg,2016,2.4
-442,GDP real rates of growth (percent),Luxembourg,2017,1.5
 450,GDP (millions of $),Madagascar,1985,2791.0
 450,GDP (millions of $),Madagascar,1995,3726.0
 450,GDP (millions of $),Madagascar,2005,5942.0
@@ -3921,13 +2946,6 @@ Country ID,Source Data,Country Name,Year,GDP
 450,GDP in 2010 dollars ($),Madagascar,2015,11659.0
 450,GDP in 2010 dollars ($),Madagascar,2016,12129.0
 450,GDP in 2010 dollars ($),Madagascar,2017,12275.0
-450,GDP real rates of growth (percent),Madagascar,1985,1.2
-450,GDP real rates of growth (percent),Madagascar,1995,1.7
-450,GDP real rates of growth (percent),Madagascar,2005,4.6
-450,GDP real rates of growth (percent),Madagascar,2010,0.7
-450,GDP real rates of growth (percent),Madagascar,2015,3.5
-450,GDP real rates of growth (percent),Madagascar,2016,4.0
-450,GDP real rates of growth (percent),Madagascar,2017,1.2
 454,GDP (millions of $),Malawi,1985,2028.0
 454,GDP (millions of $),Malawi,1995,2474.0
 454,GDP (millions of $),Malawi,2005,3656.0
@@ -3949,13 +2967,6 @@ Country ID,Source Data,Country Name,Year,GDP
 454,GDP in 2010 dollars ($),Malawi,2015,8453.0
 454,GDP in 2010 dollars ($),Malawi,2016,8681.0
 454,GDP in 2010 dollars ($),Malawi,2017,9122.0
-454,GDP real rates of growth (percent),Malawi,1985,4.7
-454,GDP real rates of growth (percent),Malawi,1995,9.0
-454,GDP real rates of growth (percent),Malawi,2005,3.3
-454,GDP real rates of growth (percent),Malawi,2010,5.5
-454,GDP real rates of growth (percent),Malawi,2015,3.3
-454,GDP real rates of growth (percent),Malawi,2016,2.7
-454,GDP real rates of growth (percent),Malawi,2017,5.1
 458,GDP (millions of $),Malaysia,1985,31200.0
 458,GDP (millions of $),Malaysia,1995,88833.0
 458,GDP (millions of $),Malaysia,2005,143534.0
@@ -3977,13 +2988,6 @@ Country ID,Source Data,Country Name,Year,GDP
 458,GDP in 2010 dollars ($),Malaysia,2015,330323.0
 458,GDP in 2010 dollars ($),Malaysia,2016,344274.0
 458,GDP in 2010 dollars ($),Malaysia,2017,364575.0
-458,GDP real rates of growth (percent),Malaysia,1985,-1.1
-458,GDP real rates of growth (percent),Malaysia,1995,9.8
-458,GDP real rates of growth (percent),Malaysia,2005,5.3
-458,GDP real rates of growth (percent),Malaysia,2010,7.4
-458,GDP real rates of growth (percent),Malaysia,2015,5.1
-458,GDP real rates of growth (percent),Malaysia,2016,4.2
-458,GDP real rates of growth (percent),Malaysia,2017,5.9
 462,GDP (millions of $),Maldives,1985,166.0
 462,GDP (millions of $),Maldives,1995,566.0
 462,GDP (millions of $),Maldives,2005,1163.0
@@ -4005,13 +3009,6 @@ Country ID,Source Data,Country Name,Year,GDP
 462,GDP in 2010 dollars ($),Maldives,2015,3413.0
 462,GDP in 2010 dollars ($),Maldives,2016,3661.0
 462,GDP in 2010 dollars ($),Maldives,2017,3914.0
-462,GDP real rates of growth (percent),Maldives,1985,13.0
-462,GDP real rates of growth (percent),Maldives,1995,7.1
-462,GDP real rates of growth (percent),Maldives,2005,-13.1
-462,GDP real rates of growth (percent),Maldives,2010,7.3
-462,GDP real rates of growth (percent),Maldives,2015,2.9
-462,GDP real rates of growth (percent),Maldives,2016,7.3
-462,GDP real rates of growth (percent),Maldives,2017,6.9
 466,GDP (millions of $),Mali,1985,1260.0
 466,GDP (millions of $),Mali,1995,2837.0
 466,GDP (millions of $),Mali,2005,6245.0
@@ -4033,13 +3030,6 @@ Country ID,Source Data,Country Name,Year,GDP
 466,GDP in 2010 dollars ($),Mali,2015,15885.0
 466,GDP in 2010 dollars ($),Mali,2016,17275.0
 466,GDP in 2010 dollars ($),Mali,2017,18474.0
-466,GDP real rates of growth (percent),Mali,1985,8.5
-466,GDP real rates of growth (percent),Mali,1995,37.2
-466,GDP real rates of growth (percent),Mali,2005,10.4
-466,GDP real rates of growth (percent),Mali,2010,10.9
-466,GDP real rates of growth (percent),Mali,2015,7.6
-466,GDP real rates of growth (percent),Mali,2016,8.8
-466,GDP real rates of growth (percent),Mali,2017,6.9
 470,GDP (millions of $),Malta,1985,1156.0
 470,GDP (millions of $),Malta,1995,3697.0
 470,GDP (millions of $),Malta,2005,6393.0
@@ -4061,13 +3051,6 @@ Country ID,Source Data,Country Name,Year,GDP
 470,GDP in 2010 dollars ($),Malta,2015,11272.0
 470,GDP in 2010 dollars ($),Malta,2016,11860.0
 470,GDP in 2010 dollars ($),Malta,2017,12653.0
-470,GDP real rates of growth (percent),Malta,1985,2.6
-470,GDP real rates of growth (percent),Malta,1995,6.3
-470,GDP real rates of growth (percent),Malta,2005,3.8
-470,GDP real rates of growth (percent),Malta,2010,3.5
-470,GDP real rates of growth (percent),Malta,2015,9.5
-470,GDP real rates of growth (percent),Malta,2016,5.2
-470,GDP real rates of growth (percent),Malta,2017,6.7
 584,GDP (millions of $),Marshall Islands,1985,44.0
 584,GDP (millions of $),Marshall Islands,1995,121.0
 584,GDP (millions of $),Marshall Islands,2005,138.0
@@ -4089,13 +3072,6 @@ Country ID,Source Data,Country Name,Year,GDP
 584,GDP in 2010 dollars ($),Marshall Islands,2015,177.0
 584,GDP in 2010 dollars ($),Marshall Islands,2016,179.0
 584,GDP in 2010 dollars ($),Marshall Islands,2017,183.0
-584,GDP real rates of growth (percent),Marshall Islands,1985,-6.3
-584,GDP real rates of growth (percent),Marshall Islands,1995,8.2
-584,GDP real rates of growth (percent),Marshall Islands,2005,2.9
-584,GDP real rates of growth (percent),Marshall Islands,2010,6.4
-584,GDP real rates of growth (percent),Marshall Islands,2015,0.6
-584,GDP real rates of growth (percent),Marshall Islands,2016,0.9
-584,GDP real rates of growth (percent),Marshall Islands,2017,2.5
 478,GDP (millions of $),Mauritania,1985,1085.0
 478,GDP (millions of $),Mauritania,1995,1681.0
 478,GDP (millions of $),Mauritania,2005,2184.0
@@ -4117,13 +3093,6 @@ Country ID,Source Data,Country Name,Year,GDP
 478,GDP in 2010 dollars ($),Mauritania,2015,5432.0
 478,GDP in 2010 dollars ($),Mauritania,2016,5524.0
 478,GDP in 2010 dollars ($),Mauritania,2017,5716.0
-478,GDP real rates of growth (percent),Mauritania,1985,3.4
-478,GDP real rates of growth (percent),Mauritania,1995,-2.4
-478,GDP real rates of growth (percent),Mauritania,2005,9.0
-478,GDP real rates of growth (percent),Mauritania,2010,4.8
-478,GDP real rates of growth (percent),Mauritania,2015,0.9
-478,GDP real rates of growth (percent),Mauritania,2016,1.7
-478,GDP real rates of growth (percent),Mauritania,2017,3.5
 480,GDP (millions of $),Mauritius,1985,1152.0
 480,GDP (millions of $),Mauritius,1995,4273.0
 480,GDP (millions of $),Mauritius,2005,6775.0
@@ -4145,13 +3114,6 @@ Country ID,Source Data,Country Name,Year,GDP
 480,GDP in 2010 dollars ($),Mauritius,2015,11965.0
 480,GDP in 2010 dollars ($),Mauritius,2016,12425.0
 480,GDP in 2010 dollars ($),Mauritius,2017,12906.0
-480,GDP real rates of growth (percent),Mauritius,1985,6.9
-480,GDP real rates of growth (percent),Mauritius,1995,4.4
-480,GDP real rates of growth (percent),Mauritius,2005,1.8
-480,GDP real rates of growth (percent),Mauritius,2010,4.4
-480,GDP real rates of growth (percent),Mauritius,2015,3.6
-480,GDP real rates of growth (percent),Mauritius,2016,3.8
-480,GDP real rates of growth (percent),Mauritius,2017,3.9
 484,GDP (millions of $),Mexico,1985,224593.0
 484,GDP (millions of $),Mexico,1995,360073.0
 484,GDP (millions of $),Mexico,2005,877477.0
@@ -4173,13 +3135,6 @@ Country ID,Source Data,Country Name,Year,GDP
 484,GDP in 2010 dollars ($),Mexico,2015,1223115.0
 484,GDP in 2010 dollars ($),Mexico,2016,1258850.0
 484,GDP in 2010 dollars ($),Mexico,2017,1284904.0
-484,GDP real rates of growth (percent),Mexico,1985,2.8
-484,GDP real rates of growth (percent),Mexico,1995,-6.3
-484,GDP real rates of growth (percent),Mexico,2005,2.3
-484,GDP real rates of growth (percent),Mexico,2010,5.1
-484,GDP real rates of growth (percent),Mexico,2015,3.3
-484,GDP real rates of growth (percent),Mexico,2016,2.9
-484,GDP real rates of growth (percent),Mexico,2017,2.1
 583,GDP (millions of $),Micronesia (Fed. States of),1985,108.0
 583,GDP (millions of $),Micronesia (Fed. States of),1995,222.0
 583,GDP (millions of $),Micronesia (Fed. States of),2005,251.0
@@ -4201,13 +3156,6 @@ Country ID,Source Data,Country Name,Year,GDP
 583,GDP in 2010 dollars ($),Micronesia (Fed. States of),2015,296.0
 583,GDP in 2010 dollars ($),Micronesia (Fed. States of),2016,296.0
 583,GDP in 2010 dollars ($),Micronesia (Fed. States of),2017,302.0
-583,GDP real rates of growth (percent),Micronesia (Fed. States of),1985,16.6
-583,GDP real rates of growth (percent),Micronesia (Fed. States of),1995,4.2
-583,GDP real rates of growth (percent),Micronesia (Fed. States of),2005,2.1
-583,GDP real rates of growth (percent),Micronesia (Fed. States of),2010,2.0
-583,GDP real rates of growth (percent),Micronesia (Fed. States of),2015,4.9
-583,GDP real rates of growth (percent),Micronesia (Fed. States of),2016,-0.1
-583,GDP real rates of growth (percent),Micronesia (Fed. States of),2017,2.0
 492,GDP (millions of $),Monaco,1985,1059.0
 492,GDP (millions of $),Monaco,1995,3070.0
 492,GDP (millions of $),Monaco,2005,4203.0
@@ -4229,13 +3177,6 @@ Country ID,Source Data,Country Name,Year,GDP
 492,GDP in 2010 dollars ($),Monaco,2015,7146.0
 492,GDP in 2010 dollars ($),Monaco,2016,7375.0
 492,GDP in 2010 dollars ($),Monaco,2017,7376.0
-492,GDP real rates of growth (percent),Monaco,1985,1.6
-492,GDP real rates of growth (percent),Monaco,1995,2.1
-492,GDP real rates of growth (percent),Monaco,2005,1.6
-492,GDP real rates of growth (percent),Monaco,2010,2.2
-492,GDP real rates of growth (percent),Monaco,2015,4.9
-492,GDP real rates of growth (percent),Monaco,2016,3.2
-492,GDP real rates of growth (percent),Monaco,2017,0.0
 496,GDP (millions of $),Mongolia,1985,1218.0
 496,GDP (millions of $),Mongolia,1995,1678.0
 496,GDP (millions of $),Mongolia,2005,2926.0
@@ -4257,13 +3198,6 @@ Country ID,Source Data,Country Name,Year,GDP
 496,GDP in 2010 dollars ($),Mongolia,2015,11680.0
 496,GDP in 2010 dollars ($),Mongolia,2016,11817.0
 496,GDP in 2010 dollars ($),Mongolia,2017,12416.0
-496,GDP real rates of growth (percent),Mongolia,1985,5.7
-496,GDP real rates of growth (percent),Mongolia,1995,6.3
-496,GDP real rates of growth (percent),Mongolia,2005,7.3
-496,GDP real rates of growth (percent),Mongolia,2010,6.4
-496,GDP real rates of growth (percent),Mongolia,2015,2.4
-496,GDP real rates of growth (percent),Mongolia,2016,1.2
-496,GDP real rates of growth (percent),Mongolia,2017,5.1
 499,GDP (millions of $),Montenegro,1995,1215.0
 499,GDP (millions of $),Montenegro,2005,2279.0
 499,GDP (millions of $),Montenegro,2010,4139.0
@@ -4282,12 +3216,6 @@ Country ID,Source Data,Country Name,Year,GDP
 499,GDP in 2010 dollars ($),Montenegro,2015,4529.0
 499,GDP in 2010 dollars ($),Montenegro,2016,4663.0
 499,GDP in 2010 dollars ($),Montenegro,2017,4882.0
-499,GDP real rates of growth (percent),Montenegro,1995,14.3
-499,GDP real rates of growth (percent),Montenegro,2005,4.2
-499,GDP real rates of growth (percent),Montenegro,2010,2.7
-499,GDP real rates of growth (percent),Montenegro,2015,3.4
-499,GDP real rates of growth (percent),Montenegro,2016,2.9
-499,GDP real rates of growth (percent),Montenegro,2017,4.7
 500,GDP (millions of $),Montserrat,1985,44.0
 500,GDP (millions of $),Montserrat,1995,69.0
 500,GDP (millions of $),Montserrat,2005,49.0
@@ -4309,13 +3237,6 @@ Country ID,Source Data,Country Name,Year,GDP
 500,GDP in 2010 dollars ($),Montserrat,2015,64.0
 500,GDP in 2010 dollars ($),Montserrat,2016,64.0
 500,GDP in 2010 dollars ($),Montserrat,2017,62.0
-500,GDP real rates of growth (percent),Montserrat,1985,5.9
-500,GDP real rates of growth (percent),Montserrat,1995,-8.8
-500,GDP real rates of growth (percent),Montserrat,2005,3.1
-500,GDP real rates of growth (percent),Montserrat,2010,-2.8
-500,GDP real rates of growth (percent),Montserrat,2015,-1.9
-500,GDP real rates of growth (percent),Montserrat,2016,0.5
-500,GDP real rates of growth (percent),Montserrat,2017,-2.8
 504,GDP (millions of $),Morocco,1985,15111.0
 504,GDP (millions of $),Morocco,1995,38728.0
 504,GDP (millions of $),Morocco,2005,62545.0
@@ -4337,13 +3258,6 @@ Country ID,Source Data,Country Name,Year,GDP
 504,GDP in 2010 dollars ($),Morocco,2015,116048.0
 504,GDP in 2010 dollars ($),Morocco,2016,119853.0
 504,GDP in 2010 dollars ($),Morocco,2017,126561.0
-504,GDP real rates of growth (percent),Morocco,1985,6.3
-504,GDP real rates of growth (percent),Morocco,1995,-6.6
-504,GDP real rates of growth (percent),Morocco,2005,3.0
-504,GDP real rates of growth (percent),Morocco,2010,4.0
-504,GDP real rates of growth (percent),Morocco,2015,4.9
-504,GDP real rates of growth (percent),Morocco,2016,3.3
-504,GDP real rates of growth (percent),Morocco,2017,5.6
 508,GDP (millions of $),Mozambique,1985,8103.0
 508,GDP (millions of $),Mozambique,1995,2572.0
 508,GDP (millions of $),Mozambique,2005,7724.0
@@ -4365,13 +3279,6 @@ Country ID,Source Data,Country Name,Year,GDP
 508,GDP in 2010 dollars ($),Mozambique,2015,14308.0
 508,GDP in 2010 dollars ($),Mozambique,2016,14846.0
 508,GDP in 2010 dollars ($),Mozambique,2017,15401.0
-508,GDP real rates of growth (percent),Mozambique,1985,-8.8
-508,GDP real rates of growth (percent),Mozambique,1995,2.2
-508,GDP real rates of growth (percent),Mozambique,2005,8.7
-508,GDP real rates of growth (percent),Mozambique,2010,6.7
-508,GDP real rates of growth (percent),Mozambique,2015,6.6
-508,GDP real rates of growth (percent),Mozambique,2016,3.8
-508,GDP real rates of growth (percent),Mozambique,2017,3.7
 104,GDP (millions of $),Myanmar,1985,6607.0
 104,GDP (millions of $),Myanmar,1995,7764.0
 104,GDP (millions of $),Myanmar,2005,11931.0
@@ -4393,13 +3300,6 @@ Country ID,Source Data,Country Name,Year,GDP
 104,GDP in 2010 dollars ($),Myanmar,2015,58845.0
 104,GDP in 2010 dollars ($),Myanmar,2016,62312.0
 104,GDP in 2010 dollars ($),Myanmar,2017,66575.0
-104,GDP real rates of growth (percent),Myanmar,1985,2.9
-104,GDP real rates of growth (percent),Myanmar,1995,6.9
-104,GDP real rates of growth (percent),Myanmar,2005,13.6
-104,GDP real rates of growth (percent),Myanmar,2010,10.2
-104,GDP real rates of growth (percent),Myanmar,2015,7.0
-104,GDP real rates of growth (percent),Myanmar,2016,5.9
-104,GDP real rates of growth (percent),Myanmar,2017,6.8
 516,GDP (millions of $),Namibia,1985,1606.0
 516,GDP (millions of $),Namibia,1995,3942.0
 516,GDP (millions of $),Namibia,2005,7121.0
@@ -4421,13 +3321,6 @@ Country ID,Source Data,Country Name,Year,GDP
 516,GDP in 2010 dollars ($),Namibia,2015,14846.0
 516,GDP in 2010 dollars ($),Namibia,2016,14950.0
 516,GDP in 2010 dollars ($),Namibia,2017,14835.0
-516,GDP real rates of growth (percent),Namibia,1985,0.5
-516,GDP real rates of growth (percent),Namibia,1995,3.9
-516,GDP real rates of growth (percent),Namibia,2005,2.5
-516,GDP real rates of growth (percent),Namibia,2010,6.0
-516,GDP real rates of growth (percent),Namibia,2015,6.1
-516,GDP real rates of growth (percent),Namibia,2016,0.7
-516,GDP real rates of growth (percent),Namibia,2017,-0.8
 520,GDP (millions of $),Nauru,1985,33.0
 520,GDP (millions of $),Nauru,1995,35.0
 520,GDP (millions of $),Nauru,2005,26.0
@@ -4449,13 +3342,6 @@ Country ID,Source Data,Country Name,Year,GDP
 520,GDP in 2010 dollars ($),Nauru,2015,162.0
 520,GDP in 2010 dollars ($),Nauru,2016,178.0
 520,GDP in 2010 dollars ($),Nauru,2017,186.0
-520,GDP real rates of growth (percent),Nauru,1985,-2.8
-520,GDP real rates of growth (percent),Nauru,1995,-7.9
-520,GDP real rates of growth (percent),Nauru,2005,-12.1
-520,GDP real rates of growth (percent),Nauru,2010,20.1
-520,GDP real rates of growth (percent),Nauru,2015,2.8
-520,GDP real rates of growth (percent),Nauru,2016,10.4
-520,GDP real rates of growth (percent),Nauru,2017,4.0
 524,GDP (millions of $),Nepal,1985,2741.0
 524,GDP (millions of $),Nepal,1995,4534.0
 524,GDP (millions of $),Nepal,2005,8259.0
@@ -4477,13 +3363,6 @@ Country ID,Source Data,Country Name,Year,GDP
 524,GDP in 2010 dollars ($),Nepal,2015,20119.0
 524,GDP in 2010 dollars ($),Nepal,2016,20202.0
 524,GDP in 2010 dollars ($),Nepal,2017,21717.0
-524,GDP real rates of growth (percent),Nepal,1985,6.1
-524,GDP real rates of growth (percent),Nepal,1995,3.5
-524,GDP real rates of growth (percent),Nepal,2005,3.5
-524,GDP real rates of growth (percent),Nepal,2010,4.8
-524,GDP real rates of growth (percent),Nepal,2015,3.3
-524,GDP real rates of growth (percent),Nepal,2016,0.4
-524,GDP real rates of growth (percent),Nepal,2017,7.5
 528,GDP (millions of $),Netherlands,1985,143847.0
 528,GDP (millions of $),Netherlands,1995,452287.0
 528,GDP (millions of $),Netherlands,2005,685076.0
@@ -4505,13 +3384,6 @@ Country ID,Source Data,Country Name,Year,GDP
 528,GDP in 2010 dollars ($),Netherlands,2015,881474.0
 528,GDP in 2010 dollars ($),Netherlands,2016,900954.0
 528,GDP in 2010 dollars ($),Netherlands,2017,929444.0
-528,GDP real rates of growth (percent),Netherlands,1985,2.6
-528,GDP real rates of growth (percent),Netherlands,1995,3.1
-528,GDP real rates of growth (percent),Netherlands,2005,2.2
-528,GDP real rates of growth (percent),Netherlands,2010,1.4
-528,GDP real rates of growth (percent),Netherlands,2015,2.3
-528,GDP real rates of growth (percent),Netherlands,2016,2.2
-528,GDP real rates of growth (percent),Netherlands,2017,3.2
 530,GDP (millions of $),Netherlands Antilles [former],1985,1190.0
 530,GDP (millions of $),Netherlands Antilles [former],1995,2571.0
 530,GDP (millions of $),Netherlands Antilles [former],2005,3053.0
@@ -4524,10 +3396,6 @@ Country ID,Source Data,Country Name,Year,GDP
 530,GDP in 2010 dollars ($),Netherlands Antilles [former],1995,3522.0
 530,GDP in 2010 dollars ($),Netherlands Antilles [former],2005,3569.0
 530,GDP in 2010 dollars ($),Netherlands Antilles [former],2010,3848.0
-530,GDP real rates of growth (percent),Netherlands Antilles [former],1985,-2.1
-530,GDP real rates of growth (percent),Netherlands Antilles [former],1995,1.6
-530,GDP real rates of growth (percent),Netherlands Antilles [former],2005,1.1
-530,GDP real rates of growth (percent),Netherlands Antilles [former],2010,-0.3
 540,GDP (millions of $),New Caledonia,1985,855.0
 540,GDP (millions of $),New Caledonia,1995,3628.0
 540,GDP (millions of $),New Caledonia,2005,6236.0
@@ -4549,13 +3417,6 @@ Country ID,Source Data,Country Name,Year,GDP
 540,GDP in 2010 dollars ($),New Caledonia,2015,10834.0
 540,GDP in 2010 dollars ($),New Caledonia,2016,11157.0
 540,GDP in 2010 dollars ($),New Caledonia,2017,11458.0
-540,GDP real rates of growth (percent),New Caledonia,1985,4.5
-540,GDP real rates of growth (percent),New Caledonia,1995,5.9
-540,GDP real rates of growth (percent),New Caledonia,2005,3.6
-540,GDP real rates of growth (percent),New Caledonia,2010,6.9
-540,GDP real rates of growth (percent),New Caledonia,2015,3.6
-540,GDP real rates of growth (percent),New Caledonia,2016,3.0
-540,GDP real rates of growth (percent),New Caledonia,2017,2.7
 554,GDP (millions of $),New Zealand,1985,24108.0
 554,GDP (millions of $),New Zealand,1995,63151.0
 554,GDP (millions of $),New Zealand,2005,114721.0
@@ -4577,13 +3438,6 @@ Country ID,Source Data,Country Name,Year,GDP
 554,GDP in 2010 dollars ($),New Zealand,2015,170509.0
 554,GDP in 2010 dollars ($),New Zealand,2016,176499.0
 554,GDP in 2010 dollars ($),New Zealand,2017,181482.0
-554,GDP real rates of growth (percent),New Zealand,1985,1.6
-554,GDP real rates of growth (percent),New Zealand,1995,4.6
-554,GDP real rates of growth (percent),New Zealand,2005,3.3
-554,GDP real rates of growth (percent),New Zealand,2010,1.0
-554,GDP real rates of growth (percent),New Zealand,2015,4.5
-554,GDP real rates of growth (percent),New Zealand,2016,3.5
-554,GDP real rates of growth (percent),New Zealand,2017,2.8
 558,GDP (millions of $),Nicaragua,1985,3598.0
 558,GDP (millions of $),Nicaragua,1995,4118.0
 558,GDP (millions of $),Nicaragua,2005,6300.0
@@ -4605,13 +3459,6 @@ Country ID,Source Data,Country Name,Year,GDP
 558,GDP in 2010 dollars ($),Nicaragua,2015,11423.0
 558,GDP in 2010 dollars ($),Nicaragua,2016,11955.0
 558,GDP in 2010 dollars ($),Nicaragua,2017,12537.0
-558,GDP real rates of growth (percent),Nicaragua,1985,-4.1
-558,GDP real rates of growth (percent),Nicaragua,1995,5.9
-558,GDP real rates of growth (percent),Nicaragua,2005,4.3
-558,GDP real rates of growth (percent),Nicaragua,2010,4.4
-558,GDP real rates of growth (percent),Nicaragua,2015,4.8
-558,GDP real rates of growth (percent),Nicaragua,2016,4.7
-558,GDP real rates of growth (percent),Nicaragua,2017,4.9
 562,GDP (millions of $),Niger,1985,1531.0
 562,GDP (millions of $),Niger,1995,1786.0
 562,GDP (millions of $),Niger,2005,3369.0
@@ -4633,13 +3480,6 @@ Country ID,Source Data,Country Name,Year,GDP
 562,GDP in 2010 dollars ($),Niger,2015,7726.0
 562,GDP in 2010 dollars ($),Niger,2016,8107.0
 562,GDP in 2010 dollars ($),Niger,2017,8504.0
-562,GDP real rates of growth (percent),Niger,1985,7.7
-562,GDP real rates of growth (percent),Niger,1995,3.3
-562,GDP real rates of growth (percent),Niger,2005,7.4
-562,GDP real rates of growth (percent),Niger,2010,8.4
-562,GDP real rates of growth (percent),Niger,2015,4.3
-562,GDP real rates of growth (percent),Niger,2016,4.9
-562,GDP real rates of growth (percent),Niger,2017,4.9
 566,GDP (millions of $),Nigeria,1985,178821.0
 566,GDP (millions of $),Nigeria,1995,49030.0
 566,GDP (millions of $),Nigeria,2005,180502.0
@@ -4661,13 +3501,6 @@ Country ID,Source Data,Country Name,Year,GDP
 566,GDP in 2010 dollars ($),Nigeria,2015,464282.0
 566,GDP in 2010 dollars ($),Nigeria,2016,456775.0
 566,GDP in 2010 dollars ($),Nigeria,2017,460496.0
-566,GDP real rates of growth (percent),Nigeria,1985,11.3
-566,GDP real rates of growth (percent),Nigeria,1995,2.1
-566,GDP real rates of growth (percent),Nigeria,2005,6.5
-566,GDP real rates of growth (percent),Nigeria,2010,7.8
-566,GDP real rates of growth (percent),Nigeria,2015,2.7
-566,GDP real rates of growth (percent),Nigeria,2016,-1.6
-566,GDP real rates of growth (percent),Nigeria,2017,0.8
 807,GDP (millions of $),North Macedonia,1995,4707.0
 807,GDP (millions of $),North Macedonia,2005,6259.0
 807,GDP (millions of $),North Macedonia,2010,9407.0
@@ -4686,12 +3519,6 @@ Country ID,Source Data,Country Name,Year,GDP
 807,GDP in 2010 dollars ($),North Macedonia,2015,10616.0
 807,GDP in 2010 dollars ($),North Macedonia,2016,10918.0
 807,GDP in 2010 dollars ($),North Macedonia,2017,10944.0
-807,GDP real rates of growth (percent),North Macedonia,1995,-1.1
-807,GDP real rates of growth (percent),North Macedonia,2005,4.7
-807,GDP real rates of growth (percent),North Macedonia,2010,3.4
-807,GDP real rates of growth (percent),North Macedonia,2015,3.9
-807,GDP real rates of growth (percent),North Macedonia,2016,2.8
-807,GDP real rates of growth (percent),North Macedonia,2017,0.2
 578,GDP (millions of $),Norway,1985,65417.0
 578,GDP (millions of $),Norway,1995,152028.0
 578,GDP (millions of $),Norway,2005,308722.0
@@ -4713,13 +3540,6 @@ Country ID,Source Data,Country Name,Year,GDP
 578,GDP in 2010 dollars ($),Norway,2015,467661.0
 578,GDP in 2010 dollars ($),Norway,2016,473214.0
 578,GDP in 2010 dollars ($),Norway,2017,482586.0
-578,GDP real rates of growth (percent),Norway,1985,5.6
-578,GDP real rates of growth (percent),Norway,1995,4.2
-578,GDP real rates of growth (percent),Norway,2005,2.6
-578,GDP real rates of growth (percent),Norway,2010,0.7
-578,GDP real rates of growth (percent),Norway,2015,2.0
-578,GDP real rates of growth (percent),Norway,2016,1.2
-578,GDP real rates of growth (percent),Norway,2017,2.0
 512,GDP (millions of $),Oman,1985,10281.0
 512,GDP (millions of $),Oman,1995,13650.0
 512,GDP (millions of $),Oman,2005,31082.0
@@ -4741,13 +3561,6 @@ Country ID,Source Data,Country Name,Year,GDP
 512,GDP in 2010 dollars ($),Oman,2015,71221.0
 512,GDP in 2010 dollars ($),Oman,2016,74768.0
 512,GDP in 2010 dollars ($),Oman,2017,74075.0
-512,GDP real rates of growth (percent),Oman,1985,14.5
-512,GDP real rates of growth (percent),Oman,1995,4.8
-512,GDP real rates of growth (percent),Oman,2005,2.5
-512,GDP real rates of growth (percent),Oman,2010,2.0
-512,GDP real rates of growth (percent),Oman,2015,4.7
-512,GDP real rates of growth (percent),Oman,2016,5.0
-512,GDP real rates of growth (percent),Oman,2017,-0.9
 586,GDP (millions of $),Pakistan,1985,38840.0
 586,GDP (millions of $),Pakistan,1995,77266.0
 586,GDP (millions of $),Pakistan,2005,117708.0
@@ -4769,13 +3582,6 @@ Country ID,Source Data,Country Name,Year,GDP
 586,GDP in 2010 dollars ($),Pakistan,2015,212404.0
 586,GDP in 2010 dollars ($),Pakistan,2016,224026.0
 586,GDP in 2010 dollars ($),Pakistan,2017,236748.0
-586,GDP real rates of growth (percent),Pakistan,1985,7.6
-586,GDP real rates of growth (percent),Pakistan,1995,5.0
-586,GDP real rates of growth (percent),Pakistan,2005,7.7
-586,GDP real rates of growth (percent),Pakistan,2010,1.6
-586,GDP real rates of growth (percent),Pakistan,2015,4.7
-586,GDP real rates of growth (percent),Pakistan,2016,5.5
-586,GDP real rates of growth (percent),Pakistan,2017,5.7
 585,GDP (millions of $),Palau,1985,41.0
 585,GDP (millions of $),Palau,1995,110.0
 585,GDP (millions of $),Palau,2005,191.0
@@ -4797,13 +3603,6 @@ Country ID,Source Data,Country Name,Year,GDP
 585,GDP in 2010 dollars ($),Palau,2015,225.0
 585,GDP in 2010 dollars ($),Palau,2016,225.0
 585,GDP in 2010 dollars ($),Palau,2017,217.0
-585,GDP real rates of growth (percent),Palau,1985,5.4
-585,GDP real rates of growth (percent),Palau,1995,10.0
-585,GDP real rates of growth (percent),Palau,2005,0.2
-585,GDP real rates of growth (percent),Palau,2010,-0.9
-585,GDP real rates of growth (percent),Palau,2015,10.1
-585,GDP real rates of growth (percent),Palau,2016,0.1
-585,GDP real rates of growth (percent),Palau,2017,-3.7
 591,GDP (millions of $),Panama,1985,5817.0
 591,GDP (millions of $),Panama,1995,9188.0
 591,GDP (millions of $),Panama,2005,15714.0
@@ -4825,13 +3624,6 @@ Country ID,Source Data,Country Name,Year,GDP
 591,GDP in 2010 dollars ($),Panama,2015,42661.0
 591,GDP in 2010 dollars ($),Panama,2016,44789.0
 591,GDP in 2010 dollars ($),Panama,2017,47188.0
-591,GDP real rates of growth (percent),Panama,1985,5.1
-591,GDP real rates of growth (percent),Panama,1995,1.8
-591,GDP real rates of growth (percent),Panama,2005,7.2
-591,GDP real rates of growth (percent),Panama,2010,5.8
-591,GDP real rates of growth (percent),Panama,2015,5.6
-591,GDP real rates of growth (percent),Panama,2016,5.0
-591,GDP real rates of growth (percent),Panama,2017,5.4
 598,GDP (millions of $),Papua New Guinea,1985,3682.0
 598,GDP (millions of $),Papua New Guinea,1995,7274.0
 598,GDP (millions of $),Papua New Guinea,2005,7312.0
@@ -4853,13 +3645,6 @@ Country ID,Source Data,Country Name,Year,GDP
 598,GDP in 2010 dollars ($),Papua New Guinea,2015,18771.0
 598,GDP in 2010 dollars ($),Papua New Guinea,2016,18648.0
 598,GDP in 2010 dollars ($),Papua New Guinea,2017,18373.0
-598,GDP real rates of growth (percent),Papua New Guinea,1985,3.6
-598,GDP real rates of growth (percent),Papua New Guinea,1995,-3.3
-598,GDP real rates of growth (percent),Papua New Guinea,2005,3.9
-598,GDP real rates of growth (percent),Papua New Guinea,2010,10.1
-598,GDP real rates of growth (percent),Papua New Guinea,2015,6.9
-598,GDP real rates of growth (percent),Papua New Guinea,2016,-0.7
-598,GDP real rates of growth (percent),Papua New Guinea,2017,-1.5
 600,GDP (millions of $),Paraguay,1985,4017.0
 600,GDP (millions of $),Paraguay,1995,8066.0
 600,GDP (millions of $),Paraguay,2005,8735.0
@@ -4881,13 +3666,6 @@ Country ID,Source Data,Country Name,Year,GDP
 600,GDP in 2010 dollars ($),Paraguay,2015,25402.0
 600,GDP in 2010 dollars ($),Paraguay,2016,26423.0
 600,GDP in 2010 dollars ($),Paraguay,2017,27553.0
-600,GDP real rates of growth (percent),Paraguay,1985,4.0
-600,GDP real rates of growth (percent),Paraguay,1995,5.4
-600,GDP real rates of growth (percent),Paraguay,2005,2.1
-600,GDP real rates of growth (percent),Paraguay,2010,13.1
-600,GDP real rates of growth (percent),Paraguay,2015,3.0
-600,GDP real rates of growth (percent),Paraguay,2016,4.0
-600,GDP real rates of growth (percent),Paraguay,2017,4.3
 604,GDP (millions of $),Peru,1985,14529.0
 604,GDP (millions of $),Peru,1995,53371.0
 604,GDP (millions of $),Peru,2005,76080.0
@@ -4909,13 +3687,6 @@ Country ID,Source Data,Country Name,Year,GDP
 604,GDP in 2010 dollars ($),Peru,2015,186291.0
 604,GDP in 2010 dollars ($),Peru,2016,193652.0
 604,GDP in 2010 dollars ($),Peru,2017,198546.0
-604,GDP real rates of growth (percent),Peru,1985,2.1
-604,GDP real rates of growth (percent),Peru,1995,7.4
-604,GDP real rates of growth (percent),Peru,2005,6.3
-604,GDP real rates of growth (percent),Peru,2010,8.3
-604,GDP real rates of growth (percent),Peru,2015,3.3
-604,GDP real rates of growth (percent),Peru,2016,4.0
-604,GDP real rates of growth (percent),Peru,2017,2.5
 608,GDP (millions of $),Philippines,1985,34052.0
 608,GDP (millions of $),Philippines,1995,82121.0
 608,GDP (millions of $),Philippines,2005,103072.0
@@ -4937,13 +3708,6 @@ Country ID,Source Data,Country Name,Year,GDP
 608,GDP in 2010 dollars ($),Philippines,2015,266056.0
 608,GDP in 2010 dollars ($),Philippines,2016,284349.0
 608,GDP in 2010 dollars ($),Philippines,2017,303356.0
-608,GDP real rates of growth (percent),Philippines,1985,-7.3
-608,GDP real rates of growth (percent),Philippines,1995,4.7
-608,GDP real rates of growth (percent),Philippines,2005,4.8
-608,GDP real rates of growth (percent),Philippines,2010,7.6
-608,GDP real rates of growth (percent),Philippines,2015,6.1
-608,GDP real rates of growth (percent),Philippines,2016,6.9
-608,GDP real rates of growth (percent),Philippines,2017,6.7
 616,GDP (millions of $),Poland,1985,73333.0
 616,GDP (millions of $),Poland,1995,142138.0
 616,GDP (millions of $),Poland,2005,306127.0
@@ -4965,13 +3729,6 @@ Country ID,Source Data,Country Name,Year,GDP
 616,GDP in 2010 dollars ($),Poland,2015,556361.0
 616,GDP in 2010 dollars ($),Poland,2016,573400.0
 616,GDP in 2010 dollars ($),Poland,2017,600956.0
-616,GDP real rates of growth (percent),Poland,1985,3.6
-616,GDP real rates of growth (percent),Poland,1995,7.0
-616,GDP real rates of growth (percent),Poland,2005,3.5
-616,GDP real rates of growth (percent),Poland,2010,3.6
-616,GDP real rates of growth (percent),Poland,2015,3.8
-616,GDP real rates of growth (percent),Poland,2016,3.1
-616,GDP real rates of growth (percent),Poland,2017,4.8
 620,GDP (millions of $),Portugal,1985,27118.0
 620,GDP (millions of $),Portugal,1995,118132.0
 620,GDP (millions of $),Portugal,2005,197300.0
@@ -4993,13 +3750,6 @@ Country ID,Source Data,Country Name,Year,GDP
 620,GDP in 2010 dollars ($),Portugal,2015,228052.0
 620,GDP in 2010 dollars ($),Portugal,2016,221988.0
 620,GDP in 2010 dollars ($),Portugal,2017,223971.0
-620,GDP real rates of growth (percent),Portugal,1985,2.8
-620,GDP real rates of growth (percent),Portugal,1995,4.3
-620,GDP real rates of growth (percent),Portugal,2005,0.8
-620,GDP real rates of growth (percent),Portugal,2010,1.9
-620,GDP real rates of growth (percent),Portugal,2015,1.8
-620,GDP real rates of growth (percent),Portugal,2016,-2.7
-620,GDP real rates of growth (percent),Portugal,2017,0.9
 630,GDP (millions of $),Puerto Rico,1985,20574.0
 630,GDP (millions of $),Puerto Rico,1995,43246.0
 630,GDP (millions of $),Puerto Rico,2005,83915.0
@@ -5021,13 +3771,6 @@ Country ID,Source Data,Country Name,Year,GDP
 630,GDP in 2010 dollars ($),Puerto Rico,2015,95579.0
 630,GDP in 2010 dollars ($),Puerto Rico,2016,94311.0
 630,GDP in 2010 dollars ($),Puerto Rico,2017,92067.0
-630,GDP real rates of growth (percent),Puerto Rico,1985,2.1
-630,GDP real rates of growth (percent),Puerto Rico,1995,4.5
-630,GDP real rates of growth (percent),Puerto Rico,2005,-2.0
-630,GDP real rates of growth (percent),Puerto Rico,2010,-0.4
-630,GDP real rates of growth (percent),Puerto Rico,2015,-1.0
-630,GDP real rates of growth (percent),Puerto Rico,2016,-1.3
-630,GDP real rates of growth (percent),Puerto Rico,2017,-2.4
 634,GDP (millions of $),Qatar,1985,6153.0
 634,GDP (millions of $),Qatar,1995,8138.0
 634,GDP (millions of $),Qatar,2005,44530.0
@@ -5049,13 +3792,6 @@ Country ID,Source Data,Country Name,Year,GDP
 634,GDP in 2010 dollars ($),Qatar,2015,166430.0
 634,GDP in 2010 dollars ($),Qatar,2016,170130.0
 634,GDP in 2010 dollars ($),Qatar,2017,172845.0
-634,GDP real rates of growth (percent),Qatar,1985,-2.1
-634,GDP real rates of growth (percent),Qatar,1995,2.4
-634,GDP real rates of growth (percent),Qatar,2005,7.5
-634,GDP real rates of growth (percent),Qatar,2010,16.7
-634,GDP real rates of growth (percent),Qatar,2015,3.6
-634,GDP real rates of growth (percent),Qatar,2016,2.2
-634,GDP real rates of growth (percent),Qatar,2017,1.6
 410,GDP (millions of $),Republic of Korea,1985,100273.0
 410,GDP (millions of $),Republic of Korea,1995,556129.0
 410,GDP (millions of $),Republic of Korea,2005,898137.0
@@ -5077,13 +3813,6 @@ Country ID,Source Data,Country Name,Year,GDP
 410,GDP in 2010 dollars ($),Republic of Korea,2015,1268781.0
 410,GDP in 2010 dollars ($),Republic of Korea,2016,1305948.0
 410,GDP in 2010 dollars ($),Republic of Korea,2017,1345946.0
-410,GDP real rates of growth (percent),Republic of Korea,1985,7.7
-410,GDP real rates of growth (percent),Republic of Korea,1995,9.6
-410,GDP real rates of growth (percent),Republic of Korea,2005,3.9
-410,GDP real rates of growth (percent),Republic of Korea,2010,6.5
-410,GDP real rates of growth (percent),Republic of Korea,2015,2.8
-410,GDP real rates of growth (percent),Republic of Korea,2016,2.9
-410,GDP real rates of growth (percent),Republic of Korea,2017,3.1
 498,GDP (millions of $),Republic of Moldova,1995,1767.0
 498,GDP (millions of $),Republic of Moldova,2005,2988.0
 498,GDP (millions of $),Republic of Moldova,2010,5812.0
@@ -5102,12 +3831,6 @@ Country ID,Source Data,Country Name,Year,GDP
 498,GDP in 2010 dollars ($),Republic of Moldova,2015,7034.0
 498,GDP in 2010 dollars ($),Republic of Moldova,2016,7349.0
 498,GDP in 2010 dollars ($),Republic of Moldova,2017,7681.0
-498,GDP real rates of growth (percent),Republic of Moldova,1995,-1.4
-498,GDP real rates of growth (percent),Republic of Moldova,2005,7.5
-498,GDP real rates of growth (percent),Republic of Moldova,2010,7.1
-498,GDP real rates of growth (percent),Republic of Moldova,2015,-0.4
-498,GDP real rates of growth (percent),Republic of Moldova,2016,4.5
-498,GDP real rates of growth (percent),Republic of Moldova,2017,4.5
 642,GDP (millions of $),Romania,1985,50742.0
 642,GDP (millions of $),Romania,1995,37657.0
 642,GDP (millions of $),Romania,2005,99699.0
@@ -5129,13 +3852,6 @@ Country ID,Source Data,Country Name,Year,GDP
 642,GDP in 2010 dollars ($),Romania,2015,191009.0
 642,GDP in 2010 dollars ($),Romania,2016,200217.0
 642,GDP in 2010 dollars ($),Romania,2017,214126.0
-642,GDP real rates of growth (percent),Romania,1985,-0.1
-642,GDP real rates of growth (percent),Romania,1995,7.1
-642,GDP real rates of growth (percent),Romania,2005,4.2
-642,GDP real rates of growth (percent),Romania,2010,-2.8
-642,GDP real rates of growth (percent),Romania,2015,4.0
-642,GDP real rates of growth (percent),Romania,2016,4.8
-642,GDP real rates of growth (percent),Romania,2017,6.9
 643,GDP (millions of $),Russian Federation,1995,402316.0
 643,GDP (millions of $),Russian Federation,2005,771495.0
 643,GDP (millions of $),Russian Federation,2010,1539845.0
@@ -5154,12 +3870,6 @@ Country ID,Source Data,Country Name,Year,GDP
 643,GDP in 2010 dollars ($),Russian Federation,2015,1663126.0
 643,GDP in 2010 dollars ($),Russian Federation,2016,1659801.0
 643,GDP in 2010 dollars ($),Russian Federation,2017,1685454.0
-643,GDP real rates of growth (percent),Russian Federation,1995,-4.1
-643,GDP real rates of growth (percent),Russian Federation,2005,6.4
-643,GDP real rates of growth (percent),Russian Federation,2010,4.5
-643,GDP real rates of growth (percent),Russian Federation,2015,-2.5
-643,GDP real rates of growth (percent),Russian Federation,2016,-0.2
-643,GDP real rates of growth (percent),Russian Federation,2017,1.5
 646,GDP (millions of $),Rwanda,1985,1813.0
 646,GDP (millions of $),Rwanda,1995,1230.0
 646,GDP (millions of $),Rwanda,2005,2581.0
@@ -5181,13 +3891,6 @@ Country ID,Source Data,Country Name,Year,GDP
 646,GDP in 2010 dollars ($),Rwanda,2015,8307.0
 646,GDP in 2010 dollars ($),Rwanda,2016,8804.0
 646,GDP in 2010 dollars ($),Rwanda,2017,9342.0
-646,GDP real rates of growth (percent),Rwanda,1985,4.4
-646,GDP real rates of growth (percent),Rwanda,1995,33.5
-646,GDP real rates of growth (percent),Rwanda,2005,9.4
-646,GDP real rates of growth (percent),Rwanda,2010,7.3
-646,GDP real rates of growth (percent),Rwanda,2015,8.9
-646,GDP real rates of growth (percent),Rwanda,2016,6.0
-646,GDP real rates of growth (percent),Rwanda,2017,6.1
 659,GDP (millions of $),Saint Kitts and Nevis,1985,106.0
 659,GDP (millions of $),Saint Kitts and Nevis,1995,300.0
 659,GDP (millions of $),Saint Kitts and Nevis,2005,543.0
@@ -5209,13 +3912,6 @@ Country ID,Source Data,Country Name,Year,GDP
 659,GDP in 2010 dollars ($),Saint Kitts and Nevis,2015,840.0
 659,GDP in 2010 dollars ($),Saint Kitts and Nevis,2016,859.0
 659,GDP in 2010 dollars ($),Saint Kitts and Nevis,2017,869.0
-659,GDP real rates of growth (percent),Saint Kitts and Nevis,1985,8.6
-659,GDP real rates of growth (percent),Saint Kitts and Nevis,1995,5.8
-659,GDP real rates of growth (percent),Saint Kitts and Nevis,2005,8.8
-659,GDP real rates of growth (percent),Saint Kitts and Nevis,2010,-2.2
-659,GDP real rates of growth (percent),Saint Kitts and Nevis,2015,4.0
-659,GDP real rates of growth (percent),Saint Kitts and Nevis,2016,2.2
-659,GDP real rates of growth (percent),Saint Kitts and Nevis,2017,1.2
 662,GDP (millions of $),Saint Lucia,1985,249.0
 662,GDP (millions of $),Saint Lucia,1995,617.0
 662,GDP (millions of $),Saint Lucia,2005,935.0
@@ -5237,13 +3933,6 @@ Country ID,Source Data,Country Name,Year,GDP
 662,GDP in 2010 dollars ($),Saint Lucia,2015,1439.0
 662,GDP in 2010 dollars ($),Saint Lucia,2016,1488.0
 662,GDP in 2010 dollars ($),Saint Lucia,2017,1532.0
-662,GDP real rates of growth (percent),Saint Lucia,1985,7.5
-662,GDP real rates of growth (percent),Saint Lucia,1995,1.1
-662,GDP real rates of growth (percent),Saint Lucia,2005,-1.7
-662,GDP real rates of growth (percent),Saint Lucia,2010,0.2
-662,GDP real rates of growth (percent),Saint Lucia,2015,-0.9
-662,GDP real rates of growth (percent),Saint Lucia,2016,3.4
-662,GDP real rates of growth (percent),Saint Lucia,2017,3.0
 670,GDP (millions of $),Saint Vincent & Grenadines,1985,133.0
 670,GDP (millions of $),Saint Vincent & Grenadines,1995,312.0
 670,GDP (millions of $),Saint Vincent & Grenadines,2005,551.0
@@ -5265,13 +3954,6 @@ Country ID,Source Data,Country Name,Year,GDP
 670,GDP in 2010 dollars ($),Saint Vincent & Grenadines,2015,720.0
 670,GDP in 2010 dollars ($),Saint Vincent & Grenadines,2016,729.0
 670,GDP in 2010 dollars ($),Saint Vincent & Grenadines,2017,734.0
-670,GDP real rates of growth (percent),Saint Vincent & Grenadines,1985,6.2
-670,GDP real rates of growth (percent),Saint Vincent & Grenadines,1995,7.5
-670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2005,2.5
-670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2010,-3.3
-670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2015,1.8
-670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2016,1.3
-670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2017,0.7
 882,GDP (millions of $),Samoa,1985,85.0
 882,GDP (millions of $),Samoa,1995,196.0
 882,GDP (millions of $),Samoa,2005,434.0
@@ -5293,13 +3975,6 @@ Country ID,Source Data,Country Name,Year,GDP
 882,GDP in 2010 dollars ($),Samoa,2015,725.0
 882,GDP in 2010 dollars ($),Samoa,2016,772.0
 882,GDP in 2010 dollars ($),Samoa,2017,769.0
-882,GDP real rates of growth (percent),Samoa,1985,3.9
-882,GDP real rates of growth (percent),Samoa,1995,6.0
-882,GDP real rates of growth (percent),Samoa,2005,5.1
-882,GDP real rates of growth (percent),Samoa,2010,4.3
-882,GDP real rates of growth (percent),Samoa,2015,2.9
-882,GDP real rates of growth (percent),Samoa,2016,6.5
-882,GDP real rates of growth (percent),Samoa,2017,-0.4
 674,GDP (millions of $),San Marino,1985,318.0
 674,GDP (millions of $),San Marino,1995,1020.0
 674,GDP (millions of $),San Marino,2005,2027.0
@@ -5321,13 +3996,6 @@ Country ID,Source Data,Country Name,Year,GDP
 674,GDP in 2010 dollars ($),San Marino,2015,1729.0
 674,GDP in 2010 dollars ($),San Marino,2016,1767.0
 674,GDP in 2010 dollars ($),San Marino,2017,1800.0
-674,GDP real rates of growth (percent),San Marino,1985,2.8
-674,GDP real rates of growth (percent),San Marino,1995,9.3
-674,GDP real rates of growth (percent),San Marino,2005,2.3
-674,GDP real rates of growth (percent),San Marino,2010,-4.6
-674,GDP real rates of growth (percent),San Marino,2015,0.5
-674,GDP real rates of growth (percent),San Marino,2016,2.2
-674,GDP real rates of growth (percent),San Marino,2017,1.9
 678,GDP (millions of $),Sao Tome and Principe,1985,79.0
 678,GDP (millions of $),Sao Tome and Principe,1995,99.0
 678,GDP (millions of $),Sao Tome and Principe,2005,126.0
@@ -5349,13 +4017,6 @@ Country ID,Source Data,Country Name,Year,GDP
 678,GDP in 2010 dollars ($),Sao Tome and Principe,2015,247.0
 678,GDP in 2010 dollars ($),Sao Tome and Principe,2016,257.0
 678,GDP in 2010 dollars ($),Sao Tome and Principe,2017,267.0
-678,GDP real rates of growth (percent),Sao Tome and Principe,1985,9.3
-678,GDP real rates of growth (percent),Sao Tome and Principe,1995,2.0
-678,GDP real rates of growth (percent),Sao Tome and Principe,2005,7.1
-678,GDP real rates of growth (percent),Sao Tome and Principe,2010,6.7
-678,GDP real rates of growth (percent),Sao Tome and Principe,2015,3.9
-678,GDP real rates of growth (percent),Sao Tome and Principe,2016,4.2
-678,GDP real rates of growth (percent),Sao Tome and Principe,2017,3.9
 682,GDP (millions of $),Saudi Arabia,1985,103894.0
 682,GDP (millions of $),Saudi Arabia,1995,143152.0
 682,GDP (millions of $),Saudi Arabia,2005,328461.0
@@ -5377,13 +4038,6 @@ Country ID,Source Data,Country Name,Year,GDP
 682,GDP in 2010 dollars ($),Saudi Arabia,2015,678730.0
 682,GDP in 2010 dollars ($),Saudi Arabia,2016,690069.0
 682,GDP in 2010 dollars ($),Saudi Arabia,2017,684994.0
-682,GDP real rates of growth (percent),Saudi Arabia,1985,-9.8
-682,GDP real rates of growth (percent),Saudi Arabia,1995,0.2
-682,GDP real rates of growth (percent),Saudi Arabia,2005,5.6
-682,GDP real rates of growth (percent),Saudi Arabia,2010,5.0
-682,GDP real rates of growth (percent),Saudi Arabia,2015,4.1
-682,GDP real rates of growth (percent),Saudi Arabia,2016,1.7
-682,GDP real rates of growth (percent),Saudi Arabia,2017,-0.7
 686,GDP (millions of $),Senegal,1985,3632.0
 686,GDP (millions of $),Senegal,1995,6306.0
 686,GDP (millions of $),Senegal,2005,11267.0
@@ -5405,13 +4059,6 @@ Country ID,Source Data,Country Name,Year,GDP
 686,GDP in 2010 dollars ($),Senegal,2015,20351.0
 686,GDP in 2010 dollars ($),Senegal,2016,21619.0
 686,GDP in 2010 dollars ($),Senegal,2017,23061.0
-686,GDP real rates of growth (percent),Senegal,1985,3.8
-686,GDP real rates of growth (percent),Senegal,1995,4.7
-686,GDP real rates of growth (percent),Senegal,2005,5.6
-686,GDP real rates of growth (percent),Senegal,2010,4.2
-686,GDP real rates of growth (percent),Senegal,2015,6.4
-686,GDP real rates of growth (percent),Senegal,2016,6.2
-686,GDP real rates of growth (percent),Senegal,2017,6.7
 688,GDP (millions of $),Serbia,1995,21823.0
 688,GDP (millions of $),Serbia,2005,26252.0
 688,GDP (millions of $),Serbia,2010,39460.0
@@ -5430,12 +4077,6 @@ Country ID,Source Data,Country Name,Year,GDP
 688,GDP in 2010 dollars ($),Serbia,2015,40184.0
 688,GDP in 2010 dollars ($),Serbia,2016,41308.0
 688,GDP in 2010 dollars ($),Serbia,2017,42155.0
-688,GDP real rates of growth (percent),Serbia,1995,5.7
-688,GDP real rates of growth (percent),Serbia,2005,5.5
-688,GDP real rates of growth (percent),Serbia,2010,0.6
-688,GDP real rates of growth (percent),Serbia,2015,0.8
-688,GDP real rates of growth (percent),Serbia,2016,2.8
-688,GDP real rates of growth (percent),Serbia,2017,2.0
 690,GDP (millions of $),Seychelles,1985,204.0
 690,GDP (millions of $),Seychelles,1995,614.0
 690,GDP (millions of $),Seychelles,2005,919.0
@@ -5457,13 +4098,6 @@ Country ID,Source Data,Country Name,Year,GDP
 690,GDP in 2010 dollars ($),Seychelles,2015,1232.0
 690,GDP in 2010 dollars ($),Seychelles,2016,1288.0
 690,GDP in 2010 dollars ($),Seychelles,2017,1368.0
-690,GDP real rates of growth (percent),Seychelles,1985,10.3
-690,GDP real rates of growth (percent),Seychelles,1995,-0.6
-690,GDP real rates of growth (percent),Seychelles,2005,9.0
-690,GDP real rates of growth (percent),Seychelles,2010,5.9
-690,GDP real rates of growth (percent),Seychelles,2015,4.9
-690,GDP real rates of growth (percent),Seychelles,2016,4.5
-690,GDP real rates of growth (percent),Seychelles,2017,6.3
 694,GDP (millions of $),Sierra Leone,1985,1376.0
 694,GDP (millions of $),Sierra Leone,1995,1179.0
 694,GDP (millions of $),Sierra Leone,2005,1650.0
@@ -5485,13 +4119,6 @@ Country ID,Source Data,Country Name,Year,GDP
 694,GDP in 2010 dollars ($),Sierra Leone,2015,3168.0
 694,GDP in 2010 dollars ($),Sierra Leone,2016,3369.0
 694,GDP in 2010 dollars ($),Sierra Leone,2017,3497.0
-694,GDP real rates of growth (percent),Sierra Leone,1985,2.3
-694,GDP real rates of growth (percent),Sierra Leone,1995,-10.0
-694,GDP real rates of growth (percent),Sierra Leone,2005,4.5
-694,GDP real rates of growth (percent),Sierra Leone,2010,5.3
-694,GDP real rates of growth (percent),Sierra Leone,2015,-20.5
-694,GDP real rates of growth (percent),Sierra Leone,2016,6.3
-694,GDP real rates of growth (percent),Sierra Leone,2017,3.8
 702,GDP (millions of $),Singapore,1985,18555.0
 702,GDP (millions of $),Singapore,1995,87892.0
 702,GDP (millions of $),Singapore,2005,127418.0
@@ -5513,13 +4140,6 @@ Country ID,Source Data,Country Name,Year,GDP
 702,GDP in 2010 dollars ($),Singapore,2015,292165.0
 702,GDP in 2010 dollars ($),Singapore,2016,299168.0
 702,GDP in 2010 dollars ($),Singapore,2017,309994.0
-702,GDP real rates of growth (percent),Singapore,1985,-0.7
-702,GDP real rates of growth (percent),Singapore,1995,7.0
-702,GDP real rates of growth (percent),Singapore,2005,7.5
-702,GDP real rates of growth (percent),Singapore,2010,15.2
-702,GDP real rates of growth (percent),Singapore,2015,2.2
-702,GDP real rates of growth (percent),Singapore,2016,2.4
-702,GDP real rates of growth (percent),Singapore,2017,3.6
 534,GDP (millions of $),Sint Maarten (Dutch part),2005,708.0
 534,GDP (millions of $),Sint Maarten (Dutch part),2010,896.0
 534,GDP (millions of $),Sint Maarten (Dutch part),2015,1066.0
@@ -5533,10 +4153,6 @@ Country ID,Source Data,Country Name,Year,GDP
 534,GDP in 2010 dollars ($),Sint Maarten (Dutch part),2015,942.0
 534,GDP in 2010 dollars ($),Sint Maarten (Dutch part),2016,947.0
 534,GDP in 2010 dollars ($),Sint Maarten (Dutch part),2017,867.0
-534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2010,1.1
-534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2015,0.5
-534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2016,0.4
-534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2017,-8.4
 703,GDP (millions of $),Slovakia,1995,19959.0
 703,GDP (millions of $),Slovakia,2005,48965.0
 703,GDP (millions of $),Slovakia,2010,89501.0
@@ -5555,12 +4171,6 @@ Country ID,Source Data,Country Name,Year,GDP
 703,GDP in 2010 dollars ($),Slovakia,2015,101628.0
 703,GDP in 2010 dollars ($),Slovakia,2016,104804.0
 703,GDP in 2010 dollars ($),Slovakia,2017,108145.0
-703,GDP real rates of growth (percent),Slovakia,1995,5.8
-703,GDP real rates of growth (percent),Slovakia,2005,6.8
-703,GDP real rates of growth (percent),Slovakia,2010,5.0
-703,GDP real rates of growth (percent),Slovakia,2015,4.2
-703,GDP real rates of growth (percent),Slovakia,2016,3.1
-703,GDP real rates of growth (percent),Slovakia,2017,3.2
 705,GDP (millions of $),Slovenia,1995,21274.0
 705,GDP (millions of $),Slovenia,2005,36345.0
 705,GDP (millions of $),Slovenia,2010,48014.0
@@ -5579,12 +4189,6 @@ Country ID,Source Data,Country Name,Year,GDP
 705,GDP in 2010 dollars ($),Slovenia,2015,48978.0
 705,GDP in 2010 dollars ($),Slovenia,2016,50481.0
 705,GDP in 2010 dollars ($),Slovenia,2017,52945.0
-705,GDP real rates of growth (percent),Slovenia,1995,4.1
-705,GDP real rates of growth (percent),Slovenia,2005,4.0
-705,GDP real rates of growth (percent),Slovenia,2010,1.2
-705,GDP real rates of growth (percent),Slovenia,2015,2.3
-705,GDP real rates of growth (percent),Slovenia,2016,3.1
-705,GDP real rates of growth (percent),Slovenia,2017,4.9
 90,GDP (millions of $),Solomon Islands,1985,160.0
 90,GDP (millions of $),Solomon Islands,1995,365.0
 90,GDP (millions of $),Solomon Islands,2005,429.0
@@ -5606,13 +4210,6 @@ Country ID,Source Data,Country Name,Year,GDP
 90,GDP in 2010 dollars ($),Solomon Islands,2015,849.0
 90,GDP in 2010 dollars ($),Solomon Islands,2016,878.0
 90,GDP in 2010 dollars ($),Solomon Islands,2017,909.0
-90,GDP real rates of growth (percent),Solomon Islands,1985,2.8
-90,GDP real rates of growth (percent),Solomon Islands,1995,10.0
-90,GDP real rates of growth (percent),Solomon Islands,2005,12.8
-90,GDP real rates of growth (percent),Solomon Islands,2010,10.6
-90,GDP real rates of growth (percent),Solomon Islands,2015,2.5
-90,GDP real rates of growth (percent),Solomon Islands,2016,3.5
-90,GDP real rates of growth (percent),Solomon Islands,2017,3.5
 706,GDP (millions of $),Somalia,1985,810.0
 706,GDP (millions of $),Somalia,1995,1122.0
 706,GDP (millions of $),Somalia,2005,2316.0
@@ -5634,12 +4231,6 @@ Country ID,Source Data,Country Name,Year,GDP
 706,GDP in 2010 dollars ($),Somalia,2015,1257.0
 706,GDP in 2010 dollars ($),Somalia,2016,1287.0
 706,GDP in 2010 dollars ($),Somalia,2017,1311.0
-706,GDP real rates of growth (percent),Somalia,1985,9.5
-706,GDP real rates of growth (percent),Somalia,2005,3.0
-706,GDP real rates of growth (percent),Somalia,2010,2.6
-706,GDP real rates of growth (percent),Somalia,2015,2.7
-706,GDP real rates of growth (percent),Somalia,2016,2.4
-706,GDP real rates of growth (percent),Somalia,2017,1.8
 710,GDP (millions of $),South Africa,1985,59648.0
 710,GDP (millions of $),South Africa,1995,157434.0
 710,GDP (millions of $),South Africa,2005,257772.0
@@ -5661,13 +4252,6 @@ Country ID,Source Data,Country Name,Year,GDP
 710,GDP in 2010 dollars ($),South Africa,2015,418897.0
 710,GDP in 2010 dollars ($),South Africa,2016,421265.0
 710,GDP in 2010 dollars ($),South Africa,2017,426826.0
-710,GDP real rates of growth (percent),South Africa,1985,-1.2
-710,GDP real rates of growth (percent),South Africa,1995,3.1
-710,GDP real rates of growth (percent),South Africa,2005,5.3
-710,GDP real rates of growth (percent),South Africa,2010,3.0
-710,GDP real rates of growth (percent),South Africa,2015,1.3
-710,GDP real rates of growth (percent),South Africa,2016,0.6
-710,GDP real rates of growth (percent),South Africa,2017,1.3
 728,GDP (millions of $),South Sudan,2010,15206.0
 728,GDP (millions of $),South Sudan,2015,13408.0
 728,GDP (millions of $),South Sudan,2016,6534.0
@@ -5680,10 +4264,6 @@ Country ID,Source Data,Country Name,Year,GDP
 728,GDP in 2010 dollars ($),South Sudan,2015,12556.0
 728,GDP in 2010 dollars ($),South Sudan,2016,12596.0
 728,GDP in 2010 dollars ($),South Sudan,2017,12755.0
-728,GDP real rates of growth (percent),South Sudan,2010,-1.8
-728,GDP real rates of growth (percent),South Sudan,2015,5.1
-728,GDP real rates of growth (percent),South Sudan,2016,0.3
-728,GDP real rates of growth (percent),South Sudan,2017,1.3
 724,GDP (millions of $),Spain,1985,180305.0
 724,GDP (millions of $),Spain,1995,612943.0
 724,GDP (millions of $),Spain,2005,1157248.0
@@ -5705,13 +4285,6 @@ Country ID,Source Data,Country Name,Year,GDP
 724,GDP in 2010 dollars ($),Spain,2015,1420987.0
 724,GDP in 2010 dollars ($),Spain,2016,1466069.0
 724,GDP in 2010 dollars ($),Spain,2017,1509746.0
-724,GDP real rates of growth (percent),Spain,1985,2.3
-724,GDP real rates of growth (percent),Spain,1995,2.8
-724,GDP real rates of growth (percent),Spain,2005,3.7
-724,GDP real rates of growth (percent),Spain,2010,0.0
-724,GDP real rates of growth (percent),Spain,2015,3.6
-724,GDP real rates of growth (percent),Spain,2016,3.2
-724,GDP real rates of growth (percent),Spain,2017,3.0
 144,GDP (millions of $),Sri Lanka,1985,6873.0
 144,GDP (millions of $),Sri Lanka,1995,15293.0
 144,GDP (millions of $),Sri Lanka,2005,27932.0
@@ -5733,13 +4306,6 @@ Country ID,Source Data,Country Name,Year,GDP
 144,GDP in 2010 dollars ($),Sri Lanka,2015,76486.0
 144,GDP in 2010 dollars ($),Sri Lanka,2016,79904.0
 144,GDP in 2010 dollars ($),Sri Lanka,2017,82548.0
-144,GDP real rates of growth (percent),Sri Lanka,1985,5.0
-144,GDP real rates of growth (percent),Sri Lanka,1995,5.5
-144,GDP real rates of growth (percent),Sri Lanka,2005,6.2
-144,GDP real rates of growth (percent),Sri Lanka,2010,8.0
-144,GDP real rates of growth (percent),Sri Lanka,2015,5.0
-144,GDP real rates of growth (percent),Sri Lanka,2016,4.5
-144,GDP real rates of growth (percent),Sri Lanka,2017,3.3
 275,GDP (millions of $),State of Palestine,1985,1005.0
 275,GDP (millions of $),State of Palestine,1995,3283.0
 275,GDP (millions of $),State of Palestine,2005,4832.0
@@ -5761,13 +4327,6 @@ Country ID,Source Data,Country Name,Year,GDP
 275,GDP in 2010 dollars ($),State of Palestine,2015,11238.0
 275,GDP in 2010 dollars ($),State of Palestine,2016,11767.0
 275,GDP in 2010 dollars ($),State of Palestine,2017,12137.0
-275,GDP real rates of growth (percent),State of Palestine,1985,-0.6
-275,GDP real rates of growth (percent),State of Palestine,1995,7.1
-275,GDP real rates of growth (percent),State of Palestine,2005,10.8
-275,GDP real rates of growth (percent),State of Palestine,2010,8.1
-275,GDP real rates of growth (percent),State of Palestine,2015,3.4
-275,GDP real rates of growth (percent),State of Palestine,2016,4.7
-275,GDP real rates of growth (percent),State of Palestine,2017,3.1
 729,GDP (millions of $),Sudan,2010,54459.0
 729,GDP (millions of $),Sudan,2015,83085.0
 729,GDP (millions of $),Sudan,2016,91701.0
@@ -5780,10 +4339,6 @@ Country ID,Source Data,Country Name,Year,GDP
 729,GDP in 2010 dollars ($),Sudan,2015,57686.0
 729,GDP in 2010 dollars ($),Sudan,2016,59705.0
 729,GDP in 2010 dollars ($),Sudan,2017,61615.0
-729,GDP real rates of growth (percent),Sudan,2010,8.8
-729,GDP real rates of growth (percent),Sudan,2015,3.0
-729,GDP real rates of growth (percent),Sudan,2016,3.5
-729,GDP real rates of growth (percent),Sudan,2017,3.2
 736,GDP (millions of $),Sudan [former],1985,6624.0
 736,GDP (millions of $),Sudan [former],1995,12847.0
 736,GDP (millions of $),Sudan [former],2005,35183.0
@@ -5796,10 +4351,6 @@ Country ID,Source Data,Country Name,Year,GDP
 736,GDP in 2010 dollars ($),Sudan [former],1995,26296.0
 736,GDP in 2010 dollars ($),Sudan [former],2005,52248.0
 736,GDP in 2010 dollars ($),Sudan [former],2010,69665.0
-736,GDP real rates of growth (percent),Sudan [former],1985,5.4
-736,GDP real rates of growth (percent),Sudan [former],1995,6.0
-736,GDP real rates of growth (percent),Sudan [former],2005,9.0
-736,GDP real rates of growth (percent),Sudan [former],2010,6.6
 740,GDP (millions of $),Suriname,1985,1196.0
 740,GDP (millions of $),Suriname,1995,844.0
 740,GDP (millions of $),Suriname,2005,2193.0
@@ -5821,13 +4372,6 @@ Country ID,Source Data,Country Name,Year,GDP
 740,GDP in 2010 dollars ($),Suriname,2015,4773.0
 740,GDP in 2010 dollars ($),Suriname,2016,4527.0
 740,GDP in 2010 dollars ($),Suriname,2017,4496.0
-740,GDP real rates of growth (percent),Suriname,1985,14.0
-740,GDP real rates of growth (percent),Suriname,1995,0.0
-740,GDP real rates of growth (percent),Suriname,2005,3.9
-740,GDP real rates of growth (percent),Suriname,2010,5.2
-740,GDP real rates of growth (percent),Suriname,2015,-2.6
-740,GDP real rates of growth (percent),Suriname,2016,-5.1
-740,GDP real rates of growth (percent),Suriname,2017,-0.7
 752,GDP (millions of $),Sweden,1985,112640.0
 752,GDP (millions of $),Sweden,1995,264346.0
 752,GDP (millions of $),Sweden,2005,389489.0
@@ -5849,13 +4393,6 @@ Country ID,Source Data,Country Name,Year,GDP
 752,GDP in 2010 dollars ($),Sweden,2015,543061.0
 752,GDP in 2010 dollars ($),Sweden,2016,557637.0
 752,GDP in 2010 dollars ($),Sweden,2017,569373.0
-752,GDP real rates of growth (percent),Sweden,1985,2.2
-752,GDP real rates of growth (percent),Sweden,1995,4.0
-752,GDP real rates of growth (percent),Sweden,2005,2.8
-752,GDP real rates of growth (percent),Sweden,2010,6.0
-752,GDP real rates of growth (percent),Sweden,2015,4.5
-752,GDP real rates of growth (percent),Sweden,2016,2.7
-752,GDP real rates of growth (percent),Sweden,2017,2.1
 756,GDP (millions of $),Switzerland,1985,107765.0
 756,GDP (millions of $),Switzerland,1995,342626.0
 756,GDP (millions of $),Switzerland,2005,408697.0
@@ -5877,13 +4414,6 @@ Country ID,Source Data,Country Name,Year,GDP
 756,GDP in 2010 dollars ($),Switzerland,2015,634045.0
 756,GDP in 2010 dollars ($),Switzerland,2016,644197.0
 756,GDP in 2010 dollars ($),Switzerland,2017,654612.0
-756,GDP real rates of growth (percent),Switzerland,1985,3.7
-756,GDP real rates of growth (percent),Switzerland,1995,0.5
-756,GDP real rates of growth (percent),Switzerland,2005,3.1
-756,GDP real rates of growth (percent),Switzerland,2010,3.0
-756,GDP real rates of growth (percent),Switzerland,2015,1.3
-756,GDP real rates of growth (percent),Switzerland,2016,1.6
-756,GDP real rates of growth (percent),Switzerland,2017,1.6
 760,GDP (millions of $),Syrian Arab Republic,1985,10050.0
 760,GDP (millions of $),Syrian Arab Republic,1995,13547.0
 760,GDP (millions of $),Syrian Arab Republic,2005,28397.0
@@ -5905,13 +4435,6 @@ Country ID,Source Data,Country Name,Year,GDP
 760,GDP in 2010 dollars ($),Syrian Arab Republic,2015,27492.0
 760,GDP in 2010 dollars ($),Syrian Arab Republic,2016,26398.0
 760,GDP in 2010 dollars ($),Syrian Arab Republic,2017,26899.0
-760,GDP real rates of growth (percent),Syrian Arab Republic,1985,6.1
-760,GDP real rates of growth (percent),Syrian Arab Republic,1995,7.0
-760,GDP real rates of growth (percent),Syrian Arab Republic,2005,6.2
-760,GDP real rates of growth (percent),Syrian Arab Republic,2010,3.4
-760,GDP real rates of growth (percent),Syrian Arab Republic,2015,-6.1
-760,GDP real rates of growth (percent),Syrian Arab Republic,2016,-4.0
-760,GDP real rates of growth (percent),Syrian Arab Republic,2017,1.9
 762,GDP (millions of $),Tajikistan,1995,1218.0
 762,GDP (millions of $),Tajikistan,2005,2312.0
 762,GDP (millions of $),Tajikistan,2010,5642.0
@@ -5930,12 +4453,6 @@ Country ID,Source Data,Country Name,Year,GDP
 762,GDP in 2010 dollars ($),Tajikistan,2015,7547.0
 762,GDP in 2010 dollars ($),Tajikistan,2016,8072.0
 762,GDP in 2010 dollars ($),Tajikistan,2017,8643.0
-762,GDP real rates of growth (percent),Tajikistan,1995,-12.4
-762,GDP real rates of growth (percent),Tajikistan,2005,6.7
-762,GDP real rates of growth (percent),Tajikistan,2010,6.5
-762,GDP real rates of growth (percent),Tajikistan,2015,6.0
-762,GDP real rates of growth (percent),Tajikistan,2016,6.9
-762,GDP real rates of growth (percent),Tajikistan,2017,7.1
 764,GDP (millions of $),Thailand,1985,40313.0
 764,GDP (millions of $),Thailand,1995,169279.0
 764,GDP (millions of $),Thailand,2005,189318.0
@@ -5957,13 +4474,6 @@ Country ID,Source Data,Country Name,Year,GDP
 764,GDP in 2010 dollars ($),Thailand,2015,394078.0
 764,GDP in 2010 dollars ($),Thailand,2016,407015.0
 764,GDP in 2010 dollars ($),Thailand,2017,422941.0
-764,GDP real rates of growth (percent),Thailand,1985,4.6
-764,GDP real rates of growth (percent),Thailand,1995,8.1
-764,GDP real rates of growth (percent),Thailand,2005,4.2
-764,GDP real rates of growth (percent),Thailand,2010,7.5
-764,GDP real rates of growth (percent),Thailand,2015,3.0
-764,GDP real rates of growth (percent),Thailand,2016,3.3
-764,GDP real rates of growth (percent),Thailand,2017,3.9
 626,GDP (millions of $),Timor-Leste,1995,438.0
 626,GDP (millions of $),Timor-Leste,2005,1814.0
 626,GDP (millions of $),Timor-Leste,2010,3999.0
@@ -5982,12 +4492,6 @@ Country ID,Source Data,Country Name,Year,GDP
 626,GDP in 2010 dollars ($),Timor-Leste,2015,3734.0
 626,GDP in 2010 dollars ($),Timor-Leste,2016,3765.0
 626,GDP in 2010 dollars ($),Timor-Leste,2017,3464.0
-626,GDP real rates of growth (percent),Timor-Leste,1995,9.5
-626,GDP real rates of growth (percent),Timor-Leste,2005,35.9
-626,GDP real rates of growth (percent),Timor-Leste,2010,-1.2
-626,GDP real rates of growth (percent),Timor-Leste,2015,20.9
-626,GDP real rates of growth (percent),Timor-Leste,2016,0.8
-626,GDP real rates of growth (percent),Timor-Leste,2017,-8.0
 768,GDP (millions of $),Togo,1985,860.0
 768,GDP (millions of $),Togo,1995,1663.0
 768,GDP (millions of $),Togo,2005,2281.0
@@ -6009,13 +4513,6 @@ Country ID,Source Data,Country Name,Year,GDP
 768,GDP in 2010 dollars ($),Togo,2015,4616.0
 768,GDP in 2010 dollars ($),Togo,2016,4872.0
 768,GDP in 2010 dollars ($),Togo,2017,5087.0
-768,GDP real rates of growth (percent),Togo,1985,3.7
-768,GDP real rates of growth (percent),Togo,1995,6.8
-768,GDP real rates of growth (percent),Togo,2005,-4.7
-768,GDP real rates of growth (percent),Togo,2010,6.1
-768,GDP real rates of growth (percent),Togo,2015,5.7
-768,GDP real rates of growth (percent),Togo,2016,5.6
-768,GDP real rates of growth (percent),Togo,2017,4.4
 776,GDP (millions of $),Tonga,1985,73.0
 776,GDP (millions of $),Tonga,1995,203.0
 776,GDP (millions of $),Tonga,2005,262.0
@@ -6037,13 +4534,6 @@ Country ID,Source Data,Country Name,Year,GDP
 776,GDP in 2010 dollars ($),Tonga,2015,398.0
 776,GDP in 2010 dollars ($),Tonga,2016,411.0
 776,GDP in 2010 dollars ($),Tonga,2017,422.0
-776,GDP real rates of growth (percent),Tonga,1985,6.6
-776,GDP real rates of growth (percent),Tonga,1995,4.0
-776,GDP real rates of growth (percent),Tonga,2005,1.6
-776,GDP real rates of growth (percent),Tonga,2010,3.6
-776,GDP real rates of growth (percent),Tonga,2015,3.7
-776,GDP real rates of growth (percent),Tonga,2016,3.4
-776,GDP real rates of growth (percent),Tonga,2017,2.7
 780,GDP (millions of $),Trinidad and Tobago,1985,7355.0
 780,GDP (millions of $),Trinidad and Tobago,1995,5314.0
 780,GDP (millions of $),Trinidad and Tobago,2005,15938.0
@@ -6065,13 +4555,6 @@ Country ID,Source Data,Country Name,Year,GDP
 780,GDP in 2010 dollars ($),Trinidad and Tobago,2015,22784.0
 780,GDP in 2010 dollars ($),Trinidad and Tobago,2016,21426.0
 780,GDP in 2010 dollars ($),Trinidad and Tobago,2017,20926.0
-780,GDP real rates of growth (percent),Trinidad and Tobago,1985,-4.1
-780,GDP real rates of growth (percent),Trinidad and Tobago,1995,4.0
-780,GDP real rates of growth (percent),Trinidad and Tobago,2005,6.2
-780,GDP real rates of growth (percent),Trinidad and Tobago,2010,3.3
-780,GDP real rates of growth (percent),Trinidad and Tobago,2015,1.5
-780,GDP real rates of growth (percent),Trinidad and Tobago,2016,-6.0
-780,GDP real rates of growth (percent),Trinidad and Tobago,2017,-2.3
 788,GDP (millions of $),Tunisia,1985,9234.0
 788,GDP (millions of $),Tunisia,1995,19795.0
 788,GDP (millions of $),Tunisia,2005,32272.0
@@ -6093,13 +4576,6 @@ Country ID,Source Data,Country Name,Year,GDP
 788,GDP in 2010 dollars ($),Tunisia,2015,47587.0
 788,GDP in 2010 dollars ($),Tunisia,2016,48069.0
 788,GDP in 2010 dollars ($),Tunisia,2017,49008.0
-788,GDP real rates of growth (percent),Tunisia,1985,5.7
-788,GDP real rates of growth (percent),Tunisia,1995,2.3
-788,GDP real rates of growth (percent),Tunisia,2005,4.0
-788,GDP real rates of growth (percent),Tunisia,2010,3.0
-788,GDP real rates of growth (percent),Tunisia,2015,1.2
-788,GDP real rates of growth (percent),Tunisia,2016,1.0
-788,GDP real rates of growth (percent),Tunisia,2017,2.0
 792,GDP (millions of $),Turkey,1985,92554.0
 792,GDP (millions of $),Turkey,1995,233085.0
 792,GDP (millions of $),Turkey,2005,501423.0
@@ -6121,13 +4597,6 @@ Country ID,Source Data,Country Name,Year,GDP
 792,GDP in 2010 dollars ($),Turkey,2015,1087840.0
 792,GDP in 2010 dollars ($),Turkey,2016,1122475.0
 792,GDP in 2010 dollars ($),Turkey,2017,1206001.0
-792,GDP real rates of growth (percent),Turkey,1985,4.2
-792,GDP real rates of growth (percent),Turkey,1995,7.2
-792,GDP real rates of growth (percent),Turkey,2005,9.0
-792,GDP real rates of growth (percent),Turkey,2010,8.5
-792,GDP real rates of growth (percent),Turkey,2015,6.1
-792,GDP real rates of growth (percent),Turkey,2016,3.2
-792,GDP real rates of growth (percent),Turkey,2017,7.4
 795,GDP (millions of $),Turkmenistan,1995,2190.0
 795,GDP (millions of $),Turkmenistan,2005,14176.0
 795,GDP (millions of $),Turkmenistan,2010,22583.0
@@ -6146,12 +4615,6 @@ Country ID,Source Data,Country Name,Year,GDP
 795,GDP in 2010 dollars ($),Turkmenistan,2015,37230.0
 795,GDP in 2010 dollars ($),Turkmenistan,2016,39538.0
 795,GDP in 2010 dollars ($),Turkmenistan,2017,42096.0
-795,GDP real rates of growth (percent),Turkmenistan,1995,-7.2
-795,GDP real rates of growth (percent),Turkmenistan,2005,13.0
-795,GDP real rates of growth (percent),Turkmenistan,2010,9.2
-795,GDP real rates of growth (percent),Turkmenistan,2015,6.5
-795,GDP real rates of growth (percent),Turkmenistan,2016,6.2
-795,GDP real rates of growth (percent),Turkmenistan,2017,6.5
 796,GDP (millions of $),Turks and Caicos Islands,1985,58.0
 796,GDP (millions of $),Turks and Caicos Islands,1995,191.0
 796,GDP (millions of $),Turks and Caicos Islands,2005,579.0
@@ -6173,13 +4636,6 @@ Country ID,Source Data,Country Name,Year,GDP
 796,GDP in 2010 dollars ($),Turks and Caicos Islands,2015,802.0
 796,GDP in 2010 dollars ($),Turks and Caicos Islands,2016,838.0
 796,GDP in 2010 dollars ($),Turks and Caicos Islands,2017,874.0
-796,GDP real rates of growth (percent),Turks and Caicos Islands,1985,10.7
-796,GDP real rates of growth (percent),Turks and Caicos Islands,1995,7.3
-796,GDP real rates of growth (percent),Turks and Caicos Islands,2005,14.4
-796,GDP real rates of growth (percent),Turks and Caicos Islands,2010,1.0
-796,GDP real rates of growth (percent),Turks and Caicos Islands,2015,5.9
-796,GDP real rates of growth (percent),Turks and Caicos Islands,2016,4.4
-796,GDP real rates of growth (percent),Turks and Caicos Islands,2017,4.3
 798,GDP (millions of $),Tuvalu,1985,4.0
 798,GDP (millions of $),Tuvalu,1995,12.0
 798,GDP (millions of $),Tuvalu,2005,22.0
@@ -6201,13 +4657,6 @@ Country ID,Source Data,Country Name,Year,GDP
 798,GDP in 2010 dollars ($),Tuvalu,2015,38.0
 798,GDP in 2010 dollars ($),Tuvalu,2016,40.0
 798,GDP in 2010 dollars ($),Tuvalu,2017,42.0
-798,GDP real rates of growth (percent),Tuvalu,1985,-1.8
-798,GDP real rates of growth (percent),Tuvalu,1995,-5.0
-798,GDP real rates of growth (percent),Tuvalu,2005,-4.1
-798,GDP real rates of growth (percent),Tuvalu,2010,-3.3
-798,GDP real rates of growth (percent),Tuvalu,2015,9.2
-798,GDP real rates of growth (percent),Tuvalu,2016,5.9
-798,GDP real rates of growth (percent),Tuvalu,2017,5.9
 800,GDP (millions of $),Uganda,1985,4743.0
 800,GDP (millions of $),Uganda,1995,7148.0
 800,GDP (millions of $),Uganda,2005,11158.0
@@ -6229,13 +4678,6 @@ Country ID,Source Data,Country Name,Year,GDP
 800,GDP in 2010 dollars ($),Uganda,2015,24893.0
 800,GDP in 2010 dollars ($),Uganda,2016,25536.0
 800,GDP in 2010 dollars ($),Uganda,2017,26812.0
-800,GDP real rates of growth (percent),Uganda,1985,-0.3
-800,GDP real rates of growth (percent),Uganda,1995,9.4
-800,GDP real rates of growth (percent),Uganda,2005,10.0
-800,GDP real rates of growth (percent),Uganda,2010,8.2
-800,GDP real rates of growth (percent),Uganda,2015,5.7
-800,GDP real rates of growth (percent),Uganda,2016,2.6
-800,GDP real rates of growth (percent),Uganda,2017,5.0
 804,GDP (millions of $),Ukraine,1995,50379.0
 804,GDP (millions of $),Ukraine,2005,89239.0
 804,GDP (millions of $),Ukraine,2010,136012.0
@@ -6254,12 +4696,6 @@ Country ID,Source Data,Country Name,Year,GDP
 804,GDP in 2010 dollars ($),Ukraine,2015,121203.0
 804,GDP in 2010 dollars ($),Ukraine,2016,124161.0
 804,GDP in 2010 dollars ($),Ukraine,2017,127296.0
-804,GDP real rates of growth (percent),Ukraine,1995,-12.2
-804,GDP real rates of growth (percent),Ukraine,2005,3.1
-804,GDP real rates of growth (percent),Ukraine,2010,0.3
-804,GDP real rates of growth (percent),Ukraine,2015,-9.8
-804,GDP real rates of growth (percent),Ukraine,2016,2.4
-804,GDP real rates of growth (percent),Ukraine,2017,2.5
 784,GDP (millions of $),United Arab Emirates,1985,41134.0
 784,GDP (millions of $),United Arab Emirates,1995,66603.0
 784,GDP (millions of $),United Arab Emirates,2005,182978.0
@@ -6281,13 +4717,6 @@ Country ID,Source Data,Country Name,Year,GDP
 784,GDP in 2010 dollars ($),United Arab Emirates,2015,373073.0
 784,GDP in 2010 dollars ($),United Arab Emirates,2016,384222.0
 784,GDP in 2010 dollars ($),United Arab Emirates,2017,387259.0
-784,GDP real rates of growth (percent),United Arab Emirates,1985,-2.4
-784,GDP real rates of growth (percent),United Arab Emirates,1995,8.2
-784,GDP real rates of growth (percent),United Arab Emirates,2005,4.9
-784,GDP real rates of growth (percent),United Arab Emirates,2010,1.6
-784,GDP real rates of growth (percent),United Arab Emirates,2015,5.1
-784,GDP real rates of growth (percent),United Arab Emirates,2016,3.0
-784,GDP real rates of growth (percent),United Arab Emirates,2017,0.8
 826,GDP (millions of $),United Kingdom,1985,489256.0
 826,GDP (millions of $),United Kingdom,1995,1335930.0
 826,GDP (millions of $),United Kingdom,2005,2525013.0
@@ -6309,13 +4738,6 @@ Country ID,Source Data,Country Name,Year,GDP
 826,GDP in 2010 dollars ($),United Kingdom,2015,2719581.0
 826,GDP in 2010 dollars ($),United Kingdom,2016,2768241.0
 826,GDP in 2010 dollars ($),United Kingdom,2017,2816441.0
-826,GDP real rates of growth (percent),United Kingdom,1985,4.2
-826,GDP real rates of growth (percent),United Kingdom,1995,3.9
-826,GDP real rates of growth (percent),United Kingdom,2005,3.1
-826,GDP real rates of growth (percent),United Kingdom,2010,1.7
-826,GDP real rates of growth (percent),United Kingdom,2015,2.3
-826,GDP real rates of growth (percent),United Kingdom,2016,1.8
-826,GDP real rates of growth (percent),United Kingdom,2017,1.7
 834,GDP (millions of $),United Rep. of Tanzania,1985,11654.0
 834,GDP (millions of $),United Rep. of Tanzania,1995,7575.0
 834,GDP (millions of $),United Rep. of Tanzania,2005,18072.0
@@ -6336,12 +4758,6 @@ Country ID,Source Data,Country Name,Year,GDP
 834,GDP in 2010 dollars ($),United Rep. of Tanzania,2010,31105.0
 834,GDP in 2010 dollars ($),United Rep. of Tanzania,2015,43307.0
 834,GDP in 2010 dollars ($),United Rep. of Tanzania,2016,46326.0
-834,GDP real rates of growth (percent),United Rep. of Tanzania,1985,4.6
-834,GDP real rates of growth (percent),United Rep. of Tanzania,1995,3.6
-834,GDP real rates of growth (percent),United Rep. of Tanzania,2005,7.4
-834,GDP real rates of growth (percent),United Rep. of Tanzania,2010,6.4
-834,GDP real rates of growth (percent),United Rep. of Tanzania,2015,7.0
-834,GDP real rates of growth (percent),United Rep. of Tanzania,2016,7.0
 840,GDP (millions of $),United States of America,1985,4338979.0
 840,GDP (millions of $),United States of America,1995,7639749.0
 840,GDP (millions of $),United States of America,2005,13036637.0
@@ -6363,13 +4779,6 @@ Country ID,Source Data,Country Name,Year,GDP
 840,GDP in 2010 dollars ($),United States of America,2015,16710458.0
 840,GDP in 2010 dollars ($),United States of America,2016,16972347.0
 840,GDP in 2010 dollars ($),United States of America,2017,17348626.0
-840,GDP real rates of growth (percent),United States of America,1985,4.2
-840,GDP real rates of growth (percent),United States of America,1995,2.7
-840,GDP real rates of growth (percent),United States of America,2005,3.5
-840,GDP real rates of growth (percent),United States of America,2010,2.6
-840,GDP real rates of growth (percent),United States of America,2015,2.9
-840,GDP real rates of growth (percent),United States of America,2016,1.6
-840,GDP real rates of growth (percent),United States of America,2017,2.2
 858,GDP (millions of $),Uruguay,1985,5226.0
 858,GDP (millions of $),Uruguay,1995,21312.0
 858,GDP (millions of $),Uruguay,2005,17363.0
@@ -6391,13 +4800,6 @@ Country ID,Source Data,Country Name,Year,GDP
 858,GDP in 2010 dollars ($),Uruguay,2015,47559.0
 858,GDP in 2010 dollars ($),Uruguay,2016,48363.0
 858,GDP in 2010 dollars ($),Uruguay,2017,49648.0
-858,GDP real rates of growth (percent),Uruguay,1985,1.5
-858,GDP real rates of growth (percent),Uruguay,1995,-1.5
-858,GDP real rates of growth (percent),Uruguay,2005,7.5
-858,GDP real rates of growth (percent),Uruguay,2010,7.8
-858,GDP real rates of growth (percent),Uruguay,2015,0.4
-858,GDP real rates of growth (percent),Uruguay,2016,1.7
-858,GDP real rates of growth (percent),Uruguay,2017,2.7
 860,GDP (millions of $),Uzbekistan,1995,13474.0
 860,GDP (millions of $),Uzbekistan,2005,14396.0
 860,GDP (millions of $),Uzbekistan,2010,39526.0
@@ -6416,12 +4818,6 @@ Country ID,Source Data,Country Name,Year,GDP
 860,GDP in 2010 dollars ($),Uzbekistan,2015,58274.0
 860,GDP in 2010 dollars ($),Uzbekistan,2016,61890.0
 860,GDP in 2010 dollars ($),Uzbekistan,2017,65093.0
-860,GDP real rates of growth (percent),Uzbekistan,1995,-0.9
-860,GDP real rates of growth (percent),Uzbekistan,2005,7.0
-860,GDP real rates of growth (percent),Uzbekistan,2010,8.5
-860,GDP real rates of growth (percent),Uzbekistan,2015,7.9
-860,GDP real rates of growth (percent),Uzbekistan,2016,6.2
-860,GDP real rates of growth (percent),Uzbekistan,2017,5.2
 548,GDP (millions of $),Vanuatu,1985,133.0
 548,GDP (millions of $),Vanuatu,1995,273.0
 548,GDP (millions of $),Vanuatu,2005,395.0
@@ -6443,13 +4839,6 @@ Country ID,Source Data,Country Name,Year,GDP
 548,GDP in 2010 dollars ($),Vanuatu,2015,754.0
 548,GDP in 2010 dollars ($),Vanuatu,2016,780.0
 548,GDP in 2010 dollars ($),Vanuatu,2017,808.0
-548,GDP real rates of growth (percent),Vanuatu,1985,1.1
-548,GDP real rates of growth (percent),Vanuatu,1995,4.7
-548,GDP real rates of growth (percent),Vanuatu,2005,5.3
-548,GDP real rates of growth (percent),Vanuatu,2010,1.6
-548,GDP real rates of growth (percent),Vanuatu,2015,0.2
-548,GDP real rates of growth (percent),Vanuatu,2016,3.5
-548,GDP real rates of growth (percent),Vanuatu,2017,3.5
 862,GDP (millions of $),Venezuela (Boliv. Rep. of),1985,59963.0
 862,GDP (millions of $),Venezuela (Boliv. Rep. of),1995,74889.0
 862,GDP (millions of $),Venezuela (Boliv. Rep. of),2005,145514.0
@@ -6471,13 +4860,6 @@ Country ID,Source Data,Country Name,Year,GDP
 862,GDP in 2010 dollars ($),Venezuela (Boliv. Rep. of),2015,395794.0
 862,GDP in 2010 dollars ($),Venezuela (Boliv. Rep. of),2016,330663.0
 862,GDP in 2010 dollars ($),Venezuela (Boliv. Rep. of),2017,284370.0
-862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),1985,0.2
-862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),1995,4.0
-862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2005,10.3
-862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2010,-1.5
-862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2015,-6.2
-862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2016,-16.5
-862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2017,-14.0
 704,GDP (millions of $),Viet Nam,1985,4797.0
 704,GDP (millions of $),Viet Nam,1995,20736.0
 704,GDP (millions of $),Viet Nam,2005,57633.0
@@ -6499,13 +4881,6 @@ Country ID,Source Data,Country Name,Year,GDP
 704,GDP in 2010 dollars ($),Viet Nam,2015,154509.0
 704,GDP in 2010 dollars ($),Viet Nam,2016,164105.0
 704,GDP in 2010 dollars ($),Viet Nam,2017,175284.0
-704,GDP real rates of growth (percent),Viet Nam,1985,5.6
-704,GDP real rates of growth (percent),Viet Nam,1995,9.5
-704,GDP real rates of growth (percent),Viet Nam,2005,7.5
-704,GDP real rates of growth (percent),Viet Nam,2010,6.4
-704,GDP real rates of growth (percent),Viet Nam,2015,6.7
-704,GDP real rates of growth (percent),Viet Nam,2016,6.2
-704,GDP real rates of growth (percent),Viet Nam,2017,6.8
 887,GDP (millions of $),Yemen,1995,5936.0
 887,GDP (millions of $),Yemen,2005,19041.0
 887,GDP (millions of $),Yemen,2010,30907.0
@@ -6524,12 +4899,6 @@ Country ID,Source Data,Country Name,Year,GDP
 887,GDP in 2010 dollars ($),Yemen,2015,17313.0
 887,GDP in 2010 dollars ($),Yemen,2016,14744.0
 887,GDP in 2010 dollars ($),Yemen,2017,13868.0
-887,GDP real rates of growth (percent),Yemen,1995,16.7
-887,GDP real rates of growth (percent),Yemen,2005,5.1
-887,GDP real rates of growth (percent),Yemen,2010,3.3
-887,GDP real rates of growth (percent),Yemen,2015,-30.3
-887,GDP real rates of growth (percent),Yemen,2016,-14.8
-887,GDP real rates of growth (percent),Yemen,2017,-5.9
 894,GDP (millions of $),Zambia,1985,2772.0
 894,GDP (millions of $),Zambia,1995,3807.0
 894,GDP (millions of $),Zambia,2005,8332.0
@@ -6551,13 +4920,6 @@ Country ID,Source Data,Country Name,Year,GDP
 894,GDP in 2010 dollars ($),Zambia,2015,26058.0
 894,GDP in 2010 dollars ($),Zambia,2016,27037.0
 894,GDP in 2010 dollars ($),Zambia,2017,27990.0
-894,GDP real rates of growth (percent),Zambia,1985,0.0
-894,GDP real rates of growth (percent),Zambia,1995,2.9
-894,GDP real rates of growth (percent),Zambia,2005,7.2
-894,GDP real rates of growth (percent),Zambia,2010,10.3
-894,GDP real rates of growth (percent),Zambia,2015,2.9
-894,GDP real rates of growth (percent),Zambia,2016,3.8
-894,GDP real rates of growth (percent),Zambia,2017,3.5
 836,GDP (millions of $),Zanzibar,1995,186.0
 836,GDP (millions of $),Zanzibar,2005,438.0
 836,GDP (millions of $),Zanzibar,2010,746.0
@@ -6576,12 +4938,6 @@ Country ID,Source Data,Country Name,Year,GDP
 836,GDP in 2010 dollars ($),Zanzibar,2015,1044.0
 836,GDP in 2010 dollars ($),Zanzibar,2016,1115.0
 836,GDP in 2010 dollars ($),Zanzibar,2017,1198.0
-836,GDP real rates of growth (percent),Zanzibar,1995,0.5
-836,GDP real rates of growth (percent),Zanzibar,2005,1.7
-836,GDP real rates of growth (percent),Zanzibar,2010,0.8
-836,GDP real rates of growth (percent),Zanzibar,2015,0.6
-836,GDP real rates of growth (percent),Zanzibar,2016,6.2
-836,GDP real rates of growth (percent),Zanzibar,2017,4.3
 716,GDP (millions of $),Zimbabwe,1985,7548.0
 716,GDP (millions of $),Zimbabwe,1995,9576.0
 716,GDP (millions of $),Zimbabwe,2005,6223.0
@@ -6603,10 +4959,3 @@ Country ID,Source Data,Country Name,Year,GDP
 716,GDP in 2010 dollars ($),Zimbabwe,2015,14728.0
 716,GDP in 2010 dollars ($),Zimbabwe,2016,14819.0
 716,GDP in 2010 dollars ($),Zimbabwe,2017,15265.0
-716,GDP real rates of growth (percent),Zimbabwe,1985,6.9
-716,GDP real rates of growth (percent),Zimbabwe,1995,0.2
-716,GDP real rates of growth (percent),Zimbabwe,2005,-4.1
-716,GDP real rates of growth (percent),Zimbabwe,2010,12.6
-716,GDP real rates of growth (percent),Zimbabwe,2015,1.7
-716,GDP real rates of growth (percent),Zimbabwe,2016,0.6
-716,GDP real rates of growth (percent),Zimbabwe,2017,3.0

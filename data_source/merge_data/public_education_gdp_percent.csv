@@ -1,4 +1,4 @@
-Country ID,Source,Country Name,Year,Education Spend (%),Series,GDP
+Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Data,GDP
 4,Government Expenditure,Afghanistan,2010,17.07,GDP real rates of growth (percent),3.2
 4,GDP,Afghanistan,2010,3.46,GDP real rates of growth (percent),3.2
 4,Government Expenditure,Afghanistan,2015,12.51,GDP real rates of growth (percent),-1.8

@@ -1,4 +1,4 @@
-Country ID,Source,Country Name,Year,Education Spend (%),Series,GDP
+Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Data,GDP
 4,Government Expenditure,Afghanistan,2010,17.07,GDP (millions of $),16078.0
 4,Government Expenditure,Afghanistan,2010,17.07,GDP per Capita ($),558.0
 4,Government Expenditure,Afghanistan,2010,17.07,GDP in 2010 dollars ($),16078.0

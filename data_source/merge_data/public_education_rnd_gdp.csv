@@ -1,4 +1,4 @@
-Country ID,Source,Country Name,Year,Education Spend (%),Series,Expenditure on R&D (%)
+Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Data,Expenditure on R&D (%)
 16,GDP,American Samoa,2006,14.63,GDP(%),0.4
 32,Government Expenditure,Argentina,2005,15.81,GDP(%),0.4
 32,Government Expenditure,Argentina,2005,15.81,Business Enterprises (%),31.0

@@ -1,4 +1,4 @@
-Country ID,Source,Country Name,Year,Education Spend (%),Series,"Rate per 100,000"
+Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Data,"Rate per 100,000"
 4,Government Expenditure,Afghanistan,2010,17.07,Homicide (%),3.4
 4,GDP,Afghanistan,2010,3.46,Homicide (%),3.4
 8,Government Expenditure,Albania,2005,11.36,Homicide (%),5.0
