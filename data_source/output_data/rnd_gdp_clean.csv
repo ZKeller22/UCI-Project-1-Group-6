@@ -1,0 +1,1946 @@
+Country ID,Series,Country Name,Year,Expenditure on R&D (%)
+15,GDP(%),Northern Africa,2005,0.3
+15,GDP(%),Northern Africa,2010,0.4
+15,GDP(%),Northern Africa,2015,0.5
+202,GDP(%),Sub-Saharan Africa,2005,0.4
+202,GDP(%),Sub-Saharan Africa,2010,0.4
+202,GDP(%),Sub-Saharan Africa,2015,0.4
+21,GDP(%),Northern America,2005,2.5
+21,GDP(%),Northern America,2010,2.7
+21,GDP(%),Northern America,2015,2.7
+419,GDP(%),Latin America & the Caribbean,2005,0.6
+419,GDP(%),Latin America & the Caribbean,2010,0.7
+419,GDP(%),Latin America & the Caribbean,2015,0.7
+143,GDP(%),Central Asia,2005,0.3
+143,GDP(%),Central Asia,2010,0.2
+143,GDP(%),Central Asia,2015,0.2
+30,GDP(%),Eastern Asia,2005,2.0
+30,GDP(%),Eastern Asia,2010,2.2
+30,GDP(%),Eastern Asia,2015,2.4
+35,GDP(%),South-eastern Asia,2005,0.6
+35,GDP(%),South-eastern Asia,2010,0.8
+35,GDP(%),South-eastern Asia,2015,0.9
+34,GDP(%),Southern Asia,2005,0.7
+34,GDP(%),Southern Asia,2010,0.7
+34,GDP(%),Southern Asia,2015,0.6
+145,GDP(%),Western Asia,2005,0.7
+145,GDP(%),Western Asia,2010,0.7
+145,GDP(%),Western Asia,2015,0.8
+150,GDP(%),Europe,2005,1.6
+150,GDP(%),Europe,2010,1.7
+150,GDP(%),Europe,2015,1.9
+9,GDP(%),Oceania,2005,1.9
+9,GDP(%),Oceania,2010,2.2
+9,GDP(%),Oceania,2015,1.8
+53,GDP(%),Australia and New Zealand,2005,1.9
+53,GDP(%),Australia and New Zealand,2010,2.2
+53,GDP(%),Australia and New Zealand,2015,1.8
+8,GDP(%),Albania,2008,0.2
+8,Business Enterprises (%),Albania,2008,3.3
+8,Government (%),Albania,2008,80.8
+8,Higher education (%),Albania,2008,8.6
+8,Funds from abroad (%),Albania,2008,7.4
+12,GDP(%),Algeria,2005,0.1
+16,GDP(%),American Samoa,2005,0.4
+16,GDP(%),American Samoa,2006,0.4
+32,GDP(%),Argentina,2005,0.4
+32,Business Enterprises (%),Argentina,2005,31.0
+32,Government (%),Argentina,2005,59.6
+32,Higher education (%),Argentina,2005,5.7
+32,Private non-profit (%),Argentina,2005,3.0
+32,Funds from abroad (%),Argentina,2005,0.7
+32,Not distributed (%),Argentina,2005,0.0
+32,GDP(%),Argentina,2008,0.5
+32,Business Enterprises (%),Argentina,2008,26.5
+32,Government (%),Argentina,2008,67.6
+32,Higher education (%),Argentina,2008,4.4
+32,Private non-profit (%),Argentina,2008,1.0
+32,Funds from abroad (%),Argentina,2008,0.6
+32,Not distributed (%),Argentina,2008,0.0
+32,GDP(%),Argentina,2010,0.6
+32,GDP(%),Argentina,2015,0.6
+32,Business Enterprises (%),Argentina,2015,17.2
+32,Government (%),Argentina,2015,76.4
+32,Higher education (%),Argentina,2015,2.0
+32,Private non-profit (%),Argentina,2015,1.0
+32,Funds from abroad (%),Argentina,2015,3.3
+51,GDP(%),Armenia,2005,0.3
+51,Government (%),Armenia,2005,77.5
+51,Funds from abroad (%),Armenia,2005,4.7
+51,Not distributed (%),Armenia,2005,17.8
+51,GDP(%),Armenia,2010,0.2
+51,Government (%),Armenia,2010,84.5
+51,Funds from abroad (%),Armenia,2010,11.7
+51,Not distributed (%),Armenia,2010,3.8
+51,GDP(%),Armenia,2016,0.2
+51,Government (%),Armenia,2016,72.9
+51,Funds from abroad (%),Armenia,2016,1.8
+51,Not distributed (%),Armenia,2016,25.2
+36,GDP(%),Australia,2004,1.9
+36,Business Enterprises (%),Australia,2004,54.6
+36,Government (%),Australia,2004,40.3
+36,Higher education (%),Australia,2004,0.4
+36,Private non-profit (%),Australia,2004,1.9
+36,Funds from abroad (%),Australia,2004,2.9
+36,GDP(%),Australia,2008,2.4
+36,Business Enterprises (%),Australia,2008,61.9
+36,Government (%),Australia,2008,34.6
+36,Higher education (%),Australia,2008,0.1
+36,Private non-profit (%),Australia,2008,1.8
+36,Funds from abroad (%),Australia,2008,1.6
+36,GDP(%),Australia,2010,2.4
+36,GDP(%),Australia,2015,1.9
+40,GDP(%),Austria,2004,2.2
+40,Business Enterprises (%),Austria,2004,47.2
+40,Government (%),Austria,2004,32.6
+40,Higher education (%),Austria,2004,0.4
+40,Private non-profit (%),Austria,2004,0.5
+40,Funds from abroad (%),Austria,2004,19.4
+40,GDP(%),Austria,2005,2.4
+40,Business Enterprises (%),Austria,2005,45.6
+40,Government (%),Austria,2005,35.9
+40,Private non-profit (%),Austria,2005,0.4
+40,Funds from abroad (%),Austria,2005,18.0
+40,GDP(%),Austria,2009,2.6
+40,Business Enterprises (%),Austria,2009,47.1
+40,Government (%),Austria,2009,34.9
+40,Higher education (%),Austria,2009,0.7
+40,Private non-profit (%),Austria,2009,0.6
+40,Funds from abroad (%),Austria,2009,16.8
+40,GDP(%),Austria,2010,2.7
+40,Business Enterprises (%),Austria,2010,45.1
+40,Government (%),Austria,2010,38.3
+40,Private non-profit (%),Austria,2010,0.5
+40,Funds from abroad (%),Austria,2010,16.1
+40,GDP(%),Austria,2015,3.0
+40,Business Enterprises (%),Austria,2015,49.7
+40,Government (%),Austria,2015,32.6
+40,Higher education (%),Austria,2015,0.6
+40,Private non-profit (%),Austria,2015,0.5
+40,Funds from abroad (%),Austria,2015,16.6
+40,GDP(%),Austria,2016,3.1
+40,Business Enterprises (%),Austria,2016,53.4
+40,Government (%),Austria,2016,30.7
+40,Private non-profit (%),Austria,2016,0.5
+40,Funds from abroad (%),Austria,2016,15.5
+31,GDP(%),Azerbaijan,2005,0.2
+31,Business Enterprises (%),Azerbaijan,2005,18.7
+31,Government (%),Azerbaijan,2005,77.5
+31,Higher education (%),Azerbaijan,2005,0.0
+31,Private non-profit (%),Azerbaijan,2005,1.3
+31,Funds from abroad (%),Azerbaijan,2005,2.4
+31,GDP(%),Azerbaijan,2010,0.2
+31,Business Enterprises (%),Azerbaijan,2010,9.6
+31,Government (%),Azerbaijan,2010,88.2
+31,Higher education (%),Azerbaijan,2010,0.3
+31,Private non-profit (%),Azerbaijan,2010,1.9
+31,Funds from abroad (%),Azerbaijan,2010,0.0
+31,GDP(%),Azerbaijan,2014,0.2
+31,Business Enterprises (%),Azerbaijan,2014,30.5
+31,Government (%),Azerbaijan,2014,67.6
+31,Higher education (%),Azerbaijan,2014,0.8
+31,Private non-profit (%),Azerbaijan,2014,0.9
+31,Funds from abroad (%),Azerbaijan,2014,0.2
+31,GDP(%),Azerbaijan,2016,0.2
+31,Business Enterprises (%),Azerbaijan,2016,29.9
+31,Government (%),Azerbaijan,2016,68.5
+31,Higher education (%),Azerbaijan,2016,1.4
+31,Private non-profit (%),Azerbaijan,2016,0.2
+48,GDP(%),Bahrain,2014,0.1
+48,Business Enterprises (%),Bahrain,2014,21.8
+48,Government (%),Bahrain,2014,41.5
+48,Higher education (%),Bahrain,2014,21.2
+48,Private non-profit (%),Bahrain,2014,2.0
+48,Funds from abroad (%),Bahrain,2014,12.4
+48,Not distributed (%),Bahrain,2014,1.1
+112,GDP(%),Belarus,2005,0.7
+112,Business Enterprises (%),Belarus,2005,21.2
+112,Government (%),Belarus,2005,71.9
+112,Higher education (%),Belarus,2005,0.7
+112,Funds from abroad (%),Belarus,2005,6.3
+112,GDP(%),Belarus,2008,0.7
+112,Business Enterprises (%),Belarus,2008,36.5
+112,Government (%),Belarus,2008,57.6
+112,Higher education (%),Belarus,2008,0.3
+112,Private non-profit (%),Belarus,2008,0.1
+112,Funds from abroad (%),Belarus,2008,5.5
+112,GDP(%),Belarus,2010,0.7
+112,Business Enterprises (%),Belarus,2010,27.1
+112,Government (%),Belarus,2010,58.7
+112,Private non-profit (%),Belarus,2010,0.6
+112,Funds from abroad (%),Belarus,2010,13.6
+112,GDP(%),Belarus,2011,0.7
+112,Business Enterprises (%),Belarus,2011,45.8
+112,Government (%),Belarus,2011,45.5
+112,Private non-profit (%),Belarus,2011,0.0
+112,Funds from abroad (%),Belarus,2011,8.7
+112,GDP(%),Belarus,2016,0.5
+112,Business Enterprises (%),Belarus,2016,38.7
+112,Government (%),Belarus,2016,44.7
+112,Funds from abroad (%),Belarus,2016,16.6
+56,GDP(%),Belgium,2005,1.8
+56,Business Enterprises (%),Belgium,2005,59.7
+56,Government (%),Belgium,2005,24.7
+56,Higher education (%),Belgium,2005,2.6
+56,Private non-profit (%),Belgium,2005,0.6
+56,Funds from abroad (%),Belgium,2005,12.4
+56,GDP(%),Belgium,2010,2.1
+56,Business Enterprises (%),Belgium,2010,57.6
+56,Government (%),Belgium,2010,25.4
+56,Higher education (%),Belgium,2010,3.1
+56,Private non-profit (%),Belgium,2010,0.6
+56,Funds from abroad (%),Belgium,2010,13.3
+56,GDP(%),Belgium,2015,2.5
+56,Business Enterprises (%),Belgium,2015,58.6
+56,Government (%),Belgium,2015,22.5
+56,Higher education (%),Belgium,2015,2.0
+56,Private non-profit (%),Belgium,2015,0.4
+56,Funds from abroad (%),Belgium,2015,16.5
+56,GDP(%),Belgium,2016,2.5
+60,GDP(%),Bermuda,2010,0.2
+60,GDP(%),Bermuda,2015,0.2
+68,GDP(%),Bolivia (Plurin. State of),2002,0.3
+68,Business Enterprises (%),Bolivia (Plurin. State of),2002,16.0
+68,Government (%),Bolivia (Plurin. State of),2002,20.0
+68,Higher education (%),Bolivia (Plurin. State of),2002,31.0
+68,Private non-profit (%),Bolivia (Plurin. State of),2002,19.0
+68,Funds from abroad (%),Bolivia (Plurin. State of),2002,14.0
+68,GDP(%),Bolivia (Plurin. State of),2009,0.2
+68,Business Enterprises (%),Bolivia (Plurin. State of),2009,5.2
+68,Government (%),Bolivia (Plurin. State of),2009,51.2
+68,Higher education (%),Bolivia (Plurin. State of),2009,26.5
+68,Private non-profit (%),Bolivia (Plurin. State of),2009,2.1
+68,Funds from abroad (%),Bolivia (Plurin. State of),2009,1.9
+68,Not distributed (%),Bolivia (Plurin. State of),2009,13.2
+70,GDP(%),Bosnia and Herzegovina,2005,0.0
+70,GDP(%),Bosnia and Herzegovina,2009,0.0
+70,GDP(%),Bosnia and Herzegovina,2016,0.2
+70,Business Enterprises (%),Bosnia and Herzegovina,2016,28.8
+70,Government (%),Bosnia and Herzegovina,2016,31.5
+70,Higher education (%),Bosnia and Herzegovina,2016,13.0
+70,Private non-profit (%),Bosnia and Herzegovina,2016,0.0
+70,Funds from abroad (%),Bosnia and Herzegovina,2016,26.3
+70,Not distributed (%),Bosnia and Herzegovina,2016,0.3
+72,GDP(%),Botswana,2005,0.5
+72,GDP(%),Botswana,2012,0.3
+72,Business Enterprises (%),Botswana,2012,5.8
+72,Government (%),Botswana,2012,73.9
+72,Higher education (%),Botswana,2012,12.6
+72,Private non-profit (%),Botswana,2012,0.7
+72,Funds from abroad (%),Botswana,2012,6.8
+72,Not distributed (%),Botswana,2012,0.2
+72,GDP(%),Botswana,2013,0.5
+72,Business Enterprises (%),Botswana,2013,17.7
+72,Government (%),Botswana,2013,59.7
+72,Higher education (%),Botswana,2013,0.9
+72,Funds from abroad (%),Botswana,2013,21.7
+76,GDP(%),Brazil,2005,1.0
+76,Business Enterprises (%),Brazil,2005,50.4
+76,Government (%),Brazil,2005,47.7
+76,Higher education (%),Brazil,2005,1.9
+76,GDP(%),Brazil,2010,1.2
+76,Business Enterprises (%),Brazil,2010,47.0
+76,Government (%),Brazil,2010,51.1
+76,Higher education (%),Brazil,2010,1.8
+76,Not distributed (%),Brazil,2010,0.0
+76,GDP(%),Brazil,2015,1.3
+76,Business Enterprises (%),Brazil,2015,47.5
+76,Government (%),Brazil,2015,50.2
+76,Higher education (%),Brazil,2015,2.3
+76,Not distributed (%),Brazil,2015,0.0
+96,GDP(%),Brunei Darussalam,2003,0.0
+96,Business Enterprises (%),Brunei Darussalam,2003,6.7
+96,Government (%),Brunei Darussalam,2003,86.8
+96,Funds from abroad (%),Brunei Darussalam,2003,6.6
+96,GDP(%),Brunei Darussalam,2004,0.0
+96,Business Enterprises (%),Brunei Darussalam,2004,1.6
+96,Government (%),Brunei Darussalam,2004,91.0
+96,Higher education (%),Brunei Darussalam,2004,7.4
+100,GDP(%),Bulgaria,2005,0.4
+100,Business Enterprises (%),Bulgaria,2005,27.8
+100,Government (%),Bulgaria,2005,63.9
+100,Higher education (%),Bulgaria,2005,0.4
+100,Private non-profit (%),Bulgaria,2005,0.3
+100,Funds from abroad (%),Bulgaria,2005,7.6
+100,GDP(%),Bulgaria,2010,0.6
+100,Business Enterprises (%),Bulgaria,2010,16.7
+100,Government (%),Bulgaria,2010,43.2
+100,Higher education (%),Bulgaria,2010,0.5
+100,Private non-profit (%),Bulgaria,2010,0.1
+100,Funds from abroad (%),Bulgaria,2010,39.6
+100,GDP(%),Bulgaria,2015,1.0
+100,Business Enterprises (%),Bulgaria,2015,35.6
+100,Government (%),Bulgaria,2015,20.3
+100,Higher education (%),Bulgaria,2015,0.1
+100,Private non-profit (%),Bulgaria,2015,0.1
+100,Funds from abroad (%),Bulgaria,2015,43.8
+100,GDP(%),Bulgaria,2016,0.8
+854,GDP(%),Burkina Faso,2005,0.2
+854,Government (%),Burkina Faso,2005,100.0
+854,GDP(%),Burkina Faso,2009,0.2
+854,Business Enterprises (%),Burkina Faso,2009,11.9
+854,Government (%),Burkina Faso,2009,9.1
+854,Higher education (%),Burkina Faso,2009,12.2
+854,Private non-profit (%),Burkina Faso,2009,1.3
+854,Funds from abroad (%),Burkina Faso,2009,59.6
+854,Not distributed (%),Burkina Faso,2009,5.9
+854,GDP(%),Burkina Faso,2014,0.2
+854,Government (%),Burkina Faso,2014,98.4
+854,Higher education (%),Burkina Faso,2014,0.0
+854,Private non-profit (%),Burkina Faso,2014,0.1
+854,Funds from abroad (%),Burkina Faso,2014,1.5
+108,GDP(%),Burundi,2008,0.2
+108,Government (%),Burundi,2008,59.9
+108,Higher education (%),Burundi,2008,0.2
+108,Funds from abroad (%),Burundi,2008,39.9
+108,GDP(%),Burundi,2010,0.1
+108,GDP(%),Burundi,2011,0.1
+132,GDP(%),Cabo Verde,2011,0.1
+132,Government (%),Cabo Verde,2011,100.0
+116,GDP(%),Cambodia,2002,0.0
+116,Government (%),Cambodia,2002,17.9
+116,Private non-profit (%),Cambodia,2002,43.0
+116,Funds from abroad (%),Cambodia,2002,28.4
+116,Not distributed (%),Cambodia,2002,10.6
+116,GDP(%),Cambodia,2015,0.1
+116,Business Enterprises (%),Cambodia,2015,19.4
+116,Government (%),Cambodia,2015,23.5
+116,Higher education (%),Cambodia,2015,0.1
+116,Private non-profit (%),Cambodia,2015,22.1
+116,Funds from abroad (%),Cambodia,2015,34.9
+124,GDP(%),Canada,2005,2.0
+124,Business Enterprises (%),Canada,2005,49.3
+124,Government (%),Canada,2005,31.8
+124,Higher education (%),Canada,2005,7.3
+124,Private non-profit (%),Canada,2005,2.8
+124,Funds from abroad (%),Canada,2005,8.8
+124,GDP(%),Canada,2010,1.8
+124,Business Enterprises (%),Canada,2010,47.2
+124,Government (%),Canada,2010,34.9
+124,Higher education (%),Canada,2010,7.9
+124,Private non-profit (%),Canada,2010,3.5
+124,Funds from abroad (%),Canada,2010,6.6
+124,GDP(%),Canada,2016,1.6
+124,Business Enterprises (%),Canada,2016,40.6
+124,Government (%),Canada,2016,33.1
+124,Higher education (%),Canada,2016,11.8
+124,Private non-profit (%),Canada,2016,4.2
+124,Funds from abroad (%),Canada,2016,10.4
+148,GDP(%),Chad,2016,0.3
+148,Government (%),Chad,2016,100.0
+152,GDP(%),Chile,2010,0.3
+152,Business Enterprises (%),Chile,2010,25.4
+152,Government (%),Chile,2010,40.4
+152,Higher education (%),Chile,2010,12.7
+152,Private non-profit (%),Chile,2010,1.7
+152,Funds from abroad (%),Chile,2010,19.8
+152,GDP(%),Chile,2016,0.4
+152,Business Enterprises (%),Chile,2016,35.8
+152,Government (%),Chile,2016,46.4
+152,Higher education (%),Chile,2016,14.4
+152,Private non-profit (%),Chile,2016,1.5
+152,Funds from abroad (%),Chile,2016,1.9
+156,GDP(%),China,2005,1.3
+156,Business Enterprises (%),China,2005,67.0
+156,Government (%),China,2005,26.3
+156,Funds from abroad (%),China,2005,0.9
+156,GDP(%),China,2010,1.7
+156,Business Enterprises (%),China,2010,71.7
+156,Government (%),China,2010,24.0
+156,Funds from abroad (%),China,2010,1.3
+156,GDP(%),China,2016,2.1
+156,Business Enterprises (%),China,2016,76.1
+156,Government (%),China,2016,20.0
+156,Funds from abroad (%),China,2016,0.7
+344,GDP(%),"China, Hong Kong SAR",2005,0.8
+344,Business Enterprises (%),"China, Hong Kong SAR",2005,53.0
+344,Government (%),"China, Hong Kong SAR",2005,44.1
+344,Higher education (%),"China, Hong Kong SAR",2005,0.4
+344,Funds from abroad (%),"China, Hong Kong SAR",2005,2.5
+344,GDP(%),"China, Hong Kong SAR",2010,0.7
+344,Business Enterprises (%),"China, Hong Kong SAR",2010,47.6
+344,Government (%),"China, Hong Kong SAR",2010,47.3
+344,Higher education (%),"China, Hong Kong SAR",2010,0.1
+344,Funds from abroad (%),"China, Hong Kong SAR",2010,4.9
+344,GDP(%),"China, Hong Kong SAR",2016,0.8
+344,Business Enterprises (%),"China, Hong Kong SAR",2016,48.9
+344,Government (%),"China, Hong Kong SAR",2016,47.2
+344,Higher education (%),"China, Hong Kong SAR",2016,0.0
+344,Funds from abroad (%),"China, Hong Kong SAR",2016,3.9
+446,GDP(%),"China, Macao SAR",2005,0.1
+446,Business Enterprises (%),"China, Macao SAR",2005,0.2
+446,Government (%),"China, Macao SAR",2005,88.0
+446,Higher education (%),"China, Macao SAR",2005,10.0
+446,Private non-profit (%),"China, Macao SAR",2005,0.4
+446,Not distributed (%),"China, Macao SAR",2005,1.4
+446,GDP(%),"China, Macao SAR",2007,0.1
+446,Business Enterprises (%),"China, Macao SAR",2007,0.1
+446,Government (%),"China, Macao SAR",2007,89.3
+446,Higher education (%),"China, Macao SAR",2007,5.8
+446,Private non-profit (%),"China, Macao SAR",2007,2.8
+446,Funds from abroad (%),"China, Macao SAR",2007,0.6
+446,Not distributed (%),"China, Macao SAR",2007,1.6
+446,GDP(%),"China, Macao SAR",2008,0.1
+446,Business Enterprises (%),"China, Macao SAR",2008,0.2
+446,Government (%),"China, Macao SAR",2008,91.7
+446,Higher education (%),"China, Macao SAR",2008,6.4
+446,Private non-profit (%),"China, Macao SAR",2008,1.4
+446,Not distributed (%),"China, Macao SAR",2008,0.3
+446,GDP(%),"China, Macao SAR",2010,0.1
+446,GDP(%),"China, Macao SAR",2016,0.2
+446,Government (%),"China, Macao SAR",2016,61.0
+446,Higher education (%),"China, Macao SAR",2016,6.3
+446,Private non-profit (%),"China, Macao SAR",2016,0.3
+446,Not distributed (%),"China, Macao SAR",2016,32.5
+170,GDP(%),Colombia,2005,0.1
+170,GDP(%),Colombia,2010,0.2
+170,Business Enterprises (%),Colombia,2010,28.8
+170,Government (%),Colombia,2010,38.7
+170,Higher education (%),Colombia,2010,23.2
+170,Private non-profit (%),Colombia,2010,6.0
+170,Funds from abroad (%),Colombia,2010,3.3
+170,GDP(%),Colombia,2016,0.3
+170,Business Enterprises (%),Colombia,2016,50.0
+170,Government (%),Colombia,2016,29.7
+170,Higher education (%),Colombia,2016,15.0
+170,Private non-profit (%),Colombia,2016,2.9
+170,Funds from abroad (%),Colombia,2016,2.5
+188,GDP(%),Costa Rica,2004,0.4
+188,GDP(%),Costa Rica,2009,0.5
+188,Business Enterprises (%),Costa Rica,2009,28.7
+188,Government (%),Costa Rica,2009,53.0
+188,Private non-profit (%),Costa Rica,2009,2.8
+188,Funds from abroad (%),Costa Rica,2009,1.7
+188,Not distributed (%),Costa Rica,2009,13.7
+188,GDP(%),Costa Rica,2010,0.5
+188,GDP(%),Costa Rica,2014,0.6
+188,Business Enterprises (%),Costa Rica,2014,1.5
+188,Government (%),Costa Rica,2014,56.2
+188,Private non-profit (%),Costa Rica,2014,0.5
+188,Funds from abroad (%),Costa Rica,2014,1.4
+188,Not distributed (%),Costa Rica,2014,40.4
+191,GDP(%),Croatia,2005,0.9
+191,Business Enterprises (%),Croatia,2005,34.3
+191,Government (%),Croatia,2005,58.1
+191,Higher education (%),Croatia,2005,4.9
+191,Private non-profit (%),Croatia,2005,0.0
+191,Funds from abroad (%),Croatia,2005,2.6
+191,GDP(%),Croatia,2010,0.7
+191,Business Enterprises (%),Croatia,2010,38.8
+191,Government (%),Croatia,2010,49.2
+191,Higher education (%),Croatia,2010,2.0
+191,Private non-profit (%),Croatia,2010,0.2
+191,Funds from abroad (%),Croatia,2010,9.9
+191,GDP(%),Croatia,2015,0.9
+191,Business Enterprises (%),Croatia,2015,46.6
+191,Government (%),Croatia,2015,36.4
+191,Higher education (%),Croatia,2015,2.0
+191,Private non-profit (%),Croatia,2015,0.5
+191,Funds from abroad (%),Croatia,2015,14.5
+191,GDP(%),Croatia,2016,0.9
+192,GDP(%),Cuba,2005,0.5
+192,Business Enterprises (%),Cuba,2005,35.0
+192,Government (%),Cuba,2005,60.0
+192,Funds from abroad (%),Cuba,2005,5.0
+192,GDP(%),Cuba,2010,0.6
+192,Business Enterprises (%),Cuba,2010,15.0
+192,Government (%),Cuba,2010,75.0
+192,Funds from abroad (%),Cuba,2010,10.0
+192,GDP(%),Cuba,2016,0.3
+192,Business Enterprises (%),Cuba,2016,35.0
+192,Government (%),Cuba,2016,63.0
+192,Funds from abroad (%),Cuba,2016,2.0
+196,GDP(%),Cyprus,2005,0.4
+196,Business Enterprises (%),Cyprus,2005,16.8
+196,Government (%),Cyprus,2005,67.0
+196,Higher education (%),Cyprus,2005,4.2
+196,Private non-profit (%),Cyprus,2005,1.2
+196,Funds from abroad (%),Cyprus,2005,10.9
+196,GDP(%),Cyprus,2010,0.4
+196,Business Enterprises (%),Cyprus,2010,12.7
+196,Government (%),Cyprus,2010,68.3
+196,Higher education (%),Cyprus,2010,3.5
+196,Private non-profit (%),Cyprus,2010,0.5
+196,Funds from abroad (%),Cyprus,2010,15.0
+196,GDP(%),Cyprus,2013,0.5
+196,Business Enterprises (%),Cyprus,2013,15.8
+196,Government (%),Cyprus,2013,59.5
+196,Higher education (%),Cyprus,2013,5.4
+196,Private non-profit (%),Cyprus,2013,0.6
+196,Funds from abroad (%),Cyprus,2013,18.8
+196,Not distributed (%),Cyprus,2013,0.1
+196,GDP(%),Cyprus,2015,0.5
+196,Business Enterprises (%),Cyprus,2015,20.0
+196,Government (%),Cyprus,2015,50.6
+196,Higher education (%),Cyprus,2015,5.8
+196,Private non-profit (%),Cyprus,2015,0.6
+196,Funds from abroad (%),Cyprus,2015,23.0
+196,GDP(%),Cyprus,2016,0.5
+203,GDP(%),Czechia,2005,1.2
+203,Business Enterprises (%),Czechia,2005,48.2
+203,Government (%),Czechia,2005,45.2
+203,Higher education (%),Czechia,2005,1.2
+203,Private non-profit (%),Czechia,2005,0.0
+203,Funds from abroad (%),Czechia,2005,5.4
+203,GDP(%),Czechia,2010,1.3
+203,Business Enterprises (%),Czechia,2010,40.8
+203,Government (%),Czechia,2010,44.4
+203,Higher education (%),Czechia,2010,0.9
+203,Private non-profit (%),Czechia,2010,0.0
+203,Funds from abroad (%),Czechia,2010,13.9
+203,GDP(%),Czechia,2015,1.9
+203,Business Enterprises (%),Czechia,2015,34.5
+203,Government (%),Czechia,2015,32.2
+203,Higher education (%),Czechia,2015,0.7
+203,Private non-profit (%),Czechia,2015,0.1
+203,Funds from abroad (%),Czechia,2015,32.5
+203,GDP(%),Czechia,2016,1.7
+180,GDP(%),Dem. Rep. of the Congo,2005,0.1
+180,Government (%),Dem. Rep. of the Congo,2005,100.0
+180,GDP(%),Dem. Rep. of the Congo,2009,0.1
+180,Government (%),Dem. Rep. of the Congo,2009,100.0
+180,GDP(%),Dem. Rep. of the Congo,2015,0.0
+180,Business Enterprises (%),Dem. Rep. of the Congo,2015,0.2
+180,Government (%),Dem. Rep. of the Congo,2015,70.3
+180,Private non-profit (%),Dem. Rep. of the Congo,2015,0.1
+180,Funds from abroad (%),Dem. Rep. of the Congo,2015,29.4
+208,GDP(%),Denmark,2005,2.4
+208,Business Enterprises (%),Denmark,2005,59.5
+208,Government (%),Denmark,2005,27.6
+208,Private non-profit (%),Denmark,2005,2.8
+208,Funds from abroad (%),Denmark,2005,10.1
+208,GDP(%),Denmark,2010,2.9
+208,Business Enterprises (%),Denmark,2010,61.1
+208,Government (%),Denmark,2010,28.2
+208,Private non-profit (%),Denmark,2010,3.5
+208,Funds from abroad (%),Denmark,2010,7.2
+208,GDP(%),Denmark,2015,3.0
+208,Business Enterprises (%),Denmark,2015,59.4
+208,Government (%),Denmark,2015,29.4
+208,Private non-profit (%),Denmark,2015,4.7
+208,Funds from abroad (%),Denmark,2015,6.6
+208,GDP(%),Denmark,2016,2.9
+218,GDP(%),Ecuador,2003,0.1
+218,GDP(%),Ecuador,2010,0.4
+218,Business Enterprises (%),Ecuador,2010,1.0
+218,Government (%),Ecuador,2010,40.2
+218,Higher education (%),Ecuador,2010,9.6
+218,Private non-profit (%),Ecuador,2010,0.5
+218,Funds from abroad (%),Ecuador,2010,5.3
+218,Not distributed (%),Ecuador,2010,43.4
+218,GDP(%),Ecuador,2014,0.4
+218,Business Enterprises (%),Ecuador,2014,0.1
+218,Government (%),Ecuador,2014,42.4
+218,Higher education (%),Ecuador,2014,12.6
+218,Private non-profit (%),Ecuador,2014,0.1
+218,Funds from abroad (%),Ecuador,2014,2.5
+218,Not distributed (%),Ecuador,2014,42.3
+818,GDP(%),Egypt,2005,0.2
+818,GDP(%),Egypt,2010,0.4
+818,GDP(%),Egypt,2016,0.7
+818,Business Enterprises (%),Egypt,2016,5.9
+818,Government (%),Egypt,2016,93.8
+818,Higher education (%),Egypt,2016,0.2
+818,Private non-profit (%),Egypt,2016,0.1
+818,Funds from abroad (%),Egypt,2016,0.0
+222,GDP(%),El Salvador,2010,0.1
+222,Business Enterprises (%),El Salvador,2010,0.6
+222,Government (%),El Salvador,2010,70.1
+222,Higher education (%),El Salvador,2010,20.8
+222,Private non-profit (%),El Salvador,2010,0.0
+222,Funds from abroad (%),El Salvador,2010,8.3
+222,Not distributed (%),El Salvador,2010,0.1
+222,GDP(%),El Salvador,2015,0.1
+222,Business Enterprises (%),El Salvador,2015,41.9
+222,Government (%),El Salvador,2015,29.0
+222,Higher education (%),El Salvador,2015,21.2
+222,Private non-profit (%),El Salvador,2015,1.1
+222,Funds from abroad (%),El Salvador,2015,6.8
+222,Not distributed (%),El Salvador,2015,0.0
+233,GDP(%),Estonia,2005,0.9
+233,Business Enterprises (%),Estonia,2005,38.5
+233,Government (%),Estonia,2005,43.5
+233,Higher education (%),Estonia,2005,0.8
+233,Private non-profit (%),Estonia,2005,0.2
+233,Funds from abroad (%),Estonia,2005,17.1
+233,GDP(%),Estonia,2010,1.6
+233,Business Enterprises (%),Estonia,2010,43.6
+233,Government (%),Estonia,2010,44.1
+233,Higher education (%),Estonia,2010,0.6
+233,Private non-profit (%),Estonia,2010,0.2
+233,Funds from abroad (%),Estonia,2010,11.4
+233,GDP(%),Estonia,2015,1.5
+233,Business Enterprises (%),Estonia,2015,41.0
+233,Government (%),Estonia,2015,46.4
+233,Higher education (%),Estonia,2015,0.2
+233,Private non-profit (%),Estonia,2015,0.2
+233,Funds from abroad (%),Estonia,2015,12.2
+233,GDP(%),Estonia,2016,1.3
+231,GDP(%),Ethiopia,2005,0.2
+231,Government (%),Ethiopia,2005,69.2
+231,Private non-profit (%),Ethiopia,2005,0.1
+231,Funds from abroad (%),Ethiopia,2005,30.8
+231,GDP(%),Ethiopia,2010,0.2
+231,Business Enterprises (%),Ethiopia,2010,10.8
+231,Government (%),Ethiopia,2010,56.0
+231,Higher education (%),Ethiopia,2010,1.1
+231,Private non-profit (%),Ethiopia,2010,0.0
+231,Funds from abroad (%),Ethiopia,2010,30.0
+231,Not distributed (%),Ethiopia,2010,2.2
+231,GDP(%),Ethiopia,2013,0.6
+231,Business Enterprises (%),Ethiopia,2013,0.7
+231,Government (%),Ethiopia,2013,79.1
+231,Higher education (%),Ethiopia,2013,1.8
+231,Private non-profit (%),Ethiopia,2013,0.2
+231,Funds from abroad (%),Ethiopia,2013,2.1
+231,Not distributed (%),Ethiopia,2013,16.0
+234,GDP(%),Faroe Islands,2003,0.9
+234,Business Enterprises (%),Faroe Islands,2003,20.4
+234,Private non-profit (%),Faroe Islands,2003,0.3
+234,Funds from abroad (%),Faroe Islands,2003,18.7
+234,Not distributed (%),Faroe Islands,2003,60.6
+246,GDP(%),Finland,2005,3.3
+246,Business Enterprises (%),Finland,2005,66.9
+246,Government (%),Finland,2005,25.7
+246,Higher education (%),Finland,2005,0.2
+246,Private non-profit (%),Finland,2005,1.0
+246,Funds from abroad (%),Finland,2005,6.3
+246,GDP(%),Finland,2010,3.7
+246,Business Enterprises (%),Finland,2010,66.1
+246,Government (%),Finland,2010,25.7
+246,Higher education (%),Finland,2010,0.2
+246,Private non-profit (%),Finland,2010,1.1
+246,Funds from abroad (%),Finland,2010,6.9
+246,GDP(%),Finland,2015,2.9
+246,Business Enterprises (%),Finland,2015,54.8
+246,Government (%),Finland,2015,28.9
+246,Higher education (%),Finland,2015,0.3
+246,Private non-profit (%),Finland,2015,1.5
+246,Funds from abroad (%),Finland,2015,14.5
+246,GDP(%),Finland,2016,2.7
+250,GDP(%),France,2005,2.0
+250,Business Enterprises (%),France,2005,51.9
+250,Government (%),France,2005,38.6
+250,Higher education (%),France,2005,1.0
+250,Private non-profit (%),France,2005,0.9
+250,Funds from abroad (%),France,2005,7.5
+250,GDP(%),France,2010,2.2
+250,Business Enterprises (%),France,2010,53.5
+250,Government (%),France,2010,37.1
+250,Higher education (%),France,2010,1.0
+250,Private non-profit (%),France,2010,0.8
+250,Funds from abroad (%),France,2010,7.5
+250,GDP(%),France,2015,2.3
+250,Business Enterprises (%),France,2015,54.0
+250,Government (%),France,2015,34.8
+250,Higher education (%),France,2015,2.6
+250,Private non-profit (%),France,2015,0.9
+250,Funds from abroad (%),France,2015,7.6
+250,GDP(%),France,2016,2.2
+266,GDP(%),Gabon,2009,0.6
+266,Business Enterprises (%),Gabon,2009,29.3
+266,Government (%),Gabon,2009,58.1
+266,Higher education (%),Gabon,2009,9.5
+266,Funds from abroad (%),Gabon,2009,3.1
+266,Not distributed (%),Gabon,2009,0.0
+270,GDP(%),Gambia,2009,0.0
+270,GDP(%),Gambia,2011,0.1
+270,Government (%),Gambia,2011,38.5
+270,Private non-profit (%),Gambia,2011,45.6
+270,Funds from abroad (%),Gambia,2011,15.9
+268,GDP(%),Georgia,2005,0.2
+268,GDP(%),Georgia,2013,0.1
+268,Government (%),Georgia,2013,46.7
+268,Higher education (%),Georgia,2013,36.1
+268,Private non-profit (%),Georgia,2013,3.1
+268,Funds from abroad (%),Georgia,2013,14.7
+268,Not distributed (%),Georgia,2013,0.4
+268,GDP(%),Georgia,2016,0.3
+276,GDP(%),Germany,2005,2.4
+276,Business Enterprises (%),Germany,2005,67.6
+276,Government (%),Germany,2005,28.4
+276,Private non-profit (%),Germany,2005,0.3
+276,Funds from abroad (%),Germany,2005,3.7
+276,GDP(%),Germany,2010,2.7
+276,Business Enterprises (%),Germany,2010,65.5
+276,Government (%),Germany,2010,30.4
+276,Private non-profit (%),Germany,2010,0.2
+276,Funds from abroad (%),Germany,2010,3.9
+276,GDP(%),Germany,2015,2.9
+276,Business Enterprises (%),Germany,2015,65.6
+276,Government (%),Germany,2015,27.9
+276,Private non-profit (%),Germany,2015,0.4
+276,Funds from abroad (%),Germany,2015,6.2
+276,GDP(%),Germany,2016,2.9
+288,GDP(%),Ghana,2010,0.4
+288,Business Enterprises (%),Ghana,2010,0.1
+288,Government (%),Ghana,2010,68.3
+288,Higher education (%),Ghana,2010,0.3
+288,Private non-profit (%),Ghana,2010,0.1
+288,Funds from abroad (%),Ghana,2010,31.2
+300,GDP(%),Greece,2005,0.6
+300,Business Enterprises (%),Greece,2005,31.1
+300,Government (%),Greece,2005,46.8
+300,Higher education (%),Greece,2005,1.7
+300,Private non-profit (%),Greece,2005,1.5
+300,Funds from abroad (%),Greece,2005,19.0
+300,GDP(%),Greece,2010,0.6
+300,Business Enterprises (%),Greece,2010,36.5
+300,Government (%),Greece,2010,48.3
+300,Higher education (%),Greece,2010,2.3
+300,Private non-profit (%),Greece,2010,1.0
+300,Funds from abroad (%),Greece,2010,11.9
+300,GDP(%),Greece,2016,1.0
+300,Business Enterprises (%),Greece,2016,40.2
+300,Government (%),Greece,2016,42.6
+300,Higher education (%),Greece,2016,2.3
+300,Private non-profit (%),Greece,2016,0.4
+300,Funds from abroad (%),Greece,2016,14.6
+304,GDP(%),Greenland,2004,0.7
+316,Government (%),Guam,2001,100.0
+316,GDP(%),Guam,2005,0.3
+320,GDP(%),Guatemala,2005,0.0
+320,Government (%),Guatemala,2005,42.1
+320,Higher education (%),Guatemala,2005,57.9
+320,GDP(%),Guatemala,2010,0.0
+320,Government (%),Guatemala,2010,18.3
+320,Higher education (%),Guatemala,2010,30.9
+320,Funds from abroad (%),Guatemala,2010,50.8
+320,GDP(%),Guatemala,2012,0.0
+320,Government (%),Guatemala,2012,23.5
+320,Higher education (%),Guatemala,2012,27.5
+320,Funds from abroad (%),Guatemala,2012,49.0
+320,GDP(%),Guatemala,2014,0.0
+320,Government (%),Guatemala,2014,31.1
+320,Higher education (%),Guatemala,2014,68.9
+320,Not distributed (%),Guatemala,2014,0.0
+320,GDP(%),Guatemala,2015,0.0
+320,Government (%),Guatemala,2015,27.8
+320,Higher education (%),Guatemala,2015,72.2
+340,GDP(%),Honduras,2004,0.0
+340,GDP(%),Honduras,2015,0.0
+340,Government (%),Honduras,2015,82.5
+340,Higher education (%),Honduras,2015,17.5
+340,Not distributed (%),Honduras,2015,0.0
+348,GDP(%),Hungary,2005,0.9
+348,Business Enterprises (%),Hungary,2005,39.4
+348,Government (%),Hungary,2005,49.4
+348,Private non-profit (%),Hungary,2005,0.3
+348,Funds from abroad (%),Hungary,2005,10.7
+348,GDP(%),Hungary,2010,1.1
+348,Business Enterprises (%),Hungary,2010,47.4
+348,Government (%),Hungary,2010,39.3
+348,Private non-profit (%),Hungary,2010,0.9
+348,Funds from abroad (%),Hungary,2010,12.4
+348,GDP(%),Hungary,2015,1.4
+348,Business Enterprises (%),Hungary,2015,49.7
+348,Government (%),Hungary,2015,34.6
+348,Private non-profit (%),Hungary,2015,0.7
+348,Funds from abroad (%),Hungary,2015,15.0
+348,GDP(%),Hungary,2016,1.2
+352,GDP(%),Iceland,2005,2.7
+352,Business Enterprises (%),Iceland,2005,48.0
+352,Government (%),Iceland,2005,40.5
+352,Private non-profit (%),Iceland,2005,0.3
+352,Funds from abroad (%),Iceland,2005,11.2
+352,GDP(%),Iceland,2009,2.7
+352,Business Enterprises (%),Iceland,2009,47.8
+352,Government (%),Iceland,2009,40.2
+352,Private non-profit (%),Iceland,2009,0.6
+352,Funds from abroad (%),Iceland,2009,11.4
+352,GDP(%),Iceland,2016,2.1
+352,Business Enterprises (%),Iceland,2016,35.0
+352,Government (%),Iceland,2016,34.2
+352,Higher education (%),Iceland,2016,4.0
+352,Private non-profit (%),Iceland,2016,4.5
+352,Funds from abroad (%),Iceland,2016,22.4
+356,GDP(%),India,2005,0.8
+356,GDP(%),India,2010,0.8
+356,GDP(%),India,2015,0.6
+360,GDP(%),Indonesia,2001,0.0
+360,Business Enterprises (%),Indonesia,2001,14.7
+360,Government (%),Indonesia,2001,84.5
+360,Higher education (%),Indonesia,2001,0.2
+360,Not distributed (%),Indonesia,2001,0.7
+360,GDP(%),Indonesia,2009,0.1
+360,GDP(%),Indonesia,2013,0.1
+364,GDP(%),Iran (Islamic Republic of),2005,0.6
+364,Business Enterprises (%),Iran (Islamic Republic of),2005,12.2
+364,Government (%),Iran (Islamic Republic of),2005,76.2
+364,Higher education (%),Iran (Islamic Republic of),2005,11.6
+364,GDP(%),Iran (Islamic Republic of),2008,0.6
+364,Business Enterprises (%),Iran (Islamic Republic of),2008,30.9
+364,Government (%),Iran (Islamic Republic of),2008,61.6
+364,Higher education (%),Iran (Islamic Republic of),2008,7.4
+364,GDP(%),Iran (Islamic Republic of),2010,0.3
+364,GDP(%),Iran (Islamic Republic of),2013,0.3
+368,GDP(%),Iraq,2010,0.0
+368,Government (%),Iraq,2010,100.0
+368,GDP(%),Iraq,2016,0.0
+368,Business Enterprises (%),Iraq,2016,1.2
+368,Government (%),Iraq,2016,96.0
+368,Higher education (%),Iraq,2016,2.0
+368,Private non-profit (%),Iraq,2016,0.7
+368,Funds from abroad (%),Iraq,2016,0.1
+372,GDP(%),Ireland,2005,1.2
+372,Business Enterprises (%),Ireland,2005,57.4
+372,Government (%),Ireland,2005,32.0
+372,Higher education (%),Ireland,2005,1.7
+372,Private non-profit (%),Ireland,2005,0.2
+372,Funds from abroad (%),Ireland,2005,8.6
+372,GDP(%),Ireland,2010,1.6
+372,Business Enterprises (%),Ireland,2010,52.2
+372,Government (%),Ireland,2010,29.4
+372,Higher education (%),Ireland,2010,0.9
+372,Private non-profit (%),Ireland,2010,0.5
+372,Funds from abroad (%),Ireland,2010,17.0
+372,GDP(%),Ireland,2015,1.2
+372,Business Enterprises (%),Ireland,2015,48.4
+372,Government (%),Ireland,2015,25.9
+372,Higher education (%),Ireland,2015,1.5
+372,Private non-profit (%),Ireland,2015,0.4
+372,Funds from abroad (%),Ireland,2015,23.8
+372,GDP(%),Ireland,2016,1.2
+376,GDP(%),Israel,2005,4.1
+376,Business Enterprises (%),Israel,2005,56.2
+376,Government (%),Israel,2005,14.5
+376,Higher education (%),Israel,2005,2.8
+376,Private non-profit (%),Israel,2005,1.8
+376,Funds from abroad (%),Israel,2005,24.7
+376,GDP(%),Israel,2010,3.9
+376,Business Enterprises (%),Israel,2010,36.2
+376,Government (%),Israel,2010,14.2
+376,Higher education (%),Israel,2010,1.2
+376,Private non-profit (%),Israel,2010,1.1
+376,Funds from abroad (%),Israel,2010,47.3
+376,GDP(%),Israel,2015,4.3
+376,Business Enterprises (%),Israel,2015,34.3
+376,Government (%),Israel,2015,12.8
+376,Higher education (%),Israel,2015,0.4
+376,Private non-profit (%),Israel,2015,0.9
+376,Funds from abroad (%),Israel,2015,51.6
+376,GDP(%),Israel,2016,4.3
+380,GDP(%),Italy,2005,1.0
+380,Business Enterprises (%),Italy,2005,39.7
+380,Government (%),Italy,2005,50.7
+380,Higher education (%),Italy,2005,0.1
+380,Private non-profit (%),Italy,2005,1.6
+380,Funds from abroad (%),Italy,2005,8.0
+380,GDP(%),Italy,2010,1.2
+380,Business Enterprises (%),Italy,2010,44.7
+380,Government (%),Italy,2010,41.6
+380,Higher education (%),Italy,2010,0.9
+380,Private non-profit (%),Italy,2010,3.1
+380,Funds from abroad (%),Italy,2010,9.8
+380,GDP(%),Italy,2015,1.3
+380,Business Enterprises (%),Italy,2015,50.0
+380,Government (%),Italy,2015,38.0
+380,Higher education (%),Italy,2015,1.0
+380,Private non-profit (%),Italy,2015,2.7
+380,Funds from abroad (%),Italy,2015,8.3
+380,GDP(%),Italy,2016,1.3
+388,GDP(%),Jamaica,2002,0.1
+392,GDP(%),Japan,2005,3.2
+392,Business Enterprises (%),Japan,2005,76.1
+392,Government (%),Japan,2005,16.8
+392,Higher education (%),Japan,2005,6.1
+392,Private non-profit (%),Japan,2005,0.7
+392,Funds from abroad (%),Japan,2005,0.3
+392,GDP(%),Japan,2010,3.1
+392,Business Enterprises (%),Japan,2010,75.9
+392,Government (%),Japan,2010,17.2
+392,Higher education (%),Japan,2010,5.7
+392,Private non-profit (%),Japan,2010,0.8
+392,Funds from abroad (%),Japan,2010,0.4
+392,GDP(%),Japan,2016,3.1
+392,Business Enterprises (%),Japan,2016,78.1
+392,Government (%),Japan,2016,15.0
+392,Higher education (%),Japan,2016,5.4
+392,Private non-profit (%),Japan,2016,0.7
+392,Funds from abroad (%),Japan,2016,0.7
+400,GDP(%),Jordan,2002,0.3
+400,GDP(%),Jordan,2008,0.4
+400,GDP(%),Jordan,2016,0.3
+398,GDP(%),Kazakhstan,2005,0.3
+398,Business Enterprises (%),Kazakhstan,2005,39.1
+398,Government (%),Kazakhstan,2005,44.5
+398,Higher education (%),Kazakhstan,2005,13.4
+398,Private non-profit (%),Kazakhstan,2005,1.3
+398,Funds from abroad (%),Kazakhstan,2005,1.5
+398,GDP(%),Kazakhstan,2010,0.2
+398,Business Enterprises (%),Kazakhstan,2010,36.6
+398,Government (%),Kazakhstan,2010,36.7
+398,Higher education (%),Kazakhstan,2010,17.2
+398,Private non-profit (%),Kazakhstan,2010,8.9
+398,Funds from abroad (%),Kazakhstan,2010,0.6
+398,GDP(%),Kazakhstan,2011,0.2
+398,Business Enterprises (%),Kazakhstan,2011,51.6
+398,Government (%),Kazakhstan,2011,24.9
+398,Higher education (%),Kazakhstan,2011,16.3
+398,Private non-profit (%),Kazakhstan,2011,6.9
+398,Funds from abroad (%),Kazakhstan,2011,0.3
+398,GDP(%),Kazakhstan,2016,0.1
+398,Business Enterprises (%),Kazakhstan,2016,39.6
+398,Government (%),Kazakhstan,2016,53.2
+398,Funds from abroad (%),Kazakhstan,2016,1.5
+398,Not distributed (%),Kazakhstan,2016,5.6
+404,GDP(%),Kenya,2010,0.8
+404,Business Enterprises (%),Kenya,2010,4.3
+404,Government (%),Kenya,2010,26.0
+404,Higher education (%),Kenya,2010,19.0
+404,Private non-profit (%),Kenya,2010,3.5
+404,Funds from abroad (%),Kenya,2010,47.1
+414,GDP(%),Kuwait,2003,0.1
+414,Business Enterprises (%),Kuwait,2003,4.4
+414,Government (%),Kuwait,2003,94.7
+414,Higher education (%),Kuwait,2003,0.0
+414,Funds from abroad (%),Kuwait,2003,0.9
+414,GDP(%),Kuwait,2004,0.1
+414,Business Enterprises (%),Kuwait,2004,6.0
+414,Government (%),Kuwait,2004,93.2
+414,Funds from abroad (%),Kuwait,2004,0.8
+414,GDP(%),Kuwait,2005,0.1
+414,Business Enterprises (%),Kuwait,2005,7.3
+414,Government (%),Kuwait,2005,92.3
+414,Private non-profit (%),Kuwait,2005,0.4
+414,GDP(%),Kuwait,2009,0.1
+414,Business Enterprises (%),Kuwait,2009,2.3
+414,Government (%),Kuwait,2009,96.5
+414,Funds from abroad (%),Kuwait,2009,1.2
+414,GDP(%),Kuwait,2010,0.1
+414,Business Enterprises (%),Kuwait,2010,5.2
+414,Government (%),Kuwait,2010,94.8
+414,Private non-profit (%),Kuwait,2010,0.0
+414,GDP(%),Kuwait,2014,0.4
+414,Business Enterprises (%),Kuwait,2014,1.0
+414,Government (%),Kuwait,2014,90.2
+414,Higher education (%),Kuwait,2014,5.5
+414,Private non-profit (%),Kuwait,2014,1.1
+414,Not distributed (%),Kuwait,2014,2.3
+417,GDP(%),Kyrgyzstan,2003,0.2
+417,Business Enterprises (%),Kyrgyzstan,2003,53.7
+417,Government (%),Kyrgyzstan,2003,45.1
+417,Higher education (%),Kyrgyzstan,2003,0.1
+417,Funds from abroad (%),Kyrgyzstan,2003,1.1
+417,GDP(%),Kyrgyzstan,2005,0.2
+417,Business Enterprises (%),Kyrgyzstan,2005,36.4
+417,Government (%),Kyrgyzstan,2005,63.6
+417,Funds from abroad (%),Kyrgyzstan,2005,0.0
+417,GDP(%),Kyrgyzstan,2010,0.2
+417,GDP(%),Kyrgyzstan,2016,0.1
+417,Business Enterprises (%),Kyrgyzstan,2016,4.7
+417,Government (%),Kyrgyzstan,2016,88.9
+417,Higher education (%),Kyrgyzstan,2016,0.3
+417,Funds from abroad (%),Kyrgyzstan,2016,1.9
+417,Not distributed (%),Kyrgyzstan,2016,4.2
+418,GDP(%),Lao People's Dem. Rep.,2002,0.0
+418,Business Enterprises (%),Lao People's Dem. Rep.,2002,36.0
+418,Government (%),Lao People's Dem. Rep.,2002,8.0
+418,Higher education (%),Lao People's Dem. Rep.,2002,2.0
+418,Funds from abroad (%),Lao People's Dem. Rep.,2002,54.0
+428,GDP(%),Latvia,2005,0.5
+428,Business Enterprises (%),Latvia,2005,34.3
+428,Government (%),Latvia,2005,46.0
+428,Higher education (%),Latvia,2005,1.2
+428,Funds from abroad (%),Latvia,2005,18.5
+428,GDP(%),Latvia,2010,0.6
+428,Business Enterprises (%),Latvia,2010,38.8
+428,Government (%),Latvia,2010,26.4
+428,Higher education (%),Latvia,2010,1.4
+428,Funds from abroad (%),Latvia,2010,33.4
+428,GDP(%),Latvia,2015,0.6
+428,Business Enterprises (%),Latvia,2015,20.0
+428,Government (%),Latvia,2015,32.7
+428,Higher education (%),Latvia,2015,2.2
+428,Funds from abroad (%),Latvia,2015,45.0
+428,GDP(%),Latvia,2016,0.4
+426,GDP(%),Lesotho,2004,0.1
+426,GDP(%),Lesotho,2009,0.0
+426,Business Enterprises (%),Lesotho,2009,3.4
+426,Government (%),Lesotho,2009,15.0
+426,Higher education (%),Lesotho,2009,2.8
+426,Not distributed (%),Lesotho,2009,78.9
+426,GDP(%),Lesotho,2011,0.0
+426,Higher education (%),Lesotho,2011,44.7
+426,Funds from abroad (%),Lesotho,2011,3.4
+426,Not distributed (%),Lesotho,2011,51.9
+426,GDP(%),Lesotho,2015,0.0
+426,Business Enterprises (%),Lesotho,2015,0.8
+426,Government (%),Lesotho,2015,91.1
+426,Private non-profit (%),Lesotho,2015,0.3
+426,Funds from abroad (%),Lesotho,2015,7.8
+440,GDP(%),Lithuania,2005,0.7
+440,Business Enterprises (%),Lithuania,2005,20.8
+440,Government (%),Lithuania,2005,62.7
+440,Higher education (%),Lithuania,2005,5.7
+440,Private non-profit (%),Lithuania,2005,0.2
+440,Funds from abroad (%),Lithuania,2005,10.5
+440,GDP(%),Lithuania,2010,0.8
+440,Business Enterprises (%),Lithuania,2010,32.4
+440,Government (%),Lithuania,2010,46.0
+440,Higher education (%),Lithuania,2010,1.5
+440,Private non-profit (%),Lithuania,2010,0.2
+440,Funds from abroad (%),Lithuania,2010,19.9
+440,GDP(%),Lithuania,2015,1.0
+440,Business Enterprises (%),Lithuania,2015,28.5
+440,Government (%),Lithuania,2015,35.3
+440,Higher education (%),Lithuania,2015,1.5
+440,Private non-profit (%),Lithuania,2015,0.3
+440,Funds from abroad (%),Lithuania,2015,34.3
+440,GDP(%),Lithuania,2016,0.8
+442,GDP(%),Luxembourg,2005,1.6
+442,Business Enterprises (%),Luxembourg,2005,79.7
+442,Government (%),Luxembourg,2005,16.6
+442,Higher education (%),Luxembourg,2005,0.0
+442,Private non-profit (%),Luxembourg,2005,0.1
+442,Funds from abroad (%),Luxembourg,2005,3.6
+442,GDP(%),Luxembourg,2010,1.5
+442,Business Enterprises (%),Luxembourg,2010,43.5
+442,Government (%),Luxembourg,2010,35.1
+442,Higher education (%),Luxembourg,2010,0.6
+442,Private non-profit (%),Luxembourg,2010,0.1
+442,Funds from abroad (%),Luxembourg,2010,20.6
+442,GDP(%),Luxembourg,2015,1.3
+442,Business Enterprises (%),Luxembourg,2015,47.1
+442,Government (%),Luxembourg,2015,47.7
+442,Higher education (%),Luxembourg,2015,1.6
+442,Private non-profit (%),Luxembourg,2015,0.2
+442,Funds from abroad (%),Luxembourg,2015,3.4
+442,GDP(%),Luxembourg,2016,1.2
+450,GDP(%),Madagascar,2005,0.2
+450,Government (%),Madagascar,2005,89.8
+450,Funds from abroad (%),Madagascar,2005,10.2
+450,GDP(%),Madagascar,2009,0.1
+450,Government (%),Madagascar,2009,89.4
+450,Funds from abroad (%),Madagascar,2009,10.6
+450,GDP(%),Madagascar,2010,0.1
+450,Government (%),Madagascar,2010,100.0
+450,GDP(%),Madagascar,2011,0.1
+450,Government (%),Madagascar,2011,100.0
+450,GDP(%),Madagascar,2016,0.0
+458,GDP(%),Malaysia,2004,0.6
+458,Business Enterprises (%),Malaysia,2004,71.2
+458,Government (%),Malaysia,2004,21.5
+458,Higher education (%),Malaysia,2004,6.9
+458,Funds from abroad (%),Malaysia,2004,0.4
+458,GDP(%),Malaysia,2010,1.0
+458,Business Enterprises (%),Malaysia,2010,59.6
+458,Government (%),Malaysia,2010,36.4
+458,Higher education (%),Malaysia,2010,3.5
+458,Funds from abroad (%),Malaysia,2010,0.4
+458,Not distributed (%),Malaysia,2010,0.1
+458,GDP(%),Malaysia,2015,1.3
+458,Business Enterprises (%),Malaysia,2015,49.6
+458,Government (%),Malaysia,2015,35.8
+458,Higher education (%),Malaysia,2015,7.0
+458,Funds from abroad (%),Malaysia,2015,1.7
+458,Not distributed (%),Malaysia,2015,6.0
+466,GDP(%),Mali,2007,0.2
+466,Business Enterprises (%),Mali,2007,10.1
+466,Government (%),Mali,2007,40.9
+466,Funds from abroad (%),Mali,2007,49.0
+466,GDP(%),Mali,2010,0.6
+466,Government (%),Mali,2010,91.2
+466,Funds from abroad (%),Mali,2010,8.8
+466,GDP(%),Mali,2015,0.3
+466,Business Enterprises (%),Mali,2015,0.9
+466,Government (%),Mali,2015,43.6
+466,Higher education (%),Mali,2015,0.1
+466,Private non-profit (%),Mali,2015,0.3
+466,Funds from abroad (%),Mali,2015,32.7
+466,Not distributed (%),Mali,2015,22.4
+470,GDP(%),Malta,2005,0.5
+470,Business Enterprises (%),Malta,2005,46.8
+470,Government (%),Malta,2005,25.9
+470,Higher education (%),Malta,2005,0.4
+470,Private non-profit (%),Malta,2005,0.1
+470,Funds from abroad (%),Malta,2005,26.9
+470,GDP(%),Malta,2010,0.6
+470,Business Enterprises (%),Malta,2010,52.5
+470,Government (%),Malta,2010,34.4
+470,Higher education (%),Malta,2010,1.3
+470,Private non-profit (%),Malta,2010,0.1
+470,Funds from abroad (%),Malta,2010,11.7
+470,GDP(%),Malta,2015,0.8
+470,Business Enterprises (%),Malta,2015,45.6
+470,Government (%),Malta,2015,32.8
+470,Higher education (%),Malta,2015,1.1
+470,Private non-profit (%),Malta,2015,0.1
+470,Funds from abroad (%),Malta,2015,20.4
+470,GDP(%),Malta,2016,0.6
+480,GDP(%),Mauritius,2005,0.4
+480,Government (%),Mauritius,2005,100.0
+480,GDP(%),Mauritius,2012,0.2
+480,Business Enterprises (%),Mauritius,2012,0.3
+480,Government (%),Mauritius,2012,72.4
+480,Higher education (%),Mauritius,2012,20.7
+480,Private non-profit (%),Mauritius,2012,0.1
+480,Funds from abroad (%),Mauritius,2012,6.4
+484,GDP(%),Mexico,2005,0.4
+484,Business Enterprises (%),Mexico,2005,41.5
+484,Government (%),Mexico,2005,49.2
+484,Higher education (%),Mexico,2005,7.3
+484,Private non-profit (%),Mexico,2005,0.9
+484,Funds from abroad (%),Mexico,2005,1.1
+484,GDP(%),Mexico,2010,0.5
+484,Business Enterprises (%),Mexico,2010,32.9
+484,Government (%),Mexico,2010,62.3
+484,Higher education (%),Mexico,2010,2.8
+484,Private non-profit (%),Mexico,2010,1.6
+484,Funds from abroad (%),Mexico,2010,0.5
+484,GDP(%),Mexico,2016,0.5
+484,Business Enterprises (%),Mexico,2016,20.7
+484,Government (%),Mexico,2016,67.4
+484,Higher education (%),Mexico,2016,5.0
+484,Private non-profit (%),Mexico,2016,6.4
+484,Funds from abroad (%),Mexico,2016,0.6
+492,GDP(%),Monaco,2005,0.0
+492,Government (%),Monaco,2005,98.8
+492,Not distributed (%),Monaco,2005,1.2
+496,GDP(%),Mongolia,2005,0.2
+496,Business Enterprises (%),Mongolia,2005,10.4
+496,Government (%),Mongolia,2005,77.8
+496,Higher education (%),Mongolia,2005,0.8
+496,Funds from abroad (%),Mongolia,2005,4.4
+496,Not distributed (%),Mongolia,2005,6.5
+496,GDP(%),Mongolia,2010,0.2
+496,Business Enterprises (%),Mongolia,2010,7.2
+496,Government (%),Mongolia,2010,61.1
+496,Higher education (%),Mongolia,2010,1.5
+496,Funds from abroad (%),Mongolia,2010,4.2
+496,Not distributed (%),Mongolia,2010,25.9
+496,GDP(%),Mongolia,2016,0.2
+496,Business Enterprises (%),Mongolia,2016,4.9
+496,Government (%),Mongolia,2016,86.3
+496,Higher education (%),Mongolia,2016,3.7
+496,Private non-profit (%),Mongolia,2016,0.8
+496,Funds from abroad (%),Mongolia,2016,2.1
+496,Not distributed (%),Mongolia,2016,2.1
+499,GDP(%),Montenegro,2005,0.9
+499,GDP(%),Montenegro,2007,1.1
+499,GDP(%),Montenegro,2015,0.4
+499,Business Enterprises (%),Montenegro,2015,29.9
+499,Government (%),Montenegro,2015,57.8
+499,Higher education (%),Montenegro,2015,6.4
+499,Private non-profit (%),Montenegro,2015,0.0
+499,Funds from abroad (%),Montenegro,2015,5.9
+504,GDP(%),Morocco,2003,0.6
+504,Business Enterprises (%),Morocco,2003,12.3
+504,Government (%),Morocco,2003,40.3
+504,Higher education (%),Morocco,2003,47.4
+504,GDP(%),Morocco,2010,0.7
+504,Business Enterprises (%),Morocco,2010,29.9
+504,Government (%),Morocco,2010,23.1
+504,Higher education (%),Morocco,2010,45.3
+504,Funds from abroad (%),Morocco,2010,1.7
+508,GDP(%),Mozambique,2002,0.4
+508,Government (%),Mozambique,2002,34.7
+508,Funds from abroad (%),Mozambique,2002,65.3
+508,GDP(%),Mozambique,2010,0.4
+508,Government (%),Mozambique,2010,18.8
+508,Private non-profit (%),Mozambique,2010,3.0
+508,Funds from abroad (%),Mozambique,2010,78.1
+508,GDP(%),Mozambique,2015,0.3
+508,Business Enterprises (%),Mozambique,2015,0.5
+508,Government (%),Mozambique,2015,43.5
+508,Higher education (%),Mozambique,2015,13.3
+508,Funds from abroad (%),Mozambique,2015,39.9
+508,Not distributed (%),Mozambique,2015,2.8
+104,GDP(%),Myanmar,2002,0.2
+516,GDP(%),Namibia,2010,0.1
+516,Business Enterprises (%),Namibia,2010,19.8
+516,Government (%),Namibia,2010,78.6
+516,Funds from abroad (%),Namibia,2010,1.5
+516,GDP(%),Namibia,2014,0.3
+516,Business Enterprises (%),Namibia,2014,11.1
+516,Government (%),Namibia,2014,63.2
+516,Higher education (%),Namibia,2014,6.0
+516,Private non-profit (%),Namibia,2014,3.9
+516,Funds from abroad (%),Namibia,2014,15.8
+524,GDP(%),Nepal,2010,0.3
+528,GDP(%),Netherlands,2005,1.8
+528,Business Enterprises (%),Netherlands,2005,46.3
+528,Government (%),Netherlands,2005,38.8
+528,Higher education (%),Netherlands,2005,0.3
+528,Private non-profit (%),Netherlands,2005,2.6
+528,Funds from abroad (%),Netherlands,2005,12.0
+528,GDP(%),Netherlands,2009,1.7
+528,Business Enterprises (%),Netherlands,2009,45.1
+528,Government (%),Netherlands,2009,40.9
+528,Higher education (%),Netherlands,2009,0.3
+528,Private non-profit (%),Netherlands,2009,2.8
+528,Funds from abroad (%),Netherlands,2009,10.8
+528,GDP(%),Netherlands,2010,1.7
+528,GDP(%),Netherlands,2015,2.0
+528,Business Enterprises (%),Netherlands,2015,48.6
+528,Government (%),Netherlands,2015,33.1
+528,Higher education (%),Netherlands,2015,0.2
+528,Private non-profit (%),Netherlands,2015,2.6
+528,Funds from abroad (%),Netherlands,2015,15.5
+528,GDP(%),Netherlands,2016,2.0
+554,GDP(%),New Zealand,2005,1.1
+554,Business Enterprises (%),New Zealand,2005,41.1
+554,Government (%),New Zealand,2005,43.2
+554,Higher education (%),New Zealand,2005,8.9
+554,Private non-profit (%),New Zealand,2005,1.7
+554,Funds from abroad (%),New Zealand,2005,5.2
+554,GDP(%),New Zealand,2009,1.3
+554,Business Enterprises (%),New Zealand,2009,39.0
+554,Government (%),New Zealand,2009,44.7
+554,Higher education (%),New Zealand,2009,8.3
+554,Private non-profit (%),New Zealand,2009,2.8
+554,Funds from abroad (%),New Zealand,2009,5.2
+554,GDP(%),New Zealand,2015,1.3
+554,Business Enterprises (%),New Zealand,2015,43.1
+554,Government (%),New Zealand,2015,37.1
+554,Higher education (%),New Zealand,2015,8.5
+554,Private non-profit (%),New Zealand,2015,3.0
+554,Funds from abroad (%),New Zealand,2015,8.2
+558,GDP(%),Nicaragua,2002,0.0
+558,GDP(%),Nicaragua,2015,0.1
+566,GDP(%),Nigeria,2007,0.2
+566,Business Enterprises (%),Nigeria,2007,0.2
+566,Government (%),Nigeria,2007,96.4
+566,Higher education (%),Nigeria,2007,0.1
+566,Private non-profit (%),Nigeria,2007,1.7
+566,Funds from abroad (%),Nigeria,2007,1.0
+566,Not distributed (%),Nigeria,2007,0.6
+807,GDP(%),North Macedonia,2002,0.2
+807,Business Enterprises (%),North Macedonia,2002,7.8
+807,Government (%),North Macedonia,2002,76.3
+807,Higher education (%),North Macedonia,2002,7.3
+807,Private non-profit (%),North Macedonia,2002,0.0
+807,Funds from abroad (%),North Macedonia,2002,8.6
+807,GDP(%),North Macedonia,2005,0.2
+807,GDP(%),North Macedonia,2010,0.2
+807,GDP(%),North Macedonia,2016,0.4
+807,Business Enterprises (%),North Macedonia,2016,24.1
+807,Government (%),North Macedonia,2016,46.8
+807,Higher education (%),North Macedonia,2016,23.6
+807,Private non-profit (%),North Macedonia,2016,0.4
+807,Funds from abroad (%),North Macedonia,2016,5.2
+578,GDP(%),Norway,2005,1.5
+578,Business Enterprises (%),Norway,2005,46.8
+578,Government (%),Norway,2005,43.6
+578,Higher education (%),Norway,2005,0.7
+578,Private non-profit (%),Norway,2005,0.9
+578,Funds from abroad (%),Norway,2005,8.1
+578,GDP(%),Norway,2009,1.7
+578,Business Enterprises (%),Norway,2009,43.6
+578,Government (%),Norway,2009,46.8
+578,Higher education (%),Norway,2009,0.4
+578,Private non-profit (%),Norway,2009,1.0
+578,Funds from abroad (%),Norway,2009,8.2
+578,GDP(%),Norway,2010,1.6
+578,GDP(%),Norway,2015,1.9
+578,Business Enterprises (%),Norway,2015,44.2
+578,Government (%),Norway,2015,44.9
+578,Higher education (%),Norway,2015,0.4
+578,Private non-profit (%),Norway,2015,1.2
+578,Funds from abroad (%),Norway,2015,9.2
+578,GDP(%),Norway,2016,2.0
+512,GDP(%),Oman,2013,0.2
+512,Business Enterprises (%),Oman,2013,24.5
+512,Government (%),Oman,2013,48.6
+512,Higher education (%),Oman,2013,24.4
+512,Private non-profit (%),Oman,2013,0.1
+512,Funds from abroad (%),Oman,2013,0.0
+512,Not distributed (%),Oman,2013,2.3
+512,GDP(%),Oman,2015,0.2
+512,Business Enterprises (%),Oman,2015,21.4
+512,Government (%),Oman,2015,55.7
+512,Higher education (%),Oman,2015,22.8
+512,Private non-profit (%),Oman,2015,0.2
+586,GDP(%),Pakistan,2005,0.4
+586,Government (%),Pakistan,2005,87.0
+586,Higher education (%),Pakistan,2005,11.9
+586,Funds from abroad (%),Pakistan,2005,0.3
+586,Not distributed (%),Pakistan,2005,0.8
+586,GDP(%),Pakistan,2009,0.4
+586,Government (%),Pakistan,2009,84.0
+586,Higher education (%),Pakistan,2009,12.1
+586,Private non-profit (%),Pakistan,2009,1.7
+586,Funds from abroad (%),Pakistan,2009,0.9
+586,Not distributed (%),Pakistan,2009,1.3
+586,GDP(%),Pakistan,2015,0.2
+586,Government (%),Pakistan,2015,67.0
+586,Higher education (%),Pakistan,2015,25.5
+586,Private non-profit (%),Pakistan,2015,0.3
+586,Funds from abroad (%),Pakistan,2015,2.7
+586,Not distributed (%),Pakistan,2015,4.6
+591,GDP(%),Panama,2003,0.3
+591,Business Enterprises (%),Panama,2003,0.6
+591,Government (%),Panama,2003,25.5
+591,Higher education (%),Panama,2003,1.8
+591,Private non-profit (%),Panama,2003,1.0
+591,Funds from abroad (%),Panama,2003,71.0
+591,Not distributed (%),Panama,2003,0.1
+591,GDP(%),Panama,2005,0.2
+591,Business Enterprises (%),Panama,2005,0.4
+591,Government (%),Panama,2005,38.5
+591,Higher education (%),Panama,2005,1.4
+591,Private non-profit (%),Panama,2005,0.7
+591,Funds from abroad (%),Panama,2005,58.9
+591,GDP(%),Panama,2010,0.1
+591,Business Enterprises (%),Panama,2010,3.4
+591,Government (%),Panama,2010,53.9
+591,Higher education (%),Panama,2010,6.0
+591,Private non-profit (%),Panama,2010,14.0
+591,Funds from abroad (%),Panama,2010,22.7
+591,Not distributed (%),Panama,2010,0.0
+591,GDP(%),Panama,2011,0.2
+591,Business Enterprises (%),Panama,2011,18.9
+591,Government (%),Panama,2011,46.7
+591,Higher education (%),Panama,2011,5.0
+591,Private non-profit (%),Panama,2011,8.7
+591,Funds from abroad (%),Panama,2011,20.7
+591,Not distributed (%),Panama,2011,0.0
+591,GDP(%),Panama,2013,0.1
+591,Business Enterprises (%),Panama,2013,10.8
+591,Government (%),Panama,2013,80.9
+591,Higher education (%),Panama,2013,8.0
+591,Funds from abroad (%),Panama,2013,0.3
+598,GDP(%),Papua New Guinea,2016,0.0
+598,Business Enterprises (%),Papua New Guinea,2016,4.5
+598,Government (%),Papua New Guinea,2016,38.7
+598,Higher education (%),Papua New Guinea,2016,7.6
+598,Private non-profit (%),Papua New Guinea,2016,0.8
+598,Funds from abroad (%),Papua New Guinea,2016,39.7
+598,Not distributed (%),Papua New Guinea,2016,8.8
+600,GDP(%),Paraguay,2001,0.1
+600,Business Enterprises (%),Paraguay,2001,0.0
+600,Government (%),Paraguay,2001,43.2
+600,Higher education (%),Paraguay,2001,20.6
+600,Private non-profit (%),Paraguay,2001,3.4
+600,Funds from abroad (%),Paraguay,2001,32.7
+600,Not distributed (%),Paraguay,2001,0.0
+600,GDP(%),Paraguay,2005,0.1
+600,Business Enterprises (%),Paraguay,2005,0.3
+600,Government (%),Paraguay,2005,74.9
+600,Higher education (%),Paraguay,2005,8.6
+600,Private non-profit (%),Paraguay,2005,2.0
+600,Funds from abroad (%),Paraguay,2005,14.2
+600,GDP(%),Paraguay,2008,0.1
+600,Business Enterprises (%),Paraguay,2008,0.3
+600,Government (%),Paraguay,2008,76.2
+600,Higher education (%),Paraguay,2008,9.2
+600,Private non-profit (%),Paraguay,2008,2.1
+600,Funds from abroad (%),Paraguay,2008,12.3
+600,GDP(%),Paraguay,2015,0.1
+600,Business Enterprises (%),Paraguay,2015,0.3
+600,Government (%),Paraguay,2015,73.1
+600,Higher education (%),Paraguay,2015,2.1
+600,Private non-profit (%),Paraguay,2015,4.2
+600,Funds from abroad (%),Paraguay,2015,10.3
+600,Not distributed (%),Paraguay,2015,10.1
+604,GDP(%),Peru,2004,0.2
+604,GDP(%),Peru,2016,0.1
+608,GDP(%),Philippines,2005,0.1
+608,Business Enterprises (%),Philippines,2005,62.6
+608,Government (%),Philippines,2005,25.6
+608,Higher education (%),Philippines,2005,6.0
+608,Private non-profit (%),Philippines,2005,0.7
+608,Funds from abroad (%),Philippines,2005,4.8
+608,Not distributed (%),Philippines,2005,0.3
+608,GDP(%),Philippines,2009,0.1
+608,Business Enterprises (%),Philippines,2009,57.5
+608,Government (%),Philippines,2009,26.7
+608,Higher education (%),Philippines,2009,7.8
+608,Private non-profit (%),Philippines,2009,0.4
+608,Funds from abroad (%),Philippines,2009,4.2
+608,Not distributed (%),Philippines,2009,3.4
+608,GDP(%),Philippines,2013,0.1
+608,Business Enterprises (%),Philippines,2013,36.9
+608,Government (%),Philippines,2013,51.6
+608,Higher education (%),Philippines,2013,9.0
+608,Private non-profit (%),Philippines,2013,0.2
+608,Funds from abroad (%),Philippines,2013,1.8
+608,Not distributed (%),Philippines,2013,0.5
+616,GDP(%),Poland,2005,0.6
+616,Business Enterprises (%),Poland,2005,33.4
+616,Government (%),Poland,2005,57.7
+616,Higher education (%),Poland,2005,2.9
+616,Private non-profit (%),Poland,2005,0.3
+616,Funds from abroad (%),Poland,2005,5.7
+616,GDP(%),Poland,2010,0.7
+616,Business Enterprises (%),Poland,2010,24.4
+616,Government (%),Poland,2010,60.9
+616,Higher education (%),Poland,2010,2.5
+616,Private non-profit (%),Poland,2010,0.3
+616,Funds from abroad (%),Poland,2010,11.8
+616,GDP(%),Poland,2015,1.0
+616,Business Enterprises (%),Poland,2015,39.0
+616,Government (%),Poland,2015,41.8
+616,Higher education (%),Poland,2015,2.2
+616,Private non-profit (%),Poland,2015,0.2
+616,Funds from abroad (%),Poland,2015,16.7
+616,GDP(%),Poland,2016,1.0
+620,GDP(%),Portugal,2005,0.8
+620,Business Enterprises (%),Portugal,2005,36.3
+620,Government (%),Portugal,2005,55.2
+620,Higher education (%),Portugal,2005,1.0
+620,Private non-profit (%),Portugal,2005,2.8
+620,Funds from abroad (%),Portugal,2005,4.7
+620,GDP(%),Portugal,2010,1.5
+620,Business Enterprises (%),Portugal,2010,43.9
+620,Government (%),Portugal,2010,45.1
+620,Higher education (%),Portugal,2010,3.2
+620,Private non-profit (%),Portugal,2010,4.6
+620,Funds from abroad (%),Portugal,2010,3.2
+620,GDP(%),Portugal,2015,1.2
+620,Business Enterprises (%),Portugal,2015,42.7
+620,Government (%),Portugal,2015,44.3
+620,Higher education (%),Portugal,2015,4.4
+620,Private non-profit (%),Portugal,2015,1.3
+620,Funds from abroad (%),Portugal,2015,7.4
+620,GDP(%),Portugal,2016,1.3
+630,GDP(%),Puerto Rico,2009,0.5
+630,GDP(%),Puerto Rico,2015,0.4
+630,Business Enterprises (%),Puerto Rico,2015,69.4
+630,Government (%),Puerto Rico,2015,23.1
+630,Higher education (%),Puerto Rico,2015,6.6
+630,Private non-profit (%),Puerto Rico,2015,0.3
+630,Not distributed (%),Puerto Rico,2015,0.6
+634,GDP(%),Qatar,2015,0.5
+634,Business Enterprises (%),Qatar,2015,7.1
+634,Government (%),Qatar,2015,42.6
+634,Higher education (%),Qatar,2015,20.6
+634,Private non-profit (%),Qatar,2015,27.8
+634,Funds from abroad (%),Qatar,2015,1.9
+634,Not distributed (%),Qatar,2015,0.0
+410,GDP(%),Republic of Korea,2005,2.6
+410,Business Enterprises (%),Republic of Korea,2005,75.0
+410,Government (%),Republic of Korea,2005,23.0
+410,Higher education (%),Republic of Korea,2005,0.9
+410,Private non-profit (%),Republic of Korea,2005,0.4
+410,Funds from abroad (%),Republic of Korea,2005,0.7
+410,GDP(%),Republic of Korea,2010,3.5
+410,Business Enterprises (%),Republic of Korea,2010,71.8
+410,Government (%),Republic of Korea,2010,26.7
+410,Higher education (%),Republic of Korea,2010,0.9
+410,Private non-profit (%),Republic of Korea,2010,0.4
+410,Funds from abroad (%),Republic of Korea,2010,0.2
+410,GDP(%),Republic of Korea,2016,4.2
+410,Business Enterprises (%),Republic of Korea,2016,75.4
+410,Government (%),Republic of Korea,2016,22.7
+410,Higher education (%),Republic of Korea,2016,0.6
+410,Private non-profit (%),Republic of Korea,2016,0.3
+410,Funds from abroad (%),Republic of Korea,2016,0.9
+498,GDP(%),Republic of Moldova,2005,0.4
+498,Funds from abroad (%),Republic of Moldova,2005,3.8
+498,Not distributed (%),Republic of Moldova,2005,96.2
+498,GDP(%),Republic of Moldova,2010,0.4
+498,Funds from abroad (%),Republic of Moldova,2010,7.4
+498,Not distributed (%),Republic of Moldova,2010,92.6
+498,GDP(%),Republic of Moldova,2016,0.3
+498,Funds from abroad (%),Republic of Moldova,2016,4.2
+498,Not distributed (%),Republic of Moldova,2016,95.8
+642,GDP(%),Romania,2005,0.4
+642,Business Enterprises (%),Romania,2005,37.2
+642,Government (%),Romania,2005,53.5
+642,Higher education (%),Romania,2005,4.0
+642,Private non-profit (%),Romania,2005,0.0
+642,Funds from abroad (%),Romania,2005,5.3
+642,GDP(%),Romania,2010,0.5
+642,Business Enterprises (%),Romania,2010,32.3
+642,Government (%),Romania,2010,54.4
+642,Higher education (%),Romania,2010,2.2
+642,Private non-profit (%),Romania,2010,0.0
+642,Funds from abroad (%),Romania,2010,11.1
+642,GDP(%),Romania,2015,0.5
+642,Business Enterprises (%),Romania,2015,37.3
+642,Government (%),Romania,2015,41.7
+642,Higher education (%),Romania,2015,1.7
+642,Private non-profit (%),Romania,2015,0.1
+642,Funds from abroad (%),Romania,2015,19.2
+642,GDP(%),Romania,2016,0.5
+643,GDP(%),Russian Federation,2005,1.1
+643,Business Enterprises (%),Russian Federation,2005,30.0
+643,Government (%),Russian Federation,2005,61.9
+643,Higher education (%),Russian Federation,2005,0.4
+643,Private non-profit (%),Russian Federation,2005,0.0
+643,Funds from abroad (%),Russian Federation,2005,7.6
+643,GDP(%),Russian Federation,2010,1.1
+643,Business Enterprises (%),Russian Federation,2010,25.5
+643,Government (%),Russian Federation,2010,70.3
+643,Higher education (%),Russian Federation,2010,0.5
+643,Private non-profit (%),Russian Federation,2010,0.1
+643,Funds from abroad (%),Russian Federation,2010,3.5
+643,GDP(%),Russian Federation,2016,1.1
+643,Business Enterprises (%),Russian Federation,2016,28.1
+643,Government (%),Russian Federation,2016,68.2
+643,Higher education (%),Russian Federation,2016,0.9
+643,Private non-profit (%),Russian Federation,2016,0.2
+643,Funds from abroad (%),Russian Federation,2016,2.7
+670,GDP(%),Saint Vincent & Grenadines,2002,0.1
+682,GDP(%),Saudi Arabia,2005,0.0
+682,GDP(%),Saudi Arabia,2010,0.9
+682,GDP(%),Saudi Arabia,2013,0.8
+686,GDP(%),Senegal,2010,0.5
+686,Business Enterprises (%),Senegal,2010,4.1
+686,Government (%),Senegal,2010,47.6
+686,Higher education (%),Senegal,2010,0.0
+686,Private non-profit (%),Senegal,2010,3.2
+686,Funds from abroad (%),Senegal,2010,40.5
+686,Not distributed (%),Senegal,2010,4.5
+686,GDP(%),Senegal,2015,0.8
+686,Business Enterprises (%),Senegal,2015,2.1
+686,Government (%),Senegal,2015,85.4
+686,Higher education (%),Senegal,2015,0.1
+686,Private non-profit (%),Senegal,2015,4.5
+686,Funds from abroad (%),Senegal,2015,7.9
+688,GDP(%),Serbia,2005,0.4
+688,GDP(%),Serbia,2010,0.7
+688,Business Enterprises (%),Serbia,2010,8.6
+688,Government (%),Serbia,2010,59.4
+688,Higher education (%),Serbia,2010,28.4
+688,Private non-profit (%),Serbia,2010,0.0
+688,Funds from abroad (%),Serbia,2010,3.6
+688,GDP(%),Serbia,2016,0.9
+688,Business Enterprises (%),Serbia,2016,9.2
+688,Government (%),Serbia,2016,45.6
+688,Higher education (%),Serbia,2016,32.3
+688,Private non-profit (%),Serbia,2016,0.0
+688,Funds from abroad (%),Serbia,2016,13.0
+690,GDP(%),Seychelles,2005,0.3
+690,GDP(%),Seychelles,2016,0.2
+690,Business Enterprises (%),Seychelles,2016,2.0
+690,Government (%),Seychelles,2016,56.1
+690,Higher education (%),Seychelles,2016,4.5
+690,Private non-profit (%),Seychelles,2016,3.2
+690,Funds from abroad (%),Seychelles,2016,33.9
+690,Not distributed (%),Seychelles,2016,0.3
+702,GDP(%),Singapore,2005,2.2
+702,Business Enterprises (%),Singapore,2005,58.8
+702,Government (%),Singapore,2005,36.4
+702,Higher education (%),Singapore,2005,0.5
+702,Funds from abroad (%),Singapore,2005,4.4
+702,GDP(%),Singapore,2010,2.0
+702,Business Enterprises (%),Singapore,2010,53.1
+702,Government (%),Singapore,2010,40.2
+702,Higher education (%),Singapore,2010,1.8
+702,Funds from abroad (%),Singapore,2010,4.9
+702,GDP(%),Singapore,2014,2.2
+702,Business Enterprises (%),Singapore,2014,54.1
+702,Government (%),Singapore,2014,37.1
+702,Higher education (%),Singapore,2014,2.0
+702,Funds from abroad (%),Singapore,2014,6.8
+703,GDP(%),Slovakia,2005,0.5
+703,Business Enterprises (%),Slovakia,2005,36.6
+703,Government (%),Slovakia,2005,57.0
+703,Higher education (%),Slovakia,2005,0.3
+703,Private non-profit (%),Slovakia,2005,0.0
+703,Funds from abroad (%),Slovakia,2005,6.0
+703,GDP(%),Slovakia,2010,0.6
+703,Business Enterprises (%),Slovakia,2010,35.1
+703,Government (%),Slovakia,2010,49.6
+703,Higher education (%),Slovakia,2010,0.4
+703,Private non-profit (%),Slovakia,2010,0.3
+703,Funds from abroad (%),Slovakia,2010,14.7
+703,GDP(%),Slovakia,2015,1.2
+703,Business Enterprises (%),Slovakia,2015,25.1
+703,Government (%),Slovakia,2015,31.9
+703,Higher education (%),Slovakia,2015,3.3
+703,Private non-profit (%),Slovakia,2015,0.3
+703,Funds from abroad (%),Slovakia,2015,39.4
+703,GDP(%),Slovakia,2016,0.8
+705,GDP(%),Slovenia,2005,1.4
+705,Business Enterprises (%),Slovenia,2005,54.8
+705,Government (%),Slovenia,2005,37.2
+705,Higher education (%),Slovenia,2005,0.7
+705,Private non-profit (%),Slovenia,2005,0.0
+705,Funds from abroad (%),Slovenia,2005,7.3
+705,GDP(%),Slovenia,2010,2.1
+705,Business Enterprises (%),Slovenia,2010,58.4
+705,Government (%),Slovenia,2010,35.3
+705,Higher education (%),Slovenia,2010,0.3
+705,Private non-profit (%),Slovenia,2010,0.1
+705,Funds from abroad (%),Slovenia,2010,6.0
+705,GDP(%),Slovenia,2015,2.2
+705,Business Enterprises (%),Slovenia,2015,69.2
+705,Government (%),Slovenia,2015,19.9
+705,Higher education (%),Slovenia,2015,0.3
+705,Private non-profit (%),Slovenia,2015,0.0
+705,Funds from abroad (%),Slovenia,2015,10.6
+705,GDP(%),Slovenia,2016,2.0
+710,GDP(%),South Africa,2005,0.9
+710,Business Enterprises (%),South Africa,2005,43.9
+710,Government (%),South Africa,2005,38.2
+710,Higher education (%),South Africa,2005,3.0
+710,Private non-profit (%),South Africa,2005,1.4
+710,Funds from abroad (%),South Africa,2005,13.6
+710,GDP(%),South Africa,2010,0.7
+710,Business Enterprises (%),South Africa,2010,40.1
+710,Government (%),South Africa,2010,44.5
+710,Higher education (%),South Africa,2010,0.1
+710,Private non-profit (%),South Africa,2010,3.2
+710,Funds from abroad (%),South Africa,2010,12.1
+710,GDP(%),South Africa,2015,0.8
+710,Business Enterprises (%),South Africa,2015,38.9
+710,Government (%),South Africa,2015,44.6
+710,Higher education (%),South Africa,2015,0.1
+710,Private non-profit (%),South Africa,2015,3.3
+710,Funds from abroad (%),South Africa,2015,13.0
+724,GDP(%),Spain,2005,1.1
+724,Business Enterprises (%),Spain,2005,46.3
+724,Government (%),Spain,2005,43.0
+724,Higher education (%),Spain,2005,4.1
+724,Private non-profit (%),Spain,2005,0.9
+724,Funds from abroad (%),Spain,2005,5.7
+724,GDP(%),Spain,2010,1.3
+724,Business Enterprises (%),Spain,2010,43.0
+724,Government (%),Spain,2010,46.6
+724,Higher education (%),Spain,2010,3.9
+724,Private non-profit (%),Spain,2010,0.7
+724,Funds from abroad (%),Spain,2010,5.7
+724,GDP(%),Spain,2015,1.2
+724,Business Enterprises (%),Spain,2015,45.8
+724,Government (%),Spain,2015,40.9
+724,Higher education (%),Spain,2015,4.3
+724,Private non-profit (%),Spain,2015,0.9
+724,Funds from abroad (%),Spain,2015,8.0
+724,GDP(%),Spain,2016,1.2
+144,GDP(%),Sri Lanka,2000,0.1
+144,Business Enterprises (%),Sri Lanka,2000,7.7
+144,Government (%),Sri Lanka,2000,51.7
+144,Higher education (%),Sri Lanka,2000,18.5
+144,Private non-profit (%),Sri Lanka,2000,0.0
+144,Funds from abroad (%),Sri Lanka,2000,4.5
+144,Not distributed (%),Sri Lanka,2000,17.5
+144,GDP(%),Sri Lanka,2004,0.2
+144,Business Enterprises (%),Sri Lanka,2004,0.6
+144,Government (%),Sri Lanka,2004,67.5
+144,Funds from abroad (%),Sri Lanka,2004,22.6
+144,Not distributed (%),Sri Lanka,2004,9.3
+144,GDP(%),Sri Lanka,2010,0.1
+144,Business Enterprises (%),Sri Lanka,2010,40.9
+144,Government (%),Sri Lanka,2010,55.9
+144,Higher education (%),Sri Lanka,2010,0.2
+144,Private non-profit (%),Sri Lanka,2010,0.0
+144,Funds from abroad (%),Sri Lanka,2010,2.7
+144,Not distributed (%),Sri Lanka,2010,0.3
+144,GDP(%),Sri Lanka,2014,0.1
+144,Business Enterprises (%),Sri Lanka,2014,41.2
+144,Government (%),Sri Lanka,2014,56.2
+144,Funds from abroad (%),Sri Lanka,2014,2.1
+144,Not distributed (%),Sri Lanka,2014,0.5
+275,GDP(%),State of Palestine,2010,0.4
+275,Business Enterprises (%),State of Palestine,2010,0.9
+275,Government (%),State of Palestine,2010,21.3
+275,Higher education (%),State of Palestine,2010,2.3
+275,Private non-profit (%),State of Palestine,2010,4.9
+275,Funds from abroad (%),State of Palestine,2010,52.4
+275,Not distributed (%),State of Palestine,2010,18.2
+275,GDP(%),State of Palestine,2013,0.5
+275,Business Enterprises (%),State of Palestine,2013,3.8
+275,Government (%),State of Palestine,2013,29.4
+275,Higher education (%),State of Palestine,2013,4.6
+275,Private non-profit (%),State of Palestine,2013,17.1
+275,Funds from abroad (%),State of Palestine,2013,24.2
+275,Not distributed (%),State of Palestine,2013,21.1
+729,GDP(%),Sudan,2005,0.3
+752,GDP(%),Sweden,2005,3.4
+752,Business Enterprises (%),Sweden,2005,63.9
+752,Government (%),Sweden,2005,24.4
+752,Higher education (%),Sweden,2005,0.7
+752,Private non-profit (%),Sweden,2005,2.9
+752,Funds from abroad (%),Sweden,2005,8.1
+752,GDP(%),Sweden,2009,3.4
+752,Business Enterprises (%),Sweden,2009,59.5
+752,Government (%),Sweden,2009,27.0
+752,Higher education (%),Sweden,2009,0.6
+752,Private non-profit (%),Sweden,2009,2.6
+752,Funds from abroad (%),Sweden,2009,10.3
+752,GDP(%),Sweden,2010,3.2
+752,GDP(%),Sweden,2013,3.3
+752,Business Enterprises (%),Sweden,2013,61.0
+752,Government (%),Sweden,2013,28.3
+752,Higher education (%),Sweden,2013,1.0
+752,Private non-profit (%),Sweden,2013,3.1
+752,Funds from abroad (%),Sweden,2013,6.7
+752,GDP(%),Sweden,2015,3.3
+752,Business Enterprises (%),Sweden,2015,57.3
+752,Higher education (%),Sweden,2015,0.9
+752,Private non-profit (%),Sweden,2015,3.3
+752,GDP(%),Sweden,2016,3.3
+756,GDP(%),Switzerland,2004,2.7
+756,Business Enterprises (%),Switzerland,2004,69.7
+756,Government (%),Switzerland,2004,22.7
+756,Higher education (%),Switzerland,2004,1.5
+756,Private non-profit (%),Switzerland,2004,0.8
+756,Funds from abroad (%),Switzerland,2004,5.2
+756,GDP(%),Switzerland,2008,2.7
+756,Business Enterprises (%),Switzerland,2008,68.2
+756,Government (%),Switzerland,2008,22.8
+756,Higher education (%),Switzerland,2008,2.3
+756,Private non-profit (%),Switzerland,2008,0.7
+756,Funds from abroad (%),Switzerland,2008,6.0
+756,GDP(%),Switzerland,2015,3.4
+756,Business Enterprises (%),Switzerland,2015,63.5
+756,Government (%),Switzerland,2015,24.4
+756,Higher education (%),Switzerland,2015,1.5
+756,Private non-profit (%),Switzerland,2015,0.5
+756,Funds from abroad (%),Switzerland,2015,10.2
+762,GDP(%),Tajikistan,2001,0.1
+762,Business Enterprises (%),Tajikistan,2001,0.6
+762,Government (%),Tajikistan,2001,97.3
+762,Funds from abroad (%),Tajikistan,2001,0.2
+762,Not distributed (%),Tajikistan,2001,1.9
+762,GDP(%),Tajikistan,2005,0.1
+762,Business Enterprises (%),Tajikistan,2005,2.2
+762,Government (%),Tajikistan,2005,91.5
+762,Higher education (%),Tajikistan,2005,0.3
+762,Not distributed (%),Tajikistan,2005,5.5
+762,GDP(%),Tajikistan,2006,0.1
+762,Business Enterprises (%),Tajikistan,2006,0.2
+762,Government (%),Tajikistan,2006,76.3
+762,Higher education (%),Tajikistan,2006,0.2
+762,Funds from abroad (%),Tajikistan,2006,0.6
+762,Not distributed (%),Tajikistan,2006,19.9
+762,GDP(%),Tajikistan,2010,0.1
+762,Business Enterprises (%),Tajikistan,2010,1.9
+762,Government (%),Tajikistan,2010,76.2
+762,Higher education (%),Tajikistan,2010,0.4
+762,Not distributed (%),Tajikistan,2010,19.7
+762,GDP(%),Tajikistan,2011,0.1
+762,Business Enterprises (%),Tajikistan,2011,1.6
+762,Government (%),Tajikistan,2011,82.1
+762,Higher education (%),Tajikistan,2011,0.1
+762,Not distributed (%),Tajikistan,2011,15.1
+762,GDP(%),Tajikistan,2013,0.1
+762,Government (%),Tajikistan,2013,92.5
+762,Higher education (%),Tajikistan,2013,0.2
+762,Funds from abroad (%),Tajikistan,2013,0.2
+762,Not distributed (%),Tajikistan,2013,7.1
+762,GDP(%),Tajikistan,2016,0.1
+762,Government (%),Tajikistan,2016,100.0
+764,GDP(%),Thailand,2005,0.2
+764,Business Enterprises (%),Thailand,2005,48.7
+764,Government (%),Thailand,2005,31.5
+764,Higher education (%),Thailand,2005,14.9
+764,Private non-profit (%),Thailand,2005,0.7
+764,Funds from abroad (%),Thailand,2005,1.8
+764,Not distributed (%),Thailand,2005,2.4
+764,GDP(%),Thailand,2009,0.2
+764,Business Enterprises (%),Thailand,2009,41.4
+764,Government (%),Thailand,2009,37.9
+764,Higher education (%),Thailand,2009,17.8
+764,Private non-profit (%),Thailand,2009,0.3
+764,Funds from abroad (%),Thailand,2009,1.0
+764,Not distributed (%),Thailand,2009,1.6
+764,GDP(%),Thailand,2015,0.6
+764,Business Enterprises (%),Thailand,2015,66.2
+764,Government (%),Thailand,2015,20.5
+764,Higher education (%),Thailand,2015,5.5
+764,Private non-profit (%),Thailand,2015,0.1
+764,Funds from abroad (%),Thailand,2015,1.5
+764,Not distributed (%),Thailand,2015,6.0
+768,GDP(%),Togo,2010,0.3
+768,Government (%),Togo,2010,88.3
+768,Funds from abroad (%),Togo,2010,11.7
+768,GDP(%),Togo,2012,0.2
+768,Government (%),Togo,2012,84.9
+768,Private non-profit (%),Togo,2012,3.1
+768,Funds from abroad (%),Togo,2012,12.1
+768,GDP(%),Togo,2014,0.3
+768,Government (%),Togo,2014,94.5
+768,Funds from abroad (%),Togo,2014,5.5
+780,GDP(%),Trinidad and Tobago,2005,0.1
+780,GDP(%),Trinidad and Tobago,2010,0.0
+780,GDP(%),Trinidad and Tobago,2015,0.1
+788,GDP(%),Tunisia,2005,0.7
+788,Business Enterprises (%),Tunisia,2005,14.4
+788,Government (%),Tunisia,2005,79.2
+788,Funds from abroad (%),Tunisia,2005,6.4
+788,GDP(%),Tunisia,2010,0.7
+788,Business Enterprises (%),Tunisia,2010,17.1
+788,Government (%),Tunisia,2010,78.1
+788,Funds from abroad (%),Tunisia,2010,4.8
+788,GDP(%),Tunisia,2015,0.6
+788,Business Enterprises (%),Tunisia,2015,18.9
+788,Government (%),Tunisia,2015,77.1
+788,Funds from abroad (%),Tunisia,2015,3.9
+788,GDP(%),Tunisia,2016,0.6
+792,GDP(%),Turkey,2005,0.6
+792,Business Enterprises (%),Turkey,2005,43.3
+792,Government (%),Turkey,2005,50.1
+792,Private non-profit (%),Turkey,2005,5.8
+792,Funds from abroad (%),Turkey,2005,0.8
+792,GDP(%),Turkey,2010,0.8
+792,Business Enterprises (%),Turkey,2010,45.1
+792,Government (%),Turkey,2010,30.8
+792,Higher education (%),Turkey,2010,19.6
+792,Private non-profit (%),Turkey,2010,3.7
+792,Funds from abroad (%),Turkey,2010,0.8
+792,GDP(%),Turkey,2015,0.9
+792,Business Enterprises (%),Turkey,2015,50.1
+792,Government (%),Turkey,2015,27.6
+792,Higher education (%),Turkey,2015,18.1
+792,Private non-profit (%),Turkey,2015,3.2
+792,Funds from abroad (%),Turkey,2015,1.1
+800,GDP(%),Uganda,2002,0.4
+800,Business Enterprises (%),Uganda,2002,1.3
+800,Government (%),Uganda,2002,33.8
+800,Higher education (%),Uganda,2002,1.3
+800,Funds from abroad (%),Uganda,2002,63.6
+800,GDP(%),Uganda,2005,0.2
+800,Business Enterprises (%),Uganda,2005,1.7
+800,Government (%),Uganda,2005,41.5
+800,Funds from abroad (%),Uganda,2005,56.9
+800,GDP(%),Uganda,2010,0.5
+800,Business Enterprises (%),Uganda,2010,13.7
+800,Government (%),Uganda,2010,21.9
+800,Higher education (%),Uganda,2010,1.0
+800,Private non-profit (%),Uganda,2010,6.0
+800,Funds from abroad (%),Uganda,2010,57.3
+800,GDP(%),Uganda,2014,0.2
+800,Business Enterprises (%),Uganda,2014,3.4
+800,Government (%),Uganda,2014,37.9
+800,Higher education (%),Uganda,2014,2.3
+800,Private non-profit (%),Uganda,2014,3.3
+800,Funds from abroad (%),Uganda,2014,52.4
+800,Not distributed (%),Uganda,2014,0.7
+804,GDP(%),Ukraine,2005,1.0
+804,Business Enterprises (%),Ukraine,2005,32.3
+804,Government (%),Ukraine,2005,40.1
+804,Higher education (%),Ukraine,2005,0.1
+804,Private non-profit (%),Ukraine,2005,0.4
+804,Funds from abroad (%),Ukraine,2005,24.4
+804,Not distributed (%),Ukraine,2005,2.8
+804,GDP(%),Ukraine,2010,0.8
+804,Business Enterprises (%),Ukraine,2010,26.2
+804,Government (%),Ukraine,2010,46.7
+804,Higher education (%),Ukraine,2010,0.2
+804,Private non-profit (%),Ukraine,2010,0.1
+804,Funds from abroad (%),Ukraine,2010,25.7
+804,Not distributed (%),Ukraine,2010,1.1
+804,GDP(%),Ukraine,2016,0.5
+804,Business Enterprises (%),Ukraine,2016,36.9
+804,Government (%),Ukraine,2016,39.3
+804,Higher education (%),Ukraine,2016,0.2
+804,Private non-profit (%),Ukraine,2016,0.0
+804,Funds from abroad (%),Ukraine,2016,22.1
+804,Not distributed (%),Ukraine,2016,1.6
+784,GDP(%),United Arab Emirates,2014,0.7
+784,Business Enterprises (%),United Arab Emirates,2014,74.3
+784,Government (%),United Arab Emirates,2014,25.7
+784,GDP(%),United Arab Emirates,2016,1.0
+826,GDP(%),United Kingdom,2005,1.6
+826,Business Enterprises (%),United Kingdom,2005,42.1
+826,Government (%),United Kingdom,2005,32.7
+826,Higher education (%),United Kingdom,2005,1.2
+826,Private non-profit (%),United Kingdom,2005,4.7
+826,Funds from abroad (%),United Kingdom,2005,19.3
+826,GDP(%),United Kingdom,2010,1.7
+826,Business Enterprises (%),United Kingdom,2010,44.0
+826,Government (%),United Kingdom,2010,32.3
+826,Higher education (%),United Kingdom,2010,1.2
+826,Private non-profit (%),United Kingdom,2010,4.8
+826,Funds from abroad (%),United Kingdom,2010,17.6
+826,GDP(%),United Kingdom,2015,1.7
+826,Business Enterprises (%),United Kingdom,2015,49.0
+826,Government (%),United Kingdom,2015,27.7
+826,Higher education (%),United Kingdom,2015,1.4
+826,Private non-profit (%),United Kingdom,2015,4.9
+826,Funds from abroad (%),United Kingdom,2015,17.1
+826,GDP(%),United Kingdom,2016,1.7
+834,GDP(%),United Rep. of Tanzania,2010,0.4
+834,Business Enterprises (%),United Rep. of Tanzania,2010,0.1
+834,Government (%),United Rep. of Tanzania,2010,57.5
+834,Higher education (%),United Rep. of Tanzania,2010,0.3
+834,Private non-profit (%),United Rep. of Tanzania,2010,0.1
+834,Funds from abroad (%),United Rep. of Tanzania,2010,42.0
+834,GDP(%),United Rep. of Tanzania,2013,0.5
+840,GDP(%),United States of America,2005,2.5
+840,Business Enterprises (%),United States of America,2005,63.3
+840,Government (%),United States of America,2005,30.8
+840,Higher education (%),United States of America,2005,2.8
+840,Private non-profit (%),United States of America,2005,3.1
+840,GDP(%),United States of America,2010,2.7
+840,Business Enterprises (%),United States of America,2010,56.9
+840,Government (%),United States of America,2010,32.6
+840,Higher education (%),United States of America,2010,3.0
+840,Private non-profit (%),United States of America,2010,3.8
+840,Funds from abroad (%),United States of America,2010,3.7
+840,GDP(%),United States of America,2016,2.7
+840,Business Enterprises (%),United States of America,2016,62.3
+840,Government (%),United States of America,2016,25.1
+840,Higher education (%),United States of America,2016,3.7
+840,Private non-profit (%),United States of America,2016,3.8
+840,Funds from abroad (%),United States of America,2016,5.2
+850,GDP(%),United States Virgin Islands,2002,0.1
+850,Government (%),United States Virgin Islands,2002,70.8
+850,Higher education (%),United States Virgin Islands,2002,28.0
+850,Private non-profit (%),United States Virgin Islands,2002,1.2
+850,GDP(%),United States Virgin Islands,2005,0.0
+850,Government (%),United States Virgin Islands,2005,100.0
+850,GDP(%),United States Virgin Islands,2007,0.0
+850,Government (%),United States Virgin Islands,2007,100.0
+858,GDP(%),Uruguay,2000,0.2
+858,Business Enterprises (%),Uruguay,2000,39.3
+858,Government (%),Uruguay,2000,20.3
+858,Higher education (%),Uruguay,2000,35.7
+858,Funds from abroad (%),Uruguay,2000,4.8
+858,Not distributed (%),Uruguay,2000,0.0
+858,GDP(%),Uruguay,2002,0.2
+858,Business Enterprises (%),Uruguay,2002,46.7
+858,Government (%),Uruguay,2002,17.1
+858,Higher education (%),Uruguay,2002,31.4
+858,Private non-profit (%),Uruguay,2002,0.1
+858,Funds from abroad (%),Uruguay,2002,4.7
+858,GDP(%),Uruguay,2010,0.3
+858,Business Enterprises (%),Uruguay,2010,47.1
+858,Government (%),Uruguay,2010,22.9
+858,Higher education (%),Uruguay,2010,26.6
+858,Private non-profit (%),Uruguay,2010,0.9
+858,Funds from abroad (%),Uruguay,2010,1.7
+858,Not distributed (%),Uruguay,2010,0.8
+858,GDP(%),Uruguay,2011,0.3
+858,Business Enterprises (%),Uruguay,2011,8.5
+858,Government (%),Uruguay,2011,30.8
+858,Higher education (%),Uruguay,2011,45.2
+858,Private non-profit (%),Uruguay,2011,0.1
+858,Funds from abroad (%),Uruguay,2011,6.5
+858,Not distributed (%),Uruguay,2011,8.9
+858,GDP(%),Uruguay,2015,0.4
+858,Business Enterprises (%),Uruguay,2015,4.6
+858,Government (%),Uruguay,2015,28.6
+858,Higher education (%),Uruguay,2015,59.2
+858,Private non-profit (%),Uruguay,2015,0.3
+858,Funds from abroad (%),Uruguay,2015,7.4
+860,GDP(%),Uzbekistan,2005,0.2
+860,Business Enterprises (%),Uzbekistan,2005,52.7
+860,Government (%),Uzbekistan,2005,43.1
+860,Funds from abroad (%),Uzbekistan,2005,0.6
+860,Not distributed (%),Uzbekistan,2005,3.6
+860,GDP(%),Uzbekistan,2010,0.2
+860,Business Enterprises (%),Uzbekistan,2010,35.1
+860,Government (%),Uzbekistan,2010,57.8
+860,Funds from abroad (%),Uzbekistan,2010,2.4
+860,Not distributed (%),Uzbekistan,2010,4.7
+860,GDP(%),Uzbekistan,2016,0.2
+860,Business Enterprises (%),Uzbekistan,2016,40.2
+860,Government (%),Uzbekistan,2016,56.3
+860,Funds from abroad (%),Uzbekistan,2016,0.8
+860,Not distributed (%),Uzbekistan,2016,2.7
+862,GDP(%),Venezuela (Boliv. Rep. of),2005,0.2
+862,GDP(%),Venezuela (Boliv. Rep. of),2010,0.2
+862,GDP(%),Venezuela (Boliv. Rep. of),2015,0.2
+704,GDP(%),Viet Nam,2002,0.2
+704,Business Enterprises (%),Viet Nam,2002,18.1
+704,Government (%),Viet Nam,2002,74.1
+704,Higher education (%),Viet Nam,2002,0.7
+704,Funds from abroad (%),Viet Nam,2002,6.3
+704,Not distributed (%),Viet Nam,2002,0.8
+704,GDP(%),Viet Nam,2015,0.4
+704,Business Enterprises (%),Viet Nam,2015,58.1
+704,Government (%),Viet Nam,2015,33.0
+704,Higher education (%),Viet Nam,2015,0.9
+704,Funds from abroad (%),Viet Nam,2015,2.9
+704,Not distributed (%),Viet Nam,2015,5.0
+894,GDP(%),Zambia,2005,0.0
+894,GDP(%),Zambia,2008,0.3
+894,Business Enterprises (%),Zambia,2008,3.2
+894,Government (%),Zambia,2008,94.8
+894,Private non-profit (%),Zambia,2008,0.3
+894,Funds from abroad (%),Zambia,2008,1.6
