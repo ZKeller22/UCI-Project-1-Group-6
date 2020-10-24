@@ -1,1219 +1,1219 @@
 Country ID,Series,Country Name,Year,Education Spend (%)
-4,Government Expenditure,Afghanistan,2010,17.0676
-4,GDP,Afghanistan,2010,3.462
-4,Government Expenditure,Afghanistan,2015,12.509
-4,GDP,Afghanistan,2015,3.242
-4,Government Expenditure,Afghanistan,2017,15.6614
-4,GDP,Afghanistan,2017,3.9268
-8,Government Expenditure,Albania,2005,11.358
-8,GDP,Albania,2005,3.2387
-8,Government Expenditure,Albania,2007,11.1772
-8,GDP,Albania,2007,3.2687
-8,Government Expenditure,Albania,2015,11.3177
-8,GDP,Albania,2015,3.438
-8,Government Expenditure,Albania,2016,13.597
-8,GDP,Albania,2016,3.9546
-12,Government Expenditure,Algeria,2008,11.4284
-12,GDP,Algeria,2008,4.337
-16,GDP,American Samoa,2006,14.6293
-20,GDP,Andorra,2005,1.5965
-20,GDP,Andorra,2010,3.0574
-20,GDP,Andorra,2017,3.1956
-24,Government Expenditure,Angola,2005,7.9924
-24,GDP,Angola,2005,2.7762
-24,Government Expenditure,Angola,2006,7.4548
-24,GDP,Angola,2006,2.8597
-24,Government Expenditure,Angola,2010,8.6848
-24,GDP,Angola,2010,3.4741
-660,GDP,Anguilla,2005,2.9545
-660,GDP,Anguilla,2008,2.8426
-28,Government Expenditure,Antigua and Barbuda,2002,11.7015
-28,GDP,Antigua and Barbuda,2002,3.3943
-28,Government Expenditure,Antigua and Barbuda,2009,6.9281
-28,GDP,Antigua and Barbuda,2009,2.5172
-32,Government Expenditure,Argentina,2004,15.1405
-32,GDP,Argentina,2004,3.4865
-32,Government Expenditure,Argentina,2005,15.8082
+4,Government Expenditure,Afghanistan,2010,17.07
+4,GDP,Afghanistan,2010,3.46
+4,Government Expenditure,Afghanistan,2015,12.51
+4,GDP,Afghanistan,2015,3.24
+4,Government Expenditure,Afghanistan,2017,15.66
+4,GDP,Afghanistan,2017,3.93
+8,Government Expenditure,Albania,2005,11.36
+8,GDP,Albania,2005,3.24
+8,Government Expenditure,Albania,2007,11.18
+8,GDP,Albania,2007,3.27
+8,Government Expenditure,Albania,2015,11.32
+8,GDP,Albania,2015,3.44
+8,Government Expenditure,Albania,2016,13.6
+8,GDP,Albania,2016,3.95
+12,Government Expenditure,Algeria,2008,11.43
+12,GDP,Algeria,2008,4.34
+16,GDP,American Samoa,2006,14.63
+20,GDP,Andorra,2005,1.6
+20,GDP,Andorra,2010,3.06
+20,GDP,Andorra,2017,3.2
+24,Government Expenditure,Angola,2005,7.99
+24,GDP,Angola,2005,2.78
+24,Government Expenditure,Angola,2006,7.45
+24,GDP,Angola,2006,2.86
+24,Government Expenditure,Angola,2010,8.68
+24,GDP,Angola,2010,3.47
+660,GDP,Anguilla,2005,2.95
+660,GDP,Anguilla,2008,2.84
+28,Government Expenditure,Antigua and Barbuda,2002,11.7
+28,GDP,Antigua and Barbuda,2002,3.39
+28,Government Expenditure,Antigua and Barbuda,2009,6.93
+28,GDP,Antigua and Barbuda,2009,2.52
+32,Government Expenditure,Argentina,2004,15.14
+32,GDP,Argentina,2004,3.49
+32,Government Expenditure,Argentina,2005,15.81
 32,GDP,Argentina,2005,3.86
-32,Government Expenditure,Argentina,2010,15.0483
-32,GDP,Argentina,2010,5.0197
-32,Government Expenditure,Argentina,2016,13.3762
-32,GDP,Argentina,2016,5.5722
-51,Government Expenditure,Armenia,2005,13.6481
-51,GDP,Armenia,2005,2.712
-51,Government Expenditure,Armenia,2009,13.4512
-51,GDP,Armenia,2009,3.8408
-51,Government Expenditure,Armenia,2010,12.4005
-51,GDP,Armenia,2010,3.249
-51,Government Expenditure,Armenia,2016,10.1972
-51,GDP,Armenia,2016,2.7581
-533,GDP,Aruba,2005,4.6808
-533,GDP,Aruba,2009,5.9247
-533,GDP,Aruba,2010,6.7125
-533,GDP,Aruba,2016,6.1432
-36,Government Expenditure,Australia,2000,13.3602
-36,GDP,Australia,2000,4.8937
-36,Government Expenditure,Australia,2005,13.5851
-36,GDP,Australia,2005,4.9157
-36,Government Expenditure,Australia,2010,14.3276
-36,GDP,Australia,2010,5.5592
-36,Government Expenditure,Australia,2015,14.0758
-36,GDP,Australia,2015,5.3218
-40,Government Expenditure,Austria,2005,10.2619
-40,GDP,Austria,2005,5.2494
-40,Government Expenditure,Austria,2010,10.7891
-40,GDP,Austria,2010,5.7005
-40,Government Expenditure,Austria,2015,10.6935
-40,GDP,Austria,2015,5.453
-31,Government Expenditure,Azerbaijan,2005,13.2232
-31,GDP,Azerbaijan,2005,2.9746
-31,Government Expenditure,Azerbaijan,2010,8.7008
-31,GDP,Azerbaijan,2010,2.7806
-31,Government Expenditure,Azerbaijan,2016,8.2012
-31,GDP,Azerbaijan,2016,2.9034
-44,Government Expenditure,Bahamas,2000,18.9228
-44,GDP,Bahamas,2000,2.2328
-48,Government Expenditure,Bahrain,2008,10.5587
-48,GDP,Bahrain,2008,2.4968
-48,Government Expenditure,Bahrain,2012,8.2885
-48,GDP,Bahrain,2012,2.6453
-48,Government Expenditure,Bahrain,2013,7.2153
-48,GDP,Bahrain,2013,2.4769
-48,Government Expenditure,Bahrain,2015,7.2974
-48,GDP,Bahrain,2015,2.6681
-48,Government Expenditure,Bahrain,2017,7.1804
-48,GDP,Bahrain,2017,2.3355
-50,Government Expenditure,Bangladesh,2004,15.9531
-50,GDP,Bangladesh,2004,1.9401
-50,Government Expenditure,Bangladesh,2009,14.0299
-50,GDP,Bangladesh,2009,1.9394
-50,Government Expenditure,Bangladesh,2012,15.5932
-50,GDP,Bangladesh,2012,2.1755
-50,Government Expenditure,Bangladesh,2016,11.4194
-50,GDP,Bangladesh,2016,1.5355
-52,Government Expenditure,Barbados,2005,18.243
-52,GDP,Barbados,2005,5.557
-52,Government Expenditure,Barbados,2008,15.7107
-52,GDP,Barbados,2008,5.0861
-52,Government Expenditure,Barbados,2010,18.0963
-52,GDP,Barbados,2010,6.0973
-52,Government Expenditure,Barbados,2016,14.0553
-52,GDP,Barbados,2016,5.0927
-52,Government Expenditure,Barbados,2017,12.8792
-52,GDP,Barbados,2017,4.6565
-112,Government Expenditure,Belarus,2005,12.6201
-112,GDP,Belarus,2005,5.871
-112,Government Expenditure,Belarus,2010,11.7781
+32,Government Expenditure,Argentina,2010,15.05
+32,GDP,Argentina,2010,5.02
+32,Government Expenditure,Argentina,2016,13.38
+32,GDP,Argentina,2016,5.57
+51,Government Expenditure,Armenia,2005,13.65
+51,GDP,Armenia,2005,2.71
+51,Government Expenditure,Armenia,2009,13.45
+51,GDP,Armenia,2009,3.84
+51,Government Expenditure,Armenia,2010,12.4
+51,GDP,Armenia,2010,3.25
+51,Government Expenditure,Armenia,2016,10.2
+51,GDP,Armenia,2016,2.76
+533,GDP,Aruba,2005,4.68
+533,GDP,Aruba,2009,5.92
+533,GDP,Aruba,2010,6.71
+533,GDP,Aruba,2016,6.14
+36,Government Expenditure,Australia,2000,13.36
+36,GDP,Australia,2000,4.89
+36,Government Expenditure,Australia,2005,13.59
+36,GDP,Australia,2005,4.92
+36,Government Expenditure,Australia,2010,14.33
+36,GDP,Australia,2010,5.56
+36,Government Expenditure,Australia,2015,14.08
+36,GDP,Australia,2015,5.32
+40,Government Expenditure,Austria,2005,10.26
+40,GDP,Austria,2005,5.25
+40,Government Expenditure,Austria,2010,10.79
+40,GDP,Austria,2010,5.7
+40,Government Expenditure,Austria,2015,10.69
+40,GDP,Austria,2015,5.45
+31,Government Expenditure,Azerbaijan,2005,13.22
+31,GDP,Azerbaijan,2005,2.97
+31,Government Expenditure,Azerbaijan,2010,8.7
+31,GDP,Azerbaijan,2010,2.78
+31,Government Expenditure,Azerbaijan,2016,8.2
+31,GDP,Azerbaijan,2016,2.9
+44,Government Expenditure,Bahamas,2000,18.92
+44,GDP,Bahamas,2000,2.23
+48,Government Expenditure,Bahrain,2008,10.56
+48,GDP,Bahrain,2008,2.5
+48,Government Expenditure,Bahrain,2012,8.29
+48,GDP,Bahrain,2012,2.65
+48,Government Expenditure,Bahrain,2013,7.22
+48,GDP,Bahrain,2013,2.48
+48,Government Expenditure,Bahrain,2015,7.3
+48,GDP,Bahrain,2015,2.67
+48,Government Expenditure,Bahrain,2017,7.18
+48,GDP,Bahrain,2017,2.34
+50,Government Expenditure,Bangladesh,2004,15.95
+50,GDP,Bangladesh,2004,1.94
+50,Government Expenditure,Bangladesh,2009,14.03
+50,GDP,Bangladesh,2009,1.94
+50,Government Expenditure,Bangladesh,2012,15.59
+50,GDP,Bangladesh,2012,2.18
+50,Government Expenditure,Bangladesh,2016,11.42
+50,GDP,Bangladesh,2016,1.54
+52,Government Expenditure,Barbados,2005,18.24
+52,GDP,Barbados,2005,5.56
+52,Government Expenditure,Barbados,2008,15.71
+52,GDP,Barbados,2008,5.09
+52,Government Expenditure,Barbados,2010,18.1
+52,GDP,Barbados,2010,6.1
+52,Government Expenditure,Barbados,2016,14.06
+52,GDP,Barbados,2016,5.09
+52,Government Expenditure,Barbados,2017,12.88
+52,GDP,Barbados,2017,4.66
+112,Government Expenditure,Belarus,2005,12.62
+112,GDP,Belarus,2005,5.87
+112,Government Expenditure,Belarus,2010,11.78
 112,GDP,Belarus,2010,5.22
-112,Government Expenditure,Belarus,2017,12.2817
+112,Government Expenditure,Belarus,2017,12.28
 112,GDP,Belarus,2017,4.82
-56,Government Expenditure,Belgium,2005,11.1742
-56,Government Expenditure,Belgium,2010,12.0132
-56,Government Expenditure,Belgium,2013,11.8916
-56,Government Expenditure,Belgium,2015,12.1689
-56,GDP,Belgium,2015,6.5524
-84,Government Expenditure,Belize,2003,16.1585
-84,GDP,Belize,2003,5.2068
-84,Government Expenditure,Belize,2004,16.8213
-84,GDP,Belize,2004,5.2993
-84,Government Expenditure,Belize,2010,23.0521
-84,GDP,Belize,2010,6.621
-84,Government Expenditure,Belize,2017,21.681
-84,GDP,Belize,2017,7.0874
-204,Government Expenditure,Benin,2001,15.3106
-204,GDP,Benin,2001,3.2324
-204,Government Expenditure,Benin,2005,18.7904
-204,GDP,Benin,2005,3.6308
-204,Government Expenditure,Benin,2010,26.144
-204,GDP,Benin,2010,5.0293
-204,Government Expenditure,Benin,2015,17.4795
-204,GDP,Benin,2015,4.3564
-204,Government Expenditure,Benin,2016,18.7914
-204,GDP,Benin,2016,3.9947
-60,GDP,Bermuda,2005,1.9888
-60,GDP,Bermuda,2010,2.6442
-60,GDP,Bermuda,2015,1.6897
-60,GDP,Bermuda,2017,1.492
-64,Government Expenditure,Bhutan,2005,22.8491
-64,GDP,Bhutan,2005,7.0781
-64,Government Expenditure,Bhutan,2010,11.0258
-64,GDP,Bhutan,2010,4.0245
-64,Government Expenditure,Bhutan,2014,17.8242
-64,GDP,Bhutan,2014,5.9033
-64,Government Expenditure,Bhutan,2015,26.3521
-64,GDP,Bhutan,2015,7.3897
-64,Government Expenditure,Bhutan,2017,24.041
-64,GDP,Bhutan,2017,7.0505
-68,Government Expenditure,Bolivia (Plurin. State of),2000,18.6709
-68,GDP,Bolivia (Plurin. State of),2000,5.4734
-68,Government Expenditure,Bolivia (Plurin. State of),2003,19.941
-68,GDP,Bolivia (Plurin. State of),2003,6.379
-68,Government Expenditure,Bolivia (Plurin. State of),2009,22.5608
-68,GDP,Bolivia (Plurin. State of),2009,8.0812
-68,Government Expenditure,Bolivia (Plurin. State of),2010,24.1278
-68,GDP,Bolivia (Plurin. State of),2010,7.6001
-68,Government Expenditure,Bolivia (Plurin. State of),2014,16.8421
-68,GDP,Bolivia (Plurin. State of),2014,7.2854
-72,Government Expenditure,Botswana,2005,25.8235
-72,GDP,Botswana,2005,10.6786
-72,Government Expenditure,Botswana,2009,20.4774
-72,GDP,Botswana,2009,9.6329
-76,Government Expenditure,Brazil,2005,11.2574
-76,GDP,Brazil,2005,4.4791
-76,Government Expenditure,Brazil,2010,14.5604
-76,GDP,Brazil,2010,5.6488
-76,Government Expenditure,Brazil,2011,15.269
-76,GDP,Brazil,2011,5.7374
-76,Government Expenditure,Brazil,2015,16.2488
-76,GDP,Brazil,2015,6.2411
-92,GDP,British Virgin Islands,2005,3.5497
-92,GDP,British Virgin Islands,2007,3.6728
-92,GDP,British Virgin Islands,2010,4.4478
-92,GDP,British Virgin Islands,2015,6.3173
-96,Government Expenditure,Brunei Darussalam,2000,8.9207
-96,GDP,Brunei Darussalam,2000,3.7059
-96,Government Expenditure,Brunei Darussalam,2010,5.3021
-96,GDP,Brunei Darussalam,2010,2.0466
-96,Government Expenditure,Brunei Darussalam,2016,11.442
-96,GDP,Brunei Darussalam,2016,4.4254
-100,Government Expenditure,Bulgaria,2005,12.0725
-100,GDP,Bulgaria,2005,4.1411
-100,Government Expenditure,Bulgaria,2010,11.1634
-100,GDP,Bulgaria,2010,3.8635
-100,Government Expenditure,Bulgaria,2013,11.4398
-100,GDP,Bulgaria,2013,4.062
-854,Government Expenditure,Burkina Faso,2005,19.4942
-854,GDP,Burkina Faso,2005,4.4326
-854,Government Expenditure,Burkina Faso,2007,17.8638
-854,GDP,Burkina Faso,2007,4.5886
-854,Government Expenditure,Burkina Faso,2010,16.1728
-854,GDP,Burkina Faso,2010,3.939
-854,Government Expenditure,Burkina Faso,2015,18.0271
-854,GDP,Burkina Faso,2015,4.1661
-108,Government Expenditure,Burundi,2004,9.1791
-108,GDP,Burundi,2004,3.745
-108,Government Expenditure,Burundi,2005,10.9593
-108,GDP,Burundi,2005,3.6317
-108,Government Expenditure,Burundi,2010,16.5881
-108,GDP,Burundi,2010,6.7929
-108,Government Expenditure,Burundi,2012,16.4283
-108,GDP,Burundi,2012,5.8209
-108,Government Expenditure,Burundi,2013,17.2433
-108,GDP,Burundi,2013,5.4148
-108,Government Expenditure,Burundi,2017,20.4014
-108,GDP,Burundi,2017,4.3441
-132,Government Expenditure,Cabo Verde,2002,19.7662
-132,GDP,Cabo Verde,2002,7.8768
-132,Government Expenditure,Cabo Verde,2004,20.8405
-132,GDP,Cabo Verde,2004,7.4766
-132,Government Expenditure,Cabo Verde,2008,18.241
-132,GDP,Cabo Verde,2008,5.518
-132,Government Expenditure,Cabo Verde,2009,15.8866
-132,GDP,Cabo Verde,2009,5.309
-132,Government Expenditure,Cabo Verde,2010,14.2169
-132,GDP,Cabo Verde,2010,5.5673
-132,Government Expenditure,Cabo Verde,2016,17.843
-132,GDP,Cabo Verde,2016,5.3665
-132,Government Expenditure,Cabo Verde,2017,16.3829
-132,GDP,Cabo Verde,2017,5.2247
-116,Government Expenditure,Cambodia,2001,11.3808
-116,GDP,Cambodia,2001,1.7222
-116,Government Expenditure,Cambodia,2002,10.1376
-116,GDP,Cambodia,2002,1.7112
-116,Government Expenditure,Cambodia,2004,12.4043
-116,GDP,Cambodia,2004,1.7198
-116,Government Expenditure,Cambodia,2010,7.3375
-116,GDP,Cambodia,2010,1.5338
-116,Government Expenditure,Cambodia,2012,7.1999
-116,GDP,Cambodia,2012,1.5609
-116,Government Expenditure,Cambodia,2013,9.5971
-116,GDP,Cambodia,2013,2.0505
-116,Government Expenditure,Cambodia,2014,8.7916
-116,GDP,Cambodia,2014,1.9094
-120,Government Expenditure,Cameroon,2005,21.3776
-120,GDP,Cameroon,2005,2.8872
-120,Government Expenditure,Cameroon,2010,18.7539
-120,GDP,Cameroon,2010,2.9937
-120,Government Expenditure,Cameroon,2012,15.1762
-120,GDP,Cameroon,2012,2.6972
-120,Government Expenditure,Cameroon,2013,13.825
-120,GDP,Cameroon,2013,2.768
-120,Government Expenditure,Cameroon,2017,15.4686
-120,GDP,Cameroon,2017,3.0779
-124,Government Expenditure,Canada,2000,12.9826
-124,GDP,Canada,2000,5.442
-124,Government Expenditure,Canada,2005,12.1781
-124,GDP,Canada,2005,4.7822
-124,Government Expenditure,Canada,2010,12.336
-124,GDP,Canada,2010,5.3699
-124,Government Expenditure,Canada,2011,12.2191
-124,GDP,Canada,2011,5.2744
-136,GDP,Cayman Islands,2005,1.7863
-136,GDP,Cayman Islands,2006,1.9852
-140,Government Expenditure,Central African Republic,2005,9.6805
-140,GDP,Central African Republic,2005,1.6522
+56,Government Expenditure,Belgium,2005,11.17
+56,Government Expenditure,Belgium,2010,12.01
+56,Government Expenditure,Belgium,2013,11.89
+56,Government Expenditure,Belgium,2015,12.17
+56,GDP,Belgium,2015,6.55
+84,Government Expenditure,Belize,2003,16.16
+84,GDP,Belize,2003,5.21
+84,Government Expenditure,Belize,2004,16.82
+84,GDP,Belize,2004,5.3
+84,Government Expenditure,Belize,2010,23.05
+84,GDP,Belize,2010,6.62
+84,Government Expenditure,Belize,2017,21.68
+84,GDP,Belize,2017,7.09
+204,Government Expenditure,Benin,2001,15.31
+204,GDP,Benin,2001,3.23
+204,Government Expenditure,Benin,2005,18.79
+204,GDP,Benin,2005,3.63
+204,Government Expenditure,Benin,2010,26.14
+204,GDP,Benin,2010,5.03
+204,Government Expenditure,Benin,2015,17.48
+204,GDP,Benin,2015,4.36
+204,Government Expenditure,Benin,2016,18.79
+204,GDP,Benin,2016,3.99
+60,GDP,Bermuda,2005,1.99
+60,GDP,Bermuda,2010,2.64
+60,GDP,Bermuda,2015,1.69
+60,GDP,Bermuda,2017,1.49
+64,Government Expenditure,Bhutan,2005,22.85
+64,GDP,Bhutan,2005,7.08
+64,Government Expenditure,Bhutan,2010,11.03
+64,GDP,Bhutan,2010,4.02
+64,Government Expenditure,Bhutan,2014,17.82
+64,GDP,Bhutan,2014,5.9
+64,Government Expenditure,Bhutan,2015,26.35
+64,GDP,Bhutan,2015,7.39
+64,Government Expenditure,Bhutan,2017,24.04
+64,GDP,Bhutan,2017,7.05
+68,Government Expenditure,Bolivia (Plurin. State of),2000,18.67
+68,GDP,Bolivia (Plurin. State of),2000,5.47
+68,Government Expenditure,Bolivia (Plurin. State of),2003,19.94
+68,GDP,Bolivia (Plurin. State of),2003,6.38
+68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56
+68,GDP,Bolivia (Plurin. State of),2009,8.08
+68,Government Expenditure,Bolivia (Plurin. State of),2010,24.13
+68,GDP,Bolivia (Plurin. State of),2010,7.6
+68,Government Expenditure,Bolivia (Plurin. State of),2014,16.84
+68,GDP,Bolivia (Plurin. State of),2014,7.29
+72,Government Expenditure,Botswana,2005,25.82
+72,GDP,Botswana,2005,10.68
+72,Government Expenditure,Botswana,2009,20.48
+72,GDP,Botswana,2009,9.63
+76,Government Expenditure,Brazil,2005,11.26
+76,GDP,Brazil,2005,4.48
+76,Government Expenditure,Brazil,2010,14.56
+76,GDP,Brazil,2010,5.65
+76,Government Expenditure,Brazil,2011,15.27
+76,GDP,Brazil,2011,5.74
+76,Government Expenditure,Brazil,2015,16.25
+76,GDP,Brazil,2015,6.24
+92,GDP,British Virgin Islands,2005,3.55
+92,GDP,British Virgin Islands,2007,3.67
+92,GDP,British Virgin Islands,2010,4.45
+92,GDP,British Virgin Islands,2015,6.32
+96,Government Expenditure,Brunei Darussalam,2000,8.92
+96,GDP,Brunei Darussalam,2000,3.71
+96,Government Expenditure,Brunei Darussalam,2010,5.3
+96,GDP,Brunei Darussalam,2010,2.05
+96,Government Expenditure,Brunei Darussalam,2016,11.44
+96,GDP,Brunei Darussalam,2016,4.43
+100,Government Expenditure,Bulgaria,2005,12.07
+100,GDP,Bulgaria,2005,4.14
+100,Government Expenditure,Bulgaria,2010,11.16
+100,GDP,Bulgaria,2010,3.86
+100,Government Expenditure,Bulgaria,2013,11.44
+100,GDP,Bulgaria,2013,4.06
+854,Government Expenditure,Burkina Faso,2005,19.49
+854,GDP,Burkina Faso,2005,4.43
+854,Government Expenditure,Burkina Faso,2007,17.86
+854,GDP,Burkina Faso,2007,4.59
+854,Government Expenditure,Burkina Faso,2010,16.17
+854,GDP,Burkina Faso,2010,3.94
+854,Government Expenditure,Burkina Faso,2015,18.03
+854,GDP,Burkina Faso,2015,4.17
+108,Government Expenditure,Burundi,2004,9.18
+108,GDP,Burundi,2004,3.74
+108,Government Expenditure,Burundi,2005,10.96
+108,GDP,Burundi,2005,3.63
+108,Government Expenditure,Burundi,2010,16.59
+108,GDP,Burundi,2010,6.79
+108,Government Expenditure,Burundi,2012,16.43
+108,GDP,Burundi,2012,5.82
+108,Government Expenditure,Burundi,2013,17.24
+108,GDP,Burundi,2013,5.41
+108,Government Expenditure,Burundi,2017,20.4
+108,GDP,Burundi,2017,4.34
+132,Government Expenditure,Cabo Verde,2002,19.77
+132,GDP,Cabo Verde,2002,7.88
+132,Government Expenditure,Cabo Verde,2004,20.84
+132,GDP,Cabo Verde,2004,7.48
+132,Government Expenditure,Cabo Verde,2008,18.24
+132,GDP,Cabo Verde,2008,5.52
+132,Government Expenditure,Cabo Verde,2009,15.89
+132,GDP,Cabo Verde,2009,5.31
+132,Government Expenditure,Cabo Verde,2010,14.22
+132,GDP,Cabo Verde,2010,5.57
+132,Government Expenditure,Cabo Verde,2016,17.84
+132,GDP,Cabo Verde,2016,5.37
+132,Government Expenditure,Cabo Verde,2017,16.38
+132,GDP,Cabo Verde,2017,5.22
+116,Government Expenditure,Cambodia,2001,11.38
+116,GDP,Cambodia,2001,1.72
+116,Government Expenditure,Cambodia,2002,10.14
+116,GDP,Cambodia,2002,1.71
+116,Government Expenditure,Cambodia,2004,12.4
+116,GDP,Cambodia,2004,1.72
+116,Government Expenditure,Cambodia,2010,7.34
+116,GDP,Cambodia,2010,1.53
+116,Government Expenditure,Cambodia,2012,7.2
+116,GDP,Cambodia,2012,1.56
+116,Government Expenditure,Cambodia,2013,9.6
+116,GDP,Cambodia,2013,2.05
+116,Government Expenditure,Cambodia,2014,8.79
+116,GDP,Cambodia,2014,1.91
+120,Government Expenditure,Cameroon,2005,21.38
+120,GDP,Cameroon,2005,2.89
+120,Government Expenditure,Cameroon,2010,18.75
+120,GDP,Cameroon,2010,2.99
+120,Government Expenditure,Cameroon,2012,15.18
+120,GDP,Cameroon,2012,2.7
+120,Government Expenditure,Cameroon,2013,13.82
+120,GDP,Cameroon,2013,2.77
+120,Government Expenditure,Cameroon,2017,15.47
+120,GDP,Cameroon,2017,3.08
+124,Government Expenditure,Canada,2000,12.98
+124,GDP,Canada,2000,5.44
+124,Government Expenditure,Canada,2005,12.18
+124,GDP,Canada,2005,4.78
+124,Government Expenditure,Canada,2010,12.34
+124,GDP,Canada,2010,5.37
+124,Government Expenditure,Canada,2011,12.22
+124,GDP,Canada,2011,5.27
+136,GDP,Cayman Islands,2005,1.79
+136,GDP,Cayman Islands,2006,1.99
+140,Government Expenditure,Central African Republic,2005,9.68
+140,GDP,Central African Republic,2005,1.65
 140,Government Expenditure,Central African Republic,2008,7.86
 140,GDP,Central African Republic,2008,1.29
-140,Government Expenditure,Central African Republic,2010,6.4754
-140,GDP,Central African Republic,2010,1.2046
-140,Government Expenditure,Central African Republic,2011,7.8255
-140,GDP,Central African Republic,2011,1.2286
-148,Government Expenditure,Chad,2005,14.6728
-148,GDP,Chad,2005,1.6948
-148,Government Expenditure,Chad,2010,8.1193
-148,GDP,Chad,2010,1.9819
-148,Government Expenditure,Chad,2011,10.0833
-148,GDP,Chad,2011,2.2579
-148,Government Expenditure,Chad,2012,9.2124
-148,GDP,Chad,2012,2.2062
-148,Government Expenditure,Chad,2013,12.4615
-148,GDP,Chad,2013,2.8507
-152,Government Expenditure,Chile,2005,16.1991
-152,GDP,Chile,2005,3.2628
-152,Government Expenditure,Chile,2009,17.0356
-152,GDP,Chile,2009,4.2307
-152,Government Expenditure,Chile,2010,17.8436
-152,GDP,Chile,2010,4.1621
-152,Government Expenditure,Chile,2016,21.1555
-152,GDP,Chile,2016,5.3506
-344,Government Expenditure,"China, Hong Kong SAR",2005,22.4786
-344,GDP,"China, Hong Kong SAR",2005,4.1346
-344,Government Expenditure,"China, Hong Kong SAR",2010,19.9094
+140,Government Expenditure,Central African Republic,2010,6.48
+140,GDP,Central African Republic,2010,1.2
+140,Government Expenditure,Central African Republic,2011,7.83
+140,GDP,Central African Republic,2011,1.23
+148,Government Expenditure,Chad,2005,14.67
+148,GDP,Chad,2005,1.69
+148,Government Expenditure,Chad,2010,8.12
+148,GDP,Chad,2010,1.98
+148,Government Expenditure,Chad,2011,10.08
+148,GDP,Chad,2011,2.26
+148,Government Expenditure,Chad,2012,9.21
+148,GDP,Chad,2012,2.21
+148,Government Expenditure,Chad,2013,12.46
+148,GDP,Chad,2013,2.85
+152,Government Expenditure,Chile,2005,16.2
+152,GDP,Chile,2005,3.26
+152,Government Expenditure,Chile,2009,17.04
+152,GDP,Chile,2009,4.23
+152,Government Expenditure,Chile,2010,17.84
+152,GDP,Chile,2010,4.16
+152,Government Expenditure,Chile,2016,21.16
+152,GDP,Chile,2016,5.35
+344,Government Expenditure,"China, Hong Kong SAR",2005,22.48
+344,GDP,"China, Hong Kong SAR",2005,4.13
+344,Government Expenditure,"China, Hong Kong SAR",2010,19.91
 344,GDP,"China, Hong Kong SAR",2010,3.51
-344,Government Expenditure,"China, Hong Kong SAR",2012,18.6495
-344,GDP,"China, Hong Kong SAR",2012,3.5096
-344,Government Expenditure,"China, Hong Kong SAR",2017,17.8413
-344,GDP,"China, Hong Kong SAR",2017,3.3097
-446,GDP,"China, Macao SAR",2000,3.3409
-446,GDP,"China, Macao SAR",2003,2.7976
-446,GDP,"China, Macao SAR",2005,2.2907
-446,GDP,"China, Macao SAR",2010,2.6295
-446,GDP,"China, Macao SAR",2016,3.0831
-170,Government Expenditure,Colombia,2004,15.4398
-170,GDP,Colombia,2004,4.0794
-170,Government Expenditure,Colombia,2005,15.5356
-170,GDP,Colombia,2005,3.995
-170,Government Expenditure,Colombia,2010,16.4186
-170,GDP,Colombia,2010,4.8262
-170,Government Expenditure,Colombia,2017,15.1697
-170,GDP,Colombia,2017,4.3997
-174,Government Expenditure,Comoros,2002,15.7897
-174,GDP,Comoros,2002,3.8806
-174,Government Expenditure,Comoros,2008,29.2331
-174,GDP,Comoros,2008,7.7099
-174,Government Expenditure,Comoros,2015,15.2701
-174,GDP,Comoros,2015,4.3445
-178,Government Expenditure,Congo,2005,7.5978
-178,GDP,Congo,2005,1.8358
-178,Government Expenditure,Congo,2010,24.7278
-178,GDP,Congo,2010,6.2208
-178,Government Expenditure,Congo,2015,7.9504
-178,GDP,Congo,2015,4.5615
-184,GDP,Cook Islands,2000,2.0706
-184,GDP,Cook Islands,2013,2.9624
-184,GDP,Cook Islands,2016,4.6514
-188,GDP,Costa Rica,2004,4.9122
-188,GDP,Costa Rica,2010,6.6345
-188,GDP,Costa Rica,2017,7.4323
-384,Government Expenditure,Côte d’Ivoire,2000,20.807
-384,GDP,Côte d’Ivoire,2000,3.7037
-384,Government Expenditure,Côte d’Ivoire,2001,23.202
-384,GDP,Côte d’Ivoire,2001,3.6687
-384,Government Expenditure,Côte d’Ivoire,2005,21.8457
-384,GDP,Côte d’Ivoire,2005,4.1058
-384,Government Expenditure,Côte d’Ivoire,2010,22.7728
-384,GDP,Côte d’Ivoire,2010,4.5535
-384,Government Expenditure,Côte d’Ivoire,2015,21.1732
-384,GDP,Côte d’Ivoire,2015,4.8299
-384,Government Expenditure,Côte d’Ivoire,2017,18.6235
-384,GDP,Côte d’Ivoire,2017,4.3642
-191,Government Expenditure,Croatia,2004,8.1191
-191,GDP,Croatia,2004,3.8209
-191,Government Expenditure,Croatia,2010,8.9583
-191,GDP,Croatia,2010,4.2405
-191,Government Expenditure,Croatia,2011,8.5158
-191,GDP,Croatia,2011,4.1487
-191,Government Expenditure,Croatia,2013,9.4946
-191,GDP,Croatia,2013,4.5626
-192,GDP,Cuba,2005,10.5578
-192,GDP,Cuba,2007,11.8682
-192,GDP,Cuba,2010,12.8373
-531,GDP,Curaçao,2013,4.931
-196,Government Expenditure,Cyprus,2005,15.8394
-196,GDP,Cyprus,2005,6.196
-196,Government Expenditure,Cyprus,2010,15.6495
-196,GDP,Cyprus,2010,6.5803
-196,Government Expenditure,Cyprus,2015,16.2763
-196,GDP,Cyprus,2015,6.3767
-203,Government Expenditure,Czechia,2005,9.203
-203,GDP,Czechia,2005,3.8904
-203,Government Expenditure,Czechia,2010,9.3405
-203,GDP,Czechia,2010,4.0645
-203,Government Expenditure,Czechia,2015,13.8825
-203,GDP,Czechia,2015,5.7889
-180,Government Expenditure,Dem. Rep. of the Congo,2010,9.6611
-180,GDP,Dem. Rep. of the Congo,2010,1.525
-180,Government Expenditure,Dem. Rep. of the Congo,2013,16.2742
-180,GDP,Dem. Rep. of the Congo,2013,2.0622
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.7384
-180,GDP,Dem. Rep. of the Congo,2015,2.1704
-180,Government Expenditure,Dem. Rep. of the Congo,2017,11.7108
-180,GDP,Dem. Rep. of the Congo,2017,1.4695
-208,Government Expenditure,Denmark,2005,15.7793
-208,GDP,Denmark,2005,8.0856
-208,Government Expenditure,Denmark,2010,15.1033
-208,GDP,Denmark,2010,8.5596
-208,Government Expenditure,Denmark,2013,15.2174
-208,GDP,Denmark,2013,8.4944
-208,Government Expenditure,Denmark,2014,13.8268
-208,GDP,Denmark,2014,7.6349
-262,Government Expenditure,Djibouti,2005,22.7151
-262,GDP,Djibouti,2005,8.3659
-262,Government Expenditure,Djibouti,2007,22.5274
-262,GDP,Djibouti,2007,8.4063
-262,Government Expenditure,Djibouti,2010,12.3284
-262,GDP,Djibouti,2010,4.4902
-212,Government Expenditure,Dominica,2015,10.5221
-212,GDP,Dominica,2015,3.3861
-214,Government Expenditure,Dominican Republic,2002,12.0797
-214,GDP,Dominican Republic,2002,1.914
-214,Government Expenditure,Dominican Republic,2003,9.7018
-214,GDP,Dominican Republic,2003,1.8447
-214,Government Expenditure,Dominican Republic,2007,12.5779
-214,GDP,Dominican Republic,2007,2.0468
-218,Government Expenditure,Ecuador,2000,4.9573
-218,GDP,Ecuador,2000,1.1509
-218,Government Expenditure,Ecuador,2010,12.9966
-218,GDP,Ecuador,2010,4.5074
-218,Government Expenditure,Ecuador,2015,12.5977
-218,GDP,Ecuador,2015,4.9987
-818,Government Expenditure,Egypt,2005,15.0436
-818,GDP,Egypt,2005,4.7944
-818,Government Expenditure,Egypt,2008,10.9418
-818,GDP,Egypt,2008,3.7608
-222,Government Expenditure,El Salvador,2005,14.6558
-222,GDP,El Salvador,2005,3.1779
-222,Government Expenditure,El Salvador,2008,19.4488
-222,GDP,El Salvador,2008,4.4581
-222,Government Expenditure,El Salvador,2010,16.1642
-222,GDP,El Salvador,2010,4.0481
-222,Government Expenditure,El Salvador,2016,16.1132
-222,GDP,El Salvador,2016,3.8699
-222,Government Expenditure,El Salvador,2017,15.634
-222,GDP,El Salvador,2017,3.7513
-232,Government Expenditure,Eritrea,2002,5.6334
-232,GDP,Eritrea,2002,3.5239
-232,Government Expenditure,Eritrea,2004,5.7419
-232,GDP,Eritrea,2004,3.149
-232,Government Expenditure,Eritrea,2006,5.1681
-232,GDP,Eritrea,2006,2.127
-233,Government Expenditure,Estonia,2002,15.1452
-233,GDP,Estonia,2002,5.4687
-233,Government Expenditure,Estonia,2004,14.3061
-233,GDP,Estonia,2004,4.9118
-233,Government Expenditure,Estonia,2005,14.2577
-233,GDP,Estonia,2005,4.8449
-233,Government Expenditure,Estonia,2010,13.6428
-233,GDP,Estonia,2010,5.527
-233,Government Expenditure,Estonia,2013,12.5826
-233,GDP,Estonia,2013,4.8384
-233,Government Expenditure,Estonia,2015,12.9666
-233,GDP,Estonia,2015,5.2159
-748,Government Expenditure,Eswatini,2005,20.8919
-748,GDP,Eswatini,2005,6.4846
-748,Government Expenditure,Eswatini,2010,18.283
-748,GDP,Eswatini,2010,6.1184
-748,Government Expenditure,Eswatini,2014,24.9452
-748,GDP,Eswatini,2014,7.1277
-231,Government Expenditure,Ethiopia,2002,16.1878
-231,GDP,Ethiopia,2002,3.6325
-231,Government Expenditure,Ethiopia,2010,26.304
-231,GDP,Ethiopia,2010,4.4966
-231,Government Expenditure,Ethiopia,2015,27.0987
-231,GDP,Ethiopia,2015,4.7379
-242,Government Expenditure,Fiji,2004,23.7492
-242,GDP,Fiji,2004,6.1649
-242,Government Expenditure,Fiji,2005,20.2661
-242,GDP,Fiji,2005,5.122
-242,Government Expenditure,Fiji,2009,15.8536
-242,GDP,Fiji,2009,4.4985
-242,Government Expenditure,Fiji,2011,14.3815
-242,GDP,Fiji,2011,4.1731
-242,Government Expenditure,Fiji,2013,14.3004
-242,GDP,Fiji,2013,3.8829
-246,Government Expenditure,Finland,2005,12.2497
-246,GDP,Finland,2005,6.0361
-246,Government Expenditure,Finland,2010,11.9455
-246,GDP,Finland,2010,6.5407
-246,Government Expenditure,Finland,2015,12.4122
-246,GDP,Finland,2015,7.0918
-250,Government Expenditure,France,2005,10.3555
-250,GDP,France,2005,5.5187
-250,Government Expenditure,France,2010,10.0072
-250,GDP,France,2010,5.6925
-250,Government Expenditure,France,2015,9.6202
-250,GDP,France,2015,5.4642
-266,Government Expenditure,Gabon,2000,17.7065
-266,GDP,Gabon,2000,3.8271
-266,Government Expenditure,Gabon,2010,13.3304
-266,GDP,Gabon,2010,3.0781
-266,Government Expenditure,Gabon,2014,11.2255
-266,GDP,Gabon,2014,2.6667
-270,Government Expenditure,Gambia,2005,5.3442
-270,GDP,Gambia,2005,1.1392
-270,Government Expenditure,Gambia,2010,17.6112
-270,GDP,Gambia,2010,4.1561
-270,Government Expenditure,Gambia,2012,13.7955
-270,GDP,Gambia,2012,4.1012
-270,Government Expenditure,Gambia,2014,11.7523
-270,GDP,Gambia,2014,3.2918
-270,Government Expenditure,Gambia,2016,10.3578
-270,GDP,Gambia,2016,3.0851
-268,Government Expenditure,Georgia,2005,11.1813
-268,GDP,Georgia,2005,2.4843
-268,Government Expenditure,Georgia,2008,8.9376
-268,GDP,Georgia,2008,2.9196
-268,Government Expenditure,Georgia,2009,8.9983
-268,GDP,Georgia,2009,3.2224
-268,Government Expenditure,Georgia,2012,6.7078
-268,GDP,Georgia,2012,1.9833
-268,Government Expenditure,Georgia,2017,12.9534
-268,GDP,Georgia,2017,3.8299
-276,Government Expenditure,Germany,2010,10.3981
-276,GDP,Germany,2010,4.9137
-276,Government Expenditure,Germany,2015,10.9935
-276,GDP,Germany,2015,4.8134
+344,Government Expenditure,"China, Hong Kong SAR",2012,18.65
+344,GDP,"China, Hong Kong SAR",2012,3.51
+344,Government Expenditure,"China, Hong Kong SAR",2017,17.84
+344,GDP,"China, Hong Kong SAR",2017,3.31
+446,GDP,"China, Macao SAR",2000,3.34
+446,GDP,"China, Macao SAR",2003,2.8
+446,GDP,"China, Macao SAR",2005,2.29
+446,GDP,"China, Macao SAR",2010,2.63
+446,GDP,"China, Macao SAR",2016,3.08
+170,Government Expenditure,Colombia,2004,15.44
+170,GDP,Colombia,2004,4.08
+170,Government Expenditure,Colombia,2005,15.54
+170,GDP,Colombia,2005,4.0
+170,Government Expenditure,Colombia,2010,16.42
+170,GDP,Colombia,2010,4.83
+170,Government Expenditure,Colombia,2017,15.17
+170,GDP,Colombia,2017,4.4
+174,Government Expenditure,Comoros,2002,15.79
+174,GDP,Comoros,2002,3.88
+174,Government Expenditure,Comoros,2008,29.23
+174,GDP,Comoros,2008,7.71
+174,Government Expenditure,Comoros,2015,15.27
+174,GDP,Comoros,2015,4.34
+178,Government Expenditure,Congo,2005,7.6
+178,GDP,Congo,2005,1.84
+178,Government Expenditure,Congo,2010,24.73
+178,GDP,Congo,2010,6.22
+178,Government Expenditure,Congo,2015,7.95
+178,GDP,Congo,2015,4.56
+184,GDP,Cook Islands,2000,2.07
+184,GDP,Cook Islands,2013,2.96
+184,GDP,Cook Islands,2016,4.65
+188,GDP,Costa Rica,2004,4.91
+188,GDP,Costa Rica,2010,6.63
+188,GDP,Costa Rica,2017,7.43
+384,Government Expenditure,Côte d’Ivoire,2000,20.81
+384,GDP,Côte d’Ivoire,2000,3.7
+384,Government Expenditure,Côte d’Ivoire,2001,23.2
+384,GDP,Côte d’Ivoire,2001,3.67
+384,Government Expenditure,Côte d’Ivoire,2005,21.85
+384,GDP,Côte d’Ivoire,2005,4.11
+384,Government Expenditure,Côte d’Ivoire,2010,22.77
+384,GDP,Côte d’Ivoire,2010,4.55
+384,Government Expenditure,Côte d’Ivoire,2015,21.17
+384,GDP,Côte d’Ivoire,2015,4.83
+384,Government Expenditure,Côte d’Ivoire,2017,18.62
+384,GDP,Côte d’Ivoire,2017,4.36
+191,Government Expenditure,Croatia,2004,8.12
+191,GDP,Croatia,2004,3.82
+191,Government Expenditure,Croatia,2010,8.96
+191,GDP,Croatia,2010,4.24
+191,Government Expenditure,Croatia,2011,8.52
+191,GDP,Croatia,2011,4.15
+191,Government Expenditure,Croatia,2013,9.49
+191,GDP,Croatia,2013,4.56
+192,GDP,Cuba,2005,10.56
+192,GDP,Cuba,2007,11.87
+192,GDP,Cuba,2010,12.84
+531,GDP,Curaçao,2013,4.93
+196,Government Expenditure,Cyprus,2005,15.84
+196,GDP,Cyprus,2005,6.2
+196,Government Expenditure,Cyprus,2010,15.65
+196,GDP,Cyprus,2010,6.58
+196,Government Expenditure,Cyprus,2015,16.28
+196,GDP,Cyprus,2015,6.38
+203,Government Expenditure,Czechia,2005,9.2
+203,GDP,Czechia,2005,3.89
+203,Government Expenditure,Czechia,2010,9.34
+203,GDP,Czechia,2010,4.06
+203,Government Expenditure,Czechia,2015,13.88
+203,GDP,Czechia,2015,5.79
+180,Government Expenditure,Dem. Rep. of the Congo,2010,9.66
+180,GDP,Dem. Rep. of the Congo,2010,1.52
+180,Government Expenditure,Dem. Rep. of the Congo,2013,16.27
+180,GDP,Dem. Rep. of the Congo,2013,2.06
+180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74
+180,GDP,Dem. Rep. of the Congo,2015,2.17
+180,Government Expenditure,Dem. Rep. of the Congo,2017,11.71
+180,GDP,Dem. Rep. of the Congo,2017,1.47
+208,Government Expenditure,Denmark,2005,15.78
+208,GDP,Denmark,2005,8.09
+208,Government Expenditure,Denmark,2010,15.1
+208,GDP,Denmark,2010,8.56
+208,Government Expenditure,Denmark,2013,15.22
+208,GDP,Denmark,2013,8.49
+208,Government Expenditure,Denmark,2014,13.83
+208,GDP,Denmark,2014,7.63
+262,Government Expenditure,Djibouti,2005,22.72
+262,GDP,Djibouti,2005,8.37
+262,Government Expenditure,Djibouti,2007,22.53
+262,GDP,Djibouti,2007,8.41
+262,Government Expenditure,Djibouti,2010,12.33
+262,GDP,Djibouti,2010,4.49
+212,Government Expenditure,Dominica,2015,10.52
+212,GDP,Dominica,2015,3.39
+214,Government Expenditure,Dominican Republic,2002,12.08
+214,GDP,Dominican Republic,2002,1.91
+214,Government Expenditure,Dominican Republic,2003,9.7
+214,GDP,Dominican Republic,2003,1.84
+214,Government Expenditure,Dominican Republic,2007,12.58
+214,GDP,Dominican Republic,2007,2.05
+218,Government Expenditure,Ecuador,2000,4.96
+218,GDP,Ecuador,2000,1.15
+218,Government Expenditure,Ecuador,2010,13.0
+218,GDP,Ecuador,2010,4.51
+218,Government Expenditure,Ecuador,2015,12.6
+218,GDP,Ecuador,2015,5.0
+818,Government Expenditure,Egypt,2005,15.04
+818,GDP,Egypt,2005,4.79
+818,Government Expenditure,Egypt,2008,10.94
+818,GDP,Egypt,2008,3.76
+222,Government Expenditure,El Salvador,2005,14.66
+222,GDP,El Salvador,2005,3.18
+222,Government Expenditure,El Salvador,2008,19.45
+222,GDP,El Salvador,2008,4.46
+222,Government Expenditure,El Salvador,2010,16.16
+222,GDP,El Salvador,2010,4.05
+222,Government Expenditure,El Salvador,2016,16.11
+222,GDP,El Salvador,2016,3.87
+222,Government Expenditure,El Salvador,2017,15.63
+222,GDP,El Salvador,2017,3.75
+232,Government Expenditure,Eritrea,2002,5.63
+232,GDP,Eritrea,2002,3.52
+232,Government Expenditure,Eritrea,2004,5.74
+232,GDP,Eritrea,2004,3.15
+232,Government Expenditure,Eritrea,2006,5.17
+232,GDP,Eritrea,2006,2.13
+233,Government Expenditure,Estonia,2002,15.15
+233,GDP,Estonia,2002,5.47
+233,Government Expenditure,Estonia,2004,14.31
+233,GDP,Estonia,2004,4.91
+233,Government Expenditure,Estonia,2005,14.26
+233,GDP,Estonia,2005,4.84
+233,Government Expenditure,Estonia,2010,13.64
+233,GDP,Estonia,2010,5.53
+233,Government Expenditure,Estonia,2013,12.58
+233,GDP,Estonia,2013,4.84
+233,Government Expenditure,Estonia,2015,12.97
+233,GDP,Estonia,2015,5.22
+748,Government Expenditure,Eswatini,2005,20.89
+748,GDP,Eswatini,2005,6.48
+748,Government Expenditure,Eswatini,2010,18.28
+748,GDP,Eswatini,2010,6.12
+748,Government Expenditure,Eswatini,2014,24.95
+748,GDP,Eswatini,2014,7.13
+231,Government Expenditure,Ethiopia,2002,16.19
+231,GDP,Ethiopia,2002,3.63
+231,Government Expenditure,Ethiopia,2010,26.3
+231,GDP,Ethiopia,2010,4.5
+231,Government Expenditure,Ethiopia,2015,27.1
+231,GDP,Ethiopia,2015,4.74
+242,Government Expenditure,Fiji,2004,23.75
+242,GDP,Fiji,2004,6.16
+242,Government Expenditure,Fiji,2005,20.27
+242,GDP,Fiji,2005,5.12
+242,Government Expenditure,Fiji,2009,15.85
+242,GDP,Fiji,2009,4.5
+242,Government Expenditure,Fiji,2011,14.38
+242,GDP,Fiji,2011,4.17
+242,Government Expenditure,Fiji,2013,14.3
+242,GDP,Fiji,2013,3.88
+246,Government Expenditure,Finland,2005,12.25
+246,GDP,Finland,2005,6.04
+246,Government Expenditure,Finland,2010,11.95
+246,GDP,Finland,2010,6.54
+246,Government Expenditure,Finland,2015,12.41
+246,GDP,Finland,2015,7.09
+250,Government Expenditure,France,2005,10.36
+250,GDP,France,2005,5.52
+250,Government Expenditure,France,2010,10.01
+250,GDP,France,2010,5.69
+250,Government Expenditure,France,2015,9.62
+250,GDP,France,2015,5.46
+266,Government Expenditure,Gabon,2000,17.71
+266,GDP,Gabon,2000,3.83
+266,Government Expenditure,Gabon,2010,13.33
+266,GDP,Gabon,2010,3.08
+266,Government Expenditure,Gabon,2014,11.23
+266,GDP,Gabon,2014,2.67
+270,Government Expenditure,Gambia,2005,5.34
+270,GDP,Gambia,2005,1.14
+270,Government Expenditure,Gambia,2010,17.61
+270,GDP,Gambia,2010,4.16
+270,Government Expenditure,Gambia,2012,13.8
+270,GDP,Gambia,2012,4.1
+270,Government Expenditure,Gambia,2014,11.75
+270,GDP,Gambia,2014,3.29
+270,Government Expenditure,Gambia,2016,10.36
+270,GDP,Gambia,2016,3.09
+268,Government Expenditure,Georgia,2005,11.18
+268,GDP,Georgia,2005,2.48
+268,Government Expenditure,Georgia,2008,8.94
+268,GDP,Georgia,2008,2.92
+268,Government Expenditure,Georgia,2009,9.0
+268,GDP,Georgia,2009,3.22
+268,Government Expenditure,Georgia,2012,6.71
+268,GDP,Georgia,2012,1.98
+268,Government Expenditure,Georgia,2017,12.95
+268,GDP,Georgia,2017,3.83
+276,Government Expenditure,Germany,2010,10.4
+276,GDP,Germany,2010,4.91
+276,Government Expenditure,Germany,2015,10.99
+276,GDP,Germany,2015,4.81
 288,Government Expenditure,Ghana,2005,23.43
-288,GDP,Ghana,2005,7.4221
-288,Government Expenditure,Ghana,2010,20.6961
-288,GDP,Ghana,2010,5.5406
-288,Government Expenditure,Ghana,2014,20.9851
-288,GDP,Ghana,2014,6.1598
-288,Government Expenditure,Ghana,2017,20.0976
-288,GDP,Ghana,2017,4.5098
-300,Government Expenditure,Greece,2005,8.7002
-300,GDP,Greece,2005,3.964
-308,Government Expenditure,Grenada,2003,10.809
-308,GDP,Grenada,2003,3.9267
-308,Government Expenditure,Grenada,2016,42.7886
-308,GDP,Grenada,2016,10.2931
-320,Government Expenditure,Guatemala,2008,23.3482
-320,GDP,Guatemala,2008,3.1846
-320,Government Expenditure,Guatemala,2010,19.2969
-320,GDP,Guatemala,2010,2.8031
-320,Government Expenditure,Guatemala,2017,23.0881
-320,GDP,Guatemala,2017,2.7954
-324,Government Expenditure,Guinea,2005,10.9475
-324,GDP,Guinea,2005,1.8491
-324,Government Expenditure,Guinea,2010,12.4383
-324,GDP,Guinea,2010,2.5512
-324,Government Expenditure,Guinea,2017,13.3768
-324,GDP,Guinea,2017,2.212
-624,Government Expenditure,Guinea-Bissau,2010,9.0692
-624,GDP,Guinea-Bissau,2010,1.8608
-624,Government Expenditure,Guinea-Bissau,2013,16.1914
-624,GDP,Guinea-Bissau,2013,2.1325
-328,Government Expenditure,Guyana,2004,11.0807
-328,GDP,Guyana,2004,5.5262
-328,Government Expenditure,Guyana,2005,13.8234
-328,GDP,Guyana,2005,8.1397
-328,Government Expenditure,Guyana,2010,11.8387
-328,GDP,Guyana,2010,3.6386
-328,Government Expenditure,Guyana,2012,10.1867
-328,GDP,Guyana,2012,3.1824
-328,Government Expenditure,Guyana,2017,18.2761
-328,GDP,Guyana,2017,6.2507
-332,Government Expenditure,Haiti,2016,13.1307
-332,GDP,Haiti,2016,2.4496
-340,Government Expenditure,Honduras,2013,19.8641
-340,GDP,Honduras,2013,5.8749
-340,Government Expenditure,Honduras,2015,24.6446
-340,GDP,Honduras,2015,6.413
-340,Government Expenditure,Honduras,2017,22.0249
-340,GDP,Honduras,2017,5.9561
-348,Government Expenditure,Hungary,2005,10.8006
-348,GDP,Hungary,2005,5.3284
-348,Government Expenditure,Hungary,2010,9.6856
-348,GDP,Hungary,2010,4.769
-348,Government Expenditure,Hungary,2015,9.1391
-348,GDP,Hungary,2015,4.5794
-352,Government Expenditure,Iceland,2005,17.8101
-352,GDP,Iceland,2005,7.4094
-352,Government Expenditure,Iceland,2010,14.604
-352,GDP,Iceland,2010,7.1741
-352,Government Expenditure,Iceland,2015,18.158
-352,GDP,Iceland,2015,7.7111
-356,Government Expenditure,India,2005,11.2085
-356,GDP,India,2005,3.2319
-356,Government Expenditure,India,2010,11.8337
-356,GDP,India,2010,3.4235
-356,Government Expenditure,India,2013,14.0502
-356,GDP,India,2013,3.8447
-360,Government Expenditure,Indonesia,2005,15.1488
-360,GDP,Indonesia,2005,2.8728
-360,Government Expenditure,Indonesia,2010,16.6542
-360,GDP,Indonesia,2010,2.8123
-360,Government Expenditure,Indonesia,2014,17.6715
-360,GDP,Indonesia,2014,3.288
-360,Government Expenditure,Indonesia,2015,20.5033
-360,GDP,Indonesia,2015,3.5836
-364,Government Expenditure,Iran (Islamic Republic of),2002,26.3335
-364,GDP,Iran (Islamic Republic of),2002,4.4849
-364,Government Expenditure,Iran (Islamic Republic of),2005,22.322
-364,GDP,Iran (Islamic Republic of),2005,4.0565
-364,Government Expenditure,Iran (Islamic Republic of),2010,18.8044
-364,GDP,Iran (Islamic Republic of),2010,3.7092
-364,Government Expenditure,Iran (Islamic Republic of),2017,20.042
-364,GDP,Iran (Islamic Republic of),2017,3.7904
-372,Government Expenditure,Ireland,2005,13.5624
-372,GDP,Ireland,2005,4.5221
-372,Government Expenditure,Ireland,2010,9.284
-372,GDP,Ireland,2010,6.0434
-372,Government Expenditure,Ireland,2015,13.0293
-372,GDP,Ireland,2015,3.7697
-376,Government Expenditure,Israel,2005,12.7394
-376,GDP,Israel,2005,5.7624
-376,Government Expenditure,Israel,2010,13.6107
-376,GDP,Israel,2010,5.5445
-376,Government Expenditure,Israel,2015,15.044
-376,GDP,Israel,2015,5.8814
-380,Government Expenditure,Italy,2005,9.0137
-380,GDP,Italy,2005,4.2494
-380,Government Expenditure,Italy,2010,8.724
-380,GDP,Italy,2010,4.3524
-380,Government Expenditure,Italy,2015,8.113
-380,GDP,Italy,2015,4.0804
-388,Government Expenditure,Jamaica,2004,11.733
-388,GDP,Jamaica,2004,3.9126
-388,Government Expenditure,Jamaica,2005,14.2694
-388,GDP,Jamaica,2005,4.6164
-388,Government Expenditure,Jamaica,2008,19.1194
-388,GDP,Jamaica,2008,6.1913
-388,Government Expenditure,Jamaica,2009,17.5528
-388,GDP,Jamaica,2009,6.1985
-388,Government Expenditure,Jamaica,2010,16.1029
-388,GDP,Jamaica,2010,6.3706
-388,Government Expenditure,Jamaica,2017,18.4025
-388,GDP,Jamaica,2017,5.2677
-392,Government Expenditure,Japan,2016,9.1311
-392,GDP,Japan,2016,3.4675
-400,Government Expenditure,Jordan,2017,12.5294
-400,GDP,Jordan,2017,3.5996
-398,Government Expenditure,Kazakhstan,2005,10.2278
-398,GDP,Kazakhstan,2005,2.2635
-398,Government Expenditure,Kazakhstan,2009,13.0409
-398,GDP,Kazakhstan,2009,3.0607
-398,Government Expenditure,Kazakhstan,2017,11.4215
-398,GDP,Kazakhstan,2017,2.8785
-404,Government Expenditure,Kenya,2004,26.6682
-404,GDP,Kenya,2004,6.7969
-404,Government Expenditure,Kenya,2005,27.4693
-404,GDP,Kenya,2005,7.3357
-404,Government Expenditure,Kenya,2006,25.0814
-404,GDP,Kenya,2006,7.0498
-404,Government Expenditure,Kenya,2010,20.556
-404,GDP,Kenya,2010,5.5082
-404,Government Expenditure,Kenya,2015,16.6647
-404,GDP,Kenya,2015,5.2713
-404,Government Expenditure,Kenya,2017,17.5823
-404,GDP,Kenya,2017,5.239
-296,Government Expenditure,Kiribati,2001,11.5161
-296,GDP,Kiribati,2001,11.9881
-414,Government Expenditure,Kuwait,2005,13.8541
-414,GDP,Kuwait,2005,4.7383
+288,GDP,Ghana,2005,7.42
+288,Government Expenditure,Ghana,2010,20.7
+288,GDP,Ghana,2010,5.54
+288,Government Expenditure,Ghana,2014,20.99
+288,GDP,Ghana,2014,6.16
+288,Government Expenditure,Ghana,2017,20.1
+288,GDP,Ghana,2017,4.51
+300,Government Expenditure,Greece,2005,8.7
+300,GDP,Greece,2005,3.96
+308,Government Expenditure,Grenada,2003,10.81
+308,GDP,Grenada,2003,3.93
+308,Government Expenditure,Grenada,2016,42.79
+308,GDP,Grenada,2016,10.29
+320,Government Expenditure,Guatemala,2008,23.35
+320,GDP,Guatemala,2008,3.18
+320,Government Expenditure,Guatemala,2010,19.3
+320,GDP,Guatemala,2010,2.8
+320,Government Expenditure,Guatemala,2017,23.09
+320,GDP,Guatemala,2017,2.8
+324,Government Expenditure,Guinea,2005,10.95
+324,GDP,Guinea,2005,1.85
+324,Government Expenditure,Guinea,2010,12.44
+324,GDP,Guinea,2010,2.55
+324,Government Expenditure,Guinea,2017,13.38
+324,GDP,Guinea,2017,2.21
+624,Government Expenditure,Guinea-Bissau,2010,9.07
+624,GDP,Guinea-Bissau,2010,1.86
+624,Government Expenditure,Guinea-Bissau,2013,16.19
+624,GDP,Guinea-Bissau,2013,2.13
+328,Government Expenditure,Guyana,2004,11.08
+328,GDP,Guyana,2004,5.53
+328,Government Expenditure,Guyana,2005,13.82
+328,GDP,Guyana,2005,8.14
+328,Government Expenditure,Guyana,2010,11.84
+328,GDP,Guyana,2010,3.64
+328,Government Expenditure,Guyana,2012,10.19
+328,GDP,Guyana,2012,3.18
+328,Government Expenditure,Guyana,2017,18.28
+328,GDP,Guyana,2017,6.25
+332,Government Expenditure,Haiti,2016,13.13
+332,GDP,Haiti,2016,2.45
+340,Government Expenditure,Honduras,2013,19.86
+340,GDP,Honduras,2013,5.87
+340,Government Expenditure,Honduras,2015,24.64
+340,GDP,Honduras,2015,6.41
+340,Government Expenditure,Honduras,2017,22.02
+340,GDP,Honduras,2017,5.96
+348,Government Expenditure,Hungary,2005,10.8
+348,GDP,Hungary,2005,5.33
+348,Government Expenditure,Hungary,2010,9.69
+348,GDP,Hungary,2010,4.77
+348,Government Expenditure,Hungary,2015,9.14
+348,GDP,Hungary,2015,4.58
+352,Government Expenditure,Iceland,2005,17.81
+352,GDP,Iceland,2005,7.41
+352,Government Expenditure,Iceland,2010,14.6
+352,GDP,Iceland,2010,7.17
+352,Government Expenditure,Iceland,2015,18.16
+352,GDP,Iceland,2015,7.71
+356,Government Expenditure,India,2005,11.21
+356,GDP,India,2005,3.23
+356,Government Expenditure,India,2010,11.83
+356,GDP,India,2010,3.42
+356,Government Expenditure,India,2013,14.05
+356,GDP,India,2013,3.84
+360,Government Expenditure,Indonesia,2005,15.15
+360,GDP,Indonesia,2005,2.87
+360,Government Expenditure,Indonesia,2010,16.65
+360,GDP,Indonesia,2010,2.81
+360,Government Expenditure,Indonesia,2014,17.67
+360,GDP,Indonesia,2014,3.29
+360,Government Expenditure,Indonesia,2015,20.5
+360,GDP,Indonesia,2015,3.58
+364,Government Expenditure,Iran (Islamic Republic of),2002,26.33
+364,GDP,Iran (Islamic Republic of),2002,4.48
+364,Government Expenditure,Iran (Islamic Republic of),2005,22.32
+364,GDP,Iran (Islamic Republic of),2005,4.06
+364,Government Expenditure,Iran (Islamic Republic of),2010,18.8
+364,GDP,Iran (Islamic Republic of),2010,3.71
+364,Government Expenditure,Iran (Islamic Republic of),2017,20.04
+364,GDP,Iran (Islamic Republic of),2017,3.79
+372,Government Expenditure,Ireland,2005,13.56
+372,GDP,Ireland,2005,4.52
+372,Government Expenditure,Ireland,2010,9.28
+372,GDP,Ireland,2010,6.04
+372,Government Expenditure,Ireland,2015,13.03
+372,GDP,Ireland,2015,3.77
+376,Government Expenditure,Israel,2005,12.74
+376,GDP,Israel,2005,5.76
+376,Government Expenditure,Israel,2010,13.61
+376,GDP,Israel,2010,5.54
+376,Government Expenditure,Israel,2015,15.04
+376,GDP,Israel,2015,5.88
+380,Government Expenditure,Italy,2005,9.01
+380,GDP,Italy,2005,4.25
+380,Government Expenditure,Italy,2010,8.72
+380,GDP,Italy,2010,4.35
+380,Government Expenditure,Italy,2015,8.11
+380,GDP,Italy,2015,4.08
+388,Government Expenditure,Jamaica,2004,11.73
+388,GDP,Jamaica,2004,3.91
+388,Government Expenditure,Jamaica,2005,14.27
+388,GDP,Jamaica,2005,4.62
+388,Government Expenditure,Jamaica,2008,19.12
+388,GDP,Jamaica,2008,6.19
+388,Government Expenditure,Jamaica,2009,17.55
+388,GDP,Jamaica,2009,6.2
+388,Government Expenditure,Jamaica,2010,16.1
+388,GDP,Jamaica,2010,6.37
+388,Government Expenditure,Jamaica,2017,18.4
+388,GDP,Jamaica,2017,5.27
+392,Government Expenditure,Japan,2016,9.13
+392,GDP,Japan,2016,3.47
+400,Government Expenditure,Jordan,2017,12.53
+400,GDP,Jordan,2017,3.6
+398,Government Expenditure,Kazakhstan,2005,10.23
+398,GDP,Kazakhstan,2005,2.26
+398,Government Expenditure,Kazakhstan,2009,13.04
+398,GDP,Kazakhstan,2009,3.06
+398,Government Expenditure,Kazakhstan,2017,11.42
+398,GDP,Kazakhstan,2017,2.88
+404,Government Expenditure,Kenya,2004,26.67
+404,GDP,Kenya,2004,6.8
+404,Government Expenditure,Kenya,2005,27.47
+404,GDP,Kenya,2005,7.34
+404,Government Expenditure,Kenya,2006,25.08
+404,GDP,Kenya,2006,7.05
+404,Government Expenditure,Kenya,2010,20.56
+404,GDP,Kenya,2010,5.51
+404,Government Expenditure,Kenya,2015,16.66
+404,GDP,Kenya,2015,5.27
+404,Government Expenditure,Kenya,2017,17.58
+404,GDP,Kenya,2017,5.24
+296,Government Expenditure,Kiribati,2001,11.52
+296,GDP,Kiribati,2001,11.99
+414,Government Expenditure,Kuwait,2005,13.85
+414,GDP,Kuwait,2005,4.74
 414,Government Expenditure,Kuwait,2006,13.37
 414,GDP,Kuwait,2006,3.76
-417,Government Expenditure,Kyrgyzstan,2005,16.7684
-417,GDP,Kyrgyzstan,2005,4.8738
-417,Government Expenditure,Kyrgyzstan,2010,15.6813
-417,GDP,Kyrgyzstan,2010,5.8188
-417,Government Expenditure,Kyrgyzstan,2014,14.4965
-417,GDP,Kyrgyzstan,2014,5.5316
-417,Government Expenditure,Kyrgyzstan,2016,16.7773
-417,GDP,Kyrgyzstan,2016,6.5862
-417,Government Expenditure,Kyrgyzstan,2017,18.6443
-417,GDP,Kyrgyzstan,2017,7.2077
-418,Government Expenditure,Lao People's Dem. Rep.,2002,16.2046
-418,GDP,Lao People's Dem. Rep.,2002,2.8252
-418,Government Expenditure,Lao People's Dem. Rep.,2005,13.7316
-418,GDP,Lao People's Dem. Rep.,2005,2.4141
-418,Government Expenditure,Lao People's Dem. Rep.,2010,7.276
-418,GDP,Lao People's Dem. Rep.,2010,1.7098
-418,Government Expenditure,Lao People's Dem. Rep.,2014,12.1899
-418,GDP,Lao People's Dem. Rep.,2014,2.9378
-428,Government Expenditure,Latvia,2004,14.5018
-428,GDP,Latvia,2004,4.8551
-428,Government Expenditure,Latvia,2010,11.809
-428,GDP,Latvia,2010,5.081
-428,Government Expenditure,Latvia,2015,14.1274
-428,GDP,Latvia,2015,5.3372
-422,Government Expenditure,Lebanon,2005,8.4213
-422,GDP,Lebanon,2005,2.6723
-422,Government Expenditure,Lebanon,2010,5.5343
-422,GDP,Lebanon,2010,1.6143
-422,Government Expenditure,Lebanon,2011,5.7338
-422,GDP,Lebanon,2011,1.6464
-422,Government Expenditure,Lebanon,2013,8.5755
-422,GDP,Lebanon,2013,2.4798
-426,Government Expenditure,Lesotho,2001,23.8489
-426,GDP,Lesotho,2001,9.3651
-426,Government Expenditure,Lesotho,2005,32.4049
-426,GDP,Lesotho,2005,12.0797
-426,Government Expenditure,Lesotho,2008,24.6976
-426,GDP,Lesotho,2008,11.3897
-426,Government Expenditure,Lesotho,2018,13.8039
-426,GDP,Lesotho,2018,6.3609
-430,Government Expenditure,Liberia,2008,6.4541
-430,GDP,Liberia,2008,3.1614
-430,Government Expenditure,Liberia,2012,5.1843
-430,GDP,Liberia,2012,2.7576
-430,Government Expenditure,Liberia,2017,7.058
-430,GDP,Liberia,2017,3.8263
-438,GDP,Liechtenstein,2004,2.4333
-438,GDP,Liechtenstein,2007,1.9212
-438,GDP,Liechtenstein,2008,2.0484
-438,GDP,Liechtenstein,2011,2.556
-440,Government Expenditure,Lithuania,2005,14.5796
-440,GDP,Lithuania,2005,4.8732
-440,Government Expenditure,Lithuania,2010,12.8588
-440,GDP,Lithuania,2010,5.299
-440,Government Expenditure,Lithuania,2015,12.2883
-440,GDP,Lithuania,2015,4.2181
-442,Government Expenditure,Luxembourg,2001,9.3021
-442,GDP,Luxembourg,2001,3.5558
-442,Government Expenditure,Luxembourg,2015,9.4276
-442,GDP,Luxembourg,2015,3.9155
-450,Government Expenditure,Madagascar,2005,18.033
-450,GDP,Madagascar,2005,3.8482
-450,Government Expenditure,Madagascar,2008,16.2581
-450,GDP,Madagascar,2008,2.9104
-450,Government Expenditure,Madagascar,2009,22.5858
-450,GDP,Madagascar,2009,3.1775
-450,Government Expenditure,Madagascar,2012,20.3258
-450,GDP,Madagascar,2012,2.7322
-450,Government Expenditure,Madagascar,2013,13.9894
-450,GDP,Madagascar,2013,2.0823
-450,Government Expenditure,Madagascar,2014,18.9668
-450,GDP,Madagascar,2014,2.7938
-454,GDP,Malawi,2001,4.509
-454,Government Expenditure,Malawi,2003,16.5526
-454,GDP,Malawi,2003,3.2157
-454,Government Expenditure,Malawi,2010,12.518
-454,GDP,Malawi,2010,3.5398
-454,Government Expenditure,Malawi,2013,20.4242
-454,GDP,Malawi,2013,5.4162
-454,Government Expenditure,Malawi,2016,17.1036
-454,GDP,Malawi,2016,4.7486
-454,Government Expenditure,Malawi,2017,14.3401
-454,GDP,Malawi,2017,4.0313
-458,Government Expenditure,Malaysia,2004,21.0129
-458,GDP,Malaysia,2004,5.9239
-458,Government Expenditure,Malaysia,2009,18.4646
-458,GDP,Malaysia,2009,5.9742
-458,Government Expenditure,Malaysia,2010,18.4062
-458,GDP,Malaysia,2010,4.9665
-458,Government Expenditure,Malaysia,2017,21.0557
-458,GDP,Malaysia,2017,4.7439
-462,Government Expenditure,Maldives,2005,13.015
-462,GDP,Maldives,2005,5.0168
-462,Government Expenditure,Maldives,2010,12.4606
-462,GDP,Maldives,2010,4.1175
-462,Government Expenditure,Maldives,2016,11.2889
-462,GDP,Maldives,2016,4.252
-466,Government Expenditure,Mali,2005,16.2803
-466,GDP,Mali,2005,3.5222
-466,Government Expenditure,Mali,2010,16.5039
-466,GDP,Mali,2010,3.3439
-466,Government Expenditure,Mali,2016,13.9039
-466,GDP,Mali,2016,3.0907
-470,Government Expenditure,Malta,2004,10.5549
-470,GDP,Malta,2004,4.4608
-470,Government Expenditure,Malta,2010,15.7192
-470,GDP,Malta,2010,6.4549
-470,Government Expenditure,Malta,2015,13.1509
-470,GDP,Malta,2015,5.2675
-584,Government Expenditure,Marshall Islands,2002,14.8142
-584,GDP,Marshall Islands,2002,8.6699
-584,Government Expenditure,Marshall Islands,2003,22.5088
+417,Government Expenditure,Kyrgyzstan,2005,16.77
+417,GDP,Kyrgyzstan,2005,4.87
+417,Government Expenditure,Kyrgyzstan,2010,15.68
+417,GDP,Kyrgyzstan,2010,5.82
+417,Government Expenditure,Kyrgyzstan,2014,14.5
+417,GDP,Kyrgyzstan,2014,5.53
+417,Government Expenditure,Kyrgyzstan,2016,16.78
+417,GDP,Kyrgyzstan,2016,6.59
+417,Government Expenditure,Kyrgyzstan,2017,18.64
+417,GDP,Kyrgyzstan,2017,7.21
+418,Government Expenditure,Lao People's Dem. Rep.,2002,16.2
+418,GDP,Lao People's Dem. Rep.,2002,2.83
+418,Government Expenditure,Lao People's Dem. Rep.,2005,13.73
+418,GDP,Lao People's Dem. Rep.,2005,2.41
+418,Government Expenditure,Lao People's Dem. Rep.,2010,7.28
+418,GDP,Lao People's Dem. Rep.,2010,1.71
+418,Government Expenditure,Lao People's Dem. Rep.,2014,12.19
+418,GDP,Lao People's Dem. Rep.,2014,2.94
+428,Government Expenditure,Latvia,2004,14.5
+428,GDP,Latvia,2004,4.86
+428,Government Expenditure,Latvia,2010,11.81
+428,GDP,Latvia,2010,5.08
+428,Government Expenditure,Latvia,2015,14.13
+428,GDP,Latvia,2015,5.34
+422,Government Expenditure,Lebanon,2005,8.42
+422,GDP,Lebanon,2005,2.67
+422,Government Expenditure,Lebanon,2010,5.53
+422,GDP,Lebanon,2010,1.61
+422,Government Expenditure,Lebanon,2011,5.73
+422,GDP,Lebanon,2011,1.65
+422,Government Expenditure,Lebanon,2013,8.58
+422,GDP,Lebanon,2013,2.48
+426,Government Expenditure,Lesotho,2001,23.85
+426,GDP,Lesotho,2001,9.37
+426,Government Expenditure,Lesotho,2005,32.4
+426,GDP,Lesotho,2005,12.08
+426,Government Expenditure,Lesotho,2008,24.7
+426,GDP,Lesotho,2008,11.39
+426,Government Expenditure,Lesotho,2018,13.8
+426,GDP,Lesotho,2018,6.36
+430,Government Expenditure,Liberia,2008,6.45
+430,GDP,Liberia,2008,3.16
+430,Government Expenditure,Liberia,2012,5.18
+430,GDP,Liberia,2012,2.76
+430,Government Expenditure,Liberia,2017,7.06
+430,GDP,Liberia,2017,3.83
+438,GDP,Liechtenstein,2004,2.43
+438,GDP,Liechtenstein,2007,1.92
+438,GDP,Liechtenstein,2008,2.05
+438,GDP,Liechtenstein,2011,2.56
+440,Government Expenditure,Lithuania,2005,14.58
+440,GDP,Lithuania,2005,4.87
+440,Government Expenditure,Lithuania,2010,12.86
+440,GDP,Lithuania,2010,5.3
+440,Government Expenditure,Lithuania,2015,12.29
+440,GDP,Lithuania,2015,4.22
+442,Government Expenditure,Luxembourg,2001,9.3
+442,GDP,Luxembourg,2001,3.56
+442,Government Expenditure,Luxembourg,2015,9.43
+442,GDP,Luxembourg,2015,3.92
+450,Government Expenditure,Madagascar,2005,18.03
+450,GDP,Madagascar,2005,3.85
+450,Government Expenditure,Madagascar,2008,16.26
+450,GDP,Madagascar,2008,2.91
+450,Government Expenditure,Madagascar,2009,22.59
+450,GDP,Madagascar,2009,3.18
+450,Government Expenditure,Madagascar,2012,20.33
+450,GDP,Madagascar,2012,2.73
+450,Government Expenditure,Madagascar,2013,13.99
+450,GDP,Madagascar,2013,2.08
+450,Government Expenditure,Madagascar,2014,18.97
+450,GDP,Madagascar,2014,2.79
+454,GDP,Malawi,2001,4.51
+454,Government Expenditure,Malawi,2003,16.55
+454,GDP,Malawi,2003,3.22
+454,Government Expenditure,Malawi,2010,12.52
+454,GDP,Malawi,2010,3.54
+454,Government Expenditure,Malawi,2013,20.42
+454,GDP,Malawi,2013,5.42
+454,Government Expenditure,Malawi,2016,17.1
+454,GDP,Malawi,2016,4.75
+454,Government Expenditure,Malawi,2017,14.34
+454,GDP,Malawi,2017,4.03
+458,Government Expenditure,Malaysia,2004,21.01
+458,GDP,Malaysia,2004,5.92
+458,Government Expenditure,Malaysia,2009,18.46
+458,GDP,Malaysia,2009,5.97
+458,Government Expenditure,Malaysia,2010,18.41
+458,GDP,Malaysia,2010,4.97
+458,Government Expenditure,Malaysia,2017,21.06
+458,GDP,Malaysia,2017,4.74
+462,Government Expenditure,Maldives,2005,13.02
+462,GDP,Maldives,2005,5.02
+462,Government Expenditure,Maldives,2010,12.46
+462,GDP,Maldives,2010,4.12
+462,Government Expenditure,Maldives,2016,11.29
+462,GDP,Maldives,2016,4.25
+466,Government Expenditure,Mali,2005,16.28
+466,GDP,Mali,2005,3.52
+466,Government Expenditure,Mali,2010,16.5
+466,GDP,Mali,2010,3.34
+466,Government Expenditure,Mali,2016,13.9
+466,GDP,Mali,2016,3.09
+470,Government Expenditure,Malta,2004,10.55
+470,GDP,Malta,2004,4.46
+470,Government Expenditure,Malta,2010,15.72
+470,GDP,Malta,2010,6.45
+470,Government Expenditure,Malta,2015,13.15
+470,GDP,Malta,2015,5.27
+584,Government Expenditure,Marshall Islands,2002,14.81
+584,GDP,Marshall Islands,2002,8.67
+584,Government Expenditure,Marshall Islands,2003,22.51
 584,GDP,Marshall Islands,2003,12.24
-478,Government Expenditure,Mauritania,2004,8.1759
-478,GDP,Mauritania,2004,2.5169
-478,Government Expenditure,Mauritania,2010,16.035
-478,GDP,Mauritania,2010,3.6043
-478,Government Expenditure,Mauritania,2016,9.3306
-478,GDP,Mauritania,2016,2.6311
-480,Government Expenditure,Mauritius,2005,17.0881
-480,GDP,Mauritius,2005,4.2016
-480,Government Expenditure,Mauritius,2010,14.5732
-480,GDP,Mauritius,2010,3.5515
-480,Government Expenditure,Mauritius,2017,19.9341
-480,GDP,Mauritius,2017,5.0231
-484,Government Expenditure,Mexico,2005,21.9038
-484,GDP,Mexico,2005,4.8457
-484,Government Expenditure,Mexico,2010,18.6426
-484,GDP,Mexico,2010,5.1592
-484,Government Expenditure,Mexico,2011,18.421
-484,GDP,Mexico,2011,5.1057
-484,Government Expenditure,Mexico,2015,19.0188
-484,GDP,Mexico,2015,5.2395
-583,Government Expenditure,Micronesia (Fed. States of),2000,9.9651
-583,GDP,Micronesia (Fed. States of),2000,6.7082
-583,Government Expenditure,Micronesia (Fed. States of),2015,22.3124
-583,GDP,Micronesia (Fed. States of),2015,12.4595
-492,GDP,Monaco,2004,1.2439
-492,GDP,Monaco,2010,1.3202
-492,GDP,Monaco,2016,1.371
-496,Government Expenditure,Mongolia,2000,16.0748
-496,GDP,Mongolia,2000,5.5504
-496,Government Expenditure,Mongolia,2002,20.3115
-496,GDP,Mongolia,2002,7.2108
-496,Government Expenditure,Mongolia,2004,13.5735
-496,GDP,Mongolia,2004,4.3257
-496,Government Expenditure,Mongolia,2010,14.7111
-496,GDP,Mongolia,2010,4.6451
-496,Government Expenditure,Mongolia,2017,13.4912
-496,GDP,Mongolia,2017,4.0664
-500,GDP,Montserrat,2001,4.7891
-500,GDP,Montserrat,2004,3.8438
-500,GDP,Montserrat,2009,5.1275
-504,Government Expenditure,Morocco,2008,17.4706
-504,GDP,Morocco,2008,5.3422
-504,Government Expenditure,Morocco,2009,17.2953
-504,GDP,Morocco,2009,5.2606
-508,Government Expenditure,Mozambique,2005,22.7182
-508,GDP,Mozambique,2005,4.4301
+478,Government Expenditure,Mauritania,2004,8.18
+478,GDP,Mauritania,2004,2.52
+478,Government Expenditure,Mauritania,2010,16.04
+478,GDP,Mauritania,2010,3.6
+478,Government Expenditure,Mauritania,2016,9.33
+478,GDP,Mauritania,2016,2.63
+480,Government Expenditure,Mauritius,2005,17.09
+480,GDP,Mauritius,2005,4.2
+480,Government Expenditure,Mauritius,2010,14.57
+480,GDP,Mauritius,2010,3.55
+480,Government Expenditure,Mauritius,2017,19.93
+480,GDP,Mauritius,2017,5.02
+484,Government Expenditure,Mexico,2005,21.9
+484,GDP,Mexico,2005,4.85
+484,Government Expenditure,Mexico,2010,18.64
+484,GDP,Mexico,2010,5.16
+484,Government Expenditure,Mexico,2011,18.42
+484,GDP,Mexico,2011,5.11
+484,Government Expenditure,Mexico,2015,19.02
+484,GDP,Mexico,2015,5.24
+583,Government Expenditure,Micronesia (Fed. States of),2000,9.97
+583,GDP,Micronesia (Fed. States of),2000,6.71
+583,Government Expenditure,Micronesia (Fed. States of),2015,22.31
+583,GDP,Micronesia (Fed. States of),2015,12.46
+492,GDP,Monaco,2004,1.24
+492,GDP,Monaco,2010,1.32
+492,GDP,Monaco,2016,1.37
+496,Government Expenditure,Mongolia,2000,16.07
+496,GDP,Mongolia,2000,5.55
+496,Government Expenditure,Mongolia,2002,20.31
+496,GDP,Mongolia,2002,7.21
+496,Government Expenditure,Mongolia,2004,13.57
+496,GDP,Mongolia,2004,4.33
+496,Government Expenditure,Mongolia,2010,14.71
+496,GDP,Mongolia,2010,4.65
+496,Government Expenditure,Mongolia,2017,13.49
+496,GDP,Mongolia,2017,4.07
+500,GDP,Montserrat,2001,4.79
+500,GDP,Montserrat,2004,3.84
+500,GDP,Montserrat,2009,5.13
+504,Government Expenditure,Morocco,2008,17.47
+504,GDP,Morocco,2008,5.34
+504,Government Expenditure,Morocco,2009,17.3
+504,GDP,Morocco,2009,5.26
+508,Government Expenditure,Mozambique,2005,22.72
+508,GDP,Mozambique,2005,4.43
 508,Government Expenditure,Mozambique,2006,18.55
-508,GDP,Mozambique,2006,4.2743
-508,Government Expenditure,Mozambique,2013,18.9781
-508,GDP,Mozambique,2013,6.4801
-104,Government Expenditure,Myanmar,2017,10.1523
-104,GDP,Myanmar,2017,2.1657
-104,Government Expenditure,Myanmar,2018,9.4112
-516,Government Expenditure,Namibia,2000,21.9251
-516,GDP,Namibia,2000,6.9914
-516,Government Expenditure,Namibia,2003,20.3282
-516,GDP,Namibia,2003,6.1151
-516,Government Expenditure,Namibia,2008,24.8616
-516,GDP,Namibia,2008,6.484
-516,Government Expenditure,Namibia,2010,26.1235
-516,GDP,Namibia,2010,8.3496
-516,Government Expenditure,Namibia,2014,7.6415
-516,GDP,Namibia,2014,3.1032
-524,Government Expenditure,Nepal,2003,21.3127
-524,GDP,Nepal,2003,3.1144
-524,Government Expenditure,Nepal,2005,22.2942
-524,GDP,Nepal,2005,3.3646
-524,Government Expenditure,Nepal,2010,16.0324
-524,GDP,Nepal,2010,3.6317
-524,Government Expenditure,Nepal,2015,16.9897
-524,GDP,Nepal,2015,3.7036
-524,Government Expenditure,Nepal,2017,15.7465
-524,GDP,Nepal,2017,5.0956
-528,Government Expenditure,Netherlands,2005,12.4389
-528,GDP,Netherlands,2005,5.1588
-528,Government Expenditure,Netherlands,2010,11.7416
-528,GDP,Netherlands,2010,5.5558
-528,Government Expenditure,Netherlands,2015,12.2539
-528,GDP,Netherlands,2015,5.3994
-554,Government Expenditure,New Zealand,2005,16.2749
-554,GDP,New Zealand,2005,6.279
-554,Government Expenditure,New Zealand,2010,15.7159
-554,GDP,New Zealand,2010,7.0024
-554,Government Expenditure,New Zealand,2016,16.5748
-554,GDP,New Zealand,2016,6.3037
-558,GDP,Nicaragua,2002,2.391
-558,GDP,Nicaragua,2003,2.422
-558,GDP,Nicaragua,2010,4.4842
-558,GDP,Nicaragua,2017,4.3488
-562,Government Expenditure,Niger,2003,13.8455
-562,GDP,Niger,2003,2.4016
-562,Government Expenditure,Niger,2010,18.104
-562,GDP,Niger,2010,3.7334
-562,Government Expenditure,Niger,2017,13.2502
-562,GDP,Niger,2017,3.5427
-807,Government Expenditure,North Macedonia,2002,8.6409
-807,GDP,North Macedonia,2002,3.3002
-578,Government Expenditure,Norway,2005,16.5484
-578,GDP,Norway,2005,6.8687
-578,Government Expenditure,Norway,2010,15.2273
-578,GDP,Norway,2010,6.7405
-578,Government Expenditure,Norway,2015,15.7281
-578,GDP,Norway,2015,7.5525
-512,Government Expenditure,Oman,2002,11.0625
-512,GDP,Oman,2002,4.3251
-512,Government Expenditure,Oman,2005,10.0536
-512,GDP,Oman,2005,3.5172
-512,Government Expenditure,Oman,2009,10.9492
-512,GDP,Oman,2009,4.1878
-512,Government Expenditure,Oman,2017,15.3437
-512,GDP,Oman,2017,6.6739
-586,Government Expenditure,Pakistan,2005,13.7775
-586,GDP,Pakistan,2005,2.2544
-586,Government Expenditure,Pakistan,2007,15.4455
-586,GDP,Pakistan,2007,2.6353
-586,Government Expenditure,Pakistan,2010,11.8647
-586,GDP,Pakistan,2010,2.2869
-586,Government Expenditure,Pakistan,2016,12.6032
-586,GDP,Pakistan,2016,2.4918
-586,Government Expenditure,Pakistan,2017,13.8473
-586,GDP,Pakistan,2017,2.7605
-585,Government Expenditure,Palau,2001,15.3079
-585,GDP,Palau,2001,7.7799
-585,Government Expenditure,Palau,2002,15.5377
-585,GDP,Palau,2002,7.5789
-591,Government Expenditure,Panama,2002,16.9575
-591,GDP,Panama,2002,4.1916
-591,Government Expenditure,Panama,2004,14.5683
-591,GDP,Panama,2004,3.5787
-591,Government Expenditure,Panama,2008,14.8898
-591,GDP,Panama,2008,3.5023
-591,Government Expenditure,Panama,2011,13.0197
-591,GDP,Panama,2011,3.159
-600,GDP,Paraguay,2004,3.4381
-600,GDP,Paraguay,2010,3.7677
-600,GDP,Paraguay,2016,4.5204
-604,Government Expenditure,Peru,2005,14.2785
-604,GDP,Peru,2005,2.839
-604,Government Expenditure,Peru,2010,13.5556
-604,GDP,Peru,2010,2.8673
-604,Government Expenditure,Peru,2017,18.2358
-604,GDP,Peru,2017,3.924
-608,Government Expenditure,Philippines,2005,12.4224
-608,GDP,Philippines,2005,2.4263
-608,Government Expenditure,Philippines,2009,13.2112
-608,GDP,Philippines,2009,2.653
-616,Government Expenditure,Poland,2005,12.2223
-616,GDP,Poland,2005,5.4261
-616,Government Expenditure,Poland,2010,11.0646
-616,GDP,Poland,2010,5.0684
-616,Government Expenditure,Poland,2015,11.5827
-616,GDP,Poland,2015,4.8145
-620,Government Expenditure,Portugal,2005,10.8581
-620,GDP,Portugal,2005,5.0708
-620,Government Expenditure,Portugal,2010,10.4266
-620,GDP,Portugal,2010,5.4029
-620,Government Expenditure,Portugal,2015,10.152
-620,GDP,Portugal,2015,4.8829
-630,GDP,Puerto Rico,2014,6.0727
-634,Government Expenditure,Qatar,2005,13.7448
-634,GDP,Qatar,2005,3.9719
-634,Government Expenditure,Qatar,2009,14.8357
-634,GDP,Qatar,2009,3.4132
-634,Government Expenditure,Qatar,2010,13.8173
-634,GDP,Qatar,2010,4.5397
-634,Government Expenditure,Qatar,2017,8.8824
-634,GDP,Qatar,2017,2.8523
-410,GDP,Republic of Korea,2005,3.9014
-410,GDP,Republic of Korea,2009,4.6698
-410,GDP,Republic of Korea,2015,5.2527
-498,Government Expenditure,Republic of Moldova,2005,19.2967
-498,GDP,Republic of Moldova,2005,7.1627
-498,Government Expenditure,Republic of Moldova,2010,22.267
-498,GDP,Republic of Moldova,2010,9.1121
-498,Government Expenditure,Republic of Moldova,2017,18.3323
-498,GDP,Republic of Moldova,2017,6.6838
-642,Government Expenditure,Romania,2005,10.8367
-642,GDP,Romania,2005,3.4567
-642,Government Expenditure,Romania,2010,9.1291
-642,GDP,Romania,2010,3.4863
-642,Government Expenditure,Romania,2015,9.0762
-642,GDP,Romania,2015,3.1065
-643,Government Expenditure,Russian Federation,2005,11.9506
-643,GDP,Russian Federation,2005,3.7719
-643,Government Expenditure,Russian Federation,2008,11.9592
-643,GDP,Russian Federation,2008,4.1018
-643,Government Expenditure,Russian Federation,2015,10.8695
-643,GDP,Russian Federation,2015,3.8203
-646,Government Expenditure,Rwanda,2000,18.8353
-646,GDP,Rwanda,2000,4.0951
-646,Government Expenditure,Rwanda,2001,25.3131
-646,GDP,Rwanda,2001,5.6661
-646,Government Expenditure,Rwanda,2010,17.5481
-646,GDP,Rwanda,2010,4.8858
-646,Government Expenditure,Rwanda,2015,12.5391
-646,GDP,Rwanda,2015,3.7515
-646,Government Expenditure,Rwanda,2016,12.2784
-646,GDP,Rwanda,2016,3.5398
-646,Government Expenditure,Rwanda,2017,11.0796
-646,GDP,Rwanda,2017,3.2057
-659,Government Expenditure,Saint Kitts and Nevis,2005,11.0562
-659,GDP,Saint Kitts and Nevis,2005,3.8599
-659,Government Expenditure,Saint Kitts and Nevis,2007,13.0518
-659,GDP,Saint Kitts and Nevis,2007,4.2889
-659,Government Expenditure,Saint Kitts and Nevis,2015,8.6355
-659,GDP,Saint Kitts and Nevis,2015,2.7785
-662,Government Expenditure,Saint Lucia,2004,15.041
-662,GDP,Saint Lucia,2004,4.1043
-662,Government Expenditure,Saint Lucia,2005,16.307
-662,GDP,Saint Lucia,2005,5.0605
-662,Government Expenditure,Saint Lucia,2006,19.0114
-662,GDP,Saint Lucia,2006,5.2521
-662,Government Expenditure,Saint Lucia,2010,14.2021
-662,GDP,Saint Lucia,2010,3.8649
-662,Government Expenditure,Saint Lucia,2011,13.8368
-662,GDP,Saint Lucia,2011,3.8603
-662,Government Expenditure,Saint Lucia,2015,16.453
-662,GDP,Saint Lucia,2015,4.3742
-662,Government Expenditure,Saint Lucia,2016,21.9757
-662,GDP,Saint Lucia,2016,5.7102
-670,Government Expenditure,Saint Vincent & Grenadines,2005,22.592
-670,GDP,Saint Vincent & Grenadines,2005,6.3508
-670,Government Expenditure,Saint Vincent & Grenadines,2010,15.4856
-670,GDP,Saint Vincent & Grenadines,2010,5.0852
-670,Government Expenditure,Saint Vincent & Grenadines,2017,18.9783
-670,GDP,Saint Vincent & Grenadines,2017,5.7505
-882,Government Expenditure,Samoa,2001,12.7703
-882,GDP,Samoa,2001,3.8263
-882,Government Expenditure,Samoa,2002,12.7938
-882,GDP,Samoa,2002,3.8414
-882,Government Expenditure,Samoa,2008,16.0642
-882,GDP,Samoa,2008,5.1442
-882,Government Expenditure,Samoa,2016,10.4792
-882,GDP,Samoa,2016,4.0811
-674,Government Expenditure,San Marino,2010,10.7813
-674,GDP,San Marino,2010,2.3098
-674,Government Expenditure,San Marino,2011,10.6404
-674,GDP,San Marino,2011,2.3829
-678,Government Expenditure,Sao Tome and Principe,2005,12.1265
-678,GDP,Sao Tome and Principe,2005,5.2951
-678,Government Expenditure,Sao Tome and Principe,2010,19.3236
-678,GDP,Sao Tome and Principe,2010,9.6515
-678,Government Expenditure,Sao Tome and Principe,2014,12.3226
-678,GDP,Sao Tome and Principe,2014,3.7488
-678,Government Expenditure,Sao Tome and Principe,2017,18.3994
-678,GDP,Sao Tome and Principe,2017,4.8571
-682,Government Expenditure,Saudi Arabia,2005,19.2923
-682,GDP,Saudi Arabia,2005,5.4309
-682,Government Expenditure,Saudi Arabia,2008,19.2574
-682,GDP,Saudi Arabia,2008,5.1378
-686,Government Expenditure,Senegal,2005,21.771
-686,GDP,Senegal,2005,5.137
-686,Government Expenditure,Senegal,2010,24.0464
-686,GDP,Senegal,2010,6.5014
-686,Government Expenditure,Senegal,2016,21.3372
-686,GDP,Senegal,2016,6.6256
-686,Government Expenditure,Senegal,2017,21.5628
-686,GDP,Senegal,2017,6.1956
-688,Government Expenditure,Serbia,2010,10.0982
-688,GDP,Serbia,2010,4.5866
-688,Government Expenditure,Serbia,2015,8.8764
-688,GDP,Serbia,2015,4.0407
-688,Government Expenditure,Serbia,2016,8.693
-688,GDP,Serbia,2016,3.8618
-690,Government Expenditure,Seychelles,2002,9.2202
-690,GDP,Seychelles,2002,5.1933
-690,Government Expenditure,Seychelles,2003,12.0432
-690,GDP,Seychelles,2003,5.3749
-690,Government Expenditure,Seychelles,2006,10.9545
-690,GDP,Seychelles,2006,4.7701
-690,Government Expenditure,Seychelles,2016,11.7234
-690,GDP,Seychelles,2016,4.4183
-694,Government Expenditure,Sierra Leone,2005,15.5066
-694,GDP,Sierra Leone,2005,2.797
-694,Government Expenditure,Sierra Leone,2010,12.8019
-694,GDP,Sierra Leone,2010,2.5886
-694,Government Expenditure,Sierra Leone,2011,12.4115
-694,GDP,Sierra Leone,2011,2.6689
-694,Government Expenditure,Sierra Leone,2014,15.0917
-694,GDP,Sierra Leone,2014,2.6629
-694,Government Expenditure,Sierra Leone,2017,19.9151
-694,GDP,Sierra Leone,2017,4.6367
-702,Government Expenditure,Singapore,2005,19.817
-702,GDP,Singapore,2005,3.2197
-702,Government Expenditure,Singapore,2010,17.1686
-702,GDP,Singapore,2010,3.1084
-702,Government Expenditure,Singapore,2013,19.9587
-702,GDP,Singapore,2013,2.8977
-703,Government Expenditure,Slovakia,2005,9.4661
-703,GDP,Slovakia,2005,3.7652
-703,Government Expenditure,Slovakia,2010,9.7662
-703,GDP,Slovakia,2010,4.1159
-703,Government Expenditure,Slovakia,2015,10.2806
-703,GDP,Slovakia,2015,4.6498
-705,Government Expenditure,Slovenia,2003,13.696
-705,GDP,Slovenia,2003,5.6913
-705,Government Expenditure,Slovenia,2005,13.2906
-705,GDP,Slovenia,2005,5.5824
-705,Government Expenditure,Slovenia,2010,12.0802
-705,GDP,Slovenia,2010,5.5625
-705,Government Expenditure,Slovenia,2015,11.2185
-705,GDP,Slovenia,2015,4.9116
-90,Government Expenditure,Solomon Islands,2010,17.4785
-90,GDP,Solomon Islands,2010,9.8606
-710,Government Expenditure,South Africa,2005,19.925
-710,GDP,South Africa,2005,5.0632
-710,Government Expenditure,South Africa,2006,18.005
-710,GDP,South Africa,2006,5.0726
-710,Government Expenditure,South Africa,2009,18.3063
-710,GDP,South Africa,2009,5.2487
-710,Government Expenditure,South Africa,2010,18.0444
-710,GDP,South Africa,2010,5.7217
-710,Government Expenditure,South Africa,2017,18.7274
-710,GDP,South Africa,2017,6.1254
-728,Government Expenditure,South Sudan,2014,4.1314
+508,GDP,Mozambique,2006,4.27
+508,Government Expenditure,Mozambique,2013,18.98
+508,GDP,Mozambique,2013,6.48
+104,Government Expenditure,Myanmar,2017,10.15
+104,GDP,Myanmar,2017,2.17
+104,Government Expenditure,Myanmar,2018,9.41
+516,Government Expenditure,Namibia,2000,21.93
+516,GDP,Namibia,2000,6.99
+516,Government Expenditure,Namibia,2003,20.33
+516,GDP,Namibia,2003,6.12
+516,Government Expenditure,Namibia,2008,24.86
+516,GDP,Namibia,2008,6.48
+516,Government Expenditure,Namibia,2010,26.12
+516,GDP,Namibia,2010,8.35
+516,Government Expenditure,Namibia,2014,7.64
+516,GDP,Namibia,2014,3.1
+524,Government Expenditure,Nepal,2003,21.31
+524,GDP,Nepal,2003,3.11
+524,Government Expenditure,Nepal,2005,22.29
+524,GDP,Nepal,2005,3.36
+524,Government Expenditure,Nepal,2010,16.03
+524,GDP,Nepal,2010,3.63
+524,Government Expenditure,Nepal,2015,16.99
+524,GDP,Nepal,2015,3.7
+524,Government Expenditure,Nepal,2017,15.75
+524,GDP,Nepal,2017,5.1
+528,Government Expenditure,Netherlands,2005,12.44
+528,GDP,Netherlands,2005,5.16
+528,Government Expenditure,Netherlands,2010,11.74
+528,GDP,Netherlands,2010,5.56
+528,Government Expenditure,Netherlands,2015,12.25
+528,GDP,Netherlands,2015,5.4
+554,Government Expenditure,New Zealand,2005,16.27
+554,GDP,New Zealand,2005,6.28
+554,Government Expenditure,New Zealand,2010,15.72
+554,GDP,New Zealand,2010,7.0
+554,Government Expenditure,New Zealand,2016,16.57
+554,GDP,New Zealand,2016,6.3
+558,GDP,Nicaragua,2002,2.39
+558,GDP,Nicaragua,2003,2.42
+558,GDP,Nicaragua,2010,4.48
+558,GDP,Nicaragua,2017,4.35
+562,Government Expenditure,Niger,2003,13.85
+562,GDP,Niger,2003,2.4
+562,Government Expenditure,Niger,2010,18.1
+562,GDP,Niger,2010,3.73
+562,Government Expenditure,Niger,2017,13.25
+562,GDP,Niger,2017,3.54
+807,Government Expenditure,North Macedonia,2002,8.64
+807,GDP,North Macedonia,2002,3.3
+578,Government Expenditure,Norway,2005,16.55
+578,GDP,Norway,2005,6.87
+578,Government Expenditure,Norway,2010,15.23
+578,GDP,Norway,2010,6.74
+578,Government Expenditure,Norway,2015,15.73
+578,GDP,Norway,2015,7.55
+512,Government Expenditure,Oman,2002,11.06
+512,GDP,Oman,2002,4.33
+512,Government Expenditure,Oman,2005,10.05
+512,GDP,Oman,2005,3.52
+512,Government Expenditure,Oman,2009,10.95
+512,GDP,Oman,2009,4.19
+512,Government Expenditure,Oman,2017,15.34
+512,GDP,Oman,2017,6.67
+586,Government Expenditure,Pakistan,2005,13.78
+586,GDP,Pakistan,2005,2.25
+586,Government Expenditure,Pakistan,2007,15.45
+586,GDP,Pakistan,2007,2.64
+586,Government Expenditure,Pakistan,2010,11.86
+586,GDP,Pakistan,2010,2.29
+586,Government Expenditure,Pakistan,2016,12.6
+586,GDP,Pakistan,2016,2.49
+586,Government Expenditure,Pakistan,2017,13.85
+586,GDP,Pakistan,2017,2.76
+585,Government Expenditure,Palau,2001,15.31
+585,GDP,Palau,2001,7.78
+585,Government Expenditure,Palau,2002,15.54
+585,GDP,Palau,2002,7.58
+591,Government Expenditure,Panama,2002,16.96
+591,GDP,Panama,2002,4.19
+591,Government Expenditure,Panama,2004,14.57
+591,GDP,Panama,2004,3.58
+591,Government Expenditure,Panama,2008,14.89
+591,GDP,Panama,2008,3.5
+591,Government Expenditure,Panama,2011,13.02
+591,GDP,Panama,2011,3.16
+600,GDP,Paraguay,2004,3.44
+600,GDP,Paraguay,2010,3.77
+600,GDP,Paraguay,2016,4.52
+604,Government Expenditure,Peru,2005,14.28
+604,GDP,Peru,2005,2.84
+604,Government Expenditure,Peru,2010,13.56
+604,GDP,Peru,2010,2.87
+604,Government Expenditure,Peru,2017,18.24
+604,GDP,Peru,2017,3.92
+608,Government Expenditure,Philippines,2005,12.42
+608,GDP,Philippines,2005,2.43
+608,Government Expenditure,Philippines,2009,13.21
+608,GDP,Philippines,2009,2.65
+616,Government Expenditure,Poland,2005,12.22
+616,GDP,Poland,2005,5.43
+616,Government Expenditure,Poland,2010,11.06
+616,GDP,Poland,2010,5.07
+616,Government Expenditure,Poland,2015,11.58
+616,GDP,Poland,2015,4.81
+620,Government Expenditure,Portugal,2005,10.86
+620,GDP,Portugal,2005,5.07
+620,Government Expenditure,Portugal,2010,10.43
+620,GDP,Portugal,2010,5.4
+620,Government Expenditure,Portugal,2015,10.15
+620,GDP,Portugal,2015,4.88
+630,GDP,Puerto Rico,2014,6.07
+634,Government Expenditure,Qatar,2005,13.74
+634,GDP,Qatar,2005,3.97
+634,Government Expenditure,Qatar,2009,14.84
+634,GDP,Qatar,2009,3.41
+634,Government Expenditure,Qatar,2010,13.82
+634,GDP,Qatar,2010,4.54
+634,Government Expenditure,Qatar,2017,8.88
+634,GDP,Qatar,2017,2.85
+410,GDP,Republic of Korea,2005,3.9
+410,GDP,Republic of Korea,2009,4.67
+410,GDP,Republic of Korea,2015,5.25
+498,Government Expenditure,Republic of Moldova,2005,19.3
+498,GDP,Republic of Moldova,2005,7.16
+498,Government Expenditure,Republic of Moldova,2010,22.27
+498,GDP,Republic of Moldova,2010,9.11
+498,Government Expenditure,Republic of Moldova,2017,18.33
+498,GDP,Republic of Moldova,2017,6.68
+642,Government Expenditure,Romania,2005,10.84
+642,GDP,Romania,2005,3.46
+642,Government Expenditure,Romania,2010,9.13
+642,GDP,Romania,2010,3.49
+642,Government Expenditure,Romania,2015,9.08
+642,GDP,Romania,2015,3.11
+643,Government Expenditure,Russian Federation,2005,11.95
+643,GDP,Russian Federation,2005,3.77
+643,Government Expenditure,Russian Federation,2008,11.96
+643,GDP,Russian Federation,2008,4.1
+643,Government Expenditure,Russian Federation,2015,10.87
+643,GDP,Russian Federation,2015,3.82
+646,Government Expenditure,Rwanda,2000,18.84
+646,GDP,Rwanda,2000,4.1
+646,Government Expenditure,Rwanda,2001,25.31
+646,GDP,Rwanda,2001,5.67
+646,Government Expenditure,Rwanda,2010,17.55
+646,GDP,Rwanda,2010,4.89
+646,Government Expenditure,Rwanda,2015,12.54
+646,GDP,Rwanda,2015,3.75
+646,Government Expenditure,Rwanda,2016,12.28
+646,GDP,Rwanda,2016,3.54
+646,Government Expenditure,Rwanda,2017,11.08
+646,GDP,Rwanda,2017,3.21
+659,Government Expenditure,Saint Kitts and Nevis,2005,11.06
+659,GDP,Saint Kitts and Nevis,2005,3.86
+659,Government Expenditure,Saint Kitts and Nevis,2007,13.05
+659,GDP,Saint Kitts and Nevis,2007,4.29
+659,Government Expenditure,Saint Kitts and Nevis,2015,8.64
+659,GDP,Saint Kitts and Nevis,2015,2.78
+662,Government Expenditure,Saint Lucia,2004,15.04
+662,GDP,Saint Lucia,2004,4.1
+662,Government Expenditure,Saint Lucia,2005,16.31
+662,GDP,Saint Lucia,2005,5.06
+662,Government Expenditure,Saint Lucia,2006,19.01
+662,GDP,Saint Lucia,2006,5.25
+662,Government Expenditure,Saint Lucia,2010,14.2
+662,GDP,Saint Lucia,2010,3.86
+662,Government Expenditure,Saint Lucia,2011,13.84
+662,GDP,Saint Lucia,2011,3.86
+662,Government Expenditure,Saint Lucia,2015,16.45
+662,GDP,Saint Lucia,2015,4.37
+662,Government Expenditure,Saint Lucia,2016,21.98
+662,GDP,Saint Lucia,2016,5.71
+670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59
+670,GDP,Saint Vincent & Grenadines,2005,6.35
+670,Government Expenditure,Saint Vincent & Grenadines,2010,15.49
+670,GDP,Saint Vincent & Grenadines,2010,5.09
+670,Government Expenditure,Saint Vincent & Grenadines,2017,18.98
+670,GDP,Saint Vincent & Grenadines,2017,5.75
+882,Government Expenditure,Samoa,2001,12.77
+882,GDP,Samoa,2001,3.83
+882,Government Expenditure,Samoa,2002,12.79
+882,GDP,Samoa,2002,3.84
+882,Government Expenditure,Samoa,2008,16.06
+882,GDP,Samoa,2008,5.14
+882,Government Expenditure,Samoa,2016,10.48
+882,GDP,Samoa,2016,4.08
+674,Government Expenditure,San Marino,2010,10.78
+674,GDP,San Marino,2010,2.31
+674,Government Expenditure,San Marino,2011,10.64
+674,GDP,San Marino,2011,2.38
+678,Government Expenditure,Sao Tome and Principe,2005,12.13
+678,GDP,Sao Tome and Principe,2005,5.3
+678,Government Expenditure,Sao Tome and Principe,2010,19.32
+678,GDP,Sao Tome and Principe,2010,9.65
+678,Government Expenditure,Sao Tome and Principe,2014,12.32
+678,GDP,Sao Tome and Principe,2014,3.75
+678,Government Expenditure,Sao Tome and Principe,2017,18.4
+678,GDP,Sao Tome and Principe,2017,4.86
+682,Government Expenditure,Saudi Arabia,2005,19.29
+682,GDP,Saudi Arabia,2005,5.43
+682,Government Expenditure,Saudi Arabia,2008,19.26
+682,GDP,Saudi Arabia,2008,5.14
+686,Government Expenditure,Senegal,2005,21.77
+686,GDP,Senegal,2005,5.14
+686,Government Expenditure,Senegal,2010,24.05
+686,GDP,Senegal,2010,6.5
+686,Government Expenditure,Senegal,2016,21.34
+686,GDP,Senegal,2016,6.63
+686,Government Expenditure,Senegal,2017,21.56
+686,GDP,Senegal,2017,6.2
+688,Government Expenditure,Serbia,2010,10.1
+688,GDP,Serbia,2010,4.59
+688,Government Expenditure,Serbia,2015,8.88
+688,GDP,Serbia,2015,4.04
+688,Government Expenditure,Serbia,2016,8.69
+688,GDP,Serbia,2016,3.86
+690,Government Expenditure,Seychelles,2002,9.22
+690,GDP,Seychelles,2002,5.19
+690,Government Expenditure,Seychelles,2003,12.04
+690,GDP,Seychelles,2003,5.37
+690,Government Expenditure,Seychelles,2006,10.95
+690,GDP,Seychelles,2006,4.77
+690,Government Expenditure,Seychelles,2016,11.72
+690,GDP,Seychelles,2016,4.42
+694,Government Expenditure,Sierra Leone,2005,15.51
+694,GDP,Sierra Leone,2005,2.8
+694,Government Expenditure,Sierra Leone,2010,12.8
+694,GDP,Sierra Leone,2010,2.59
+694,Government Expenditure,Sierra Leone,2011,12.41
+694,GDP,Sierra Leone,2011,2.67
+694,Government Expenditure,Sierra Leone,2014,15.09
+694,GDP,Sierra Leone,2014,2.66
+694,Government Expenditure,Sierra Leone,2017,19.92
+694,GDP,Sierra Leone,2017,4.64
+702,Government Expenditure,Singapore,2005,19.82
+702,GDP,Singapore,2005,3.22
+702,Government Expenditure,Singapore,2010,17.17
+702,GDP,Singapore,2010,3.11
+702,Government Expenditure,Singapore,2013,19.96
+702,GDP,Singapore,2013,2.9
+703,Government Expenditure,Slovakia,2005,9.47
+703,GDP,Slovakia,2005,3.77
+703,Government Expenditure,Slovakia,2010,9.77
+703,GDP,Slovakia,2010,4.12
+703,Government Expenditure,Slovakia,2015,10.28
+703,GDP,Slovakia,2015,4.65
+705,Government Expenditure,Slovenia,2003,13.7
+705,GDP,Slovenia,2003,5.69
+705,Government Expenditure,Slovenia,2005,13.29
+705,GDP,Slovenia,2005,5.58
+705,Government Expenditure,Slovenia,2010,12.08
+705,GDP,Slovenia,2010,5.56
+705,Government Expenditure,Slovenia,2015,11.22
+705,GDP,Slovenia,2015,4.91
+90,Government Expenditure,Solomon Islands,2010,17.48
+90,GDP,Solomon Islands,2010,9.86
+710,Government Expenditure,South Africa,2005,19.92
+710,GDP,South Africa,2005,5.06
+710,Government Expenditure,South Africa,2006,18.0
+710,GDP,South Africa,2006,5.07
+710,Government Expenditure,South Africa,2009,18.31
+710,GDP,South Africa,2009,5.25
+710,Government Expenditure,South Africa,2010,18.04
+710,GDP,South Africa,2010,5.72
+710,Government Expenditure,South Africa,2017,18.73
+710,GDP,South Africa,2017,6.13
+728,Government Expenditure,South Sudan,2014,4.13
 728,GDP,South Sudan,2014,1.52
-728,Government Expenditure,South Sudan,2016,0.8457
-728,GDP,South Sudan,2016,1.4969
-728,Government Expenditure,South Sudan,2017,1.0662
-728,GDP,South Sudan,2017,0.9812
-724,Government Expenditure,Spain,2005,10.7791
+728,Government Expenditure,South Sudan,2016,0.85
+728,GDP,South Sudan,2016,1.5
+728,Government Expenditure,South Sudan,2017,1.07
+728,GDP,South Sudan,2017,0.98
+724,Government Expenditure,Spain,2005,10.78
 724,GDP,Spain,2005,4.13
-724,Government Expenditure,Spain,2010,10.5619
-724,GDP,Spain,2010,4.8191
-724,Government Expenditure,Spain,2015,9.771
-724,GDP,Spain,2015,4.277
-144,Government Expenditure,Sri Lanka,2010,8.6057
-144,GDP,Sri Lanka,2010,1.7177
-144,Government Expenditure,Sri Lanka,2017,14.4998
-144,GDP,Sri Lanka,2017,2.8074
-275,GDP,State of Palestine,2010,6.7255
-275,GDP,State of Palestine,2017,5.2523
-729,Government Expenditure,Sudan,2005,5.9668
-729,GDP,Sudan,2005,1.5631
-729,Government Expenditure,Sudan,2009,10.7818
-729,GDP,Sudan,2009,2.2187
-752,Government Expenditure,Sweden,2005,12.7627
-752,GDP,Sweden,2005,6.5595
-752,Government Expenditure,Sweden,2010,13.3062
-752,GDP,Sweden,2010,6.622
-752,Government Expenditure,Sweden,2015,15.5033
-752,GDP,Sweden,2015,7.5513
-756,Government Expenditure,Switzerland,2005,15.8207
-756,GDP,Switzerland,2005,5.2041
-756,Government Expenditure,Switzerland,2010,15.3909
-756,GDP,Switzerland,2010,4.9261
-756,Government Expenditure,Switzerland,2015,15.5278
-756,GDP,Switzerland,2015,5.1047
-756,Government Expenditure,Switzerland,2016,15.5267
-756,GDP,Switzerland,2016,5.1243
-760,Government Expenditure,Syrian Arab Republic,2002,16.8261
-760,GDP,Syrian Arab Republic,2002,5.0469
-760,Government Expenditure,Syrian Arab Republic,2004,17.1454
-760,GDP,Syrian Arab Republic,2004,5.3715
-760,Government Expenditure,Syrian Arab Republic,2009,19.1841
-760,GDP,Syrian Arab Republic,2009,5.1301
-762,Government Expenditure,Tajikistan,2005,15.2934
-762,GDP,Tajikistan,2005,3.5122
-762,Government Expenditure,Tajikistan,2010,15.3315
-762,GDP,Tajikistan,2010,4.0068
-762,Government Expenditure,Tajikistan,2015,16.4434
-762,GDP,Tajikistan,2015,5.2322
-764,Government Expenditure,Thailand,2004,21.4577
-764,GDP,Thailand,2004,4.0309
-764,Government Expenditure,Thailand,2005,20.5468
-764,GDP,Thailand,2005,3.9386
-764,Government Expenditure,Thailand,2010,16.2226
-764,GDP,Thailand,2010,3.5084
-764,Government Expenditure,Thailand,2013,19.1259
-764,GDP,Thailand,2013,4.124
-626,Government Expenditure,Timor-Leste,2010,9.1542
-626,GDP,Timor-Leste,2010,2.4496
-626,Government Expenditure,Timor-Leste,2014,6.7729
-626,GDP,Timor-Leste,2014,2.6888
-768,Government Expenditure,Togo,2000,24.4237
-768,GDP,Togo,2000,4.5084
-768,Government Expenditure,Togo,2005,17.6781
-768,GDP,Togo,2005,3.4069
-768,Government Expenditure,Togo,2010,19.6158
-768,GDP,Togo,2010,4.4232
-768,Government Expenditure,Togo,2016,15.9913
-768,GDP,Togo,2016,5.0633
-776,Government Expenditure,Tonga,2004,18.1025
-776,GDP,Tonga,2004,3.908
-780,Government Expenditure,Trinidad and Tobago,2003,13.9101
-780,GDP,Trinidad and Tobago,2003,3.1366
-788,Government Expenditure,Tunisia,2000,24.5918
-788,GDP,Tunisia,2000,6.202
-788,Government Expenditure,Tunisia,2002,22.8801
+724,Government Expenditure,Spain,2010,10.56
+724,GDP,Spain,2010,4.82
+724,Government Expenditure,Spain,2015,9.77
+724,GDP,Spain,2015,4.28
+144,Government Expenditure,Sri Lanka,2010,8.61
+144,GDP,Sri Lanka,2010,1.72
+144,Government Expenditure,Sri Lanka,2017,14.5
+144,GDP,Sri Lanka,2017,2.81
+275,GDP,State of Palestine,2010,6.73
+275,GDP,State of Palestine,2017,5.25
+729,Government Expenditure,Sudan,2005,5.97
+729,GDP,Sudan,2005,1.56
+729,Government Expenditure,Sudan,2009,10.78
+729,GDP,Sudan,2009,2.22
+752,Government Expenditure,Sweden,2005,12.76
+752,GDP,Sweden,2005,6.56
+752,Government Expenditure,Sweden,2010,13.31
+752,GDP,Sweden,2010,6.62
+752,Government Expenditure,Sweden,2015,15.5
+752,GDP,Sweden,2015,7.55
+756,Government Expenditure,Switzerland,2005,15.82
+756,GDP,Switzerland,2005,5.2
+756,Government Expenditure,Switzerland,2010,15.39
+756,GDP,Switzerland,2010,4.93
+756,Government Expenditure,Switzerland,2015,15.53
+756,GDP,Switzerland,2015,5.1
+756,Government Expenditure,Switzerland,2016,15.53
+756,GDP,Switzerland,2016,5.12
+760,Government Expenditure,Syrian Arab Republic,2002,16.83
+760,GDP,Syrian Arab Republic,2002,5.05
+760,Government Expenditure,Syrian Arab Republic,2004,17.15
+760,GDP,Syrian Arab Republic,2004,5.37
+760,Government Expenditure,Syrian Arab Republic,2009,19.18
+760,GDP,Syrian Arab Republic,2009,5.13
+762,Government Expenditure,Tajikistan,2005,15.29
+762,GDP,Tajikistan,2005,3.51
+762,Government Expenditure,Tajikistan,2010,15.33
+762,GDP,Tajikistan,2010,4.01
+762,Government Expenditure,Tajikistan,2015,16.44
+762,GDP,Tajikistan,2015,5.23
+764,Government Expenditure,Thailand,2004,21.46
+764,GDP,Thailand,2004,4.03
+764,Government Expenditure,Thailand,2005,20.55
+764,GDP,Thailand,2005,3.94
+764,Government Expenditure,Thailand,2010,16.22
+764,GDP,Thailand,2010,3.51
+764,Government Expenditure,Thailand,2013,19.13
+764,GDP,Thailand,2013,4.12
+626,Government Expenditure,Timor-Leste,2010,9.15
+626,GDP,Timor-Leste,2010,2.45
+626,Government Expenditure,Timor-Leste,2014,6.77
+626,GDP,Timor-Leste,2014,2.69
+768,Government Expenditure,Togo,2000,24.42
+768,GDP,Togo,2000,4.51
+768,Government Expenditure,Togo,2005,17.68
+768,GDP,Togo,2005,3.41
+768,Government Expenditure,Togo,2010,19.62
+768,GDP,Togo,2010,4.42
+768,Government Expenditure,Togo,2016,15.99
+768,GDP,Togo,2016,5.06
+776,Government Expenditure,Tonga,2004,18.1
+776,GDP,Tonga,2004,3.91
+780,Government Expenditure,Trinidad and Tobago,2003,13.91
+780,GDP,Trinidad and Tobago,2003,3.14
+788,Government Expenditure,Tunisia,2000,24.59
+788,GDP,Tunisia,2000,6.2
+788,Government Expenditure,Tunisia,2002,22.88
 788,GDP,Tunisia,2002,5.79
-788,Government Expenditure,Tunisia,2005,26.6957
-788,GDP,Tunisia,2005,6.4516
-788,Government Expenditure,Tunisia,2008,25.2587
-788,GDP,Tunisia,2008,6.2722
-788,Government Expenditure,Tunisia,2010,24.8468
-788,GDP,Tunisia,2010,6.2548
-788,Government Expenditure,Tunisia,2015,22.8985
-788,GDP,Tunisia,2015,6.5986
-792,Government Expenditure,Turkey,2004,8.6517
-792,GDP,Turkey,2004,3.0202
-792,Government Expenditure,Turkey,2006,7.9674
-792,GDP,Turkey,2006,2.7506
-792,Government Expenditure,Turkey,2015,12.839
-792,GDP,Turkey,2015,4.2919
-795,Government Expenditure,Turkmenistan,2012,20.7955
-795,GDP,Turkmenistan,2012,3.0493
-796,GDP,Turks and Caicos Islands,2002,5.0691
-796,GDP,Turks and Caicos Islands,2003,4.7288
-796,GDP,Turks and Caicos Islands,2005,2.541
-796,GDP,Turks and Caicos Islands,2015,3.2653
-800,Government Expenditure,Uganda,2004,20.3083
-800,GDP,Uganda,2004,4.9524
-800,Government Expenditure,Uganda,2010,10.1049
-800,GDP,Uganda,2010,2.389
-800,Government Expenditure,Uganda,2014,10.876
-800,GDP,Uganda,2014,2.2507
-800,Government Expenditure,Uganda,2017,12.0089
-800,GDP,Uganda,2017,2.641
-804,Government Expenditure,Ukraine,2000,11.359
-804,GDP,Ukraine,2000,4.1662
-804,Government Expenditure,Ukraine,2005,13.7387
-804,GDP,Ukraine,2005,6.0585
-804,Government Expenditure,Ukraine,2009,15.0548
-804,GDP,Ukraine,2009,7.3109
-804,Government Expenditure,Ukraine,2016,12.3531
-804,GDP,Ukraine,2016,5.0144
-826,Government Expenditure,United Kingdom,2005,13.1742
-826,GDP,United Kingdom,2005,4.977
-826,Government Expenditure,United Kingdom,2010,13.026
-826,GDP,United Kingdom,2010,5.7705
-826,Government Expenditure,United Kingdom,2016,13.917
-826,GDP,United Kingdom,2016,5.5418
-834,Government Expenditure,United Rep. of Tanzania,2005,18.1431
-834,GDP,United Rep. of Tanzania,2005,4.6108
-834,Government Expenditure,United Rep. of Tanzania,2009,17.4109
-834,GDP,United Rep. of Tanzania,2009,4.0437
-834,Government Expenditure,United Rep. of Tanzania,2010,19.648
-834,GDP,United Rep. of Tanzania,2010,4.6224
-834,Government Expenditure,United Rep. of Tanzania,2014,17.2971
-834,GDP,United Rep. of Tanzania,2014,3.4814
-840,Government Expenditure,United States of America,2010,13.1507
+788,Government Expenditure,Tunisia,2005,26.7
+788,GDP,Tunisia,2005,6.45
+788,Government Expenditure,Tunisia,2008,25.26
+788,GDP,Tunisia,2008,6.27
+788,Government Expenditure,Tunisia,2010,24.85
+788,GDP,Tunisia,2010,6.25
+788,Government Expenditure,Tunisia,2015,22.9
+788,GDP,Tunisia,2015,6.6
+792,Government Expenditure,Turkey,2004,8.65
+792,GDP,Turkey,2004,3.02
+792,Government Expenditure,Turkey,2006,7.97
+792,GDP,Turkey,2006,2.75
+792,Government Expenditure,Turkey,2015,12.84
+792,GDP,Turkey,2015,4.29
+795,Government Expenditure,Turkmenistan,2012,20.8
+795,GDP,Turkmenistan,2012,3.05
+796,GDP,Turks and Caicos Islands,2002,5.07
+796,GDP,Turks and Caicos Islands,2003,4.73
+796,GDP,Turks and Caicos Islands,2005,2.54
+796,GDP,Turks and Caicos Islands,2015,3.27
+800,Government Expenditure,Uganda,2004,20.31
+800,GDP,Uganda,2004,4.95
+800,Government Expenditure,Uganda,2010,10.1
+800,GDP,Uganda,2010,2.39
+800,Government Expenditure,Uganda,2014,10.88
+800,GDP,Uganda,2014,2.25
+800,Government Expenditure,Uganda,2017,12.01
+800,GDP,Uganda,2017,2.64
+804,Government Expenditure,Ukraine,2000,11.36
+804,GDP,Ukraine,2000,4.17
+804,Government Expenditure,Ukraine,2005,13.74
+804,GDP,Ukraine,2005,6.06
+804,Government Expenditure,Ukraine,2009,15.05
+804,GDP,Ukraine,2009,7.31
+804,Government Expenditure,Ukraine,2016,12.35
+804,GDP,Ukraine,2016,5.01
+826,Government Expenditure,United Kingdom,2005,13.17
+826,GDP,United Kingdom,2005,4.98
+826,Government Expenditure,United Kingdom,2010,13.03
+826,GDP,United Kingdom,2010,5.77
+826,Government Expenditure,United Kingdom,2016,13.92
+826,GDP,United Kingdom,2016,5.54
+834,Government Expenditure,United Rep. of Tanzania,2005,18.14
+834,GDP,United Rep. of Tanzania,2005,4.61
+834,Government Expenditure,United Rep. of Tanzania,2009,17.41
+834,GDP,United Rep. of Tanzania,2009,4.04
+834,Government Expenditure,United Rep. of Tanzania,2010,19.65
+834,GDP,United Rep. of Tanzania,2010,4.62
+834,Government Expenditure,United Rep. of Tanzania,2014,17.3
+834,GDP,United Rep. of Tanzania,2014,3.48
+840,Government Expenditure,United States of America,2010,13.15
 840,GDP,United States of America,2010,5.42
-840,Government Expenditure,United States of America,2014,13.5948
-840,GDP,United States of America,2014,4.9895
-858,Government Expenditure,Uruguay,2005,9.4367
-858,GDP,Uruguay,2005,2.7148
-858,Government Expenditure,Uruguay,2006,9.8755
-858,GDP,Uruguay,2006,2.8803
-858,Government Expenditure,Uruguay,2011,14.9261
-858,GDP,Uruguay,2011,4.3553
-860,Government Expenditure,Uzbekistan,2017,19.9572
-860,GDP,Uzbekistan,2017,6.4134
-548,Government Expenditure,Vanuatu,2001,40.0776
-548,GDP,Vanuatu,2001,8.9512
-548,Government Expenditure,Vanuatu,2003,44.8018
-548,GDP,Vanuatu,2003,8.4417
-548,Government Expenditure,Vanuatu,2008,21.4056
-548,GDP,Vanuatu,2008,5.783
-548,Government Expenditure,Vanuatu,2009,18.7232
-548,GDP,Vanuatu,2009,5.013
-548,Government Expenditure,Vanuatu,2017,11.7827
-548,GDP,Vanuatu,2017,4.6954
-862,GDP,Venezuela (Boliv. Rep. of),2009,6.8747
-704,Government Expenditure,Viet Nam,2010,17.1145
-704,GDP,Viet Nam,2010,5.1372
-704,Government Expenditure,Viet Nam,2013,18.5155
-704,GDP,Viet Nam,2013,5.652
-887,Government Expenditure,Yemen,2001,30.3213
-887,GDP,Yemen,2001,9.2447
-887,Government Expenditure,Yemen,2008,12.4892
-887,GDP,Yemen,2008,5.1514
-894,Government Expenditure,Zambia,2004,10.585
-894,GDP,Zambia,2004,2.4634
-894,Government Expenditure,Zambia,2005,7.7297
-894,GDP,Zambia,2005,1.7355
-894,Government Expenditure,Zambia,2008,5.6518
-894,GDP,Zambia,2008,1.0997
-716,Government Expenditure,Zimbabwe,2010,8.7209
-716,GDP,Zimbabwe,2010,1.8333
-716,Government Expenditure,Zimbabwe,2014,30.0076
-716,GDP,Zimbabwe,2014,7.5307
+840,Government Expenditure,United States of America,2014,13.59
+840,GDP,United States of America,2014,4.99
+858,Government Expenditure,Uruguay,2005,9.44
+858,GDP,Uruguay,2005,2.71
+858,Government Expenditure,Uruguay,2006,9.88
+858,GDP,Uruguay,2006,2.88
+858,Government Expenditure,Uruguay,2011,14.93
+858,GDP,Uruguay,2011,4.36
+860,Government Expenditure,Uzbekistan,2017,19.96
+860,GDP,Uzbekistan,2017,6.41
+548,Government Expenditure,Vanuatu,2001,40.08
+548,GDP,Vanuatu,2001,8.95
+548,Government Expenditure,Vanuatu,2003,44.8
+548,GDP,Vanuatu,2003,8.44
+548,Government Expenditure,Vanuatu,2008,21.41
+548,GDP,Vanuatu,2008,5.78
+548,Government Expenditure,Vanuatu,2009,18.72
+548,GDP,Vanuatu,2009,5.01
+548,Government Expenditure,Vanuatu,2017,11.78
+548,GDP,Vanuatu,2017,4.7
+862,GDP,Venezuela (Boliv. Rep. of),2009,6.87
+704,Government Expenditure,Viet Nam,2010,17.11
+704,GDP,Viet Nam,2010,5.14
+704,Government Expenditure,Viet Nam,2013,18.52
+704,GDP,Viet Nam,2013,5.65
+887,Government Expenditure,Yemen,2001,30.32
+887,GDP,Yemen,2001,9.24
+887,Government Expenditure,Yemen,2008,12.49
+887,GDP,Yemen,2008,5.15
+894,Government Expenditure,Zambia,2004,10.58
+894,GDP,Zambia,2004,2.46
+894,Government Expenditure,Zambia,2005,7.73
+894,GDP,Zambia,2005,1.74
+894,Government Expenditure,Zambia,2008,5.65
+894,GDP,Zambia,2008,1.1
+716,Government Expenditure,Zimbabwe,2010,8.72
+716,GDP,Zimbabwe,2010,1.83
+716,Government Expenditure,Zimbabwe,2014,30.01
+716,GDP,Zimbabwe,2014,7.53
