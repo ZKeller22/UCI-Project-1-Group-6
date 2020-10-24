@@ -1,0 +1,1652 @@
+Country ID,Series,Country Name,Year,GDP
+2,GDP real rates of growth (percent),Africa,1985,3.6
+2,GDP real rates of growth (percent),Africa,1995,3.2
+2,GDP real rates of growth (percent),Africa,2005,6.0
+2,GDP real rates of growth (percent),Africa,2010,5.3
+2,GDP real rates of growth (percent),Africa,2015,2.7
+2,GDP real rates of growth (percent),Africa,2016,1.7
+2,GDP real rates of growth (percent),Africa,2017,2.9
+15,GDP real rates of growth (percent),Northern Africa,1985,5.8
+15,GDP real rates of growth (percent),Northern Africa,1995,1.7
+15,GDP real rates of growth (percent),Northern Africa,2005,5.7
+15,GDP real rates of growth (percent),Northern Africa,2010,4.6
+15,GDP real rates of growth (percent),Northern Africa,2015,2.6
+15,GDP real rates of growth (percent),Northern Africa,2016,3.2
+15,GDP real rates of growth (percent),Northern Africa,2017,4.1
+202,GDP real rates of growth (percent),Sub-Saharan Africa,1985,2.6
+202,GDP real rates of growth (percent),Sub-Saharan Africa,1995,3.9
+202,GDP real rates of growth (percent),Sub-Saharan Africa,2005,6.1
+202,GDP real rates of growth (percent),Sub-Saharan Africa,2010,5.7
+202,GDP real rates of growth (percent),Sub-Saharan Africa,2015,2.8
+202,GDP real rates of growth (percent),Sub-Saharan Africa,2016,1.1
+202,GDP real rates of growth (percent),Sub-Saharan Africa,2017,2.4
+14,GDP real rates of growth (percent),Eastern Africa,1985,2.2
+14,GDP real rates of growth (percent),Eastern Africa,1995,4.6
+14,GDP real rates of growth (percent),Eastern Africa,2005,6.4
+14,GDP real rates of growth (percent),Eastern Africa,2010,7.2
+14,GDP real rates of growth (percent),Eastern Africa,2015,5.9
+14,GDP real rates of growth (percent),Eastern Africa,2016,4.9
+14,GDP real rates of growth (percent),Eastern Africa,2017,5.6
+17,GDP real rates of growth (percent),Middle Africa,1985,1.6
+17,GDP real rates of growth (percent),Middle Africa,1995,6.6
+17,GDP real rates of growth (percent),Middle Africa,2005,8.7
+17,GDP real rates of growth (percent),Middle Africa,2010,4.9
+17,GDP real rates of growth (percent),Middle Africa,2015,1.0
+17,GDP real rates of growth (percent),Middle Africa,2016,-0.9
+17,GDP real rates of growth (percent),Middle Africa,2017,-0.5
+18,GDP real rates of growth (percent),Southern Africa,1985,-1.0
+18,GDP real rates of growth (percent),Southern Africa,1995,3.3
+18,GDP real rates of growth (percent),Southern Africa,2005,5.2
+18,GDP real rates of growth (percent),Southern Africa,2010,3.3
+18,GDP real rates of growth (percent),Southern Africa,2015,1.3
+18,GDP real rates of growth (percent),Southern Africa,2016,0.7
+18,GDP real rates of growth (percent),Southern Africa,2017,1.3
+11,GDP real rates of growth (percent),Western Africa,1985,8.9
+11,GDP real rates of growth (percent),Western Africa,1995,3.3
+11,GDP real rates of growth (percent),Western Africa,2005,6.0
+11,GDP real rates of growth (percent),Western Africa,2010,7.3
+11,GDP real rates of growth (percent),Western Africa,2015,3.1
+11,GDP real rates of growth (percent),Western Africa,2016,0.5
+11,GDP real rates of growth (percent),Western Africa,2017,2.7
+19,GDP real rates of growth (percent),Americas,1985,4.1
+19,GDP real rates of growth (percent),Americas,1995,2.4
+19,GDP real rates of growth (percent),Americas,2005,3.7
+19,GDP real rates of growth (percent),Americas,2010,3.4
+19,GDP real rates of growth (percent),Americas,2015,1.9
+19,GDP real rates of growth (percent),Americas,2016,0.8
+19,GDP real rates of growth (percent),Americas,2017,1.9
+21,GDP real rates of growth (percent),Northern America,1985,4.2
+21,GDP real rates of growth (percent),Northern America,1995,2.7
+21,GDP real rates of growth (percent),Northern America,2005,3.5
+21,GDP real rates of growth (percent),Northern America,2010,2.6
+21,GDP real rates of growth (percent),Northern America,2015,2.7
+21,GDP real rates of growth (percent),Northern America,2016,1.6
+21,GDP real rates of growth (percent),Northern America,2017,2.3
+419,GDP real rates of growth (percent),Latin America & the Caribbean,1985,3.6
+419,GDP real rates of growth (percent),Latin America & the Caribbean,1995,1.5
+419,GDP real rates of growth (percent),Latin America & the Caribbean,2005,4.3
+419,GDP real rates of growth (percent),Latin America & the Caribbean,2010,5.8
+419,GDP real rates of growth (percent),Latin America & the Caribbean,2015,-0.5
+419,GDP real rates of growth (percent),Latin America & the Caribbean,2016,-1.5
+419,GDP real rates of growth (percent),Latin America & the Caribbean,2017,0.8
+29,GDP real rates of growth (percent),Caribbean,1985,0.8
+29,GDP real rates of growth (percent),Caribbean,1995,4.0
+29,GDP real rates of growth (percent),Caribbean,2005,3.4
+29,GDP real rates of growth (percent),Caribbean,2010,1.8
+29,GDP real rates of growth (percent),Caribbean,2015,2.3
+29,GDP real rates of growth (percent),Caribbean,2016,0.9
+29,GDP real rates of growth (percent),Caribbean,2017,0.8
+13,GDP real rates of growth (percent),Central America,1985,2.6
+13,GDP real rates of growth (percent),Central America,1995,-5.2
+13,GDP real rates of growth (percent),Central America,2005,2.5
+13,GDP real rates of growth (percent),Central America,2010,5.0
+13,GDP real rates of growth (percent),Central America,2015,3.4
+13,GDP real rates of growth (percent),Central America,2016,3.0
+13,GDP real rates of growth (percent),Central America,2017,2.3
+5,GDP real rates of growth (percent),South America,1985,4.2
+5,GDP real rates of growth (percent),South America,1995,3.7
+5,GDP real rates of growth (percent),South America,2005,5.0
+5,GDP real rates of growth (percent),South America,2010,6.4
+5,GDP real rates of growth (percent),South America,2015,-1.9
+5,GDP real rates of growth (percent),South America,2016,-3.2
+5,GDP real rates of growth (percent),South America,2017,0.3
+142,GDP real rates of growth (percent),Asia,1985,4.6
+142,GDP real rates of growth (percent),Asia,1995,5.1
+142,GDP real rates of growth (percent),Asia,2005,5.6
+142,GDP real rates of growth (percent),Asia,2010,7.3
+142,GDP real rates of growth (percent),Asia,2015,4.5
+142,GDP real rates of growth (percent),Asia,2016,4.5
+142,GDP real rates of growth (percent),Asia,2017,4.7
+143,GDP real rates of growth (percent),Central Asia,1995,-6.9
+143,GDP real rates of growth (percent),Central Asia,2005,9.2
+143,GDP real rates of growth (percent),Central Asia,2010,7.5
+143,GDP real rates of growth (percent),Central Asia,2015,3.2
+143,GDP real rates of growth (percent),Central Asia,2016,2.9
+143,GDP real rates of growth (percent),Central Asia,2017,4.7
+30,GDP real rates of growth (percent),Eastern Asia,1985,6.2
+30,GDP real rates of growth (percent),Eastern Asia,1995,4.8
+30,GDP real rates of growth (percent),Eastern Asia,2005,5.2
+30,GDP real rates of growth (percent),Eastern Asia,2010,7.5
+30,GDP real rates of growth (percent),Eastern Asia,2015,4.2
+30,GDP real rates of growth (percent),Eastern Asia,2016,4.1
+30,GDP real rates of growth (percent),Eastern Asia,2017,4.7
+35,GDP real rates of growth (percent),South-eastern Asia,1985,0.7
+35,GDP real rates of growth (percent),South-eastern Asia,1995,7.9
+35,GDP real rates of growth (percent),South-eastern Asia,2005,5.7
+35,GDP real rates of growth (percent),South-eastern Asia,2010,7.8
+35,GDP real rates of growth (percent),South-eastern Asia,2015,4.6
+35,GDP real rates of growth (percent),South-eastern Asia,2016,4.6
+35,GDP real rates of growth (percent),South-eastern Asia,2017,5.1
+34,GDP real rates of growth (percent),Southern Asia,1985,4.3
+34,GDP real rates of growth (percent),Southern Asia,1995,6.1
+34,GDP real rates of growth (percent),Southern Asia,2005,6.7
+34,GDP real rates of growth (percent),Southern Asia,2010,7.3
+34,GDP real rates of growth (percent),Southern Asia,2015,6.2
+34,GDP real rates of growth (percent),Southern Asia,2016,7.8
+34,GDP real rates of growth (percent),Southern Asia,2017,6.1
+145,GDP real rates of growth (percent),Western Asia,1985,-0.7
+145,GDP real rates of growth (percent),Western Asia,1995,4.3
+145,GDP real rates of growth (percent),Western Asia,2005,6.9
+145,GDP real rates of growth (percent),Western Asia,2010,5.7
+145,GDP real rates of growth (percent),Western Asia,2015,4.0
+145,GDP real rates of growth (percent),Western Asia,2016,3.0
+145,GDP real rates of growth (percent),Western Asia,2017,2.9
+150,GDP real rates of growth (percent),Europe,1985,2.5
+150,GDP real rates of growth (percent),Europe,1995,2.3
+150,GDP real rates of growth (percent),Europe,2005,2.5
+150,GDP real rates of growth (percent),Europe,2010,2.3
+150,GDP real rates of growth (percent),Europe,2015,1.8
+150,GDP real rates of growth (percent),Europe,2016,1.8
+150,GDP real rates of growth (percent),Europe,2017,2.3
+151,GDP real rates of growth (percent),Eastern Europe,1985,1.6
+151,GDP real rates of growth (percent),Eastern Europe,1995,-1.0
+151,GDP real rates of growth (percent),Eastern Europe,2005,5.6
+151,GDP real rates of growth (percent),Eastern Europe,2010,3.4
+151,GDP real rates of growth (percent),Eastern Europe,2015,-0.3
+151,GDP real rates of growth (percent),Eastern Europe,2016,1.2
+151,GDP real rates of growth (percent),Eastern Europe,2017,3.0
+154,GDP real rates of growth (percent),Northern Europe,1985,4.0
+154,GDP real rates of growth (percent),Northern Europe,1995,4.0
+154,GDP real rates of growth (percent),Northern Europe,2005,3.2
+154,GDP real rates of growth (percent),Northern Europe,2010,2.1
+154,GDP real rates of growth (percent),Northern Europe,2015,3.7
+154,GDP real rates of growth (percent),Northern Europe,2016,2.2
+154,GDP real rates of growth (percent),Northern Europe,2017,2.4
+39,GDP real rates of growth (percent),Southern Europe,1985,2.5
+39,GDP real rates of growth (percent),Southern Europe,1995,3.0
+39,GDP real rates of growth (percent),Southern Europe,2005,1.9
+39,GDP real rates of growth (percent),Southern Europe,2010,0.6
+39,GDP real rates of growth (percent),Southern Europe,2015,1.9
+39,GDP real rates of growth (percent),Southern Europe,2016,1.7
+39,GDP real rates of growth (percent),Southern Europe,2017,2.1
+155,GDP real rates of growth (percent),Western Europe,1985,2.2
+155,GDP real rates of growth (percent),Western Europe,1995,2.0
+155,GDP real rates of growth (percent),Western Europe,2005,1.5
+155,GDP real rates of growth (percent),Western Europe,2010,2.9
+155,GDP real rates of growth (percent),Western Europe,2015,1.6
+155,GDP real rates of growth (percent),Western Europe,2016,1.8
+155,GDP real rates of growth (percent),Western Europe,2017,2.2
+9,GDP real rates of growth (percent),Oceania,1985,3.6
+9,GDP real rates of growth (percent),Oceania,1995,3.9
+9,GDP real rates of growth (percent),Oceania,2005,2.9
+9,GDP real rates of growth (percent),Oceania,2010,2.4
+9,GDP real rates of growth (percent),Oceania,2015,3.0
+9,GDP real rates of growth (percent),Oceania,2016,2.1
+9,GDP real rates of growth (percent),Oceania,2017,2.9
+53,GDP real rates of growth (percent),Australia and New Zealand,1985,3.6
+53,GDP real rates of growth (percent),Australia and New Zealand,1995,4.0
+53,GDP real rates of growth (percent),Australia and New Zealand,2005,2.9
+53,GDP real rates of growth (percent),Australia and New Zealand,2010,2.3
+53,GDP real rates of growth (percent),Australia and New Zealand,2015,3.0
+53,GDP real rates of growth (percent),Australia and New Zealand,2016,2.1
+53,GDP real rates of growth (percent),Australia and New Zealand,2017,2.9
+54,GDP real rates of growth (percent),Melanesia,1985,2.5
+54,GDP real rates of growth (percent),Melanesia,1995,0.8
+54,GDP real rates of growth (percent),Melanesia,2005,3.6
+54,GDP real rates of growth (percent),Melanesia,2010,8.0
+54,GDP real rates of growth (percent),Melanesia,2015,5.3
+54,GDP real rates of growth (percent),Melanesia,2016,0.8
+54,GDP real rates of growth (percent),Melanesia,2017,0.6
+57,GDP real rates of growth (percent),Micronesia,1985,2.4
+57,GDP real rates of growth (percent),Micronesia,1995,3.9
+57,GDP real rates of growth (percent),Micronesia,2005,1.5
+57,GDP real rates of growth (percent),Micronesia,2010,2.8
+57,GDP real rates of growth (percent),Micronesia,2015,5.8
+57,GDP real rates of growth (percent),Micronesia,2016,2.0
+57,GDP real rates of growth (percent),Micronesia,2017,1.4
+61,GDP real rates of growth (percent),Polynesia,1985,5.4
+61,GDP real rates of growth (percent),Polynesia,1995,0.8
+61,GDP real rates of growth (percent),Polynesia,2005,1.6
+61,GDP real rates of growth (percent),Polynesia,2010,-1.6
+61,GDP real rates of growth (percent),Polynesia,2015,1.7
+61,GDP real rates of growth (percent),Polynesia,2016,2.3
+61,GDP real rates of growth (percent),Polynesia,2017,2.1
+4,GDP real rates of growth (percent),Afghanistan,1985,0.3
+4,GDP real rates of growth (percent),Afghanistan,1995,49.9
+4,GDP real rates of growth (percent),Afghanistan,2005,9.9
+4,GDP real rates of growth (percent),Afghanistan,2010,3.2
+4,GDP real rates of growth (percent),Afghanistan,2015,-1.8
+4,GDP real rates of growth (percent),Afghanistan,2016,3.6
+4,GDP real rates of growth (percent),Afghanistan,2017,2.5
+8,GDP real rates of growth (percent),Albania,1985,1.8
+8,GDP real rates of growth (percent),Albania,1995,13.3
+8,GDP real rates of growth (percent),Albania,2005,5.5
+8,GDP real rates of growth (percent),Albania,2010,3.7
+8,GDP real rates of growth (percent),Albania,2015,2.2
+8,GDP real rates of growth (percent),Albania,2016,3.4
+8,GDP real rates of growth (percent),Albania,2017,3.8
+12,GDP real rates of growth (percent),Algeria,1985,3.7
+12,GDP real rates of growth (percent),Algeria,1995,3.8
+12,GDP real rates of growth (percent),Algeria,2005,5.9
+12,GDP real rates of growth (percent),Algeria,2010,3.6
+12,GDP real rates of growth (percent),Algeria,2015,3.7
+12,GDP real rates of growth (percent),Algeria,2016,3.2
+12,GDP real rates of growth (percent),Algeria,2017,1.4
+20,GDP real rates of growth (percent),Andorra,1985,2.3
+20,GDP real rates of growth (percent),Andorra,1995,2.8
+20,GDP real rates of growth (percent),Andorra,2005,7.4
+20,GDP real rates of growth (percent),Andorra,2010,-5.4
+20,GDP real rates of growth (percent),Andorra,2015,0.8
+20,GDP real rates of growth (percent),Andorra,2016,1.9
+20,GDP real rates of growth (percent),Andorra,2017,1.7
+24,GDP real rates of growth (percent),Angola,1985,3.5
+24,GDP real rates of growth (percent),Angola,1995,15.0
+24,GDP real rates of growth (percent),Angola,2005,15.0
+24,GDP real rates of growth (percent),Angola,2010,4.9
+24,GDP real rates of growth (percent),Angola,2015,0.9
+24,GDP real rates of growth (percent),Angola,2016,-2.6
+24,GDP real rates of growth (percent),Angola,2017,-2.5
+660,GDP real rates of growth (percent),Anguilla,1985,12.9
+660,GDP real rates of growth (percent),Anguilla,1995,-2.3
+660,GDP real rates of growth (percent),Anguilla,2005,13.1
+660,GDP real rates of growth (percent),Anguilla,2010,-4.5
+660,GDP real rates of growth (percent),Anguilla,2015,3.1
+660,GDP real rates of growth (percent),Anguilla,2016,-1.3
+660,GDP real rates of growth (percent),Anguilla,2017,-7.7
+28,GDP real rates of growth (percent),Antigua and Barbuda,1985,7.7
+28,GDP real rates of growth (percent),Antigua and Barbuda,1995,-4.4
+28,GDP real rates of growth (percent),Antigua and Barbuda,2005,6.4
+28,GDP real rates of growth (percent),Antigua and Barbuda,2010,-7.2
+28,GDP real rates of growth (percent),Antigua and Barbuda,2015,4.0
+28,GDP real rates of growth (percent),Antigua and Barbuda,2016,5.6
+28,GDP real rates of growth (percent),Antigua and Barbuda,2017,3.0
+32,GDP real rates of growth (percent),Argentina,1985,-7.0
+32,GDP real rates of growth (percent),Argentina,1995,-2.8
+32,GDP real rates of growth (percent),Argentina,2005,8.9
+32,GDP real rates of growth (percent),Argentina,2010,10.1
+32,GDP real rates of growth (percent),Argentina,2015,2.7
+32,GDP real rates of growth (percent),Argentina,2016,-1.8
+32,GDP real rates of growth (percent),Argentina,2017,2.9
+51,GDP real rates of growth (percent),Armenia,1995,6.9
+51,GDP real rates of growth (percent),Armenia,2005,13.9
+51,GDP real rates of growth (percent),Armenia,2010,2.2
+51,GDP real rates of growth (percent),Armenia,2015,3.2
+51,GDP real rates of growth (percent),Armenia,2016,0.2
+51,GDP real rates of growth (percent),Armenia,2017,7.5
+533,GDP real rates of growth (percent),Aruba,1985,9.1
+533,GDP real rates of growth (percent),Aruba,1995,2.5
+533,GDP real rates of growth (percent),Aruba,2005,1.2
+533,GDP real rates of growth (percent),Aruba,2010,-3.4
+533,GDP real rates of growth (percent),Aruba,2015,-0.5
+533,GDP real rates of growth (percent),Aruba,2016,-0.2
+533,GDP real rates of growth (percent),Aruba,2017,1.3
+36,GDP real rates of growth (percent),Australia,1985,3.9
+36,GDP real rates of growth (percent),Australia,1995,3.9
+36,GDP real rates of growth (percent),Australia,2005,2.8
+36,GDP real rates of growth (percent),Australia,2010,2.5
+36,GDP real rates of growth (percent),Australia,2015,2.8
+36,GDP real rates of growth (percent),Australia,2016,2.0
+36,GDP real rates of growth (percent),Australia,2017,2.9
+40,GDP real rates of growth (percent),Austria,1985,2.5
+40,GDP real rates of growth (percent),Austria,1995,2.7
+40,GDP real rates of growth (percent),Austria,2005,2.2
+40,GDP real rates of growth (percent),Austria,2010,1.8
+40,GDP real rates of growth (percent),Austria,2015,1.1
+40,GDP real rates of growth (percent),Austria,2016,2.0
+40,GDP real rates of growth (percent),Austria,2017,2.6
+31,GDP real rates of growth (percent),Azerbaijan,1995,-11.8
+31,GDP real rates of growth (percent),Azerbaijan,2005,28.0
+31,GDP real rates of growth (percent),Azerbaijan,2010,4.8
+31,GDP real rates of growth (percent),Azerbaijan,2015,1.0
+31,GDP real rates of growth (percent),Azerbaijan,2016,-3.1
+31,GDP real rates of growth (percent),Azerbaijan,2017,0.1
+44,GDP real rates of growth (percent),Bahamas,1985,4.8
+44,GDP real rates of growth (percent),Bahamas,1995,4.4
+44,GDP real rates of growth (percent),Bahamas,2005,3.4
+44,GDP real rates of growth (percent),Bahamas,2010,1.5
+44,GDP real rates of growth (percent),Bahamas,2015,-3.1
+44,GDP real rates of growth (percent),Bahamas,2016,0.2
+44,GDP real rates of growth (percent),Bahamas,2017,1.8
+48,GDP real rates of growth (percent),Bahrain,1985,-16.1
+48,GDP real rates of growth (percent),Bahrain,1995,1.9
+48,GDP real rates of growth (percent),Bahrain,2005,6.8
+48,GDP real rates of growth (percent),Bahrain,2010,4.3
+48,GDP real rates of growth (percent),Bahrain,2015,2.9
+48,GDP real rates of growth (percent),Bahrain,2016,3.5
+48,GDP real rates of growth (percent),Bahrain,2017,3.8
+50,GDP real rates of growth (percent),Bangladesh,1985,3.0
+50,GDP real rates of growth (percent),Bangladesh,1995,4.9
+50,GDP real rates of growth (percent),Bangladesh,2005,6.0
+50,GDP real rates of growth (percent),Bangladesh,2010,5.6
+50,GDP real rates of growth (percent),Bangladesh,2015,6.6
+50,GDP real rates of growth (percent),Bangladesh,2016,7.1
+50,GDP real rates of growth (percent),Bangladesh,2017,7.3
+52,GDP real rates of growth (percent),Barbados,1985,1.1
+52,GDP real rates of growth (percent),Barbados,1995,2.0
+52,GDP real rates of growth (percent),Barbados,2005,4.0
+52,GDP real rates of growth (percent),Barbados,2010,0.3
+52,GDP real rates of growth (percent),Barbados,2015,0.9
+52,GDP real rates of growth (percent),Barbados,2016,1.6
+52,GDP real rates of growth (percent),Barbados,2017,0.9
+112,GDP real rates of growth (percent),Belarus,1995,-10.4
+112,GDP real rates of growth (percent),Belarus,2005,9.4
+112,GDP real rates of growth (percent),Belarus,2010,7.8
+112,GDP real rates of growth (percent),Belarus,2015,-3.8
+112,GDP real rates of growth (percent),Belarus,2016,-2.5
+112,GDP real rates of growth (percent),Belarus,2017,2.4
+56,GDP real rates of growth (percent),Belgium,1985,1.7
+56,GDP real rates of growth (percent),Belgium,1995,2.4
+56,GDP real rates of growth (percent),Belgium,2005,2.1
+56,GDP real rates of growth (percent),Belgium,2010,2.7
+56,GDP real rates of growth (percent),Belgium,2015,1.7
+56,GDP real rates of growth (percent),Belgium,2016,1.5
+56,GDP real rates of growth (percent),Belgium,2017,1.7
+84,GDP real rates of growth (percent),Belize,1985,1.0
+84,GDP real rates of growth (percent),Belize,1995,4.2
+84,GDP real rates of growth (percent),Belize,2005,3.0
+84,GDP real rates of growth (percent),Belize,2010,3.3
+84,GDP real rates of growth (percent),Belize,2015,3.8
+84,GDP real rates of growth (percent),Belize,2016,-0.5
+84,GDP real rates of growth (percent),Belize,2017,0.5
+204,GDP real rates of growth (percent),Benin,1985,7.5
+204,GDP real rates of growth (percent),Benin,1995,10.1
+204,GDP real rates of growth (percent),Benin,2005,1.7
+204,GDP real rates of growth (percent),Benin,2010,2.1
+204,GDP real rates of growth (percent),Benin,2015,6.5
+204,GDP real rates of growth (percent),Benin,2016,5.0
+204,GDP real rates of growth (percent),Benin,2017,5.0
+60,GDP real rates of growth (percent),Bermuda,1985,4.2
+60,GDP real rates of growth (percent),Bermuda,1995,5.4
+60,GDP real rates of growth (percent),Bermuda,2005,1.7
+60,GDP real rates of growth (percent),Bermuda,2010,-2.5
+60,GDP real rates of growth (percent),Bermuda,2015,0.4
+60,GDP real rates of growth (percent),Bermuda,2016,-0.1
+60,GDP real rates of growth (percent),Bermuda,2017,2.5
+64,GDP real rates of growth (percent),Bhutan,1985,5.7
+64,GDP real rates of growth (percent),Bhutan,1995,6.8
+64,GDP real rates of growth (percent),Bhutan,2005,7.1
+64,GDP real rates of growth (percent),Bhutan,2010,11.7
+64,GDP real rates of growth (percent),Bhutan,2015,6.6
+64,GDP real rates of growth (percent),Bhutan,2016,8.0
+64,GDP real rates of growth (percent),Bhutan,2017,6.0
+68,GDP real rates of growth (percent),Bolivia (Plurin. State of),1985,-1.0
+68,GDP real rates of growth (percent),Bolivia (Plurin. State of),1995,4.7
+68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2005,4.4
+68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2010,4.1
+68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2015,4.9
+68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2016,4.3
+68,GDP real rates of growth (percent),Bolivia (Plurin. State of),2017,4.2
+70,GDP real rates of growth (percent),Bosnia and Herzegovina,1995,20.8
+70,GDP real rates of growth (percent),Bosnia and Herzegovina,2005,3.9
+70,GDP real rates of growth (percent),Bosnia and Herzegovina,2010,0.9
+70,GDP real rates of growth (percent),Bosnia and Herzegovina,2015,3.1
+70,GDP real rates of growth (percent),Bosnia and Herzegovina,2016,3.1
+70,GDP real rates of growth (percent),Bosnia and Herzegovina,2017,3.0
+72,GDP real rates of growth (percent),Botswana,1985,9.2
+72,GDP real rates of growth (percent),Botswana,1995,7.0
+72,GDP real rates of growth (percent),Botswana,2005,4.6
+72,GDP real rates of growth (percent),Botswana,2010,8.6
+72,GDP real rates of growth (percent),Botswana,2015,-1.7
+72,GDP real rates of growth (percent),Botswana,2016,4.3
+72,GDP real rates of growth (percent),Botswana,2017,2.4
+76,GDP real rates of growth (percent),Brazil,1985,7.8
+76,GDP real rates of growth (percent),Brazil,1995,4.2
+76,GDP real rates of growth (percent),Brazil,2005,3.2
+76,GDP real rates of growth (percent),Brazil,2010,7.5
+76,GDP real rates of growth (percent),Brazil,2015,-3.8
+76,GDP real rates of growth (percent),Brazil,2016,-3.5
+76,GDP real rates of growth (percent),Brazil,2017,1.0
+92,GDP real rates of growth (percent),British Virgin Islands,1985,1.4
+92,GDP real rates of growth (percent),British Virgin Islands,1995,24.1
+92,GDP real rates of growth (percent),British Virgin Islands,2005,15.5
+92,GDP real rates of growth (percent),British Virgin Islands,2010,-0.1
+92,GDP real rates of growth (percent),British Virgin Islands,2015,0.3
+92,GDP real rates of growth (percent),British Virgin Islands,2016,0.3
+92,GDP real rates of growth (percent),British Virgin Islands,2017,0.5
+96,GDP real rates of growth (percent),Brunei Darussalam,1985,-1.5
+96,GDP real rates of growth (percent),Brunei Darussalam,1995,4.5
+96,GDP real rates of growth (percent),Brunei Darussalam,2005,0.4
+96,GDP real rates of growth (percent),Brunei Darussalam,2010,2.6
+96,GDP real rates of growth (percent),Brunei Darussalam,2015,-0.4
+96,GDP real rates of growth (percent),Brunei Darussalam,2016,-2.5
+96,GDP real rates of growth (percent),Brunei Darussalam,2017,1.3
+100,GDP real rates of growth (percent),Bulgaria,1985,2.7
+100,GDP real rates of growth (percent),Bulgaria,1995,2.9
+100,GDP real rates of growth (percent),Bulgaria,2005,7.1
+100,GDP real rates of growth (percent),Bulgaria,2010,1.3
+100,GDP real rates of growth (percent),Bulgaria,2015,3.5
+100,GDP real rates of growth (percent),Bulgaria,2016,3.9
+100,GDP real rates of growth (percent),Bulgaria,2017,3.8
+854,GDP real rates of growth (percent),Burkina Faso,1985,8.5
+854,GDP real rates of growth (percent),Burkina Faso,1995,5.7
+854,GDP real rates of growth (percent),Burkina Faso,2005,8.7
+854,GDP real rates of growth (percent),Burkina Faso,2010,8.4
+854,GDP real rates of growth (percent),Burkina Faso,2015,3.9
+854,GDP real rates of growth (percent),Burkina Faso,2016,5.9
+854,GDP real rates of growth (percent),Burkina Faso,2017,6.3
+108,GDP real rates of growth (percent),Burundi,1985,11.7
+108,GDP real rates of growth (percent),Burundi,1995,-7.0
+108,GDP real rates of growth (percent),Burundi,2005,0.9
+108,GDP real rates of growth (percent),Burundi,2010,5.1
+108,GDP real rates of growth (percent),Burundi,2015,-0.4
+108,GDP real rates of growth (percent),Burundi,2016,2.8
+108,GDP real rates of growth (percent),Burundi,2017,0.0
+132,GDP real rates of growth (percent),Cabo Verde,1985,8.6
+132,GDP real rates of growth (percent),Cabo Verde,1995,7.5
+132,GDP real rates of growth (percent),Cabo Verde,2005,6.5
+132,GDP real rates of growth (percent),Cabo Verde,2010,1.5
+132,GDP real rates of growth (percent),Cabo Verde,2015,1.0
+132,GDP real rates of growth (percent),Cabo Verde,2016,4.7
+132,GDP real rates of growth (percent),Cabo Verde,2017,4.0
+116,GDP real rates of growth (percent),Cambodia,1985,4.7
+116,GDP real rates of growth (percent),Cambodia,1995,5.9
+116,GDP real rates of growth (percent),Cambodia,2005,13.2
+116,GDP real rates of growth (percent),Cambodia,2010,6.0
+116,GDP real rates of growth (percent),Cambodia,2015,7.0
+116,GDP real rates of growth (percent),Cambodia,2016,6.9
+116,GDP real rates of growth (percent),Cambodia,2017,7.0
+120,GDP real rates of growth (percent),Cameroon,1985,2.4
+120,GDP real rates of growth (percent),Cameroon,1995,3.5
+120,GDP real rates of growth (percent),Cameroon,2005,2.0
+120,GDP real rates of growth (percent),Cameroon,2010,3.4
+120,GDP real rates of growth (percent),Cameroon,2015,5.7
+120,GDP real rates of growth (percent),Cameroon,2016,4.6
+120,GDP real rates of growth (percent),Cameroon,2017,3.5
+124,GDP real rates of growth (percent),Canada,1985,4.7
+124,GDP real rates of growth (percent),Canada,1995,2.7
+124,GDP real rates of growth (percent),Canada,2005,3.2
+124,GDP real rates of growth (percent),Canada,2010,3.1
+124,GDP real rates of growth (percent),Canada,2015,1.0
+124,GDP real rates of growth (percent),Canada,2016,1.4
+124,GDP real rates of growth (percent),Canada,2017,3.0
+136,GDP real rates of growth (percent),Cayman Islands,1985,3.5
+136,GDP real rates of growth (percent),Cayman Islands,1995,4.8
+136,GDP real rates of growth (percent),Cayman Islands,2005,6.5
+136,GDP real rates of growth (percent),Cayman Islands,2010,-2.7
+136,GDP real rates of growth (percent),Cayman Islands,2015,2.8
+136,GDP real rates of growth (percent),Cayman Islands,2016,3.5
+136,GDP real rates of growth (percent),Cayman Islands,2017,2.3
+140,GDP real rates of growth (percent),Central African Republic,1985,3.3
+140,GDP real rates of growth (percent),Central African Republic,1995,5.2
+140,GDP real rates of growth (percent),Central African Republic,2005,2.4
+140,GDP real rates of growth (percent),Central African Republic,2010,3.6
+140,GDP real rates of growth (percent),Central African Republic,2015,4.8
+140,GDP real rates of growth (percent),Central African Republic,2016,4.5
+140,GDP real rates of growth (percent),Central African Republic,2017,4.3
+148,GDP real rates of growth (percent),Chad,1985,7.9
+148,GDP real rates of growth (percent),Chad,1995,1.4
+148,GDP real rates of growth (percent),Chad,2005,7.9
+148,GDP real rates of growth (percent),Chad,2010,15.0
+148,GDP real rates of growth (percent),Chad,2015,3.8
+148,GDP real rates of growth (percent),Chad,2016,-2.7
+148,GDP real rates of growth (percent),Chad,2017,-3.1
+152,GDP real rates of growth (percent),Chile,1985,2.0
+152,GDP real rates of growth (percent),Chile,1995,10.6
+152,GDP real rates of growth (percent),Chile,2005,6.2
+152,GDP real rates of growth (percent),Chile,2010,5.8
+152,GDP real rates of growth (percent),Chile,2015,2.3
+152,GDP real rates of growth (percent),Chile,2016,1.3
+152,GDP real rates of growth (percent),Chile,2017,1.5
+156,GDP real rates of growth (percent),China,1985,13.4
+156,GDP real rates of growth (percent),China,1995,11.0
+156,GDP real rates of growth (percent),China,2005,11.4
+156,GDP real rates of growth (percent),China,2010,10.6
+156,GDP real rates of growth (percent),China,2015,6.9
+156,GDP real rates of growth (percent),China,2016,6.7
+156,GDP real rates of growth (percent),China,2017,6.9
+344,GDP real rates of growth (percent),"China, Hong Kong SAR",1985,0.8
+344,GDP real rates of growth (percent),"China, Hong Kong SAR",1995,2.4
+344,GDP real rates of growth (percent),"China, Hong Kong SAR",2005,7.4
+344,GDP real rates of growth (percent),"China, Hong Kong SAR",2010,6.8
+344,GDP real rates of growth (percent),"China, Hong Kong SAR",2015,2.4
+344,GDP real rates of growth (percent),"China, Hong Kong SAR",2016,2.1
+344,GDP real rates of growth (percent),"China, Hong Kong SAR",2017,3.8
+446,GDP real rates of growth (percent),"China, Macao SAR",1985,0.7
+446,GDP real rates of growth (percent),"China, Macao SAR",1995,3.3
+446,GDP real rates of growth (percent),"China, Macao SAR",2005,8.1
+446,GDP real rates of growth (percent),"China, Macao SAR",2010,25.3
+446,GDP real rates of growth (percent),"China, Macao SAR",2015,-21.6
+446,GDP real rates of growth (percent),"China, Macao SAR",2016,-0.9
+446,GDP real rates of growth (percent),"China, Macao SAR",2017,9.1
+170,GDP real rates of growth (percent),Colombia,1985,3.1
+170,GDP real rates of growth (percent),Colombia,1995,5.2
+170,GDP real rates of growth (percent),Colombia,2005,4.7
+170,GDP real rates of growth (percent),Colombia,2010,4.0
+170,GDP real rates of growth (percent),Colombia,2015,3.1
+170,GDP real rates of growth (percent),Colombia,2016,2.0
+170,GDP real rates of growth (percent),Colombia,2017,1.8
+174,GDP real rates of growth (percent),Comoros,1985,2.0
+174,GDP real rates of growth (percent),Comoros,1995,3.6
+174,GDP real rates of growth (percent),Comoros,2005,2.8
+174,GDP real rates of growth (percent),Comoros,2010,4.8
+174,GDP real rates of growth (percent),Comoros,2015,2.0
+174,GDP real rates of growth (percent),Comoros,2016,4.1
+174,GDP real rates of growth (percent),Comoros,2017,3.4
+178,GDP real rates of growth (percent),Congo,1985,-1.2
+178,GDP real rates of growth (percent),Congo,1995,4.0
+178,GDP real rates of growth (percent),Congo,2005,7.6
+178,GDP real rates of growth (percent),Congo,2010,15.0
+178,GDP real rates of growth (percent),Congo,2015,-13.2
+178,GDP real rates of growth (percent),Congo,2016,-2.8
+178,GDP real rates of growth (percent),Congo,2017,-3.1
+184,GDP real rates of growth (percent),Cook Islands,1985,8.8
+184,GDP real rates of growth (percent),Cook Islands,1995,-4.4
+184,GDP real rates of growth (percent),Cook Islands,2005,-1.1
+184,GDP real rates of growth (percent),Cook Islands,2010,-3.0
+184,GDP real rates of growth (percent),Cook Islands,2015,3.8
+184,GDP real rates of growth (percent),Cook Islands,2016,5.9
+184,GDP real rates of growth (percent),Cook Islands,2017,1.9
+188,GDP real rates of growth (percent),Costa Rica,1985,0.7
+188,GDP real rates of growth (percent),Costa Rica,1995,4.1
+188,GDP real rates of growth (percent),Costa Rica,2005,3.9
+188,GDP real rates of growth (percent),Costa Rica,2010,5.0
+188,GDP real rates of growth (percent),Costa Rica,2015,3.6
+188,GDP real rates of growth (percent),Costa Rica,2016,4.2
+188,GDP real rates of growth (percent),Costa Rica,2017,3.2
+384,GDP real rates of growth (percent),Côte dIvoire,1985,4.5
+384,GDP real rates of growth (percent),Côte dIvoire,1995,7.1
+384,GDP real rates of growth (percent),Côte dIvoire,2005,1.7
+384,GDP real rates of growth (percent),Côte dIvoire,2010,2.0
+384,GDP real rates of growth (percent),Côte dIvoire,2015,8.8
+384,GDP real rates of growth (percent),Côte dIvoire,2016,8.0
+384,GDP real rates of growth (percent),Côte dIvoire,2017,7.7
+191,GDP real rates of growth (percent),Croatia,1995,6.8
+191,GDP real rates of growth (percent),Croatia,2005,4.1
+191,GDP real rates of growth (percent),Croatia,2010,-1.5
+191,GDP real rates of growth (percent),Croatia,2015,2.4
+191,GDP real rates of growth (percent),Croatia,2016,3.5
+191,GDP real rates of growth (percent),Croatia,2017,2.9
+192,GDP real rates of growth (percent),Cuba,1985,1.6
+192,GDP real rates of growth (percent),Cuba,1995,2.5
+192,GDP real rates of growth (percent),Cuba,2005,11.2
+192,GDP real rates of growth (percent),Cuba,2010,2.4
+192,GDP real rates of growth (percent),Cuba,2015,4.4
+192,GDP real rates of growth (percent),Cuba,2016,0.5
+192,GDP real rates of growth (percent),Cuba,2017,1.8
+531,GDP real rates of growth (percent),Curaçao,2010,0.1
+531,GDP real rates of growth (percent),Curaçao,2015,0.3
+531,GDP real rates of growth (percent),Curaçao,2016,-1.0
+531,GDP real rates of growth (percent),Curaçao,2017,-1.7
+196,GDP real rates of growth (percent),Cyprus,1985,4.7
+196,GDP real rates of growth (percent),Cyprus,1995,9.9
+196,GDP real rates of growth (percent),Cyprus,2005,4.9
+196,GDP real rates of growth (percent),Cyprus,2010,1.3
+196,GDP real rates of growth (percent),Cyprus,2015,2.0
+196,GDP real rates of growth (percent),Cyprus,2016,4.8
+196,GDP real rates of growth (percent),Cyprus,2017,4.2
+203,GDP real rates of growth (percent),Czechia,1995,6.2
+203,GDP real rates of growth (percent),Czechia,2005,6.5
+203,GDP real rates of growth (percent),Czechia,2010,2.3
+203,GDP real rates of growth (percent),Czechia,2015,5.3
+203,GDP real rates of growth (percent),Czechia,2016,2.5
+203,GDP real rates of growth (percent),Czechia,2017,4.3
+408,GDP real rates of growth (percent),Dem. People's Rep. Korea,1985,3.7
+408,GDP real rates of growth (percent),Dem. People's Rep. Korea,1995,-4.4
+408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2005,3.8
+408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2010,-0.5
+408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2015,-1.1
+408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2016,3.9
+408,GDP real rates of growth (percent),Dem. People's Rep. Korea,2017,-3.5
+180,GDP real rates of growth (percent),Dem. Rep. of the Congo,1985,0.5
+180,GDP real rates of growth (percent),Dem. Rep. of the Congo,1995,0.7
+180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2005,6.1
+180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2010,7.1
+180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2015,6.9
+180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2016,2.4
+180,GDP real rates of growth (percent),Dem. Rep. of the Congo,2017,3.7
+208,GDP real rates of growth (percent),Denmark,1985,4.0
+208,GDP real rates of growth (percent),Denmark,1995,3.0
+208,GDP real rates of growth (percent),Denmark,2005,2.3
+208,GDP real rates of growth (percent),Denmark,2010,1.9
+208,GDP real rates of growth (percent),Denmark,2015,2.3
+208,GDP real rates of growth (percent),Denmark,2016,2.4
+208,GDP real rates of growth (percent),Denmark,2017,2.3
+262,GDP real rates of growth (percent),Djibouti,1985,-0.2
+262,GDP real rates of growth (percent),Djibouti,1995,5.6
+262,GDP real rates of growth (percent),Djibouti,2005,3.2
+262,GDP real rates of growth (percent),Djibouti,2010,3.5
+262,GDP real rates of growth (percent),Djibouti,2015,9.7
+262,GDP real rates of growth (percent),Djibouti,2016,8.7
+262,GDP real rates of growth (percent),Djibouti,2017,4.1
+212,GDP real rates of growth (percent),Dominica,1985,1.3
+212,GDP real rates of growth (percent),Dominica,1995,2.0
+212,GDP real rates of growth (percent),Dominica,2005,-0.3
+212,GDP real rates of growth (percent),Dominica,2010,1.2
+212,GDP real rates of growth (percent),Dominica,2015,-2.6
+212,GDP real rates of growth (percent),Dominica,2016,2.5
+212,GDP real rates of growth (percent),Dominica,2017,-9.5
+214,GDP real rates of growth (percent),Dominican Republic,1985,-2.1
+214,GDP real rates of growth (percent),Dominican Republic,1995,5.5
+214,GDP real rates of growth (percent),Dominican Republic,2005,9.3
+214,GDP real rates of growth (percent),Dominican Republic,2010,8.3
+214,GDP real rates of growth (percent),Dominican Republic,2015,7.0
+214,GDP real rates of growth (percent),Dominican Republic,2016,6.6
+214,GDP real rates of growth (percent),Dominican Republic,2017,4.6
+218,GDP real rates of growth (percent),Ecuador,1985,3.9
+218,GDP real rates of growth (percent),Ecuador,1995,2.3
+218,GDP real rates of growth (percent),Ecuador,2005,5.3
+218,GDP real rates of growth (percent),Ecuador,2010,3.5
+218,GDP real rates of growth (percent),Ecuador,2015,0.1
+218,GDP real rates of growth (percent),Ecuador,2016,-1.6
+218,GDP real rates of growth (percent),Ecuador,2017,3.0
+818,GDP real rates of growth (percent),Egypt,1985,6.8
+818,GDP real rates of growth (percent),Egypt,1995,4.6
+818,GDP real rates of growth (percent),Egypt,2005,4.5
+818,GDP real rates of growth (percent),Egypt,2010,5.1
+818,GDP real rates of growth (percent),Egypt,2015,4.4
+818,GDP real rates of growth (percent),Egypt,2016,4.3
+818,GDP real rates of growth (percent),Egypt,2017,4.2
+222,GDP real rates of growth (percent),El Salvador,1985,2.0
+222,GDP real rates of growth (percent),El Salvador,1995,6.4
+222,GDP real rates of growth (percent),El Salvador,2005,3.6
+222,GDP real rates of growth (percent),El Salvador,2010,1.4
+222,GDP real rates of growth (percent),El Salvador,2015,2.4
+222,GDP real rates of growth (percent),El Salvador,2016,2.6
+222,GDP real rates of growth (percent),El Salvador,2017,2.3
+226,GDP real rates of growth (percent),Equatorial Guinea,1985,12.9
+226,GDP real rates of growth (percent),Equatorial Guinea,1995,11.7
+226,GDP real rates of growth (percent),Equatorial Guinea,2005,8.9
+226,GDP real rates of growth (percent),Equatorial Guinea,2010,-8.9
+226,GDP real rates of growth (percent),Equatorial Guinea,2015,-9.1
+226,GDP real rates of growth (percent),Equatorial Guinea,2016,-8.6
+226,GDP real rates of growth (percent),Equatorial Guinea,2017,-3.2
+232,GDP real rates of growth (percent),Eritrea,1995,20.9
+232,GDP real rates of growth (percent),Eritrea,2005,1.5
+232,GDP real rates of growth (percent),Eritrea,2010,2.2
+232,GDP real rates of growth (percent),Eritrea,2015,2.6
+232,GDP real rates of growth (percent),Eritrea,2016,1.9
+232,GDP real rates of growth (percent),Eritrea,2017,5.0
+233,GDP real rates of growth (percent),Estonia,1995,4.3
+233,GDP real rates of growth (percent),Estonia,2005,9.6
+233,GDP real rates of growth (percent),Estonia,2010,2.3
+233,GDP real rates of growth (percent),Estonia,2015,1.7
+233,GDP real rates of growth (percent),Estonia,2016,2.1
+233,GDP real rates of growth (percent),Estonia,2017,4.9
+748,GDP real rates of growth (percent),Eswatini,1985,1.9
+748,GDP real rates of growth (percent),Eswatini,1995,4.8
+748,GDP real rates of growth (percent),Eswatini,2005,6.0
+748,GDP real rates of growth (percent),Eswatini,2010,3.8
+748,GDP real rates of growth (percent),Eswatini,2015,0.4
+748,GDP real rates of growth (percent),Eswatini,2016,1.4
+748,GDP real rates of growth (percent),Eswatini,2017,2.0
+231,GDP real rates of growth (percent),Ethiopia,1995,6.1
+231,GDP real rates of growth (percent),Ethiopia,2005,11.8
+231,GDP real rates of growth (percent),Ethiopia,2010,12.6
+231,GDP real rates of growth (percent),Ethiopia,2015,10.4
+231,GDP real rates of growth (percent),Ethiopia,2016,7.6
+231,GDP real rates of growth (percent),Ethiopia,2017,11.1
+242,GDP real rates of growth (percent),Fiji,1985,-3.9
+242,GDP real rates of growth (percent),Fiji,1995,2.5
+242,GDP real rates of growth (percent),Fiji,2005,0.7
+242,GDP real rates of growth (percent),Fiji,2010,3.0
+242,GDP real rates of growth (percent),Fiji,2015,3.8
+242,GDP real rates of growth (percent),Fiji,2016,0.7
+242,GDP real rates of growth (percent),Fiji,2017,3.0
+246,GDP real rates of growth (percent),Finland,1985,3.5
+246,GDP real rates of growth (percent),Finland,1995,4.2
+246,GDP real rates of growth (percent),Finland,2005,2.8
+246,GDP real rates of growth (percent),Finland,2010,3.0
+246,GDP real rates of growth (percent),Finland,2015,0.1
+246,GDP real rates of growth (percent),Finland,2016,2.5
+246,GDP real rates of growth (percent),Finland,2017,2.8
+250,GDP real rates of growth (percent),France,1985,1.6
+250,GDP real rates of growth (percent),France,1995,2.1
+250,GDP real rates of growth (percent),France,2005,1.7
+250,GDP real rates of growth (percent),France,2010,1.9
+250,GDP real rates of growth (percent),France,2015,1.1
+250,GDP real rates of growth (percent),France,2016,1.2
+250,GDP real rates of growth (percent),France,2017,2.2
+258,GDP real rates of growth (percent),French Polynesia,1985,5.4
+258,GDP real rates of growth (percent),French Polynesia,1995,0.5
+258,GDP real rates of growth (percent),French Polynesia,2005,1.4
+258,GDP real rates of growth (percent),French Polynesia,2010,-2.5
+258,GDP real rates of growth (percent),French Polynesia,2015,1.3
+258,GDP real rates of growth (percent),French Polynesia,2016,1.5
+258,GDP real rates of growth (percent),French Polynesia,2017,2.3
+266,GDP real rates of growth (percent),Gabon,1985,-2.3
+266,GDP real rates of growth (percent),Gabon,1995,5.0
+266,GDP real rates of growth (percent),Gabon,2005,1.1
+266,GDP real rates of growth (percent),Gabon,2010,7.1
+266,GDP real rates of growth (percent),Gabon,2015,3.9
+266,GDP real rates of growth (percent),Gabon,2016,2.1
+266,GDP real rates of growth (percent),Gabon,2017,1.1
+270,GDP real rates of growth (percent),Gambia,1985,3.4
+270,GDP real rates of growth (percent),Gambia,1995,0.9
+270,GDP real rates of growth (percent),Gambia,2005,-0.9
+270,GDP real rates of growth (percent),Gambia,2010,6.5
+270,GDP real rates of growth (percent),Gambia,2015,5.9
+270,GDP real rates of growth (percent),Gambia,2016,0.4
+270,GDP real rates of growth (percent),Gambia,2017,4.6
+268,GDP real rates of growth (percent),Georgia,1995,2.6
+268,GDP real rates of growth (percent),Georgia,2005,9.6
+268,GDP real rates of growth (percent),Georgia,2010,6.2
+268,GDP real rates of growth (percent),Georgia,2015,2.9
+268,GDP real rates of growth (percent),Georgia,2016,2.8
+268,GDP real rates of growth (percent),Georgia,2017,4.8
+276,GDP real rates of growth (percent),Germany,1985,2.3
+276,GDP real rates of growth (percent),Germany,1995,1.7
+276,GDP real rates of growth (percent),Germany,2005,0.7
+276,GDP real rates of growth (percent),Germany,2010,4.1
+276,GDP real rates of growth (percent),Germany,2015,1.7
+276,GDP real rates of growth (percent),Germany,2016,2.2
+276,GDP real rates of growth (percent),Germany,2017,2.2
+288,GDP real rates of growth (percent),Ghana,1985,5.1
+288,GDP real rates of growth (percent),Ghana,1995,4.0
+288,GDP real rates of growth (percent),Ghana,2005,6.2
+288,GDP real rates of growth (percent),Ghana,2010,7.9
+288,GDP real rates of growth (percent),Ghana,2015,2.2
+288,GDP real rates of growth (percent),Ghana,2016,3.4
+288,GDP real rates of growth (percent),Ghana,2017,8.1
+300,GDP real rates of growth (percent),Greece,1985,2.5
+300,GDP real rates of growth (percent),Greece,1995,2.1
+300,GDP real rates of growth (percent),Greece,2005,0.6
+300,GDP real rates of growth (percent),Greece,2010,-5.5
+300,GDP real rates of growth (percent),Greece,2015,-0.4
+300,GDP real rates of growth (percent),Greece,2016,-0.2
+300,GDP real rates of growth (percent),Greece,2017,1.5
+304,GDP real rates of growth (percent),Greenland,1985,3.7
+304,GDP real rates of growth (percent),Greenland,1995,3.7
+304,GDP real rates of growth (percent),Greenland,2005,5.0
+304,GDP real rates of growth (percent),Greenland,2010,1.7
+304,GDP real rates of growth (percent),Greenland,2015,-2.5
+304,GDP real rates of growth (percent),Greenland,2016,6.0
+304,GDP real rates of growth (percent),Greenland,2017,1.0
+308,GDP real rates of growth (percent),Grenada,1985,8.1
+308,GDP real rates of growth (percent),Grenada,1995,2.1
+308,GDP real rates of growth (percent),Grenada,2005,13.3
+308,GDP real rates of growth (percent),Grenada,2010,-0.5
+308,GDP real rates of growth (percent),Grenada,2015,6.4
+308,GDP real rates of growth (percent),Grenada,2016,3.7
+308,GDP real rates of growth (percent),Grenada,2017,5.1
+320,GDP real rates of growth (percent),Guatemala,1985,-0.6
+320,GDP real rates of growth (percent),Guatemala,1995,5.0
+320,GDP real rates of growth (percent),Guatemala,2005,3.3
+320,GDP real rates of growth (percent),Guatemala,2010,2.9
+320,GDP real rates of growth (percent),Guatemala,2015,4.1
+320,GDP real rates of growth (percent),Guatemala,2016,3.1
+320,GDP real rates of growth (percent),Guatemala,2017,2.8
+324,GDP real rates of growth (percent),Guinea,1985,5.0
+324,GDP real rates of growth (percent),Guinea,1995,4.7
+324,GDP real rates of growth (percent),Guinea,2005,3.0
+324,GDP real rates of growth (percent),Guinea,2010,4.8
+324,GDP real rates of growth (percent),Guinea,2015,3.8
+324,GDP real rates of growth (percent),Guinea,2016,10.5
+324,GDP real rates of growth (percent),Guinea,2017,8.2
+624,GDP real rates of growth (percent),Guinea-Bissau,1985,4.3
+624,GDP real rates of growth (percent),Guinea-Bissau,1995,4.0
+624,GDP real rates of growth (percent),Guinea-Bissau,2005,4.3
+624,GDP real rates of growth (percent),Guinea-Bissau,2010,4.6
+624,GDP real rates of growth (percent),Guinea-Bissau,2015,6.1
+624,GDP real rates of growth (percent),Guinea-Bissau,2016,6.3
+624,GDP real rates of growth (percent),Guinea-Bissau,2017,5.9
+328,GDP real rates of growth (percent),Guyana,1985,2.4
+328,GDP real rates of growth (percent),Guyana,1995,5.0
+328,GDP real rates of growth (percent),Guyana,2005,-2.0
+328,GDP real rates of growth (percent),Guyana,2010,4.1
+328,GDP real rates of growth (percent),Guyana,2015,3.1
+328,GDP real rates of growth (percent),Guyana,2016,3.4
+328,GDP real rates of growth (percent),Guyana,2017,2.2
+332,GDP real rates of growth (percent),Haiti,1985,0.6
+332,GDP real rates of growth (percent),Haiti,1995,9.9
+332,GDP real rates of growth (percent),Haiti,2005,1.8
+332,GDP real rates of growth (percent),Haiti,2010,-5.5
+332,GDP real rates of growth (percent),Haiti,2015,1.2
+332,GDP real rates of growth (percent),Haiti,2016,1.5
+332,GDP real rates of growth (percent),Haiti,2017,1.2
+340,GDP real rates of growth (percent),Honduras,1985,4.2
+340,GDP real rates of growth (percent),Honduras,1995,4.1
+340,GDP real rates of growth (percent),Honduras,2005,6.1
+340,GDP real rates of growth (percent),Honduras,2010,3.7
+340,GDP real rates of growth (percent),Honduras,2015,3.8
+340,GDP real rates of growth (percent),Honduras,2016,3.8
+340,GDP real rates of growth (percent),Honduras,2017,4.8
+348,GDP real rates of growth (percent),Hungary,1985,-0.3
+348,GDP real rates of growth (percent),Hungary,1995,1.5
+348,GDP real rates of growth (percent),Hungary,2005,4.4
+348,GDP real rates of growth (percent),Hungary,2010,0.7
+348,GDP real rates of growth (percent),Hungary,2015,3.5
+348,GDP real rates of growth (percent),Hungary,2016,2.3
+348,GDP real rates of growth (percent),Hungary,2017,4.1
+352,GDP real rates of growth (percent),Iceland,1985,3.3
+352,GDP real rates of growth (percent),Iceland,1995,0.1
+352,GDP real rates of growth (percent),Iceland,2005,6.3
+352,GDP real rates of growth (percent),Iceland,2010,-3.4
+352,GDP real rates of growth (percent),Iceland,2015,4.5
+352,GDP real rates of growth (percent),Iceland,2016,7.4
+352,GDP real rates of growth (percent),Iceland,2017,4.0
+356,GDP real rates of growth (percent),India,1985,5.5
+356,GDP real rates of growth (percent),India,1995,7.6
+356,GDP real rates of growth (percent),India,2005,7.9
+356,GDP real rates of growth (percent),India,2010,8.5
+356,GDP real rates of growth (percent),India,2015,8.2
+356,GDP real rates of growth (percent),India,2016,7.1
+356,GDP real rates of growth (percent),India,2017,6.7
+360,GDP real rates of growth (percent),Indonesia,1985,2.5
+360,GDP real rates of growth (percent),Indonesia,1995,8.2
+360,GDP real rates of growth (percent),Indonesia,2005,5.7
+360,GDP real rates of growth (percent),Indonesia,2010,6.2
+360,GDP real rates of growth (percent),Indonesia,2015,4.9
+360,GDP real rates of growth (percent),Indonesia,2016,5.0
+360,GDP real rates of growth (percent),Indonesia,2017,5.1
+364,GDP real rates of growth (percent),Iran (Islamic Republic of),1985,1.9
+364,GDP real rates of growth (percent),Iran (Islamic Republic of),1995,2.4
+364,GDP real rates of growth (percent),Iran (Islamic Republic of),2005,3.2
+364,GDP real rates of growth (percent),Iran (Islamic Republic of),2010,5.8
+364,GDP real rates of growth (percent),Iran (Islamic Republic of),2015,-1.3
+364,GDP real rates of growth (percent),Iran (Islamic Republic of),2016,13.4
+364,GDP real rates of growth (percent),Iran (Islamic Republic of),2017,3.8
+368,GDP real rates of growth (percent),Iraq,1985,0.0
+368,GDP real rates of growth (percent),Iraq,1995,-18.3
+368,GDP real rates of growth (percent),Iraq,2005,4.4
+368,GDP real rates of growth (percent),Iraq,2010,5.5
+368,GDP real rates of growth (percent),Iraq,2015,3.8
+368,GDP real rates of growth (percent),Iraq,2016,9.6
+368,GDP real rates of growth (percent),Iraq,2017,1.0
+372,GDP real rates of growth (percent),Ireland,1985,3.1
+372,GDP real rates of growth (percent),Ireland,1995,9.6
+372,GDP real rates of growth (percent),Ireland,2005,6.0
+372,GDP real rates of growth (percent),Ireland,2010,1.8
+372,GDP real rates of growth (percent),Ireland,2015,25.8
+372,GDP real rates of growth (percent),Ireland,2016,5.0
+372,GDP real rates of growth (percent),Ireland,2017,7.8
+376,GDP real rates of growth (percent),Israel,1985,4.0
+376,GDP real rates of growth (percent),Israel,1995,8.7
+376,GDP real rates of growth (percent),Israel,2005,4.1
+376,GDP real rates of growth (percent),Israel,2010,5.5
+376,GDP real rates of growth (percent),Israel,2015,2.6
+376,GDP real rates of growth (percent),Israel,2016,4.0
+376,GDP real rates of growth (percent),Israel,2017,3.5
+380,GDP real rates of growth (percent),Italy,1985,2.8
+380,GDP real rates of growth (percent),Italy,1995,2.9
+380,GDP real rates of growth (percent),Italy,2005,0.9
+380,GDP real rates of growth (percent),Italy,2010,1.7
+380,GDP real rates of growth (percent),Italy,2015,0.9
+380,GDP real rates of growth (percent),Italy,2016,1.1
+380,GDP real rates of growth (percent),Italy,2017,1.6
+388,GDP real rates of growth (percent),Jamaica,1985,-4.6
+388,GDP real rates of growth (percent),Jamaica,1995,1.0
+388,GDP real rates of growth (percent),Jamaica,2005,0.9
+388,GDP real rates of growth (percent),Jamaica,2010,-1.5
+388,GDP real rates of growth (percent),Jamaica,2015,0.9
+388,GDP real rates of growth (percent),Jamaica,2016,1.4
+388,GDP real rates of growth (percent),Jamaica,2017,1.0
+392,GDP real rates of growth (percent),Japan,1985,5.2
+392,GDP real rates of growth (percent),Japan,1995,2.7
+392,GDP real rates of growth (percent),Japan,2005,1.7
+392,GDP real rates of growth (percent),Japan,2010,4.2
+392,GDP real rates of growth (percent),Japan,2015,1.4
+392,GDP real rates of growth (percent),Japan,2016,0.9
+392,GDP real rates of growth (percent),Japan,2017,1.7
+400,GDP real rates of growth (percent),Jordan,1985,-2.7
+400,GDP real rates of growth (percent),Jordan,1995,6.2
+400,GDP real rates of growth (percent),Jordan,2005,8.1
+400,GDP real rates of growth (percent),Jordan,2010,2.7
+400,GDP real rates of growth (percent),Jordan,2015,2.6
+400,GDP real rates of growth (percent),Jordan,2016,2.1
+400,GDP real rates of growth (percent),Jordan,2017,2.1
+398,GDP real rates of growth (percent),Kazakhstan,1995,-8.2
+398,GDP real rates of growth (percent),Kazakhstan,2005,9.7
+398,GDP real rates of growth (percent),Kazakhstan,2010,7.3
+398,GDP real rates of growth (percent),Kazakhstan,2015,1.2
+398,GDP real rates of growth (percent),Kazakhstan,2016,1.1
+398,GDP real rates of growth (percent),Kazakhstan,2017,4.0
+404,GDP real rates of growth (percent),Kenya,1985,4.3
+404,GDP real rates of growth (percent),Kenya,1995,4.4
+404,GDP real rates of growth (percent),Kenya,2005,5.9
+404,GDP real rates of growth (percent),Kenya,2010,8.4
+404,GDP real rates of growth (percent),Kenya,2015,5.7
+404,GDP real rates of growth (percent),Kenya,2016,5.9
+404,GDP real rates of growth (percent),Kenya,2017,4.9
+296,GDP real rates of growth (percent),Kiribati,1985,-4.6
+296,GDP real rates of growth (percent),Kiribati,1995,-0.6
+296,GDP real rates of growth (percent),Kiribati,2005,5.0
+296,GDP real rates of growth (percent),Kiribati,2010,-0.9
+296,GDP real rates of growth (percent),Kiribati,2015,10.3
+296,GDP real rates of growth (percent),Kiribati,2016,1.1
+296,GDP real rates of growth (percent),Kiribati,2017,3.1
+412,GDP real rates of growth (percent),Kosovo,1995,8.1
+412,GDP real rates of growth (percent),Kosovo,2005,3.9
+412,GDP real rates of growth (percent),Kosovo,2010,3.3
+412,GDP real rates of growth (percent),Kosovo,2015,4.1
+412,GDP real rates of growth (percent),Kosovo,2016,4.1
+412,GDP real rates of growth (percent),Kosovo,2017,4.2
+414,GDP real rates of growth (percent),Kuwait,1985,-4.3
+414,GDP real rates of growth (percent),Kuwait,1995,1.4
+414,GDP real rates of growth (percent),Kuwait,2005,10.6
+414,GDP real rates of growth (percent),Kuwait,2010,-2.4
+414,GDP real rates of growth (percent),Kuwait,2015,0.6
+414,GDP real rates of growth (percent),Kuwait,2016,2.9
+414,GDP real rates of growth (percent),Kuwait,2017,-3.5
+417,GDP real rates of growth (percent),Kyrgyzstan,1995,-5.4
+417,GDP real rates of growth (percent),Kyrgyzstan,2005,-0.2
+417,GDP real rates of growth (percent),Kyrgyzstan,2010,-0.5
+417,GDP real rates of growth (percent),Kyrgyzstan,2015,3.9
+417,GDP real rates of growth (percent),Kyrgyzstan,2016,4.3
+417,GDP real rates of growth (percent),Kyrgyzstan,2017,4.6
+418,GDP real rates of growth (percent),Lao People's Dem. Rep.,1985,5.1
+418,GDP real rates of growth (percent),Lao People's Dem. Rep.,1995,7.5
+418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2005,6.8
+418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2010,8.1
+418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2015,7.3
+418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2016,7.0
+418,GDP real rates of growth (percent),Lao People's Dem. Rep.,2017,6.9
+428,GDP real rates of growth (percent),Latvia,1995,-1.1
+428,GDP real rates of growth (percent),Latvia,2005,10.7
+428,GDP real rates of growth (percent),Latvia,2010,-3.9
+428,GDP real rates of growth (percent),Latvia,2015,3.0
+428,GDP real rates of growth (percent),Latvia,2016,2.1
+428,GDP real rates of growth (percent),Latvia,2017,4.6
+422,GDP real rates of growth (percent),Lebanon,1985,24.3
+422,GDP real rates of growth (percent),Lebanon,1995,6.5
+422,GDP real rates of growth (percent),Lebanon,2005,2.7
+422,GDP real rates of growth (percent),Lebanon,2010,8.0
+422,GDP real rates of growth (percent),Lebanon,2015,0.4
+422,GDP real rates of growth (percent),Lebanon,2016,1.6
+422,GDP real rates of growth (percent),Lebanon,2017,0.6
+426,GDP real rates of growth (percent),Lesotho,1985,9.4
+426,GDP real rates of growth (percent),Lesotho,1995,4.6
+426,GDP real rates of growth (percent),Lesotho,2005,2.7
+426,GDP real rates of growth (percent),Lesotho,2010,6.1
+426,GDP real rates of growth (percent),Lesotho,2015,2.5
+426,GDP real rates of growth (percent),Lesotho,2016,2.4
+426,GDP real rates of growth (percent),Lesotho,2017,-1.6
+430,GDP real rates of growth (percent),Liberia,1985,-2.0
+430,GDP real rates of growth (percent),Liberia,1995,-4.3
+430,GDP real rates of growth (percent),Liberia,2005,5.3
+430,GDP real rates of growth (percent),Liberia,2010,7.3
+430,GDP real rates of growth (percent),Liberia,2015,9.3
+430,GDP real rates of growth (percent),Liberia,2016,-0.5
+430,GDP real rates of growth (percent),Liberia,2017,2.5
+434,GDP real rates of growth (percent),Libya,1985,8.3
+434,GDP real rates of growth (percent),Libya,1995,-2.2
+434,GDP real rates of growth (percent),Libya,2005,10.3
+434,GDP real rates of growth (percent),Libya,2010,4.3
+434,GDP real rates of growth (percent),Libya,2015,-45.5
+434,GDP real rates of growth (percent),Libya,2016,-16.1
+434,GDP real rates of growth (percent),Libya,2017,64.0
+438,GDP real rates of growth (percent),Liechtenstein,1985,7.0
+438,GDP real rates of growth (percent),Liechtenstein,1995,1.9
+438,GDP real rates of growth (percent),Liechtenstein,2005,4.8
+438,GDP real rates of growth (percent),Liechtenstein,2010,7.4
+438,GDP real rates of growth (percent),Liechtenstein,2015,0.0
+438,GDP real rates of growth (percent),Liechtenstein,2016,2.0
+438,GDP real rates of growth (percent),Liechtenstein,2017,0.7
+440,GDP real rates of growth (percent),Lithuania,1995,3.3
+440,GDP real rates of growth (percent),Lithuania,2005,7.7
+440,GDP real rates of growth (percent),Lithuania,2010,1.6
+440,GDP real rates of growth (percent),Lithuania,2015,2.0
+440,GDP real rates of growth (percent),Lithuania,2016,2.4
+440,GDP real rates of growth (percent),Lithuania,2017,4.1
+442,GDP real rates of growth (percent),Luxembourg,1985,2.8
+442,GDP real rates of growth (percent),Luxembourg,1995,1.4
+442,GDP real rates of growth (percent),Luxembourg,2005,3.2
+442,GDP real rates of growth (percent),Luxembourg,2010,4.9
+442,GDP real rates of growth (percent),Luxembourg,2015,3.9
+442,GDP real rates of growth (percent),Luxembourg,2016,2.4
+442,GDP real rates of growth (percent),Luxembourg,2017,1.5
+450,GDP real rates of growth (percent),Madagascar,1985,1.2
+450,GDP real rates of growth (percent),Madagascar,1995,1.7
+450,GDP real rates of growth (percent),Madagascar,2005,4.6
+450,GDP real rates of growth (percent),Madagascar,2010,0.7
+450,GDP real rates of growth (percent),Madagascar,2015,3.5
+450,GDP real rates of growth (percent),Madagascar,2016,4.0
+450,GDP real rates of growth (percent),Madagascar,2017,1.2
+454,GDP real rates of growth (percent),Malawi,1985,4.7
+454,GDP real rates of growth (percent),Malawi,1995,9.0
+454,GDP real rates of growth (percent),Malawi,2005,3.3
+454,GDP real rates of growth (percent),Malawi,2010,5.5
+454,GDP real rates of growth (percent),Malawi,2015,3.3
+454,GDP real rates of growth (percent),Malawi,2016,2.7
+454,GDP real rates of growth (percent),Malawi,2017,5.1
+458,GDP real rates of growth (percent),Malaysia,1985,-1.1
+458,GDP real rates of growth (percent),Malaysia,1995,9.8
+458,GDP real rates of growth (percent),Malaysia,2005,5.3
+458,GDP real rates of growth (percent),Malaysia,2010,7.4
+458,GDP real rates of growth (percent),Malaysia,2015,5.1
+458,GDP real rates of growth (percent),Malaysia,2016,4.2
+458,GDP real rates of growth (percent),Malaysia,2017,5.9
+462,GDP real rates of growth (percent),Maldives,1985,13.0
+462,GDP real rates of growth (percent),Maldives,1995,7.1
+462,GDP real rates of growth (percent),Maldives,2005,-13.1
+462,GDP real rates of growth (percent),Maldives,2010,7.3
+462,GDP real rates of growth (percent),Maldives,2015,2.9
+462,GDP real rates of growth (percent),Maldives,2016,7.3
+462,GDP real rates of growth (percent),Maldives,2017,6.9
+466,GDP real rates of growth (percent),Mali,1985,8.5
+466,GDP real rates of growth (percent),Mali,1995,37.2
+466,GDP real rates of growth (percent),Mali,2005,10.4
+466,GDP real rates of growth (percent),Mali,2010,10.9
+466,GDP real rates of growth (percent),Mali,2015,7.6
+466,GDP real rates of growth (percent),Mali,2016,8.8
+466,GDP real rates of growth (percent),Mali,2017,6.9
+470,GDP real rates of growth (percent),Malta,1985,2.6
+470,GDP real rates of growth (percent),Malta,1995,6.3
+470,GDP real rates of growth (percent),Malta,2005,3.8
+470,GDP real rates of growth (percent),Malta,2010,3.5
+470,GDP real rates of growth (percent),Malta,2015,9.5
+470,GDP real rates of growth (percent),Malta,2016,5.2
+470,GDP real rates of growth (percent),Malta,2017,6.7
+584,GDP real rates of growth (percent),Marshall Islands,1985,-6.3
+584,GDP real rates of growth (percent),Marshall Islands,1995,8.2
+584,GDP real rates of growth (percent),Marshall Islands,2005,2.9
+584,GDP real rates of growth (percent),Marshall Islands,2010,6.4
+584,GDP real rates of growth (percent),Marshall Islands,2015,0.6
+584,GDP real rates of growth (percent),Marshall Islands,2016,0.9
+584,GDP real rates of growth (percent),Marshall Islands,2017,2.5
+478,GDP real rates of growth (percent),Mauritania,1985,3.4
+478,GDP real rates of growth (percent),Mauritania,1995,-2.4
+478,GDP real rates of growth (percent),Mauritania,2005,9.0
+478,GDP real rates of growth (percent),Mauritania,2010,4.8
+478,GDP real rates of growth (percent),Mauritania,2015,0.9
+478,GDP real rates of growth (percent),Mauritania,2016,1.7
+478,GDP real rates of growth (percent),Mauritania,2017,3.5
+480,GDP real rates of growth (percent),Mauritius,1985,6.9
+480,GDP real rates of growth (percent),Mauritius,1995,4.4
+480,GDP real rates of growth (percent),Mauritius,2005,1.8
+480,GDP real rates of growth (percent),Mauritius,2010,4.4
+480,GDP real rates of growth (percent),Mauritius,2015,3.6
+480,GDP real rates of growth (percent),Mauritius,2016,3.8
+480,GDP real rates of growth (percent),Mauritius,2017,3.9
+484,GDP real rates of growth (percent),Mexico,1985,2.8
+484,GDP real rates of growth (percent),Mexico,1995,-6.3
+484,GDP real rates of growth (percent),Mexico,2005,2.3
+484,GDP real rates of growth (percent),Mexico,2010,5.1
+484,GDP real rates of growth (percent),Mexico,2015,3.3
+484,GDP real rates of growth (percent),Mexico,2016,2.9
+484,GDP real rates of growth (percent),Mexico,2017,2.1
+583,GDP real rates of growth (percent),Micronesia (Fed. States of),1985,16.6
+583,GDP real rates of growth (percent),Micronesia (Fed. States of),1995,4.2
+583,GDP real rates of growth (percent),Micronesia (Fed. States of),2005,2.1
+583,GDP real rates of growth (percent),Micronesia (Fed. States of),2010,2.0
+583,GDP real rates of growth (percent),Micronesia (Fed. States of),2015,4.9
+583,GDP real rates of growth (percent),Micronesia (Fed. States of),2016,-0.1
+583,GDP real rates of growth (percent),Micronesia (Fed. States of),2017,2.0
+492,GDP real rates of growth (percent),Monaco,1985,1.6
+492,GDP real rates of growth (percent),Monaco,1995,2.1
+492,GDP real rates of growth (percent),Monaco,2005,1.6
+492,GDP real rates of growth (percent),Monaco,2010,2.2
+492,GDP real rates of growth (percent),Monaco,2015,4.9
+492,GDP real rates of growth (percent),Monaco,2016,3.2
+492,GDP real rates of growth (percent),Monaco,2017,0.0
+496,GDP real rates of growth (percent),Mongolia,1985,5.7
+496,GDP real rates of growth (percent),Mongolia,1995,6.3
+496,GDP real rates of growth (percent),Mongolia,2005,7.3
+496,GDP real rates of growth (percent),Mongolia,2010,6.4
+496,GDP real rates of growth (percent),Mongolia,2015,2.4
+496,GDP real rates of growth (percent),Mongolia,2016,1.2
+496,GDP real rates of growth (percent),Mongolia,2017,5.1
+499,GDP real rates of growth (percent),Montenegro,1995,14.3
+499,GDP real rates of growth (percent),Montenegro,2005,4.2
+499,GDP real rates of growth (percent),Montenegro,2010,2.7
+499,GDP real rates of growth (percent),Montenegro,2015,3.4
+499,GDP real rates of growth (percent),Montenegro,2016,2.9
+499,GDP real rates of growth (percent),Montenegro,2017,4.7
+500,GDP real rates of growth (percent),Montserrat,1985,5.9
+500,GDP real rates of growth (percent),Montserrat,1995,-8.8
+500,GDP real rates of growth (percent),Montserrat,2005,3.1
+500,GDP real rates of growth (percent),Montserrat,2010,-2.8
+500,GDP real rates of growth (percent),Montserrat,2015,-1.9
+500,GDP real rates of growth (percent),Montserrat,2016,0.5
+500,GDP real rates of growth (percent),Montserrat,2017,-2.8
+504,GDP real rates of growth (percent),Morocco,1985,6.3
+504,GDP real rates of growth (percent),Morocco,1995,-6.6
+504,GDP real rates of growth (percent),Morocco,2005,3.0
+504,GDP real rates of growth (percent),Morocco,2010,4.0
+504,GDP real rates of growth (percent),Morocco,2015,4.9
+504,GDP real rates of growth (percent),Morocco,2016,3.3
+504,GDP real rates of growth (percent),Morocco,2017,5.6
+508,GDP real rates of growth (percent),Mozambique,1985,-8.8
+508,GDP real rates of growth (percent),Mozambique,1995,2.2
+508,GDP real rates of growth (percent),Mozambique,2005,8.7
+508,GDP real rates of growth (percent),Mozambique,2010,6.7
+508,GDP real rates of growth (percent),Mozambique,2015,6.6
+508,GDP real rates of growth (percent),Mozambique,2016,3.8
+508,GDP real rates of growth (percent),Mozambique,2017,3.7
+104,GDP real rates of growth (percent),Myanmar,1985,2.9
+104,GDP real rates of growth (percent),Myanmar,1995,6.9
+104,GDP real rates of growth (percent),Myanmar,2005,13.6
+104,GDP real rates of growth (percent),Myanmar,2010,10.2
+104,GDP real rates of growth (percent),Myanmar,2015,7.0
+104,GDP real rates of growth (percent),Myanmar,2016,5.9
+104,GDP real rates of growth (percent),Myanmar,2017,6.8
+516,GDP real rates of growth (percent),Namibia,1985,0.5
+516,GDP real rates of growth (percent),Namibia,1995,3.9
+516,GDP real rates of growth (percent),Namibia,2005,2.5
+516,GDP real rates of growth (percent),Namibia,2010,6.0
+516,GDP real rates of growth (percent),Namibia,2015,6.1
+516,GDP real rates of growth (percent),Namibia,2016,0.7
+516,GDP real rates of growth (percent),Namibia,2017,-0.8
+520,GDP real rates of growth (percent),Nauru,1985,-2.8
+520,GDP real rates of growth (percent),Nauru,1995,-7.9
+520,GDP real rates of growth (percent),Nauru,2005,-12.1
+520,GDP real rates of growth (percent),Nauru,2010,20.1
+520,GDP real rates of growth (percent),Nauru,2015,2.8
+520,GDP real rates of growth (percent),Nauru,2016,10.4
+520,GDP real rates of growth (percent),Nauru,2017,4.0
+524,GDP real rates of growth (percent),Nepal,1985,6.1
+524,GDP real rates of growth (percent),Nepal,1995,3.5
+524,GDP real rates of growth (percent),Nepal,2005,3.5
+524,GDP real rates of growth (percent),Nepal,2010,4.8
+524,GDP real rates of growth (percent),Nepal,2015,3.3
+524,GDP real rates of growth (percent),Nepal,2016,0.4
+524,GDP real rates of growth (percent),Nepal,2017,7.5
+528,GDP real rates of growth (percent),Netherlands,1985,2.6
+528,GDP real rates of growth (percent),Netherlands,1995,3.1
+528,GDP real rates of growth (percent),Netherlands,2005,2.2
+528,GDP real rates of growth (percent),Netherlands,2010,1.4
+528,GDP real rates of growth (percent),Netherlands,2015,2.3
+528,GDP real rates of growth (percent),Netherlands,2016,2.2
+528,GDP real rates of growth (percent),Netherlands,2017,3.2
+530,GDP real rates of growth (percent),Netherlands Antilles [former],1985,-2.1
+530,GDP real rates of growth (percent),Netherlands Antilles [former],1995,1.6
+530,GDP real rates of growth (percent),Netherlands Antilles [former],2005,1.1
+530,GDP real rates of growth (percent),Netherlands Antilles [former],2010,-0.3
+540,GDP real rates of growth (percent),New Caledonia,1985,4.5
+540,GDP real rates of growth (percent),New Caledonia,1995,5.9
+540,GDP real rates of growth (percent),New Caledonia,2005,3.6
+540,GDP real rates of growth (percent),New Caledonia,2010,6.9
+540,GDP real rates of growth (percent),New Caledonia,2015,3.6
+540,GDP real rates of growth (percent),New Caledonia,2016,3.0
+540,GDP real rates of growth (percent),New Caledonia,2017,2.7
+554,GDP real rates of growth (percent),New Zealand,1985,1.6
+554,GDP real rates of growth (percent),New Zealand,1995,4.6
+554,GDP real rates of growth (percent),New Zealand,2005,3.3
+554,GDP real rates of growth (percent),New Zealand,2010,1.0
+554,GDP real rates of growth (percent),New Zealand,2015,4.5
+554,GDP real rates of growth (percent),New Zealand,2016,3.5
+554,GDP real rates of growth (percent),New Zealand,2017,2.8
+558,GDP real rates of growth (percent),Nicaragua,1985,-4.1
+558,GDP real rates of growth (percent),Nicaragua,1995,5.9
+558,GDP real rates of growth (percent),Nicaragua,2005,4.3
+558,GDP real rates of growth (percent),Nicaragua,2010,4.4
+558,GDP real rates of growth (percent),Nicaragua,2015,4.8
+558,GDP real rates of growth (percent),Nicaragua,2016,4.7
+558,GDP real rates of growth (percent),Nicaragua,2017,4.9
+562,GDP real rates of growth (percent),Niger,1985,7.7
+562,GDP real rates of growth (percent),Niger,1995,3.3
+562,GDP real rates of growth (percent),Niger,2005,7.4
+562,GDP real rates of growth (percent),Niger,2010,8.4
+562,GDP real rates of growth (percent),Niger,2015,4.3
+562,GDP real rates of growth (percent),Niger,2016,4.9
+562,GDP real rates of growth (percent),Niger,2017,4.9
+566,GDP real rates of growth (percent),Nigeria,1985,11.3
+566,GDP real rates of growth (percent),Nigeria,1995,2.1
+566,GDP real rates of growth (percent),Nigeria,2005,6.5
+566,GDP real rates of growth (percent),Nigeria,2010,7.8
+566,GDP real rates of growth (percent),Nigeria,2015,2.7
+566,GDP real rates of growth (percent),Nigeria,2016,-1.6
+566,GDP real rates of growth (percent),Nigeria,2017,0.8
+807,GDP real rates of growth (percent),North Macedonia,1995,-1.1
+807,GDP real rates of growth (percent),North Macedonia,2005,4.7
+807,GDP real rates of growth (percent),North Macedonia,2010,3.4
+807,GDP real rates of growth (percent),North Macedonia,2015,3.9
+807,GDP real rates of growth (percent),North Macedonia,2016,2.8
+807,GDP real rates of growth (percent),North Macedonia,2017,0.2
+578,GDP real rates of growth (percent),Norway,1985,5.6
+578,GDP real rates of growth (percent),Norway,1995,4.2
+578,GDP real rates of growth (percent),Norway,2005,2.6
+578,GDP real rates of growth (percent),Norway,2010,0.7
+578,GDP real rates of growth (percent),Norway,2015,2.0
+578,GDP real rates of growth (percent),Norway,2016,1.2
+578,GDP real rates of growth (percent),Norway,2017,2.0
+512,GDP real rates of growth (percent),Oman,1985,14.5
+512,GDP real rates of growth (percent),Oman,1995,4.8
+512,GDP real rates of growth (percent),Oman,2005,2.5
+512,GDP real rates of growth (percent),Oman,2010,2.0
+512,GDP real rates of growth (percent),Oman,2015,4.7
+512,GDP real rates of growth (percent),Oman,2016,5.0
+512,GDP real rates of growth (percent),Oman,2017,-0.9
+586,GDP real rates of growth (percent),Pakistan,1985,7.6
+586,GDP real rates of growth (percent),Pakistan,1995,5.0
+586,GDP real rates of growth (percent),Pakistan,2005,7.7
+586,GDP real rates of growth (percent),Pakistan,2010,1.6
+586,GDP real rates of growth (percent),Pakistan,2015,4.7
+586,GDP real rates of growth (percent),Pakistan,2016,5.5
+586,GDP real rates of growth (percent),Pakistan,2017,5.7
+585,GDP real rates of growth (percent),Palau,1985,5.4
+585,GDP real rates of growth (percent),Palau,1995,10.0
+585,GDP real rates of growth (percent),Palau,2005,0.2
+585,GDP real rates of growth (percent),Palau,2010,-0.9
+585,GDP real rates of growth (percent),Palau,2015,10.1
+585,GDP real rates of growth (percent),Palau,2016,0.1
+585,GDP real rates of growth (percent),Palau,2017,-3.7
+591,GDP real rates of growth (percent),Panama,1985,5.1
+591,GDP real rates of growth (percent),Panama,1995,1.8
+591,GDP real rates of growth (percent),Panama,2005,7.2
+591,GDP real rates of growth (percent),Panama,2010,5.8
+591,GDP real rates of growth (percent),Panama,2015,5.6
+591,GDP real rates of growth (percent),Panama,2016,5.0
+591,GDP real rates of growth (percent),Panama,2017,5.4
+598,GDP real rates of growth (percent),Papua New Guinea,1985,3.6
+598,GDP real rates of growth (percent),Papua New Guinea,1995,-3.3
+598,GDP real rates of growth (percent),Papua New Guinea,2005,3.9
+598,GDP real rates of growth (percent),Papua New Guinea,2010,10.1
+598,GDP real rates of growth (percent),Papua New Guinea,2015,6.9
+598,GDP real rates of growth (percent),Papua New Guinea,2016,-0.7
+598,GDP real rates of growth (percent),Papua New Guinea,2017,-1.5
+600,GDP real rates of growth (percent),Paraguay,1985,4.0
+600,GDP real rates of growth (percent),Paraguay,1995,5.4
+600,GDP real rates of growth (percent),Paraguay,2005,2.1
+600,GDP real rates of growth (percent),Paraguay,2010,13.1
+600,GDP real rates of growth (percent),Paraguay,2015,3.0
+600,GDP real rates of growth (percent),Paraguay,2016,4.0
+600,GDP real rates of growth (percent),Paraguay,2017,4.3
+604,GDP real rates of growth (percent),Peru,1985,2.1
+604,GDP real rates of growth (percent),Peru,1995,7.4
+604,GDP real rates of growth (percent),Peru,2005,6.3
+604,GDP real rates of growth (percent),Peru,2010,8.3
+604,GDP real rates of growth (percent),Peru,2015,3.3
+604,GDP real rates of growth (percent),Peru,2016,4.0
+604,GDP real rates of growth (percent),Peru,2017,2.5
+608,GDP real rates of growth (percent),Philippines,1985,-7.3
+608,GDP real rates of growth (percent),Philippines,1995,4.7
+608,GDP real rates of growth (percent),Philippines,2005,4.8
+608,GDP real rates of growth (percent),Philippines,2010,7.6
+608,GDP real rates of growth (percent),Philippines,2015,6.1
+608,GDP real rates of growth (percent),Philippines,2016,6.9
+608,GDP real rates of growth (percent),Philippines,2017,6.7
+616,GDP real rates of growth (percent),Poland,1985,3.6
+616,GDP real rates of growth (percent),Poland,1995,7.0
+616,GDP real rates of growth (percent),Poland,2005,3.5
+616,GDP real rates of growth (percent),Poland,2010,3.6
+616,GDP real rates of growth (percent),Poland,2015,3.8
+616,GDP real rates of growth (percent),Poland,2016,3.1
+616,GDP real rates of growth (percent),Poland,2017,4.8
+620,GDP real rates of growth (percent),Portugal,1985,2.8
+620,GDP real rates of growth (percent),Portugal,1995,4.3
+620,GDP real rates of growth (percent),Portugal,2005,0.8
+620,GDP real rates of growth (percent),Portugal,2010,1.9
+620,GDP real rates of growth (percent),Portugal,2015,1.8
+620,GDP real rates of growth (percent),Portugal,2016,-2.7
+620,GDP real rates of growth (percent),Portugal,2017,0.9
+630,GDP real rates of growth (percent),Puerto Rico,1985,2.1
+630,GDP real rates of growth (percent),Puerto Rico,1995,4.5
+630,GDP real rates of growth (percent),Puerto Rico,2005,-2.0
+630,GDP real rates of growth (percent),Puerto Rico,2010,-0.4
+630,GDP real rates of growth (percent),Puerto Rico,2015,-1.0
+630,GDP real rates of growth (percent),Puerto Rico,2016,-1.3
+630,GDP real rates of growth (percent),Puerto Rico,2017,-2.4
+634,GDP real rates of growth (percent),Qatar,1985,-2.1
+634,GDP real rates of growth (percent),Qatar,1995,2.4
+634,GDP real rates of growth (percent),Qatar,2005,7.5
+634,GDP real rates of growth (percent),Qatar,2010,16.7
+634,GDP real rates of growth (percent),Qatar,2015,3.6
+634,GDP real rates of growth (percent),Qatar,2016,2.2
+634,GDP real rates of growth (percent),Qatar,2017,1.6
+410,GDP real rates of growth (percent),Republic of Korea,1985,7.7
+410,GDP real rates of growth (percent),Republic of Korea,1995,9.6
+410,GDP real rates of growth (percent),Republic of Korea,2005,3.9
+410,GDP real rates of growth (percent),Republic of Korea,2010,6.5
+410,GDP real rates of growth (percent),Republic of Korea,2015,2.8
+410,GDP real rates of growth (percent),Republic of Korea,2016,2.9
+410,GDP real rates of growth (percent),Republic of Korea,2017,3.1
+498,GDP real rates of growth (percent),Republic of Moldova,1995,-1.4
+498,GDP real rates of growth (percent),Republic of Moldova,2005,7.5
+498,GDP real rates of growth (percent),Republic of Moldova,2010,7.1
+498,GDP real rates of growth (percent),Republic of Moldova,2015,-0.4
+498,GDP real rates of growth (percent),Republic of Moldova,2016,4.5
+498,GDP real rates of growth (percent),Republic of Moldova,2017,4.5
+642,GDP real rates of growth (percent),Romania,1985,-0.1
+642,GDP real rates of growth (percent),Romania,1995,7.1
+642,GDP real rates of growth (percent),Romania,2005,4.2
+642,GDP real rates of growth (percent),Romania,2010,-2.8
+642,GDP real rates of growth (percent),Romania,2015,4.0
+642,GDP real rates of growth (percent),Romania,2016,4.8
+642,GDP real rates of growth (percent),Romania,2017,6.9
+643,GDP real rates of growth (percent),Russian Federation,1995,-4.1
+643,GDP real rates of growth (percent),Russian Federation,2005,6.4
+643,GDP real rates of growth (percent),Russian Federation,2010,4.5
+643,GDP real rates of growth (percent),Russian Federation,2015,-2.5
+643,GDP real rates of growth (percent),Russian Federation,2016,-0.2
+643,GDP real rates of growth (percent),Russian Federation,2017,1.5
+646,GDP real rates of growth (percent),Rwanda,1985,4.4
+646,GDP real rates of growth (percent),Rwanda,1995,33.5
+646,GDP real rates of growth (percent),Rwanda,2005,9.4
+646,GDP real rates of growth (percent),Rwanda,2010,7.3
+646,GDP real rates of growth (percent),Rwanda,2015,8.9
+646,GDP real rates of growth (percent),Rwanda,2016,6.0
+646,GDP real rates of growth (percent),Rwanda,2017,6.1
+659,GDP real rates of growth (percent),Saint Kitts and Nevis,1985,8.6
+659,GDP real rates of growth (percent),Saint Kitts and Nevis,1995,5.8
+659,GDP real rates of growth (percent),Saint Kitts and Nevis,2005,8.8
+659,GDP real rates of growth (percent),Saint Kitts and Nevis,2010,-2.2
+659,GDP real rates of growth (percent),Saint Kitts and Nevis,2015,4.0
+659,GDP real rates of growth (percent),Saint Kitts and Nevis,2016,2.2
+659,GDP real rates of growth (percent),Saint Kitts and Nevis,2017,1.2
+662,GDP real rates of growth (percent),Saint Lucia,1985,7.5
+662,GDP real rates of growth (percent),Saint Lucia,1995,1.1
+662,GDP real rates of growth (percent),Saint Lucia,2005,-1.7
+662,GDP real rates of growth (percent),Saint Lucia,2010,0.2
+662,GDP real rates of growth (percent),Saint Lucia,2015,-0.9
+662,GDP real rates of growth (percent),Saint Lucia,2016,3.4
+662,GDP real rates of growth (percent),Saint Lucia,2017,3.0
+670,GDP real rates of growth (percent),Saint Vincent & Grenadines,1985,6.2
+670,GDP real rates of growth (percent),Saint Vincent & Grenadines,1995,7.5
+670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2005,2.5
+670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2010,-3.3
+670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2015,1.8
+670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2016,1.3
+670,GDP real rates of growth (percent),Saint Vincent & Grenadines,2017,0.7
+882,GDP real rates of growth (percent),Samoa,1985,3.9
+882,GDP real rates of growth (percent),Samoa,1995,6.0
+882,GDP real rates of growth (percent),Samoa,2005,5.1
+882,GDP real rates of growth (percent),Samoa,2010,4.3
+882,GDP real rates of growth (percent),Samoa,2015,2.9
+882,GDP real rates of growth (percent),Samoa,2016,6.5
+882,GDP real rates of growth (percent),Samoa,2017,-0.4
+674,GDP real rates of growth (percent),San Marino,1985,2.8
+674,GDP real rates of growth (percent),San Marino,1995,9.3
+674,GDP real rates of growth (percent),San Marino,2005,2.3
+674,GDP real rates of growth (percent),San Marino,2010,-4.6
+674,GDP real rates of growth (percent),San Marino,2015,0.5
+674,GDP real rates of growth (percent),San Marino,2016,2.2
+674,GDP real rates of growth (percent),San Marino,2017,1.9
+678,GDP real rates of growth (percent),Sao Tome and Principe,1985,9.3
+678,GDP real rates of growth (percent),Sao Tome and Principe,1995,2.0
+678,GDP real rates of growth (percent),Sao Tome and Principe,2005,7.1
+678,GDP real rates of growth (percent),Sao Tome and Principe,2010,6.7
+678,GDP real rates of growth (percent),Sao Tome and Principe,2015,3.9
+678,GDP real rates of growth (percent),Sao Tome and Principe,2016,4.2
+678,GDP real rates of growth (percent),Sao Tome and Principe,2017,3.9
+682,GDP real rates of growth (percent),Saudi Arabia,1985,-9.8
+682,GDP real rates of growth (percent),Saudi Arabia,1995,0.2
+682,GDP real rates of growth (percent),Saudi Arabia,2005,5.6
+682,GDP real rates of growth (percent),Saudi Arabia,2010,5.0
+682,GDP real rates of growth (percent),Saudi Arabia,2015,4.1
+682,GDP real rates of growth (percent),Saudi Arabia,2016,1.7
+682,GDP real rates of growth (percent),Saudi Arabia,2017,-0.7
+686,GDP real rates of growth (percent),Senegal,1985,3.8
+686,GDP real rates of growth (percent),Senegal,1995,4.7
+686,GDP real rates of growth (percent),Senegal,2005,5.6
+686,GDP real rates of growth (percent),Senegal,2010,4.2
+686,GDP real rates of growth (percent),Senegal,2015,6.4
+686,GDP real rates of growth (percent),Senegal,2016,6.2
+686,GDP real rates of growth (percent),Senegal,2017,6.7
+688,GDP real rates of growth (percent),Serbia,1995,5.7
+688,GDP real rates of growth (percent),Serbia,2005,5.5
+688,GDP real rates of growth (percent),Serbia,2010,0.6
+688,GDP real rates of growth (percent),Serbia,2015,0.8
+688,GDP real rates of growth (percent),Serbia,2016,2.8
+688,GDP real rates of growth (percent),Serbia,2017,2.0
+690,GDP real rates of growth (percent),Seychelles,1985,10.3
+690,GDP real rates of growth (percent),Seychelles,1995,-0.6
+690,GDP real rates of growth (percent),Seychelles,2005,9.0
+690,GDP real rates of growth (percent),Seychelles,2010,5.9
+690,GDP real rates of growth (percent),Seychelles,2015,4.9
+690,GDP real rates of growth (percent),Seychelles,2016,4.5
+690,GDP real rates of growth (percent),Seychelles,2017,6.3
+694,GDP real rates of growth (percent),Sierra Leone,1985,2.3
+694,GDP real rates of growth (percent),Sierra Leone,1995,-10.0
+694,GDP real rates of growth (percent),Sierra Leone,2005,4.5
+694,GDP real rates of growth (percent),Sierra Leone,2010,5.3
+694,GDP real rates of growth (percent),Sierra Leone,2015,-20.5
+694,GDP real rates of growth (percent),Sierra Leone,2016,6.3
+694,GDP real rates of growth (percent),Sierra Leone,2017,3.8
+702,GDP real rates of growth (percent),Singapore,1985,-0.7
+702,GDP real rates of growth (percent),Singapore,1995,7.0
+702,GDP real rates of growth (percent),Singapore,2005,7.5
+702,GDP real rates of growth (percent),Singapore,2010,15.2
+702,GDP real rates of growth (percent),Singapore,2015,2.2
+702,GDP real rates of growth (percent),Singapore,2016,2.4
+702,GDP real rates of growth (percent),Singapore,2017,3.6
+534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2010,1.1
+534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2015,0.5
+534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2016,0.4
+534,GDP real rates of growth (percent),Sint Maarten (Dutch part),2017,-8.4
+703,GDP real rates of growth (percent),Slovakia,1995,5.8
+703,GDP real rates of growth (percent),Slovakia,2005,6.8
+703,GDP real rates of growth (percent),Slovakia,2010,5.0
+703,GDP real rates of growth (percent),Slovakia,2015,4.2
+703,GDP real rates of growth (percent),Slovakia,2016,3.1
+703,GDP real rates of growth (percent),Slovakia,2017,3.2
+705,GDP real rates of growth (percent),Slovenia,1995,4.1
+705,GDP real rates of growth (percent),Slovenia,2005,4.0
+705,GDP real rates of growth (percent),Slovenia,2010,1.2
+705,GDP real rates of growth (percent),Slovenia,2015,2.3
+705,GDP real rates of growth (percent),Slovenia,2016,3.1
+705,GDP real rates of growth (percent),Slovenia,2017,4.9
+90,GDP real rates of growth (percent),Solomon Islands,1985,2.8
+90,GDP real rates of growth (percent),Solomon Islands,1995,10.0
+90,GDP real rates of growth (percent),Solomon Islands,2005,12.8
+90,GDP real rates of growth (percent),Solomon Islands,2010,10.6
+90,GDP real rates of growth (percent),Solomon Islands,2015,2.5
+90,GDP real rates of growth (percent),Solomon Islands,2016,3.5
+90,GDP real rates of growth (percent),Solomon Islands,2017,3.5
+706,GDP real rates of growth (percent),Somalia,1985,9.5
+706,GDP real rates of growth (percent),Somalia,2005,3.0
+706,GDP real rates of growth (percent),Somalia,2010,2.6
+706,GDP real rates of growth (percent),Somalia,2015,2.7
+706,GDP real rates of growth (percent),Somalia,2016,2.4
+706,GDP real rates of growth (percent),Somalia,2017,1.8
+710,GDP real rates of growth (percent),South Africa,1985,-1.2
+710,GDP real rates of growth (percent),South Africa,1995,3.1
+710,GDP real rates of growth (percent),South Africa,2005,5.3
+710,GDP real rates of growth (percent),South Africa,2010,3.0
+710,GDP real rates of growth (percent),South Africa,2015,1.3
+710,GDP real rates of growth (percent),South Africa,2016,0.6
+710,GDP real rates of growth (percent),South Africa,2017,1.3
+728,GDP real rates of growth (percent),South Sudan,2010,-1.8
+728,GDP real rates of growth (percent),South Sudan,2015,5.1
+728,GDP real rates of growth (percent),South Sudan,2016,0.3
+728,GDP real rates of growth (percent),South Sudan,2017,1.3
+724,GDP real rates of growth (percent),Spain,1985,2.3
+724,GDP real rates of growth (percent),Spain,1995,2.8
+724,GDP real rates of growth (percent),Spain,2005,3.7
+724,GDP real rates of growth (percent),Spain,2010,0.0
+724,GDP real rates of growth (percent),Spain,2015,3.6
+724,GDP real rates of growth (percent),Spain,2016,3.2
+724,GDP real rates of growth (percent),Spain,2017,3.0
+144,GDP real rates of growth (percent),Sri Lanka,1985,5.0
+144,GDP real rates of growth (percent),Sri Lanka,1995,5.5
+144,GDP real rates of growth (percent),Sri Lanka,2005,6.2
+144,GDP real rates of growth (percent),Sri Lanka,2010,8.0
+144,GDP real rates of growth (percent),Sri Lanka,2015,5.0
+144,GDP real rates of growth (percent),Sri Lanka,2016,4.5
+144,GDP real rates of growth (percent),Sri Lanka,2017,3.3
+275,GDP real rates of growth (percent),State of Palestine,1985,-0.6
+275,GDP real rates of growth (percent),State of Palestine,1995,7.1
+275,GDP real rates of growth (percent),State of Palestine,2005,10.8
+275,GDP real rates of growth (percent),State of Palestine,2010,8.1
+275,GDP real rates of growth (percent),State of Palestine,2015,3.4
+275,GDP real rates of growth (percent),State of Palestine,2016,4.7
+275,GDP real rates of growth (percent),State of Palestine,2017,3.1
+729,GDP real rates of growth (percent),Sudan,2010,8.8
+729,GDP real rates of growth (percent),Sudan,2015,3.0
+729,GDP real rates of growth (percent),Sudan,2016,3.5
+729,GDP real rates of growth (percent),Sudan,2017,3.2
+736,GDP real rates of growth (percent),Sudan [former],1985,5.4
+736,GDP real rates of growth (percent),Sudan [former],1995,6.0
+736,GDP real rates of growth (percent),Sudan [former],2005,9.0
+736,GDP real rates of growth (percent),Sudan [former],2010,6.6
+740,GDP real rates of growth (percent),Suriname,1985,14.0
+740,GDP real rates of growth (percent),Suriname,1995,0.0
+740,GDP real rates of growth (percent),Suriname,2005,3.9
+740,GDP real rates of growth (percent),Suriname,2010,5.2
+740,GDP real rates of growth (percent),Suriname,2015,-2.6
+740,GDP real rates of growth (percent),Suriname,2016,-5.1
+740,GDP real rates of growth (percent),Suriname,2017,-0.7
+752,GDP real rates of growth (percent),Sweden,1985,2.2
+752,GDP real rates of growth (percent),Sweden,1995,4.0
+752,GDP real rates of growth (percent),Sweden,2005,2.8
+752,GDP real rates of growth (percent),Sweden,2010,6.0
+752,GDP real rates of growth (percent),Sweden,2015,4.5
+752,GDP real rates of growth (percent),Sweden,2016,2.7
+752,GDP real rates of growth (percent),Sweden,2017,2.1
+756,GDP real rates of growth (percent),Switzerland,1985,3.7
+756,GDP real rates of growth (percent),Switzerland,1995,0.5
+756,GDP real rates of growth (percent),Switzerland,2005,3.1
+756,GDP real rates of growth (percent),Switzerland,2010,3.0
+756,GDP real rates of growth (percent),Switzerland,2015,1.3
+756,GDP real rates of growth (percent),Switzerland,2016,1.6
+756,GDP real rates of growth (percent),Switzerland,2017,1.6
+760,GDP real rates of growth (percent),Syrian Arab Republic,1985,6.1
+760,GDP real rates of growth (percent),Syrian Arab Republic,1995,7.0
+760,GDP real rates of growth (percent),Syrian Arab Republic,2005,6.2
+760,GDP real rates of growth (percent),Syrian Arab Republic,2010,3.4
+760,GDP real rates of growth (percent),Syrian Arab Republic,2015,-6.1
+760,GDP real rates of growth (percent),Syrian Arab Republic,2016,-4.0
+760,GDP real rates of growth (percent),Syrian Arab Republic,2017,1.9
+762,GDP real rates of growth (percent),Tajikistan,1995,-12.4
+762,GDP real rates of growth (percent),Tajikistan,2005,6.7
+762,GDP real rates of growth (percent),Tajikistan,2010,6.5
+762,GDP real rates of growth (percent),Tajikistan,2015,6.0
+762,GDP real rates of growth (percent),Tajikistan,2016,6.9
+762,GDP real rates of growth (percent),Tajikistan,2017,7.1
+764,GDP real rates of growth (percent),Thailand,1985,4.6
+764,GDP real rates of growth (percent),Thailand,1995,8.1
+764,GDP real rates of growth (percent),Thailand,2005,4.2
+764,GDP real rates of growth (percent),Thailand,2010,7.5
+764,GDP real rates of growth (percent),Thailand,2015,3.0
+764,GDP real rates of growth (percent),Thailand,2016,3.3
+764,GDP real rates of growth (percent),Thailand,2017,3.9
+626,GDP real rates of growth (percent),Timor-Leste,1995,9.5
+626,GDP real rates of growth (percent),Timor-Leste,2005,35.9
+626,GDP real rates of growth (percent),Timor-Leste,2010,-1.2
+626,GDP real rates of growth (percent),Timor-Leste,2015,20.9
+626,GDP real rates of growth (percent),Timor-Leste,2016,0.8
+626,GDP real rates of growth (percent),Timor-Leste,2017,-8.0
+768,GDP real rates of growth (percent),Togo,1985,3.7
+768,GDP real rates of growth (percent),Togo,1995,6.8
+768,GDP real rates of growth (percent),Togo,2005,-4.7
+768,GDP real rates of growth (percent),Togo,2010,6.1
+768,GDP real rates of growth (percent),Togo,2015,5.7
+768,GDP real rates of growth (percent),Togo,2016,5.6
+768,GDP real rates of growth (percent),Togo,2017,4.4
+776,GDP real rates of growth (percent),Tonga,1985,6.6
+776,GDP real rates of growth (percent),Tonga,1995,4.0
+776,GDP real rates of growth (percent),Tonga,2005,1.6
+776,GDP real rates of growth (percent),Tonga,2010,3.6
+776,GDP real rates of growth (percent),Tonga,2015,3.7
+776,GDP real rates of growth (percent),Tonga,2016,3.4
+776,GDP real rates of growth (percent),Tonga,2017,2.7
+780,GDP real rates of growth (percent),Trinidad and Tobago,1985,-4.1
+780,GDP real rates of growth (percent),Trinidad and Tobago,1995,4.0
+780,GDP real rates of growth (percent),Trinidad and Tobago,2005,6.2
+780,GDP real rates of growth (percent),Trinidad and Tobago,2010,3.3
+780,GDP real rates of growth (percent),Trinidad and Tobago,2015,1.5
+780,GDP real rates of growth (percent),Trinidad and Tobago,2016,-6.0
+780,GDP real rates of growth (percent),Trinidad and Tobago,2017,-2.3
+788,GDP real rates of growth (percent),Tunisia,1985,5.7
+788,GDP real rates of growth (percent),Tunisia,1995,2.3
+788,GDP real rates of growth (percent),Tunisia,2005,4.0
+788,GDP real rates of growth (percent),Tunisia,2010,3.0
+788,GDP real rates of growth (percent),Tunisia,2015,1.2
+788,GDP real rates of growth (percent),Tunisia,2016,1.0
+788,GDP real rates of growth (percent),Tunisia,2017,2.0
+792,GDP real rates of growth (percent),Turkey,1985,4.2
+792,GDP real rates of growth (percent),Turkey,1995,7.2
+792,GDP real rates of growth (percent),Turkey,2005,9.0
+792,GDP real rates of growth (percent),Turkey,2010,8.5
+792,GDP real rates of growth (percent),Turkey,2015,6.1
+792,GDP real rates of growth (percent),Turkey,2016,3.2
+792,GDP real rates of growth (percent),Turkey,2017,7.4
+795,GDP real rates of growth (percent),Turkmenistan,1995,-7.2
+795,GDP real rates of growth (percent),Turkmenistan,2005,13.0
+795,GDP real rates of growth (percent),Turkmenistan,2010,9.2
+795,GDP real rates of growth (percent),Turkmenistan,2015,6.5
+795,GDP real rates of growth (percent),Turkmenistan,2016,6.2
+795,GDP real rates of growth (percent),Turkmenistan,2017,6.5
+796,GDP real rates of growth (percent),Turks and Caicos Islands,1985,10.7
+796,GDP real rates of growth (percent),Turks and Caicos Islands,1995,7.3
+796,GDP real rates of growth (percent),Turks and Caicos Islands,2005,14.4
+796,GDP real rates of growth (percent),Turks and Caicos Islands,2010,1.0
+796,GDP real rates of growth (percent),Turks and Caicos Islands,2015,5.9
+796,GDP real rates of growth (percent),Turks and Caicos Islands,2016,4.4
+796,GDP real rates of growth (percent),Turks and Caicos Islands,2017,4.3
+798,GDP real rates of growth (percent),Tuvalu,1985,-1.8
+798,GDP real rates of growth (percent),Tuvalu,1995,-5.0
+798,GDP real rates of growth (percent),Tuvalu,2005,-4.1
+798,GDP real rates of growth (percent),Tuvalu,2010,-3.3
+798,GDP real rates of growth (percent),Tuvalu,2015,9.2
+798,GDP real rates of growth (percent),Tuvalu,2016,5.9
+798,GDP real rates of growth (percent),Tuvalu,2017,5.9
+800,GDP real rates of growth (percent),Uganda,1985,-0.3
+800,GDP real rates of growth (percent),Uganda,1995,9.4
+800,GDP real rates of growth (percent),Uganda,2005,10.0
+800,GDP real rates of growth (percent),Uganda,2010,8.2
+800,GDP real rates of growth (percent),Uganda,2015,5.7
+800,GDP real rates of growth (percent),Uganda,2016,2.6
+800,GDP real rates of growth (percent),Uganda,2017,5.0
+804,GDP real rates of growth (percent),Ukraine,1995,-12.2
+804,GDP real rates of growth (percent),Ukraine,2005,3.1
+804,GDP real rates of growth (percent),Ukraine,2010,0.3
+804,GDP real rates of growth (percent),Ukraine,2015,-9.8
+804,GDP real rates of growth (percent),Ukraine,2016,2.4
+804,GDP real rates of growth (percent),Ukraine,2017,2.5
+784,GDP real rates of growth (percent),United Arab Emirates,1985,-2.4
+784,GDP real rates of growth (percent),United Arab Emirates,1995,8.2
+784,GDP real rates of growth (percent),United Arab Emirates,2005,4.9
+784,GDP real rates of growth (percent),United Arab Emirates,2010,1.6
+784,GDP real rates of growth (percent),United Arab Emirates,2015,5.1
+784,GDP real rates of growth (percent),United Arab Emirates,2016,3.0
+784,GDP real rates of growth (percent),United Arab Emirates,2017,0.8
+826,GDP real rates of growth (percent),United Kingdom,1985,4.2
+826,GDP real rates of growth (percent),United Kingdom,1995,3.9
+826,GDP real rates of growth (percent),United Kingdom,2005,3.1
+826,GDP real rates of growth (percent),United Kingdom,2010,1.7
+826,GDP real rates of growth (percent),United Kingdom,2015,2.3
+826,GDP real rates of growth (percent),United Kingdom,2016,1.8
+826,GDP real rates of growth (percent),United Kingdom,2017,1.7
+834,GDP real rates of growth (percent),United Rep. of Tanzania,1985,4.6
+834,GDP real rates of growth (percent),United Rep. of Tanzania,1995,3.6
+834,GDP real rates of growth (percent),United Rep. of Tanzania,2005,7.4
+834,GDP real rates of growth (percent),United Rep. of Tanzania,2010,6.4
+834,GDP real rates of growth (percent),United Rep. of Tanzania,2015,7.0
+834,GDP real rates of growth (percent),United Rep. of Tanzania,2016,7.0
+840,GDP real rates of growth (percent),United States of America,1985,4.2
+840,GDP real rates of growth (percent),United States of America,1995,2.7
+840,GDP real rates of growth (percent),United States of America,2005,3.5
+840,GDP real rates of growth (percent),United States of America,2010,2.6
+840,GDP real rates of growth (percent),United States of America,2015,2.9
+840,GDP real rates of growth (percent),United States of America,2016,1.6
+840,GDP real rates of growth (percent),United States of America,2017,2.2
+858,GDP real rates of growth (percent),Uruguay,1985,1.5
+858,GDP real rates of growth (percent),Uruguay,1995,-1.5
+858,GDP real rates of growth (percent),Uruguay,2005,7.5
+858,GDP real rates of growth (percent),Uruguay,2010,7.8
+858,GDP real rates of growth (percent),Uruguay,2015,0.4
+858,GDP real rates of growth (percent),Uruguay,2016,1.7
+858,GDP real rates of growth (percent),Uruguay,2017,2.7
+860,GDP real rates of growth (percent),Uzbekistan,1995,-0.9
+860,GDP real rates of growth (percent),Uzbekistan,2005,7.0
+860,GDP real rates of growth (percent),Uzbekistan,2010,8.5
+860,GDP real rates of growth (percent),Uzbekistan,2015,7.9
+860,GDP real rates of growth (percent),Uzbekistan,2016,6.2
+860,GDP real rates of growth (percent),Uzbekistan,2017,5.2
+548,GDP real rates of growth (percent),Vanuatu,1985,1.1
+548,GDP real rates of growth (percent),Vanuatu,1995,4.7
+548,GDP real rates of growth (percent),Vanuatu,2005,5.3
+548,GDP real rates of growth (percent),Vanuatu,2010,1.6
+548,GDP real rates of growth (percent),Vanuatu,2015,0.2
+548,GDP real rates of growth (percent),Vanuatu,2016,3.5
+548,GDP real rates of growth (percent),Vanuatu,2017,3.5
+862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),1985,0.2
+862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),1995,4.0
+862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2005,10.3
+862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2010,-1.5
+862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2015,-6.2
+862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2016,-16.5
+862,GDP real rates of growth (percent),Venezuela (Boliv. Rep. of),2017,-14.0
+704,GDP real rates of growth (percent),Viet Nam,1985,5.6
+704,GDP real rates of growth (percent),Viet Nam,1995,9.5
+704,GDP real rates of growth (percent),Viet Nam,2005,7.5
+704,GDP real rates of growth (percent),Viet Nam,2010,6.4
+704,GDP real rates of growth (percent),Viet Nam,2015,6.7
+704,GDP real rates of growth (percent),Viet Nam,2016,6.2
+704,GDP real rates of growth (percent),Viet Nam,2017,6.8
+887,GDP real rates of growth (percent),Yemen,1995,16.7
+887,GDP real rates of growth (percent),Yemen,2005,5.1
+887,GDP real rates of growth (percent),Yemen,2010,3.3
+887,GDP real rates of growth (percent),Yemen,2015,-30.3
+887,GDP real rates of growth (percent),Yemen,2016,-14.8
+887,GDP real rates of growth (percent),Yemen,2017,-5.9
+894,GDP real rates of growth (percent),Zambia,1985,0.0
+894,GDP real rates of growth (percent),Zambia,1995,2.9
+894,GDP real rates of growth (percent),Zambia,2005,7.2
+894,GDP real rates of growth (percent),Zambia,2010,10.3
+894,GDP real rates of growth (percent),Zambia,2015,2.9
+894,GDP real rates of growth (percent),Zambia,2016,3.8
+894,GDP real rates of growth (percent),Zambia,2017,3.5
+836,GDP real rates of growth (percent),Zanzibar,1995,0.5
+836,GDP real rates of growth (percent),Zanzibar,2005,1.7
+836,GDP real rates of growth (percent),Zanzibar,2010,0.8
+836,GDP real rates of growth (percent),Zanzibar,2015,0.6
+836,GDP real rates of growth (percent),Zanzibar,2016,6.2
+836,GDP real rates of growth (percent),Zanzibar,2017,4.3
+716,GDP real rates of growth (percent),Zimbabwe,1985,6.9
+716,GDP real rates of growth (percent),Zimbabwe,1995,0.2
+716,GDP real rates of growth (percent),Zimbabwe,2005,-4.1
+716,GDP real rates of growth (percent),Zimbabwe,2010,12.6
+716,GDP real rates of growth (percent),Zimbabwe,2015,1.7
+716,GDP real rates of growth (percent),Zimbabwe,2016,0.6
+716,GDP real rates of growth (percent),Zimbabwe,2017,3.0
