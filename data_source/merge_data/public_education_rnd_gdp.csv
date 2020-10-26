@@ -1,908 +1,129 @@
 Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Data,Expenditure on R&D (%)
-32,Government Expenditure,Argentina,2005,15.81,GDP(%),0.4
-32,Government Expenditure,Argentina,2005,15.81,Business Enterprises (%),31.0
-32,Government Expenditure,Argentina,2005,15.81,Government (%),59.6
 32,Government Expenditure,Argentina,2005,15.81,Higher education (%),5.7
-32,Government Expenditure,Argentina,2005,15.81,Private non-profit (%),3.0
-32,Government Expenditure,Argentina,2005,15.81,Funds from abroad (%),0.7
-32,Government Expenditure,Argentina,2005,15.81,Not distributed (%),0.0
-32,Government Expenditure,Argentina,2010,15.05,GDP(%),0.6
-51,Government Expenditure,Armenia,2005,13.65,GDP(%),0.3
-51,Government Expenditure,Armenia,2005,13.65,Government (%),77.5
-51,Government Expenditure,Armenia,2005,13.65,Funds from abroad (%),4.7
-51,Government Expenditure,Armenia,2005,13.65,Not distributed (%),17.8
-51,Government Expenditure,Armenia,2010,12.4,GDP(%),0.2
-51,Government Expenditure,Armenia,2010,12.4,Government (%),84.5
-51,Government Expenditure,Armenia,2010,12.4,Funds from abroad (%),11.7
-51,Government Expenditure,Armenia,2010,12.4,Not distributed (%),3.8
-51,Government Expenditure,Armenia,2016,10.2,GDP(%),0.2
-51,Government Expenditure,Armenia,2016,10.2,Government (%),72.9
-51,Government Expenditure,Armenia,2016,10.2,Funds from abroad (%),1.8
-51,Government Expenditure,Armenia,2016,10.2,Not distributed (%),25.2
-36,Government Expenditure,Australia,2010,14.33,GDP(%),2.4
-36,Government Expenditure,Australia,2015,14.08,GDP(%),1.9
-40,Government Expenditure,Austria,2005,10.26,GDP(%),2.4
-40,Government Expenditure,Austria,2005,10.26,Business Enterprises (%),45.6
-40,Government Expenditure,Austria,2005,10.26,Government (%),35.9
-40,Government Expenditure,Austria,2005,10.26,Private non-profit (%),0.4
-40,Government Expenditure,Austria,2005,10.26,Funds from abroad (%),18.0
-40,Government Expenditure,Austria,2010,10.79,GDP(%),2.7
-40,Government Expenditure,Austria,2010,10.79,Business Enterprises (%),45.1
-40,Government Expenditure,Austria,2010,10.79,Government (%),38.3
-40,Government Expenditure,Austria,2010,10.79,Private non-profit (%),0.5
-40,Government Expenditure,Austria,2010,10.79,Funds from abroad (%),16.1
-40,Government Expenditure,Austria,2015,10.69,GDP(%),3.0
-40,Government Expenditure,Austria,2015,10.69,Business Enterprises (%),49.7
-40,Government Expenditure,Austria,2015,10.69,Government (%),32.6
 40,Government Expenditure,Austria,2015,10.69,Higher education (%),0.6
-40,Government Expenditure,Austria,2015,10.69,Private non-profit (%),0.5
-40,Government Expenditure,Austria,2015,10.69,Funds from abroad (%),16.6
-31,Government Expenditure,Azerbaijan,2005,13.22,GDP(%),0.2
-31,Government Expenditure,Azerbaijan,2005,13.22,Business Enterprises (%),18.7
-31,Government Expenditure,Azerbaijan,2005,13.22,Government (%),77.5
 31,Government Expenditure,Azerbaijan,2005,13.22,Higher education (%),0.0
-31,Government Expenditure,Azerbaijan,2005,13.22,Private non-profit (%),1.3
-31,Government Expenditure,Azerbaijan,2005,13.22,Funds from abroad (%),2.4
-31,Government Expenditure,Azerbaijan,2010,8.7,GDP(%),0.2
-31,Government Expenditure,Azerbaijan,2010,8.7,Business Enterprises (%),9.6
-31,Government Expenditure,Azerbaijan,2010,8.7,Government (%),88.2
 31,Government Expenditure,Azerbaijan,2010,8.7,Higher education (%),0.3
-31,Government Expenditure,Azerbaijan,2010,8.7,Private non-profit (%),1.9
-31,Government Expenditure,Azerbaijan,2010,8.7,Funds from abroad (%),0.0
-31,Government Expenditure,Azerbaijan,2016,8.2,GDP(%),0.2
-31,Government Expenditure,Azerbaijan,2016,8.2,Business Enterprises (%),29.9
-31,Government Expenditure,Azerbaijan,2016,8.2,Government (%),68.5
 31,Government Expenditure,Azerbaijan,2016,8.2,Higher education (%),1.4
-31,Government Expenditure,Azerbaijan,2016,8.2,Private non-profit (%),0.2
-112,Government Expenditure,Belarus,2005,12.62,GDP(%),0.7
-112,Government Expenditure,Belarus,2005,12.62,Business Enterprises (%),21.2
-112,Government Expenditure,Belarus,2005,12.62,Government (%),71.9
 112,Government Expenditure,Belarus,2005,12.62,Higher education (%),0.7
-112,Government Expenditure,Belarus,2005,12.62,Funds from abroad (%),6.3
-112,Government Expenditure,Belarus,2010,11.78,GDP(%),0.7
-112,Government Expenditure,Belarus,2010,11.78,Business Enterprises (%),27.1
-112,Government Expenditure,Belarus,2010,11.78,Government (%),58.7
-112,Government Expenditure,Belarus,2010,11.78,Private non-profit (%),0.6
-112,Government Expenditure,Belarus,2010,11.78,Funds from abroad (%),13.6
-56,Government Expenditure,Belgium,2005,11.17,GDP(%),1.8
-56,Government Expenditure,Belgium,2005,11.17,Business Enterprises (%),59.7
-56,Government Expenditure,Belgium,2005,11.17,Government (%),24.7
 56,Government Expenditure,Belgium,2005,11.17,Higher education (%),2.6
-56,Government Expenditure,Belgium,2005,11.17,Private non-profit (%),0.6
-56,Government Expenditure,Belgium,2005,11.17,Funds from abroad (%),12.4
-56,Government Expenditure,Belgium,2010,12.01,GDP(%),2.1
-56,Government Expenditure,Belgium,2010,12.01,Business Enterprises (%),57.6
-56,Government Expenditure,Belgium,2010,12.01,Government (%),25.4
 56,Government Expenditure,Belgium,2010,12.01,Higher education (%),3.1
-56,Government Expenditure,Belgium,2010,12.01,Private non-profit (%),0.6
-56,Government Expenditure,Belgium,2010,12.01,Funds from abroad (%),13.3
-56,Government Expenditure,Belgium,2015,12.17,GDP(%),2.5
-56,Government Expenditure,Belgium,2015,12.17,Business Enterprises (%),58.6
-56,Government Expenditure,Belgium,2015,12.17,Government (%),22.5
 56,Government Expenditure,Belgium,2015,12.17,Higher education (%),2.0
-56,Government Expenditure,Belgium,2015,12.17,Private non-profit (%),0.4
-56,Government Expenditure,Belgium,2015,12.17,Funds from abroad (%),16.5
-68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56,GDP(%),0.2
-68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56,Business Enterprises (%),5.2
-68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56,Government (%),51.2
 68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56,Higher education (%),26.5
-68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56,Private non-profit (%),2.1
-68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56,Funds from abroad (%),1.9
-68,Government Expenditure,Bolivia (Plurin. State of),2009,22.56,Not distributed (%),13.2
-72,Government Expenditure,Botswana,2005,25.82,GDP(%),0.5
-76,Government Expenditure,Brazil,2005,11.26,GDP(%),1.0
-76,Government Expenditure,Brazil,2005,11.26,Business Enterprises (%),50.4
-76,Government Expenditure,Brazil,2005,11.26,Government (%),47.7
 76,Government Expenditure,Brazil,2005,11.26,Higher education (%),1.9
-76,Government Expenditure,Brazil,2010,14.56,GDP(%),1.2
-76,Government Expenditure,Brazil,2010,14.56,Business Enterprises (%),47.0
-76,Government Expenditure,Brazil,2010,14.56,Government (%),51.1
 76,Government Expenditure,Brazil,2010,14.56,Higher education (%),1.8
-76,Government Expenditure,Brazil,2010,14.56,Not distributed (%),0.0
-76,Government Expenditure,Brazil,2015,16.25,GDP(%),1.3
-76,Government Expenditure,Brazil,2015,16.25,Business Enterprises (%),47.5
-76,Government Expenditure,Brazil,2015,16.25,Government (%),50.2
 76,Government Expenditure,Brazil,2015,16.25,Higher education (%),2.3
-76,Government Expenditure,Brazil,2015,16.25,Not distributed (%),0.0
-100,Government Expenditure,Bulgaria,2005,12.07,GDP(%),0.4
-100,Government Expenditure,Bulgaria,2005,12.07,Business Enterprises (%),27.8
-100,Government Expenditure,Bulgaria,2005,12.07,Government (%),63.9
 100,Government Expenditure,Bulgaria,2005,12.07,Higher education (%),0.4
-100,Government Expenditure,Bulgaria,2005,12.07,Private non-profit (%),0.3
-100,Government Expenditure,Bulgaria,2005,12.07,Funds from abroad (%),7.6
-100,Government Expenditure,Bulgaria,2010,11.16,GDP(%),0.6
-100,Government Expenditure,Bulgaria,2010,11.16,Business Enterprises (%),16.7
-100,Government Expenditure,Bulgaria,2010,11.16,Government (%),43.2
 100,Government Expenditure,Bulgaria,2010,11.16,Higher education (%),0.5
-100,Government Expenditure,Bulgaria,2010,11.16,Private non-profit (%),0.1
-100,Government Expenditure,Bulgaria,2010,11.16,Funds from abroad (%),39.6
-854,Government Expenditure,Burkina Faso,2005,19.49,GDP(%),0.2
-854,Government Expenditure,Burkina Faso,2005,19.49,Government (%),100.0
-108,Government Expenditure,Burundi,2010,16.59,GDP(%),0.1
-116,Government Expenditure,Cambodia,2002,10.14,GDP(%),0.0
-116,Government Expenditure,Cambodia,2002,10.14,Government (%),17.9
-116,Government Expenditure,Cambodia,2002,10.14,Private non-profit (%),43.0
-116,Government Expenditure,Cambodia,2002,10.14,Funds from abroad (%),28.4
-116,Government Expenditure,Cambodia,2002,10.14,Not distributed (%),10.6
-124,Government Expenditure,Canada,2005,12.18,GDP(%),2.0
-124,Government Expenditure,Canada,2005,12.18,Business Enterprises (%),49.3
-124,Government Expenditure,Canada,2005,12.18,Government (%),31.8
 124,Government Expenditure,Canada,2005,12.18,Higher education (%),7.3
-124,Government Expenditure,Canada,2005,12.18,Private non-profit (%),2.8
-124,Government Expenditure,Canada,2005,12.18,Funds from abroad (%),8.8
-124,Government Expenditure,Canada,2010,12.34,GDP(%),1.8
-124,Government Expenditure,Canada,2010,12.34,Business Enterprises (%),47.2
-124,Government Expenditure,Canada,2010,12.34,Government (%),34.9
 124,Government Expenditure,Canada,2010,12.34,Higher education (%),7.9
-124,Government Expenditure,Canada,2010,12.34,Private non-profit (%),3.5
-124,Government Expenditure,Canada,2010,12.34,Funds from abroad (%),6.6
-152,Government Expenditure,Chile,2010,17.84,GDP(%),0.3
-152,Government Expenditure,Chile,2010,17.84,Business Enterprises (%),25.4
-152,Government Expenditure,Chile,2010,17.84,Government (%),40.4
 152,Government Expenditure,Chile,2010,17.84,Higher education (%),12.7
-152,Government Expenditure,Chile,2010,17.84,Private non-profit (%),1.7
-152,Government Expenditure,Chile,2010,17.84,Funds from abroad (%),19.8
-152,Government Expenditure,Chile,2016,21.16,GDP(%),0.4
-152,Government Expenditure,Chile,2016,21.16,Business Enterprises (%),35.8
-152,Government Expenditure,Chile,2016,21.16,Government (%),46.4
 152,Government Expenditure,Chile,2016,21.16,Higher education (%),14.4
-152,Government Expenditure,Chile,2016,21.16,Private non-profit (%),1.5
-152,Government Expenditure,Chile,2016,21.16,Funds from abroad (%),1.9
-344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,GDP(%),0.8
-344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Business Enterprises (%),53.0
-344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Government (%),44.1
 344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Higher education (%),0.4
-344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Funds from abroad (%),2.5
-344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,GDP(%),0.7
-344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Business Enterprises (%),47.6
-344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Government (%),47.3
 344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Higher education (%),0.1
-344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Funds from abroad (%),4.9
-170,Government Expenditure,Colombia,2005,15.54,GDP(%),0.1
-170,Government Expenditure,Colombia,2010,16.42,GDP(%),0.2
-170,Government Expenditure,Colombia,2010,16.42,Business Enterprises (%),28.8
-170,Government Expenditure,Colombia,2010,16.42,Government (%),38.7
 170,Government Expenditure,Colombia,2010,16.42,Higher education (%),23.2
-170,Government Expenditure,Colombia,2010,16.42,Private non-profit (%),6.0
-170,Government Expenditure,Colombia,2010,16.42,Funds from abroad (%),3.3
-191,Government Expenditure,Croatia,2010,8.96,GDP(%),0.7
-191,Government Expenditure,Croatia,2010,8.96,Business Enterprises (%),38.8
-191,Government Expenditure,Croatia,2010,8.96,Government (%),49.2
 191,Government Expenditure,Croatia,2010,8.96,Higher education (%),2.0
-191,Government Expenditure,Croatia,2010,8.96,Private non-profit (%),0.2
-191,Government Expenditure,Croatia,2010,8.96,Funds from abroad (%),9.9
-196,Government Expenditure,Cyprus,2005,15.84,GDP(%),0.4
-196,Government Expenditure,Cyprus,2005,15.84,Business Enterprises (%),16.8
-196,Government Expenditure,Cyprus,2005,15.84,Government (%),67.0
 196,Government Expenditure,Cyprus,2005,15.84,Higher education (%),4.2
-196,Government Expenditure,Cyprus,2005,15.84,Private non-profit (%),1.2
-196,Government Expenditure,Cyprus,2005,15.84,Funds from abroad (%),10.9
-196,Government Expenditure,Cyprus,2010,15.65,GDP(%),0.4
-196,Government Expenditure,Cyprus,2010,15.65,Business Enterprises (%),12.7
-196,Government Expenditure,Cyprus,2010,15.65,Government (%),68.3
 196,Government Expenditure,Cyprus,2010,15.65,Higher education (%),3.5
-196,Government Expenditure,Cyprus,2010,15.65,Private non-profit (%),0.5
-196,Government Expenditure,Cyprus,2010,15.65,Funds from abroad (%),15.0
-196,Government Expenditure,Cyprus,2015,16.28,GDP(%),0.5
-196,Government Expenditure,Cyprus,2015,16.28,Business Enterprises (%),20.0
-196,Government Expenditure,Cyprus,2015,16.28,Government (%),50.6
 196,Government Expenditure,Cyprus,2015,16.28,Higher education (%),5.8
-196,Government Expenditure,Cyprus,2015,16.28,Private non-profit (%),0.6
-196,Government Expenditure,Cyprus,2015,16.28,Funds from abroad (%),23.0
-203,Government Expenditure,Czechia,2005,9.2,GDP(%),1.2
-203,Government Expenditure,Czechia,2005,9.2,Business Enterprises (%),48.2
-203,Government Expenditure,Czechia,2005,9.2,Government (%),45.2
 203,Government Expenditure,Czechia,2005,9.2,Higher education (%),1.2
-203,Government Expenditure,Czechia,2005,9.2,Private non-profit (%),0.0
-203,Government Expenditure,Czechia,2005,9.2,Funds from abroad (%),5.4
-203,Government Expenditure,Czechia,2010,9.34,GDP(%),1.3
-203,Government Expenditure,Czechia,2010,9.34,Business Enterprises (%),40.8
-203,Government Expenditure,Czechia,2010,9.34,Government (%),44.4
 203,Government Expenditure,Czechia,2010,9.34,Higher education (%),0.9
-203,Government Expenditure,Czechia,2010,9.34,Private non-profit (%),0.0
-203,Government Expenditure,Czechia,2010,9.34,Funds from abroad (%),13.9
-203,Government Expenditure,Czechia,2015,13.88,GDP(%),1.9
-203,Government Expenditure,Czechia,2015,13.88,Business Enterprises (%),34.5
-203,Government Expenditure,Czechia,2015,13.88,Government (%),32.2
 203,Government Expenditure,Czechia,2015,13.88,Higher education (%),0.7
-203,Government Expenditure,Czechia,2015,13.88,Private non-profit (%),0.1
-203,Government Expenditure,Czechia,2015,13.88,Funds from abroad (%),32.5
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,GDP(%),0.0
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,Business Enterprises (%),0.2
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,Government (%),70.3
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,Private non-profit (%),0.1
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,Funds from abroad (%),29.4
-208,Government Expenditure,Denmark,2005,15.78,GDP(%),2.4
-208,Government Expenditure,Denmark,2005,15.78,Business Enterprises (%),59.5
-208,Government Expenditure,Denmark,2005,15.78,Government (%),27.6
-208,Government Expenditure,Denmark,2005,15.78,Private non-profit (%),2.8
-208,Government Expenditure,Denmark,2005,15.78,Funds from abroad (%),10.1
-208,Government Expenditure,Denmark,2010,15.1,GDP(%),2.9
-208,Government Expenditure,Denmark,2010,15.1,Business Enterprises (%),61.1
-208,Government Expenditure,Denmark,2010,15.1,Government (%),28.2
-208,Government Expenditure,Denmark,2010,15.1,Private non-profit (%),3.5
-208,Government Expenditure,Denmark,2010,15.1,Funds from abroad (%),7.2
-218,Government Expenditure,Ecuador,2010,13.0,GDP(%),0.4
-218,Government Expenditure,Ecuador,2010,13.0,Business Enterprises (%),1.0
-218,Government Expenditure,Ecuador,2010,13.0,Government (%),40.2
 218,Government Expenditure,Ecuador,2010,13.0,Higher education (%),9.6
-218,Government Expenditure,Ecuador,2010,13.0,Private non-profit (%),0.5
-218,Government Expenditure,Ecuador,2010,13.0,Funds from abroad (%),5.3
-218,Government Expenditure,Ecuador,2010,13.0,Not distributed (%),43.4
-818,Government Expenditure,Egypt,2005,15.04,GDP(%),0.2
-222,Government Expenditure,El Salvador,2010,16.16,GDP(%),0.1
-222,Government Expenditure,El Salvador,2010,16.16,Business Enterprises (%),0.6
-222,Government Expenditure,El Salvador,2010,16.16,Government (%),70.1
 222,Government Expenditure,El Salvador,2010,16.16,Higher education (%),20.8
-222,Government Expenditure,El Salvador,2010,16.16,Private non-profit (%),0.0
-222,Government Expenditure,El Salvador,2010,16.16,Funds from abroad (%),8.3
-222,Government Expenditure,El Salvador,2010,16.16,Not distributed (%),0.1
-233,Government Expenditure,Estonia,2005,14.26,GDP(%),0.9
-233,Government Expenditure,Estonia,2005,14.26,Business Enterprises (%),38.5
-233,Government Expenditure,Estonia,2005,14.26,Government (%),43.5
 233,Government Expenditure,Estonia,2005,14.26,Higher education (%),0.8
-233,Government Expenditure,Estonia,2005,14.26,Private non-profit (%),0.2
-233,Government Expenditure,Estonia,2005,14.26,Funds from abroad (%),17.1
-233,Government Expenditure,Estonia,2010,13.64,GDP(%),1.6
-233,Government Expenditure,Estonia,2010,13.64,Business Enterprises (%),43.6
-233,Government Expenditure,Estonia,2010,13.64,Government (%),44.1
 233,Government Expenditure,Estonia,2010,13.64,Higher education (%),0.6
-233,Government Expenditure,Estonia,2010,13.64,Private non-profit (%),0.2
-233,Government Expenditure,Estonia,2010,13.64,Funds from abroad (%),11.4
-233,Government Expenditure,Estonia,2015,12.97,GDP(%),1.5
-233,Government Expenditure,Estonia,2015,12.97,Business Enterprises (%),41.0
-233,Government Expenditure,Estonia,2015,12.97,Government (%),46.4
 233,Government Expenditure,Estonia,2015,12.97,Higher education (%),0.2
-233,Government Expenditure,Estonia,2015,12.97,Private non-profit (%),0.2
-233,Government Expenditure,Estonia,2015,12.97,Funds from abroad (%),12.2
-231,Government Expenditure,Ethiopia,2010,26.3,GDP(%),0.2
-231,Government Expenditure,Ethiopia,2010,26.3,Business Enterprises (%),10.8
-231,Government Expenditure,Ethiopia,2010,26.3,Government (%),56.0
 231,Government Expenditure,Ethiopia,2010,26.3,Higher education (%),1.1
-231,Government Expenditure,Ethiopia,2010,26.3,Private non-profit (%),0.0
-231,Government Expenditure,Ethiopia,2010,26.3,Funds from abroad (%),30.0
-231,Government Expenditure,Ethiopia,2010,26.3,Not distributed (%),2.2
-246,Government Expenditure,Finland,2005,12.25,GDP(%),3.3
-246,Government Expenditure,Finland,2005,12.25,Business Enterprises (%),66.9
-246,Government Expenditure,Finland,2005,12.25,Government (%),25.7
 246,Government Expenditure,Finland,2005,12.25,Higher education (%),0.2
-246,Government Expenditure,Finland,2005,12.25,Private non-profit (%),1.0
-246,Government Expenditure,Finland,2005,12.25,Funds from abroad (%),6.3
-246,Government Expenditure,Finland,2010,11.95,GDP(%),3.7
-246,Government Expenditure,Finland,2010,11.95,Business Enterprises (%),66.1
-246,Government Expenditure,Finland,2010,11.95,Government (%),25.7
 246,Government Expenditure,Finland,2010,11.95,Higher education (%),0.2
-246,Government Expenditure,Finland,2010,11.95,Private non-profit (%),1.1
-246,Government Expenditure,Finland,2010,11.95,Funds from abroad (%),6.9
-246,Government Expenditure,Finland,2015,12.41,GDP(%),2.9
-246,Government Expenditure,Finland,2015,12.41,Business Enterprises (%),54.8
-246,Government Expenditure,Finland,2015,12.41,Government (%),28.9
 246,Government Expenditure,Finland,2015,12.41,Higher education (%),0.3
-246,Government Expenditure,Finland,2015,12.41,Private non-profit (%),1.5
-246,Government Expenditure,Finland,2015,12.41,Funds from abroad (%),14.5
-250,Government Expenditure,France,2005,10.36,GDP(%),2.0
-250,Government Expenditure,France,2005,10.36,Business Enterprises (%),51.9
-250,Government Expenditure,France,2005,10.36,Government (%),38.6
 250,Government Expenditure,France,2005,10.36,Higher education (%),1.0
-250,Government Expenditure,France,2005,10.36,Private non-profit (%),0.9
-250,Government Expenditure,France,2005,10.36,Funds from abroad (%),7.5
-250,Government Expenditure,France,2010,10.01,GDP(%),2.2
-250,Government Expenditure,France,2010,10.01,Business Enterprises (%),53.5
-250,Government Expenditure,France,2010,10.01,Government (%),37.1
 250,Government Expenditure,France,2010,10.01,Higher education (%),1.0
-250,Government Expenditure,France,2010,10.01,Private non-profit (%),0.8
-250,Government Expenditure,France,2010,10.01,Funds from abroad (%),7.5
-250,Government Expenditure,France,2015,9.62,GDP(%),2.3
-250,Government Expenditure,France,2015,9.62,Business Enterprises (%),54.0
-250,Government Expenditure,France,2015,9.62,Government (%),34.8
 250,Government Expenditure,France,2015,9.62,Higher education (%),2.6
-250,Government Expenditure,France,2015,9.62,Private non-profit (%),0.9
-250,Government Expenditure,France,2015,9.62,Funds from abroad (%),7.6
-268,Government Expenditure,Georgia,2005,11.18,GDP(%),0.2
-276,Government Expenditure,Germany,2010,10.4,GDP(%),2.7
-276,Government Expenditure,Germany,2010,10.4,Business Enterprises (%),65.5
-276,Government Expenditure,Germany,2010,10.4,Government (%),30.4
-276,Government Expenditure,Germany,2010,10.4,Private non-profit (%),0.2
-276,Government Expenditure,Germany,2010,10.4,Funds from abroad (%),3.9
-276,Government Expenditure,Germany,2015,10.99,GDP(%),2.9
-276,Government Expenditure,Germany,2015,10.99,Business Enterprises (%),65.6
-276,Government Expenditure,Germany,2015,10.99,Government (%),27.9
-276,Government Expenditure,Germany,2015,10.99,Private non-profit (%),0.4
-276,Government Expenditure,Germany,2015,10.99,Funds from abroad (%),6.2
-288,Government Expenditure,Ghana,2010,20.7,GDP(%),0.4
-288,Government Expenditure,Ghana,2010,20.7,Business Enterprises (%),0.1
-288,Government Expenditure,Ghana,2010,20.7,Government (%),68.3
 288,Government Expenditure,Ghana,2010,20.7,Higher education (%),0.3
-288,Government Expenditure,Ghana,2010,20.7,Private non-profit (%),0.1
-288,Government Expenditure,Ghana,2010,20.7,Funds from abroad (%),31.2
-300,Government Expenditure,Greece,2005,8.7,GDP(%),0.6
-300,Government Expenditure,Greece,2005,8.7,Business Enterprises (%),31.1
-300,Government Expenditure,Greece,2005,8.7,Government (%),46.8
 300,Government Expenditure,Greece,2005,8.7,Higher education (%),1.7
-300,Government Expenditure,Greece,2005,8.7,Private non-profit (%),1.5
-300,Government Expenditure,Greece,2005,8.7,Funds from abroad (%),19.0
-320,Government Expenditure,Guatemala,2010,19.3,GDP(%),0.0
-320,Government Expenditure,Guatemala,2010,19.3,Government (%),18.3
 320,Government Expenditure,Guatemala,2010,19.3,Higher education (%),30.9
-320,Government Expenditure,Guatemala,2010,19.3,Funds from abroad (%),50.8
-340,Government Expenditure,Honduras,2015,24.64,GDP(%),0.0
-340,Government Expenditure,Honduras,2015,24.64,Government (%),82.5
 340,Government Expenditure,Honduras,2015,24.64,Higher education (%),17.5
-340,Government Expenditure,Honduras,2015,24.64,Not distributed (%),0.0
-348,Government Expenditure,Hungary,2005,10.8,GDP(%),0.9
-348,Government Expenditure,Hungary,2005,10.8,Business Enterprises (%),39.4
-348,Government Expenditure,Hungary,2005,10.8,Government (%),49.4
-348,Government Expenditure,Hungary,2005,10.8,Private non-profit (%),0.3
-348,Government Expenditure,Hungary,2005,10.8,Funds from abroad (%),10.7
-348,Government Expenditure,Hungary,2010,9.69,GDP(%),1.1
-348,Government Expenditure,Hungary,2010,9.69,Business Enterprises (%),47.4
-348,Government Expenditure,Hungary,2010,9.69,Government (%),39.3
-348,Government Expenditure,Hungary,2010,9.69,Private non-profit (%),0.9
-348,Government Expenditure,Hungary,2010,9.69,Funds from abroad (%),12.4
-348,Government Expenditure,Hungary,2015,9.14,GDP(%),1.4
-348,Government Expenditure,Hungary,2015,9.14,Business Enterprises (%),49.7
-348,Government Expenditure,Hungary,2015,9.14,Government (%),34.6
-348,Government Expenditure,Hungary,2015,9.14,Private non-profit (%),0.7
-348,Government Expenditure,Hungary,2015,9.14,Funds from abroad (%),15.0
-352,Government Expenditure,Iceland,2005,17.81,GDP(%),2.7
-352,Government Expenditure,Iceland,2005,17.81,Business Enterprises (%),48.0
-352,Government Expenditure,Iceland,2005,17.81,Government (%),40.5
-352,Government Expenditure,Iceland,2005,17.81,Private non-profit (%),0.3
-352,Government Expenditure,Iceland,2005,17.81,Funds from abroad (%),11.2
-356,Government Expenditure,India,2005,11.21,GDP(%),0.8
-356,Government Expenditure,India,2010,11.83,GDP(%),0.8
-364,Government Expenditure,Iran (Islamic Republic of),2005,22.32,GDP(%),0.6
-364,Government Expenditure,Iran (Islamic Republic of),2005,22.32,Business Enterprises (%),12.2
-364,Government Expenditure,Iran (Islamic Republic of),2005,22.32,Government (%),76.2
 364,Government Expenditure,Iran (Islamic Republic of),2005,22.32,Higher education (%),11.6
-364,Government Expenditure,Iran (Islamic Republic of),2010,18.8,GDP(%),0.3
-372,Government Expenditure,Ireland,2005,13.56,GDP(%),1.2
-372,Government Expenditure,Ireland,2005,13.56,Business Enterprises (%),57.4
-372,Government Expenditure,Ireland,2005,13.56,Government (%),32.0
 372,Government Expenditure,Ireland,2005,13.56,Higher education (%),1.7
-372,Government Expenditure,Ireland,2005,13.56,Private non-profit (%),0.2
-372,Government Expenditure,Ireland,2005,13.56,Funds from abroad (%),8.6
-372,Government Expenditure,Ireland,2010,9.28,GDP(%),1.6
-372,Government Expenditure,Ireland,2010,9.28,Business Enterprises (%),52.2
-372,Government Expenditure,Ireland,2010,9.28,Government (%),29.4
 372,Government Expenditure,Ireland,2010,9.28,Higher education (%),0.9
-372,Government Expenditure,Ireland,2010,9.28,Private non-profit (%),0.5
-372,Government Expenditure,Ireland,2010,9.28,Funds from abroad (%),17.0
-372,Government Expenditure,Ireland,2015,13.03,GDP(%),1.2
-372,Government Expenditure,Ireland,2015,13.03,Business Enterprises (%),48.4
-372,Government Expenditure,Ireland,2015,13.03,Government (%),25.9
 372,Government Expenditure,Ireland,2015,13.03,Higher education (%),1.5
-372,Government Expenditure,Ireland,2015,13.03,Private non-profit (%),0.4
-372,Government Expenditure,Ireland,2015,13.03,Funds from abroad (%),23.8
-376,Government Expenditure,Israel,2005,12.74,GDP(%),4.1
-376,Government Expenditure,Israel,2005,12.74,Business Enterprises (%),56.2
-376,Government Expenditure,Israel,2005,12.74,Government (%),14.5
 376,Government Expenditure,Israel,2005,12.74,Higher education (%),2.8
-376,Government Expenditure,Israel,2005,12.74,Private non-profit (%),1.8
-376,Government Expenditure,Israel,2005,12.74,Funds from abroad (%),24.7
-376,Government Expenditure,Israel,2010,13.61,GDP(%),3.9
-376,Government Expenditure,Israel,2010,13.61,Business Enterprises (%),36.2
-376,Government Expenditure,Israel,2010,13.61,Government (%),14.2
 376,Government Expenditure,Israel,2010,13.61,Higher education (%),1.2
-376,Government Expenditure,Israel,2010,13.61,Private non-profit (%),1.1
-376,Government Expenditure,Israel,2010,13.61,Funds from abroad (%),47.3
-376,Government Expenditure,Israel,2015,15.04,GDP(%),4.3
-376,Government Expenditure,Israel,2015,15.04,Business Enterprises (%),34.3
-376,Government Expenditure,Israel,2015,15.04,Government (%),12.8
 376,Government Expenditure,Israel,2015,15.04,Higher education (%),0.4
-376,Government Expenditure,Israel,2015,15.04,Private non-profit (%),0.9
-376,Government Expenditure,Israel,2015,15.04,Funds from abroad (%),51.6
-380,Government Expenditure,Italy,2005,9.01,GDP(%),1.0
-380,Government Expenditure,Italy,2005,9.01,Business Enterprises (%),39.7
-380,Government Expenditure,Italy,2005,9.01,Government (%),50.7
 380,Government Expenditure,Italy,2005,9.01,Higher education (%),0.1
-380,Government Expenditure,Italy,2005,9.01,Private non-profit (%),1.6
-380,Government Expenditure,Italy,2005,9.01,Funds from abroad (%),8.0
-380,Government Expenditure,Italy,2010,8.72,GDP(%),1.2
-380,Government Expenditure,Italy,2010,8.72,Business Enterprises (%),44.7
-380,Government Expenditure,Italy,2010,8.72,Government (%),41.6
 380,Government Expenditure,Italy,2010,8.72,Higher education (%),0.9
-380,Government Expenditure,Italy,2010,8.72,Private non-profit (%),3.1
-380,Government Expenditure,Italy,2010,8.72,Funds from abroad (%),9.8
-380,Government Expenditure,Italy,2015,8.11,GDP(%),1.3
-380,Government Expenditure,Italy,2015,8.11,Business Enterprises (%),50.0
-380,Government Expenditure,Italy,2015,8.11,Government (%),38.0
 380,Government Expenditure,Italy,2015,8.11,Higher education (%),1.0
-380,Government Expenditure,Italy,2015,8.11,Private non-profit (%),2.7
-380,Government Expenditure,Italy,2015,8.11,Funds from abroad (%),8.3
-392,Government Expenditure,Japan,2016,9.13,GDP(%),3.1
-392,Government Expenditure,Japan,2016,9.13,Business Enterprises (%),78.1
-392,Government Expenditure,Japan,2016,9.13,Government (%),15.0
 392,Government Expenditure,Japan,2016,9.13,Higher education (%),5.4
-392,Government Expenditure,Japan,2016,9.13,Private non-profit (%),0.7
-392,Government Expenditure,Japan,2016,9.13,Funds from abroad (%),0.7
-398,Government Expenditure,Kazakhstan,2005,10.23,GDP(%),0.3
-398,Government Expenditure,Kazakhstan,2005,10.23,Business Enterprises (%),39.1
-398,Government Expenditure,Kazakhstan,2005,10.23,Government (%),44.5
 398,Government Expenditure,Kazakhstan,2005,10.23,Higher education (%),13.4
-398,Government Expenditure,Kazakhstan,2005,10.23,Private non-profit (%),1.3
-398,Government Expenditure,Kazakhstan,2005,10.23,Funds from abroad (%),1.5
-404,Government Expenditure,Kenya,2010,20.56,GDP(%),0.8
-404,Government Expenditure,Kenya,2010,20.56,Business Enterprises (%),4.3
-404,Government Expenditure,Kenya,2010,20.56,Government (%),26.0
 404,Government Expenditure,Kenya,2010,20.56,Higher education (%),19.0
-404,Government Expenditure,Kenya,2010,20.56,Private non-profit (%),3.5
-404,Government Expenditure,Kenya,2010,20.56,Funds from abroad (%),47.1
-414,Government Expenditure,Kuwait,2005,13.85,GDP(%),0.1
-414,Government Expenditure,Kuwait,2005,13.85,Business Enterprises (%),7.3
-414,Government Expenditure,Kuwait,2005,13.85,Government (%),92.3
-414,Government Expenditure,Kuwait,2005,13.85,Private non-profit (%),0.4
-417,Government Expenditure,Kyrgyzstan,2005,16.77,GDP(%),0.2
-417,Government Expenditure,Kyrgyzstan,2005,16.77,Business Enterprises (%),36.4
-417,Government Expenditure,Kyrgyzstan,2005,16.77,Government (%),63.6
-417,Government Expenditure,Kyrgyzstan,2005,16.77,Funds from abroad (%),0.0
-417,Government Expenditure,Kyrgyzstan,2010,15.68,GDP(%),0.2
-417,Government Expenditure,Kyrgyzstan,2016,16.78,GDP(%),0.1
-417,Government Expenditure,Kyrgyzstan,2016,16.78,Business Enterprises (%),4.7
-417,Government Expenditure,Kyrgyzstan,2016,16.78,Government (%),88.9
 417,Government Expenditure,Kyrgyzstan,2016,16.78,Higher education (%),0.3
-417,Government Expenditure,Kyrgyzstan,2016,16.78,Funds from abroad (%),1.9
-417,Government Expenditure,Kyrgyzstan,2016,16.78,Not distributed (%),4.2
-418,Government Expenditure,Lao People's Dem. Rep.,2002,16.2,GDP(%),0.0
-418,Government Expenditure,Lao People's Dem. Rep.,2002,16.2,Business Enterprises (%),36.0
-418,Government Expenditure,Lao People's Dem. Rep.,2002,16.2,Government (%),8.0
 418,Government Expenditure,Lao People's Dem. Rep.,2002,16.2,Higher education (%),2.0
-418,Government Expenditure,Lao People's Dem. Rep.,2002,16.2,Funds from abroad (%),54.0
-428,Government Expenditure,Latvia,2010,11.81,GDP(%),0.6
-428,Government Expenditure,Latvia,2010,11.81,Business Enterprises (%),38.8
-428,Government Expenditure,Latvia,2010,11.81,Government (%),26.4
 428,Government Expenditure,Latvia,2010,11.81,Higher education (%),1.4
-428,Government Expenditure,Latvia,2010,11.81,Funds from abroad (%),33.4
-428,Government Expenditure,Latvia,2015,14.13,GDP(%),0.6
-428,Government Expenditure,Latvia,2015,14.13,Business Enterprises (%),20.0
-428,Government Expenditure,Latvia,2015,14.13,Government (%),32.7
 428,Government Expenditure,Latvia,2015,14.13,Higher education (%),2.2
-428,Government Expenditure,Latvia,2015,14.13,Funds from abroad (%),45.0
-440,Government Expenditure,Lithuania,2005,14.58,GDP(%),0.7
-440,Government Expenditure,Lithuania,2005,14.58,Business Enterprises (%),20.8
-440,Government Expenditure,Lithuania,2005,14.58,Government (%),62.7
 440,Government Expenditure,Lithuania,2005,14.58,Higher education (%),5.7
-440,Government Expenditure,Lithuania,2005,14.58,Private non-profit (%),0.2
-440,Government Expenditure,Lithuania,2005,14.58,Funds from abroad (%),10.5
-440,Government Expenditure,Lithuania,2010,12.86,GDP(%),0.8
-440,Government Expenditure,Lithuania,2010,12.86,Business Enterprises (%),32.4
-440,Government Expenditure,Lithuania,2010,12.86,Government (%),46.0
 440,Government Expenditure,Lithuania,2010,12.86,Higher education (%),1.5
-440,Government Expenditure,Lithuania,2010,12.86,Private non-profit (%),0.2
-440,Government Expenditure,Lithuania,2010,12.86,Funds from abroad (%),19.9
-440,Government Expenditure,Lithuania,2015,12.29,GDP(%),1.0
-440,Government Expenditure,Lithuania,2015,12.29,Business Enterprises (%),28.5
-440,Government Expenditure,Lithuania,2015,12.29,Government (%),35.3
 440,Government Expenditure,Lithuania,2015,12.29,Higher education (%),1.5
-440,Government Expenditure,Lithuania,2015,12.29,Private non-profit (%),0.3
-440,Government Expenditure,Lithuania,2015,12.29,Funds from abroad (%),34.3
-442,Government Expenditure,Luxembourg,2015,9.43,GDP(%),1.3
-442,Government Expenditure,Luxembourg,2015,9.43,Business Enterprises (%),47.1
-442,Government Expenditure,Luxembourg,2015,9.43,Government (%),47.7
 442,Government Expenditure,Luxembourg,2015,9.43,Higher education (%),1.6
-442,Government Expenditure,Luxembourg,2015,9.43,Private non-profit (%),0.2
-442,Government Expenditure,Luxembourg,2015,9.43,Funds from abroad (%),3.4
-450,Government Expenditure,Madagascar,2005,18.03,GDP(%),0.2
-450,Government Expenditure,Madagascar,2005,18.03,Government (%),89.8
-450,Government Expenditure,Madagascar,2005,18.03,Funds from abroad (%),10.2
-450,Government Expenditure,Madagascar,2009,22.59,GDP(%),0.1
-450,Government Expenditure,Madagascar,2009,22.59,Government (%),89.4
-450,Government Expenditure,Madagascar,2009,22.59,Funds from abroad (%),10.6
-458,Government Expenditure,Malaysia,2004,21.01,GDP(%),0.6
-458,Government Expenditure,Malaysia,2004,21.01,Business Enterprises (%),71.2
-458,Government Expenditure,Malaysia,2004,21.01,Government (%),21.5
 458,Government Expenditure,Malaysia,2004,21.01,Higher education (%),6.9
-458,Government Expenditure,Malaysia,2004,21.01,Funds from abroad (%),0.4
-458,Government Expenditure,Malaysia,2010,18.41,GDP(%),1.0
-458,Government Expenditure,Malaysia,2010,18.41,Business Enterprises (%),59.6
-458,Government Expenditure,Malaysia,2010,18.41,Government (%),36.4
 458,Government Expenditure,Malaysia,2010,18.41,Higher education (%),3.5
-458,Government Expenditure,Malaysia,2010,18.41,Funds from abroad (%),0.4
-458,Government Expenditure,Malaysia,2010,18.41,Not distributed (%),0.1
-466,Government Expenditure,Mali,2010,16.5,GDP(%),0.6
-466,Government Expenditure,Mali,2010,16.5,Government (%),91.2
-466,Government Expenditure,Mali,2010,16.5,Funds from abroad (%),8.8
-470,Government Expenditure,Malta,2010,15.72,GDP(%),0.6
-470,Government Expenditure,Malta,2010,15.72,Business Enterprises (%),52.5
-470,Government Expenditure,Malta,2010,15.72,Government (%),34.4
 470,Government Expenditure,Malta,2010,15.72,Higher education (%),1.3
-470,Government Expenditure,Malta,2010,15.72,Private non-profit (%),0.1
-470,Government Expenditure,Malta,2010,15.72,Funds from abroad (%),11.7
-470,Government Expenditure,Malta,2015,13.15,GDP(%),0.8
-470,Government Expenditure,Malta,2015,13.15,Business Enterprises (%),45.6
-470,Government Expenditure,Malta,2015,13.15,Government (%),32.8
 470,Government Expenditure,Malta,2015,13.15,Higher education (%),1.1
-470,Government Expenditure,Malta,2015,13.15,Private non-profit (%),0.1
-470,Government Expenditure,Malta,2015,13.15,Funds from abroad (%),20.4
-480,Government Expenditure,Mauritius,2005,17.09,GDP(%),0.4
-480,Government Expenditure,Mauritius,2005,17.09,Government (%),100.0
-484,Government Expenditure,Mexico,2005,21.9,GDP(%),0.4
-484,Government Expenditure,Mexico,2005,21.9,Business Enterprises (%),41.5
-484,Government Expenditure,Mexico,2005,21.9,Government (%),49.2
 484,Government Expenditure,Mexico,2005,21.9,Higher education (%),7.3
-484,Government Expenditure,Mexico,2005,21.9,Private non-profit (%),0.9
-484,Government Expenditure,Mexico,2005,21.9,Funds from abroad (%),1.1
-484,Government Expenditure,Mexico,2010,18.64,GDP(%),0.5
-484,Government Expenditure,Mexico,2010,18.64,Business Enterprises (%),32.9
-484,Government Expenditure,Mexico,2010,18.64,Government (%),62.3
 484,Government Expenditure,Mexico,2010,18.64,Higher education (%),2.8
-484,Government Expenditure,Mexico,2010,18.64,Private non-profit (%),1.6
-484,Government Expenditure,Mexico,2010,18.64,Funds from abroad (%),0.5
-496,Government Expenditure,Mongolia,2010,14.71,GDP(%),0.2
-496,Government Expenditure,Mongolia,2010,14.71,Business Enterprises (%),7.2
-496,Government Expenditure,Mongolia,2010,14.71,Government (%),61.1
 496,Government Expenditure,Mongolia,2010,14.71,Higher education (%),1.5
-496,Government Expenditure,Mongolia,2010,14.71,Funds from abroad (%),4.2
-496,Government Expenditure,Mongolia,2010,14.71,Not distributed (%),25.9
-516,Government Expenditure,Namibia,2010,26.12,GDP(%),0.1
-516,Government Expenditure,Namibia,2010,26.12,Business Enterprises (%),19.8
-516,Government Expenditure,Namibia,2010,26.12,Government (%),78.6
-516,Government Expenditure,Namibia,2010,26.12,Funds from abroad (%),1.5
-516,Government Expenditure,Namibia,2014,7.64,GDP(%),0.3
-516,Government Expenditure,Namibia,2014,7.64,Business Enterprises (%),11.1
-516,Government Expenditure,Namibia,2014,7.64,Government (%),63.2
 516,Government Expenditure,Namibia,2014,7.64,Higher education (%),6.0
-516,Government Expenditure,Namibia,2014,7.64,Private non-profit (%),3.9
-516,Government Expenditure,Namibia,2014,7.64,Funds from abroad (%),15.8
-524,Government Expenditure,Nepal,2010,16.03,GDP(%),0.3
-528,Government Expenditure,Netherlands,2005,12.44,GDP(%),1.8
-528,Government Expenditure,Netherlands,2005,12.44,Business Enterprises (%),46.3
-528,Government Expenditure,Netherlands,2005,12.44,Government (%),38.8
 528,Government Expenditure,Netherlands,2005,12.44,Higher education (%),0.3
-528,Government Expenditure,Netherlands,2005,12.44,Private non-profit (%),2.6
-528,Government Expenditure,Netherlands,2005,12.44,Funds from abroad (%),12.0
-528,Government Expenditure,Netherlands,2010,11.74,GDP(%),1.7
-528,Government Expenditure,Netherlands,2015,12.25,GDP(%),2.0
-528,Government Expenditure,Netherlands,2015,12.25,Business Enterprises (%),48.6
-528,Government Expenditure,Netherlands,2015,12.25,Government (%),33.1
 528,Government Expenditure,Netherlands,2015,12.25,Higher education (%),0.2
-528,Government Expenditure,Netherlands,2015,12.25,Private non-profit (%),2.6
-528,Government Expenditure,Netherlands,2015,12.25,Funds from abroad (%),15.5
-554,Government Expenditure,New Zealand,2005,16.27,GDP(%),1.1
-554,Government Expenditure,New Zealand,2005,16.27,Business Enterprises (%),41.1
-554,Government Expenditure,New Zealand,2005,16.27,Government (%),43.2
 554,Government Expenditure,New Zealand,2005,16.27,Higher education (%),8.9
-554,Government Expenditure,New Zealand,2005,16.27,Private non-profit (%),1.7
-554,Government Expenditure,New Zealand,2005,16.27,Funds from abroad (%),5.2
-807,Government Expenditure,North Macedonia,2002,8.64,GDP(%),0.2
-807,Government Expenditure,North Macedonia,2002,8.64,Business Enterprises (%),7.8
-807,Government Expenditure,North Macedonia,2002,8.64,Government (%),76.3
 807,Government Expenditure,North Macedonia,2002,8.64,Higher education (%),7.3
-807,Government Expenditure,North Macedonia,2002,8.64,Private non-profit (%),0.0
-807,Government Expenditure,North Macedonia,2002,8.64,Funds from abroad (%),8.6
-578,Government Expenditure,Norway,2005,16.55,GDP(%),1.5
-578,Government Expenditure,Norway,2005,16.55,Business Enterprises (%),46.8
-578,Government Expenditure,Norway,2005,16.55,Government (%),43.6
 578,Government Expenditure,Norway,2005,16.55,Higher education (%),0.7
-578,Government Expenditure,Norway,2005,16.55,Private non-profit (%),0.9
-578,Government Expenditure,Norway,2005,16.55,Funds from abroad (%),8.1
-578,Government Expenditure,Norway,2010,15.23,GDP(%),1.6
-578,Government Expenditure,Norway,2015,15.73,GDP(%),1.9
-578,Government Expenditure,Norway,2015,15.73,Business Enterprises (%),44.2
-578,Government Expenditure,Norway,2015,15.73,Government (%),44.9
 578,Government Expenditure,Norway,2015,15.73,Higher education (%),0.4
-578,Government Expenditure,Norway,2015,15.73,Private non-profit (%),1.2
-578,Government Expenditure,Norway,2015,15.73,Funds from abroad (%),9.2
-586,Government Expenditure,Pakistan,2005,13.78,GDP(%),0.4
-586,Government Expenditure,Pakistan,2005,13.78,Government (%),87.0
 586,Government Expenditure,Pakistan,2005,13.78,Higher education (%),11.9
-586,Government Expenditure,Pakistan,2005,13.78,Funds from abroad (%),0.3
-586,Government Expenditure,Pakistan,2005,13.78,Not distributed (%),0.8
-591,Government Expenditure,Panama,2011,13.02,GDP(%),0.2
-591,Government Expenditure,Panama,2011,13.02,Business Enterprises (%),18.9
-591,Government Expenditure,Panama,2011,13.02,Government (%),46.7
 591,Government Expenditure,Panama,2011,13.02,Higher education (%),5.0
-591,Government Expenditure,Panama,2011,13.02,Private non-profit (%),8.7
-591,Government Expenditure,Panama,2011,13.02,Funds from abroad (%),20.7
-591,Government Expenditure,Panama,2011,13.02,Not distributed (%),0.0
-608,Government Expenditure,Philippines,2005,12.42,GDP(%),0.1
-608,Government Expenditure,Philippines,2005,12.42,Business Enterprises (%),62.6
-608,Government Expenditure,Philippines,2005,12.42,Government (%),25.6
 608,Government Expenditure,Philippines,2005,12.42,Higher education (%),6.0
-608,Government Expenditure,Philippines,2005,12.42,Private non-profit (%),0.7
-608,Government Expenditure,Philippines,2005,12.42,Funds from abroad (%),4.8
-608,Government Expenditure,Philippines,2005,12.42,Not distributed (%),0.3
-608,Government Expenditure,Philippines,2009,13.21,GDP(%),0.1
-608,Government Expenditure,Philippines,2009,13.21,Business Enterprises (%),57.5
-608,Government Expenditure,Philippines,2009,13.21,Government (%),26.7
 608,Government Expenditure,Philippines,2009,13.21,Higher education (%),7.8
-608,Government Expenditure,Philippines,2009,13.21,Private non-profit (%),0.4
-608,Government Expenditure,Philippines,2009,13.21,Funds from abroad (%),4.2
-608,Government Expenditure,Philippines,2009,13.21,Not distributed (%),3.4
-616,Government Expenditure,Poland,2005,12.22,GDP(%),0.6
-616,Government Expenditure,Poland,2005,12.22,Business Enterprises (%),33.4
-616,Government Expenditure,Poland,2005,12.22,Government (%),57.7
 616,Government Expenditure,Poland,2005,12.22,Higher education (%),2.9
-616,Government Expenditure,Poland,2005,12.22,Private non-profit (%),0.3
-616,Government Expenditure,Poland,2005,12.22,Funds from abroad (%),5.7
-616,Government Expenditure,Poland,2010,11.06,GDP(%),0.7
-616,Government Expenditure,Poland,2010,11.06,Business Enterprises (%),24.4
-616,Government Expenditure,Poland,2010,11.06,Government (%),60.9
 616,Government Expenditure,Poland,2010,11.06,Higher education (%),2.5
-616,Government Expenditure,Poland,2010,11.06,Private non-profit (%),0.3
-616,Government Expenditure,Poland,2010,11.06,Funds from abroad (%),11.8
-616,Government Expenditure,Poland,2015,11.58,GDP(%),1.0
-616,Government Expenditure,Poland,2015,11.58,Business Enterprises (%),39.0
-616,Government Expenditure,Poland,2015,11.58,Government (%),41.8
 616,Government Expenditure,Poland,2015,11.58,Higher education (%),2.2
-616,Government Expenditure,Poland,2015,11.58,Private non-profit (%),0.2
-616,Government Expenditure,Poland,2015,11.58,Funds from abroad (%),16.7
-620,Government Expenditure,Portugal,2005,10.86,GDP(%),0.8
-620,Government Expenditure,Portugal,2005,10.86,Business Enterprises (%),36.3
-620,Government Expenditure,Portugal,2005,10.86,Government (%),55.2
 620,Government Expenditure,Portugal,2005,10.86,Higher education (%),1.0
-620,Government Expenditure,Portugal,2005,10.86,Private non-profit (%),2.8
-620,Government Expenditure,Portugal,2005,10.86,Funds from abroad (%),4.7
-620,Government Expenditure,Portugal,2010,10.43,GDP(%),1.5
-620,Government Expenditure,Portugal,2010,10.43,Business Enterprises (%),43.9
-620,Government Expenditure,Portugal,2010,10.43,Government (%),45.1
 620,Government Expenditure,Portugal,2010,10.43,Higher education (%),3.2
-620,Government Expenditure,Portugal,2010,10.43,Private non-profit (%),4.6
-620,Government Expenditure,Portugal,2010,10.43,Funds from abroad (%),3.2
-620,Government Expenditure,Portugal,2015,10.15,GDP(%),1.2
-620,Government Expenditure,Portugal,2015,10.15,Business Enterprises (%),42.7
-620,Government Expenditure,Portugal,2015,10.15,Government (%),44.3
 620,Government Expenditure,Portugal,2015,10.15,Higher education (%),4.4
-620,Government Expenditure,Portugal,2015,10.15,Private non-profit (%),1.3
-620,Government Expenditure,Portugal,2015,10.15,Funds from abroad (%),7.4
-498,Government Expenditure,Republic of Moldova,2005,19.3,GDP(%),0.4
-498,Government Expenditure,Republic of Moldova,2005,19.3,Funds from abroad (%),3.8
-498,Government Expenditure,Republic of Moldova,2005,19.3,Not distributed (%),96.2
-498,Government Expenditure,Republic of Moldova,2010,22.27,GDP(%),0.4
-498,Government Expenditure,Republic of Moldova,2010,22.27,Funds from abroad (%),7.4
-498,Government Expenditure,Republic of Moldova,2010,22.27,Not distributed (%),92.6
-642,Government Expenditure,Romania,2005,10.84,GDP(%),0.4
-642,Government Expenditure,Romania,2005,10.84,Business Enterprises (%),37.2
-642,Government Expenditure,Romania,2005,10.84,Government (%),53.5
 642,Government Expenditure,Romania,2005,10.84,Higher education (%),4.0
-642,Government Expenditure,Romania,2005,10.84,Private non-profit (%),0.0
-642,Government Expenditure,Romania,2005,10.84,Funds from abroad (%),5.3
-642,Government Expenditure,Romania,2010,9.13,GDP(%),0.5
-642,Government Expenditure,Romania,2010,9.13,Business Enterprises (%),32.3
-642,Government Expenditure,Romania,2010,9.13,Government (%),54.4
 642,Government Expenditure,Romania,2010,9.13,Higher education (%),2.2
-642,Government Expenditure,Romania,2010,9.13,Private non-profit (%),0.0
-642,Government Expenditure,Romania,2010,9.13,Funds from abroad (%),11.1
-642,Government Expenditure,Romania,2015,9.08,GDP(%),0.5
-642,Government Expenditure,Romania,2015,9.08,Business Enterprises (%),37.3
-642,Government Expenditure,Romania,2015,9.08,Government (%),41.7
 642,Government Expenditure,Romania,2015,9.08,Higher education (%),1.7
-642,Government Expenditure,Romania,2015,9.08,Private non-profit (%),0.1
-642,Government Expenditure,Romania,2015,9.08,Funds from abroad (%),19.2
-643,Government Expenditure,Russian Federation,2005,11.95,GDP(%),1.1
-643,Government Expenditure,Russian Federation,2005,11.95,Business Enterprises (%),30.0
-643,Government Expenditure,Russian Federation,2005,11.95,Government (%),61.9
 643,Government Expenditure,Russian Federation,2005,11.95,Higher education (%),0.4
-643,Government Expenditure,Russian Federation,2005,11.95,Private non-profit (%),0.0
-643,Government Expenditure,Russian Federation,2005,11.95,Funds from abroad (%),7.6
-682,Government Expenditure,Saudi Arabia,2005,19.29,GDP(%),0.0
-686,Government Expenditure,Senegal,2010,24.05,GDP(%),0.5
-686,Government Expenditure,Senegal,2010,24.05,Business Enterprises (%),4.1
-686,Government Expenditure,Senegal,2010,24.05,Government (%),47.6
 686,Government Expenditure,Senegal,2010,24.05,Higher education (%),0.0
-686,Government Expenditure,Senegal,2010,24.05,Private non-profit (%),3.2
-686,Government Expenditure,Senegal,2010,24.05,Funds from abroad (%),40.5
-686,Government Expenditure,Senegal,2010,24.05,Not distributed (%),4.5
-688,Government Expenditure,Serbia,2010,10.1,GDP(%),0.7
-688,Government Expenditure,Serbia,2010,10.1,Business Enterprises (%),8.6
-688,Government Expenditure,Serbia,2010,10.1,Government (%),59.4
 688,Government Expenditure,Serbia,2010,10.1,Higher education (%),28.4
-688,Government Expenditure,Serbia,2010,10.1,Private non-profit (%),0.0
-688,Government Expenditure,Serbia,2010,10.1,Funds from abroad (%),3.6
-688,Government Expenditure,Serbia,2016,8.69,GDP(%),0.9
-688,Government Expenditure,Serbia,2016,8.69,Business Enterprises (%),9.2
-688,Government Expenditure,Serbia,2016,8.69,Government (%),45.6
 688,Government Expenditure,Serbia,2016,8.69,Higher education (%),32.3
-688,Government Expenditure,Serbia,2016,8.69,Private non-profit (%),0.0
-688,Government Expenditure,Serbia,2016,8.69,Funds from abroad (%),13.0
-690,Government Expenditure,Seychelles,2016,11.72,GDP(%),0.2
-690,Government Expenditure,Seychelles,2016,11.72,Business Enterprises (%),2.0
-690,Government Expenditure,Seychelles,2016,11.72,Government (%),56.1
 690,Government Expenditure,Seychelles,2016,11.72,Higher education (%),4.5
-690,Government Expenditure,Seychelles,2016,11.72,Private non-profit (%),3.2
-690,Government Expenditure,Seychelles,2016,11.72,Funds from abroad (%),33.9
-690,Government Expenditure,Seychelles,2016,11.72,Not distributed (%),0.3
-702,Government Expenditure,Singapore,2005,19.82,GDP(%),2.2
-702,Government Expenditure,Singapore,2005,19.82,Business Enterprises (%),58.8
-702,Government Expenditure,Singapore,2005,19.82,Government (%),36.4
 702,Government Expenditure,Singapore,2005,19.82,Higher education (%),0.5
-702,Government Expenditure,Singapore,2005,19.82,Funds from abroad (%),4.4
-702,Government Expenditure,Singapore,2010,17.17,GDP(%),2.0
-702,Government Expenditure,Singapore,2010,17.17,Business Enterprises (%),53.1
-702,Government Expenditure,Singapore,2010,17.17,Government (%),40.2
 702,Government Expenditure,Singapore,2010,17.17,Higher education (%),1.8
-702,Government Expenditure,Singapore,2010,17.17,Funds from abroad (%),4.9
-703,Government Expenditure,Slovakia,2005,9.47,GDP(%),0.5
-703,Government Expenditure,Slovakia,2005,9.47,Business Enterprises (%),36.6
-703,Government Expenditure,Slovakia,2005,9.47,Government (%),57.0
 703,Government Expenditure,Slovakia,2005,9.47,Higher education (%),0.3
-703,Government Expenditure,Slovakia,2005,9.47,Private non-profit (%),0.0
-703,Government Expenditure,Slovakia,2005,9.47,Funds from abroad (%),6.0
-703,Government Expenditure,Slovakia,2010,9.77,GDP(%),0.6
-703,Government Expenditure,Slovakia,2010,9.77,Business Enterprises (%),35.1
-703,Government Expenditure,Slovakia,2010,9.77,Government (%),49.6
 703,Government Expenditure,Slovakia,2010,9.77,Higher education (%),0.4
-703,Government Expenditure,Slovakia,2010,9.77,Private non-profit (%),0.3
-703,Government Expenditure,Slovakia,2010,9.77,Funds from abroad (%),14.7
-703,Government Expenditure,Slovakia,2015,10.28,GDP(%),1.2
-703,Government Expenditure,Slovakia,2015,10.28,Business Enterprises (%),25.1
-703,Government Expenditure,Slovakia,2015,10.28,Government (%),31.9
 703,Government Expenditure,Slovakia,2015,10.28,Higher education (%),3.3
-703,Government Expenditure,Slovakia,2015,10.28,Private non-profit (%),0.3
-703,Government Expenditure,Slovakia,2015,10.28,Funds from abroad (%),39.4
-705,Government Expenditure,Slovenia,2005,13.29,GDP(%),1.4
-705,Government Expenditure,Slovenia,2005,13.29,Business Enterprises (%),54.8
-705,Government Expenditure,Slovenia,2005,13.29,Government (%),37.2
 705,Government Expenditure,Slovenia,2005,13.29,Higher education (%),0.7
-705,Government Expenditure,Slovenia,2005,13.29,Private non-profit (%),0.0
-705,Government Expenditure,Slovenia,2005,13.29,Funds from abroad (%),7.3
-705,Government Expenditure,Slovenia,2010,12.08,GDP(%),2.1
-705,Government Expenditure,Slovenia,2010,12.08,Business Enterprises (%),58.4
-705,Government Expenditure,Slovenia,2010,12.08,Government (%),35.3
 705,Government Expenditure,Slovenia,2010,12.08,Higher education (%),0.3
-705,Government Expenditure,Slovenia,2010,12.08,Private non-profit (%),0.1
-705,Government Expenditure,Slovenia,2010,12.08,Funds from abroad (%),6.0
-705,Government Expenditure,Slovenia,2015,11.22,GDP(%),2.2
-705,Government Expenditure,Slovenia,2015,11.22,Business Enterprises (%),69.2
-705,Government Expenditure,Slovenia,2015,11.22,Government (%),19.9
 705,Government Expenditure,Slovenia,2015,11.22,Higher education (%),0.3
-705,Government Expenditure,Slovenia,2015,11.22,Private non-profit (%),0.0
-705,Government Expenditure,Slovenia,2015,11.22,Funds from abroad (%),10.6
-710,Government Expenditure,South Africa,2005,19.92,GDP(%),0.9
-710,Government Expenditure,South Africa,2005,19.92,Business Enterprises (%),43.9
-710,Government Expenditure,South Africa,2005,19.92,Government (%),38.2
 710,Government Expenditure,South Africa,2005,19.92,Higher education (%),3.0
-710,Government Expenditure,South Africa,2005,19.92,Private non-profit (%),1.4
-710,Government Expenditure,South Africa,2005,19.92,Funds from abroad (%),13.6
-710,Government Expenditure,South Africa,2010,18.04,GDP(%),0.7
-710,Government Expenditure,South Africa,2010,18.04,Business Enterprises (%),40.1
-710,Government Expenditure,South Africa,2010,18.04,Government (%),44.5
 710,Government Expenditure,South Africa,2010,18.04,Higher education (%),0.1
-710,Government Expenditure,South Africa,2010,18.04,Private non-profit (%),3.2
-710,Government Expenditure,South Africa,2010,18.04,Funds from abroad (%),12.1
-724,Government Expenditure,Spain,2005,10.78,GDP(%),1.1
-724,Government Expenditure,Spain,2005,10.78,Business Enterprises (%),46.3
-724,Government Expenditure,Spain,2005,10.78,Government (%),43.0
 724,Government Expenditure,Spain,2005,10.78,Higher education (%),4.1
-724,Government Expenditure,Spain,2005,10.78,Private non-profit (%),0.9
-724,Government Expenditure,Spain,2005,10.78,Funds from abroad (%),5.7
-724,Government Expenditure,Spain,2010,10.56,GDP(%),1.3
-724,Government Expenditure,Spain,2010,10.56,Business Enterprises (%),43.0
-724,Government Expenditure,Spain,2010,10.56,Government (%),46.6
 724,Government Expenditure,Spain,2010,10.56,Higher education (%),3.9
-724,Government Expenditure,Spain,2010,10.56,Private non-profit (%),0.7
-724,Government Expenditure,Spain,2010,10.56,Funds from abroad (%),5.7
-724,Government Expenditure,Spain,2015,9.77,GDP(%),1.2
-724,Government Expenditure,Spain,2015,9.77,Business Enterprises (%),45.8
-724,Government Expenditure,Spain,2015,9.77,Government (%),40.9
 724,Government Expenditure,Spain,2015,9.77,Higher education (%),4.3
-724,Government Expenditure,Spain,2015,9.77,Private non-profit (%),0.9
-724,Government Expenditure,Spain,2015,9.77,Funds from abroad (%),8.0
-144,Government Expenditure,Sri Lanka,2010,8.61,GDP(%),0.1
-144,Government Expenditure,Sri Lanka,2010,8.61,Business Enterprises (%),40.9
-144,Government Expenditure,Sri Lanka,2010,8.61,Government (%),55.9
 144,Government Expenditure,Sri Lanka,2010,8.61,Higher education (%),0.2
-144,Government Expenditure,Sri Lanka,2010,8.61,Private non-profit (%),0.0
-144,Government Expenditure,Sri Lanka,2010,8.61,Funds from abroad (%),2.7
-144,Government Expenditure,Sri Lanka,2010,8.61,Not distributed (%),0.3
-729,Government Expenditure,Sudan,2005,5.97,GDP(%),0.3
-752,Government Expenditure,Sweden,2005,12.76,GDP(%),3.4
-752,Government Expenditure,Sweden,2005,12.76,Business Enterprises (%),63.9
-752,Government Expenditure,Sweden,2005,12.76,Government (%),24.4
 752,Government Expenditure,Sweden,2005,12.76,Higher education (%),0.7
-752,Government Expenditure,Sweden,2005,12.76,Private non-profit (%),2.9
-752,Government Expenditure,Sweden,2005,12.76,Funds from abroad (%),8.1
-752,Government Expenditure,Sweden,2010,13.31,GDP(%),3.2
-752,Government Expenditure,Sweden,2015,15.5,GDP(%),3.3
-752,Government Expenditure,Sweden,2015,15.5,Business Enterprises (%),57.3
 752,Government Expenditure,Sweden,2015,15.5,Higher education (%),0.9
-752,Government Expenditure,Sweden,2015,15.5,Private non-profit (%),3.3
-756,Government Expenditure,Switzerland,2015,15.53,GDP(%),3.4
-756,Government Expenditure,Switzerland,2015,15.53,Business Enterprises (%),63.5
-756,Government Expenditure,Switzerland,2015,15.53,Government (%),24.4
 756,Government Expenditure,Switzerland,2015,15.53,Higher education (%),1.5
-756,Government Expenditure,Switzerland,2015,15.53,Private non-profit (%),0.5
-756,Government Expenditure,Switzerland,2015,15.53,Funds from abroad (%),10.2
-762,Government Expenditure,Tajikistan,2005,15.29,GDP(%),0.1
-762,Government Expenditure,Tajikistan,2005,15.29,Business Enterprises (%),2.2
-762,Government Expenditure,Tajikistan,2005,15.29,Government (%),91.5
 762,Government Expenditure,Tajikistan,2005,15.29,Higher education (%),0.3
-762,Government Expenditure,Tajikistan,2005,15.29,Not distributed (%),5.5
-762,Government Expenditure,Tajikistan,2010,15.33,GDP(%),0.1
-762,Government Expenditure,Tajikistan,2010,15.33,Business Enterprises (%),1.9
-762,Government Expenditure,Tajikistan,2010,15.33,Government (%),76.2
 762,Government Expenditure,Tajikistan,2010,15.33,Higher education (%),0.4
-762,Government Expenditure,Tajikistan,2010,15.33,Not distributed (%),19.7
-764,Government Expenditure,Thailand,2005,20.55,GDP(%),0.2
-764,Government Expenditure,Thailand,2005,20.55,Business Enterprises (%),48.7
-764,Government Expenditure,Thailand,2005,20.55,Government (%),31.5
 764,Government Expenditure,Thailand,2005,20.55,Higher education (%),14.9
-764,Government Expenditure,Thailand,2005,20.55,Private non-profit (%),0.7
-764,Government Expenditure,Thailand,2005,20.55,Funds from abroad (%),1.8
-764,Government Expenditure,Thailand,2005,20.55,Not distributed (%),2.4
-768,Government Expenditure,Togo,2010,19.62,GDP(%),0.3
-768,Government Expenditure,Togo,2010,19.62,Government (%),88.3
-768,Government Expenditure,Togo,2010,19.62,Funds from abroad (%),11.7
-788,Government Expenditure,Tunisia,2005,26.7,GDP(%),0.7
-788,Government Expenditure,Tunisia,2005,26.7,Business Enterprises (%),14.4
-788,Government Expenditure,Tunisia,2005,26.7,Government (%),79.2
-788,Government Expenditure,Tunisia,2005,26.7,Funds from abroad (%),6.4
-788,Government Expenditure,Tunisia,2010,24.85,GDP(%),0.7
-788,Government Expenditure,Tunisia,2010,24.85,Business Enterprises (%),17.1
-788,Government Expenditure,Tunisia,2010,24.85,Government (%),78.1
-788,Government Expenditure,Tunisia,2010,24.85,Funds from abroad (%),4.8
-788,Government Expenditure,Tunisia,2015,22.9,GDP(%),0.6
-788,Government Expenditure,Tunisia,2015,22.9,Business Enterprises (%),18.9
-788,Government Expenditure,Tunisia,2015,22.9,Government (%),77.1
-788,Government Expenditure,Tunisia,2015,22.9,Funds from abroad (%),3.9
-792,Government Expenditure,Turkey,2015,12.84,GDP(%),0.9
-792,Government Expenditure,Turkey,2015,12.84,Business Enterprises (%),50.1
-792,Government Expenditure,Turkey,2015,12.84,Government (%),27.6
 792,Government Expenditure,Turkey,2015,12.84,Higher education (%),18.1
-792,Government Expenditure,Turkey,2015,12.84,Private non-profit (%),3.2
-792,Government Expenditure,Turkey,2015,12.84,Funds from abroad (%),1.1
-800,Government Expenditure,Uganda,2010,10.1,GDP(%),0.5
-800,Government Expenditure,Uganda,2010,10.1,Business Enterprises (%),13.7
-800,Government Expenditure,Uganda,2010,10.1,Government (%),21.9
 800,Government Expenditure,Uganda,2010,10.1,Higher education (%),1.0
-800,Government Expenditure,Uganda,2010,10.1,Private non-profit (%),6.0
-800,Government Expenditure,Uganda,2010,10.1,Funds from abroad (%),57.3
-800,Government Expenditure,Uganda,2014,10.88,GDP(%),0.2
-800,Government Expenditure,Uganda,2014,10.88,Business Enterprises (%),3.4
-800,Government Expenditure,Uganda,2014,10.88,Government (%),37.9
 800,Government Expenditure,Uganda,2014,10.88,Higher education (%),2.3
-800,Government Expenditure,Uganda,2014,10.88,Private non-profit (%),3.3
-800,Government Expenditure,Uganda,2014,10.88,Funds from abroad (%),52.4
-800,Government Expenditure,Uganda,2014,10.88,Not distributed (%),0.7
-804,Government Expenditure,Ukraine,2005,13.74,GDP(%),1.0
-804,Government Expenditure,Ukraine,2005,13.74,Business Enterprises (%),32.3
-804,Government Expenditure,Ukraine,2005,13.74,Government (%),40.1
 804,Government Expenditure,Ukraine,2005,13.74,Higher education (%),0.1
-804,Government Expenditure,Ukraine,2005,13.74,Private non-profit (%),0.4
-804,Government Expenditure,Ukraine,2005,13.74,Funds from abroad (%),24.4
-804,Government Expenditure,Ukraine,2005,13.74,Not distributed (%),2.8
-804,Government Expenditure,Ukraine,2016,12.35,GDP(%),0.5
-804,Government Expenditure,Ukraine,2016,12.35,Business Enterprises (%),36.9
-804,Government Expenditure,Ukraine,2016,12.35,Government (%),39.3
 804,Government Expenditure,Ukraine,2016,12.35,Higher education (%),0.2
-804,Government Expenditure,Ukraine,2016,12.35,Private non-profit (%),0.0
-804,Government Expenditure,Ukraine,2016,12.35,Funds from abroad (%),22.1
-804,Government Expenditure,Ukraine,2016,12.35,Not distributed (%),1.6
-826,Government Expenditure,United Kingdom,2005,13.17,GDP(%),1.6
-826,Government Expenditure,United Kingdom,2005,13.17,Business Enterprises (%),42.1
-826,Government Expenditure,United Kingdom,2005,13.17,Government (%),32.7
 826,Government Expenditure,United Kingdom,2005,13.17,Higher education (%),1.2
-826,Government Expenditure,United Kingdom,2005,13.17,Private non-profit (%),4.7
-826,Government Expenditure,United Kingdom,2005,13.17,Funds from abroad (%),19.3
-826,Government Expenditure,United Kingdom,2010,13.03,GDP(%),1.7
-826,Government Expenditure,United Kingdom,2010,13.03,Business Enterprises (%),44.0
-826,Government Expenditure,United Kingdom,2010,13.03,Government (%),32.3
 826,Government Expenditure,United Kingdom,2010,13.03,Higher education (%),1.2
-826,Government Expenditure,United Kingdom,2010,13.03,Private non-profit (%),4.8
-826,Government Expenditure,United Kingdom,2010,13.03,Funds from abroad (%),17.6
-826,Government Expenditure,United Kingdom,2016,13.92,GDP(%),1.7
-834,Government Expenditure,United Rep. of Tanzania,2010,19.65,GDP(%),0.4
-834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Business Enterprises (%),0.1
-834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Government (%),57.5
 834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Higher education (%),0.3
-834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Private non-profit (%),0.1
-834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Funds from abroad (%),42.0
-840,Government Expenditure,United States of America,2010,13.15,GDP(%),2.7
-840,Government Expenditure,United States of America,2010,13.15,Business Enterprises (%),56.9
-840,Government Expenditure,United States of America,2010,13.15,Government (%),32.6
 840,Government Expenditure,United States of America,2010,13.15,Higher education (%),3.0
-840,Government Expenditure,United States of America,2010,13.15,Private non-profit (%),3.8
-840,Government Expenditure,United States of America,2010,13.15,Funds from abroad (%),3.7
-858,Government Expenditure,Uruguay,2011,14.93,GDP(%),0.3
-858,Government Expenditure,Uruguay,2011,14.93,Business Enterprises (%),8.5
-858,Government Expenditure,Uruguay,2011,14.93,Government (%),30.8
 858,Government Expenditure,Uruguay,2011,14.93,Higher education (%),45.2
-858,Government Expenditure,Uruguay,2011,14.93,Private non-profit (%),0.1
-858,Government Expenditure,Uruguay,2011,14.93,Funds from abroad (%),6.5
-858,Government Expenditure,Uruguay,2011,14.93,Not distributed (%),8.9
-894,Government Expenditure,Zambia,2005,7.73,GDP(%),0.0
-894,Government Expenditure,Zambia,2008,5.65,GDP(%),0.3
-894,Government Expenditure,Zambia,2008,5.65,Business Enterprises (%),3.2
-894,Government Expenditure,Zambia,2008,5.65,Government (%),94.8
-894,Government Expenditure,Zambia,2008,5.65,Private non-profit (%),0.3
-894,Government Expenditure,Zambia,2008,5.65,Funds from abroad (%),1.6

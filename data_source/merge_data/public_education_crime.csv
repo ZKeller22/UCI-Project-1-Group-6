@@ -1,30 +1,22 @@
 Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Data,"Rate per 100,000"
 4,Government Expenditure,Afghanistan,2010,17.07,Homicide (%),3.4
 8,Government Expenditure,Albania,2005,11.36,Homicide (%),5.0
-8,Government Expenditure,Albania,2005,11.36,"Percentage of male and female intentional homicide victims, Male",8.6
-8,Government Expenditure,Albania,2005,11.36,"Percentage of male and female intentional homicide victims, Female",1.4
 8,Government Expenditure,Albania,2005,11.36,Assault (%),5.4
 8,Government Expenditure,Albania,2005,11.36,Theft (%),97.0
 8,Government Expenditure,Albania,2005,11.36,Robbery (%),6.5
 8,Government Expenditure,Albania,2005,11.36,Sexual Violence (%),2.9
 8,Government Expenditure,Albania,2015,11.32,Homicide (%),2.3
-8,Government Expenditure,Albania,2015,11.32,"Percentage of male and female intentional homicide victims, Male",3.5
-8,Government Expenditure,Albania,2015,11.32,"Percentage of male and female intentional homicide victims, Female",1.0
 8,Government Expenditure,Albania,2015,11.32,Assault (%),5.8
 8,Government Expenditure,Albania,2015,11.32,Kidnapping (%),0.3
 8,Government Expenditure,Albania,2015,11.32,Theft (%),245.8
 8,Government Expenditure,Albania,2015,11.32,Robbery (%),8.0
 8,Government Expenditure,Albania,2015,11.32,Sexual Violence (%),5.1
 8,Government Expenditure,Albania,2016,13.6,Homicide (%),2.7
-8,Government Expenditure,Albania,2016,13.6,"Percentage of male and female intentional homicide victims, Male",4.3
-8,Government Expenditure,Albania,2016,13.6,"Percentage of male and female intentional homicide victims, Female",1.0
 8,Government Expenditure,Albania,2016,13.6,Assault (%),4.0
 8,Government Expenditure,Albania,2016,13.6,Kidnapping (%),0.1
 8,Government Expenditure,Albania,2016,13.6,Theft (%),192.4
 8,Government Expenditure,Albania,2016,13.6,Robbery (%),5.4
 28,Government Expenditure,Antigua and Barbuda,2002,11.7,Homicide (%),5.8
-28,Government Expenditure,Antigua and Barbuda,2002,11.7,"Percentage of male and female intentional homicide victims, Male",9.2
-28,Government Expenditure,Antigua and Barbuda,2002,11.7,"Percentage of male and female intentional homicide victims, Female",2.8
 32,Government Expenditure,Argentina,2005,15.81,Assault (%),363.0
 32,Government Expenditure,Argentina,2005,15.81,Theft (%),775.7
 32,Government Expenditure,Argentina,2005,15.81,Robbery (%),907.7
@@ -33,67 +25,49 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 32,Government Expenditure,Argentina,2016,13.38,Theft (%),616.2
 32,Government Expenditure,Argentina,2016,13.38,Robbery (%),988.9
 51,Government Expenditure,Armenia,2005,13.65,Homicide (%),1.9
-51,Government Expenditure,Armenia,2005,13.65,"Percentage of male and female intentional homicide victims, Male",3.4
-51,Government Expenditure,Armenia,2005,13.65,"Percentage of male and female intentional homicide victims, Female",0.7
 51,Government Expenditure,Armenia,2005,13.65,Assault (%),6.0
 51,Government Expenditure,Armenia,2005,13.65,Kidnapping (%),0.7
 51,Government Expenditure,Armenia,2005,13.65,Theft (%),82.6
 51,Government Expenditure,Armenia,2005,13.65,Robbery (%),9.0
 51,Government Expenditure,Armenia,2005,13.65,Sexual Violence (%),1.7
 51,Government Expenditure,Armenia,2010,12.4,Homicide (%),1.9
-51,Government Expenditure,Armenia,2010,12.4,"Percentage of male and female intentional homicide victims, Male",3.4
-51,Government Expenditure,Armenia,2010,12.4,"Percentage of male and female intentional homicide victims, Female",0.7
 51,Government Expenditure,Armenia,2010,12.4,Assault (%),5.4
 51,Government Expenditure,Armenia,2010,12.4,Kidnapping (%),1.4
 51,Government Expenditure,Armenia,2010,12.4,Theft (%),127.3
 51,Government Expenditure,Armenia,2010,12.4,Robbery (%),12.4
 51,Government Expenditure,Armenia,2010,12.4,Sexual Violence (%),2.8
 51,Government Expenditure,Armenia,2016,10.2,Homicide (%),3.0
-51,Government Expenditure,Armenia,2016,10.2,"Percentage of male and female intentional homicide victims, Male",5.2
-51,Government Expenditure,Armenia,2016,10.2,"Percentage of male and female intentional homicide victims, Female",1.0
 51,Government Expenditure,Armenia,2016,10.2,Assault (%),6.4
 51,Government Expenditure,Armenia,2016,10.2,Kidnapping (%),1.7
 51,Government Expenditure,Armenia,2016,10.2,Theft (%),194.3
 51,Government Expenditure,Armenia,2016,10.2,Robbery (%),10.5
 36,Government Expenditure,Australia,2005,13.59,Homicide (%),1.3
-36,Government Expenditure,Australia,2005,13.59,"Percentage of male and female intentional homicide victims, Male",1.6
-36,Government Expenditure,Australia,2005,13.59,"Percentage of male and female intentional homicide victims, Female",1.0
 36,Government Expenditure,Australia,2005,13.59,Theft (%),
 36,Government Expenditure,Australia,2010,14.33,Homicide (%),1.0
-36,Government Expenditure,Australia,2010,14.33,"Percentage of male and female intentional homicide victims, Male",1.2
-36,Government Expenditure,Australia,2010,14.33,"Percentage of male and female intentional homicide victims, Female",0.8
 36,Government Expenditure,Australia,2010,14.33,Assault (%),310.4
 36,Government Expenditure,Australia,2010,14.33,Kidnapping (%),2.8
 36,Government Expenditure,Australia,2010,14.33,Theft (%),
 36,Government Expenditure,Australia,2010,14.33,Robbery (%),66.2
 36,Government Expenditure,Australia,2010,14.33,Sexual Violence (%),85.1
 36,Government Expenditure,Australia,2015,14.08,Homicide (%),1.0
-36,Government Expenditure,Australia,2015,14.08,"Percentage of male and female intentional homicide victims, Male",1.3
-36,Government Expenditure,Australia,2015,14.08,"Percentage of male and female intentional homicide victims, Female",0.7
 36,Government Expenditure,Australia,2015,14.08,Assault (%),284.7
 36,Government Expenditure,Australia,2015,14.08,Kidnapping (%),2.2
 36,Government Expenditure,Australia,2015,14.08,Theft (%),
 36,Government Expenditure,Australia,2015,14.08,Robbery (%),37.7
 36,Government Expenditure,Australia,2015,14.08,Sexual Violence (%),89.2
 40,Government Expenditure,Austria,2005,10.26,Homicide (%),0.7
-40,Government Expenditure,Austria,2005,10.26,"Percentage of male and female intentional homicide victims, Male",0.7
-40,Government Expenditure,Austria,2005,10.26,"Percentage of male and female intentional homicide victims, Female",0.6
 40,Government Expenditure,Austria,2005,10.26,Assault (%),43.8
 40,Government Expenditure,Austria,2005,10.26,Kidnapping (%),0.1
 40,Government Expenditure,Austria,2005,10.26,Theft (%),
 40,Government Expenditure,Austria,2005,10.26,Robbery (%),57.8
 40,Government Expenditure,Austria,2005,10.26,Sexual Violence (%),20.3
 40,Government Expenditure,Austria,2010,10.79,Homicide (%),0.7
-40,Government Expenditure,Austria,2010,10.79,"Percentage of male and female intentional homicide victims, Male",0.7
-40,Government Expenditure,Austria,2010,10.79,"Percentage of male and female intentional homicide victims, Female",0.7
 40,Government Expenditure,Austria,2010,10.79,Assault (%),42.9
 40,Government Expenditure,Austria,2010,10.79,Kidnapping (%),0.1
 40,Government Expenditure,Austria,2010,10.79,Theft (%),
 40,Government Expenditure,Austria,2010,10.79,Robbery (%),51.2
 40,Government Expenditure,Austria,2010,10.79,Sexual Violence (%),39.3
 40,Government Expenditure,Austria,2015,10.69,Homicide (%),0.5
-40,Government Expenditure,Austria,2015,10.69,"Percentage of male and female intentional homicide victims, Male",0.7
-40,Government Expenditure,Austria,2015,10.69,"Percentage of male and female intentional homicide victims, Female",0.4
 40,Government Expenditure,Austria,2015,10.69,Assault (%),35.4
 40,Government Expenditure,Austria,2015,10.69,Kidnapping (%),0.0
 40,Government Expenditure,Austria,2015,10.69,Theft (%),
@@ -105,16 +79,12 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 31,Government Expenditure,Azerbaijan,2005,13.22,Theft (%),25.2
 31,Government Expenditure,Azerbaijan,2005,13.22,Robbery (%),2.3
 31,Government Expenditure,Azerbaijan,2010,8.7,Homicide (%),2.3
-31,Government Expenditure,Azerbaijan,2010,8.7,"Percentage of male and female intentional homicide victims, Male",3.2
-31,Government Expenditure,Azerbaijan,2010,8.7,"Percentage of male and female intentional homicide victims, Female",1.4
 31,Government Expenditure,Azerbaijan,2010,8.7,Assault (%),1.9
 31,Government Expenditure,Azerbaijan,2010,8.7,Kidnapping (%),0.0
 31,Government Expenditure,Azerbaijan,2010,8.7,Theft (%),42.8
 31,Government Expenditure,Azerbaijan,2010,8.7,Robbery (%),3.3
 31,Government Expenditure,Azerbaijan,2010,8.7,Sexual Violence (%),2.2
 31,Government Expenditure,Azerbaijan,2016,8.2,Homicide (%),2.1
-31,Government Expenditure,Azerbaijan,2016,8.2,"Percentage of male and female intentional homicide victims, Male",2.5
-31,Government Expenditure,Azerbaijan,2016,8.2,"Percentage of male and female intentional homicide victims, Female",1.8
 31,Government Expenditure,Azerbaijan,2016,8.2,Assault (%),3.4
 31,Government Expenditure,Azerbaijan,2016,8.2,Kidnapping (%),0.1
 31,Government Expenditure,Azerbaijan,2016,8.2,Theft (%),24.8
@@ -125,16 +95,12 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 48,Government Expenditure,Bahrain,2008,10.56,Robbery (%),27.5
 48,Government Expenditure,Bahrain,2008,10.56,Sexual Violence (%),15.7
 52,Government Expenditure,Barbados,2005,18.24,Homicide (%),10.6
-52,Government Expenditure,Barbados,2005,18.24,"Percentage of male and female intentional homicide victims, Male",15.1
-52,Government Expenditure,Barbados,2005,18.24,"Percentage of male and female intentional homicide victims, Female",6.4
 52,Government Expenditure,Barbados,2005,18.24,Assault (%),631.7
 52,Government Expenditure,Barbados,2005,18.24,Kidnapping (%),8.4
 52,Government Expenditure,Barbados,2005,18.24,Theft (%),412.4
 52,Government Expenditure,Barbados,2005,18.24,Robbery (%),120.4
 52,Government Expenditure,Barbados,2005,18.24,Sexual Violence (%),70.1
 52,Government Expenditure,Barbados,2010,18.1,Homicide (%),11.1
-52,Government Expenditure,Barbados,2010,18.1,"Percentage of male and female intentional homicide victims, Male",17.1
-52,Government Expenditure,Barbados,2010,18.1,"Percentage of male and female intentional homicide victims, Female",5.5
 52,Government Expenditure,Barbados,2010,18.1,Assault (%),540.5
 52,Government Expenditure,Barbados,2010,18.1,Kidnapping (%),4.3
 52,Government Expenditure,Barbados,2010,18.1,Theft (%),739.4
@@ -151,24 +117,18 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 112,Government Expenditure,Belarus,2005,12.62,Robbery (%),120.2
 112,Government Expenditure,Belarus,2005,12.62,Sexual Violence (%),8.5
 112,Government Expenditure,Belarus,2010,11.78,Homicide (%),4.2
-112,Government Expenditure,Belarus,2010,11.78,"Percentage of male and female intentional homicide victims, Male",6.0
-112,Government Expenditure,Belarus,2010,11.78,"Percentage of male and female intentional homicide victims, Female",2.7
 112,Government Expenditure,Belarus,2010,11.78,Assault (%),12.2
 112,Government Expenditure,Belarus,2010,11.78,Kidnapping (%),0.2
 112,Government Expenditure,Belarus,2010,11.78,Theft (%),776.8
 112,Government Expenditure,Belarus,2010,11.78,Robbery (%),50.0
 112,Government Expenditure,Belarus,2010,11.78,Sexual Violence (%),3.9
 56,Government Expenditure,Belgium,2005,11.17,Homicide (%),2.1
-56,Government Expenditure,Belgium,2005,11.17,"Percentage of male and female intentional homicide victims, Male",2.5
-56,Government Expenditure,Belgium,2005,11.17,"Percentage of male and female intentional homicide victims, Female",1.7
 56,Government Expenditure,Belgium,2005,11.17,Assault (%),639.2
 56,Government Expenditure,Belgium,2005,11.17,Kidnapping (%),8.7
 56,Government Expenditure,Belgium,2005,11.17,Theft (%),
 56,Government Expenditure,Belgium,2005,11.17,Robbery (%),
 56,Government Expenditure,Belgium,2005,11.17,Sexual Violence (%),57.3
 56,Government Expenditure,Belgium,2010,12.01,Homicide (%),1.7
-56,Government Expenditure,Belgium,2010,12.01,"Percentage of male and female intentional homicide victims, Male",2.2
-56,Government Expenditure,Belgium,2010,12.01,"Percentage of male and female intentional homicide victims, Female",1.2
 56,Government Expenditure,Belgium,2010,12.01,Assault (%),710.8
 56,Government Expenditure,Belgium,2010,12.01,Kidnapping (%),10.3
 56,Government Expenditure,Belgium,2010,12.01,Theft (%),
@@ -181,19 +141,13 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 56,Government Expenditure,Belgium,2015,12.17,Robbery (%),195.8
 56,Government Expenditure,Belgium,2015,12.17,Sexual Violence (%),55.1
 84,Government Expenditure,Belize,2004,16.82,Homicide (%),28.6
-84,Government Expenditure,Belize,2004,16.82,"Percentage of male and female intentional homicide victims, Male",46.8
-84,Government Expenditure,Belize,2004,16.82,"Percentage of male and female intentional homicide victims, Female",10.2
 84,Government Expenditure,Belize,2010,23.05,Homicide (%),40.1
-84,Government Expenditure,Belize,2010,23.05,"Percentage of male and female intentional homicide victims, Male",70.2
-84,Government Expenditure,Belize,2010,23.05,"Percentage of male and female intentional homicide victims, Female",10.0
 84,Government Expenditure,Belize,2010,23.05,Theft (%),259.9
 84,Government Expenditure,Belize,2010,23.05,Robbery (%),148.3
 84,Government Expenditure,Belize,2010,23.05,Sexual Violence (%),40.4
 204,Government Expenditure,Benin,2005,18.79,Homicide (%),7.2
 204,Government Expenditure,Benin,2010,26.14,Homicide (%),6.6
 204,Government Expenditure,Benin,2015,17.48,Homicide (%),6.2
-204,Government Expenditure,Benin,2015,17.48,"Percentage of male and female intentional homicide victims, Male",10.0
-204,Government Expenditure,Benin,2015,17.48,"Percentage of male and female intentional homicide victims, Female",2.4
 64,Government Expenditure,Bhutan,2005,22.85,Homicide (%),1.7
 64,Government Expenditure,Bhutan,2010,11.03,Homicide (%),2.2
 64,Government Expenditure,Bhutan,2010,11.03,Assault (%),9.2
@@ -212,34 +166,22 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 68,Government Expenditure,Bolivia (Plurin. State of),2010,24.13,Sexual Violence (%),39.8
 72,Government Expenditure,Botswana,2005,25.82,Homicide (%),15.7
 76,Government Expenditure,Brazil,2005,11.26,Homicide (%),23.3
-76,Government Expenditure,Brazil,2005,11.26,"Percentage of male and female intentional homicide victims, Male",43.5
-76,Government Expenditure,Brazil,2005,11.26,"Percentage of male and female intentional homicide victims, Female",3.8
 76,Government Expenditure,Brazil,2010,14.56,Homicide (%),22.0
-76,Government Expenditure,Brazil,2010,14.56,"Percentage of male and female intentional homicide victims, Male",40.8
-76,Government Expenditure,Brazil,2010,14.56,"Percentage of male and female intentional homicide victims, Female",3.7
 76,Government Expenditure,Brazil,2010,14.56,Assault (%),363.7
 76,Government Expenditure,Brazil,2010,14.56,Kidnapping (%),0.2
 76,Government Expenditure,Brazil,2010,14.56,Theft (%),702.6
 76,Government Expenditure,Brazil,2010,14.56,Robbery (%),549.3
 76,Government Expenditure,Brazil,2010,14.56,Sexual Violence (%),23.4
 76,Government Expenditure,Brazil,2015,16.25,Homicide (%),28.4
-76,Government Expenditure,Brazil,2015,16.25,"Percentage of male and female intentional homicide victims, Male",53.1
-76,Government Expenditure,Brazil,2015,16.25,"Percentage of male and female intentional homicide victims, Female",4.4
 96,Government Expenditure,Brunei Darussalam,2000,8.92,Homicide (%),1.2
-96,Government Expenditure,Brunei Darussalam,2000,8.92,"Percentage of male and female intentional homicide victims, Male",1.2
-96,Government Expenditure,Brunei Darussalam,2000,8.92,"Percentage of male and female intentional homicide victims, Female",1.2
 96,Government Expenditure,Brunei Darussalam,2010,5.3,Homicide (%),0.3
 100,Government Expenditure,Bulgaria,2005,12.07,Homicide (%),2.6
-100,Government Expenditure,Bulgaria,2005,12.07,"Percentage of male and female intentional homicide victims, Male",3.9
-100,Government Expenditure,Bulgaria,2005,12.07,"Percentage of male and female intentional homicide victims, Female",1.3
 100,Government Expenditure,Bulgaria,2005,12.07,Assault (%),47.6
 100,Government Expenditure,Bulgaria,2005,12.07,Kidnapping (%),2.5
 100,Government Expenditure,Bulgaria,2005,12.07,Theft (%),561.2
 100,Government Expenditure,Bulgaria,2005,12.07,Robbery (%),48.9
 100,Government Expenditure,Bulgaria,2005,12.07,Sexual Violence (%),13.5
 100,Government Expenditure,Bulgaria,2010,11.16,Homicide (%),2.0
-100,Government Expenditure,Bulgaria,2010,11.16,"Percentage of male and female intentional homicide victims, Male",3.4
-100,Government Expenditure,Bulgaria,2010,11.16,"Percentage of male and female intentional homicide victims, Female",0.7
 100,Government Expenditure,Bulgaria,2010,11.16,Assault (%),41.0
 100,Government Expenditure,Bulgaria,2010,11.16,Kidnapping (%),1.6
 100,Government Expenditure,Bulgaria,2010,11.16,Theft (%),681.7
@@ -248,8 +190,6 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 854,Government Expenditure,Burkina Faso,2005,19.49,Homicide (%),0.5
 854,Government Expenditure,Burkina Faso,2010,16.17,Homicide (%),0.6
 854,Government Expenditure,Burkina Faso,2015,18.03,Homicide (%),0.4
-854,Government Expenditure,Burkina Faso,2015,18.03,"Percentage of male and female intentional homicide victims, Male",0.6
-854,Government Expenditure,Burkina Faso,2015,18.03,"Percentage of male and female intentional homicide victims, Female",0.2
 108,Government Expenditure,Burundi,2010,16.59,Homicide (%),4.0
 108,Government Expenditure,Burundi,2010,16.59,Assault (%),3.5
 108,Government Expenditure,Burundi,2010,16.59,Kidnapping (%),0.3
@@ -272,24 +212,18 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 120,Government Expenditure,Cameroon,2010,18.75,Robbery (%),82.2
 120,Government Expenditure,Cameroon,2010,18.75,Sexual Violence (%),10.0
 120,Government Expenditure,Cameroon,2012,15.18,Homicide (%),4.2
-120,Government Expenditure,Cameroon,2012,15.18,"Percentage of male and female intentional homicide victims, Male",6.8
-120,Government Expenditure,Cameroon,2012,15.18,"Percentage of male and female intentional homicide victims, Female",1.5
 120,Government Expenditure,Cameroon,2012,15.18,Assault (%),27.3
 120,Government Expenditure,Cameroon,2012,15.18,Kidnapping (%),2.5
 120,Government Expenditure,Cameroon,2012,15.18,Theft (%),74.7
 120,Government Expenditure,Cameroon,2012,15.18,Robbery (%),74.7
 120,Government Expenditure,Cameroon,2012,15.18,Sexual Violence (%),9.2
 124,Government Expenditure,Canada,2005,12.18,Homicide (%),2.1
-124,Government Expenditure,Canada,2005,12.18,"Percentage of male and female intentional homicide victims, Male",3.0
-124,Government Expenditure,Canada,2005,12.18,"Percentage of male and female intentional homicide victims, Female",1.1
 124,Government Expenditure,Canada,2005,12.18,Assault (%),165.5
 124,Government Expenditure,Canada,2005,12.18,Kidnapping (%),12.1
 124,Government Expenditure,Canada,2005,12.18,Theft (%),
 124,Government Expenditure,Canada,2005,12.18,Robbery (%),100.5
 124,Government Expenditure,Canada,2005,12.18,Sexual Violence (%),81.7
 124,Government Expenditure,Canada,2010,12.34,Homicide (%),1.6
-124,Government Expenditure,Canada,2010,12.34,"Percentage of male and female intentional homicide victims, Male",2.4
-124,Government Expenditure,Canada,2010,12.34,"Percentage of male and female intentional homicide victims, Female",0.9
 124,Government Expenditure,Canada,2010,12.34,Assault (%),162.2
 124,Government Expenditure,Canada,2010,12.34,Kidnapping (%),12.6
 124,Government Expenditure,Canada,2010,12.34,Theft (%),
@@ -298,117 +232,85 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 148,Government Expenditure,Chad,2005,14.67,Homicide (%),10.7
 148,Government Expenditure,Chad,2010,8.12,Homicide (%),9.7
 152,Government Expenditure,Chile,2005,16.2,Homicide (%),3.6
-152,Government Expenditure,Chile,2005,16.2,"Percentage of male and female intentional homicide victims, Male",6.2
-152,Government Expenditure,Chile,2005,16.2,"Percentage of male and female intentional homicide victims, Female",1.0
 152,Government Expenditure,Chile,2005,16.2,Kidnapping (%),0.9
 152,Government Expenditure,Chile,2005,16.2,Theft (%),961.6
 152,Government Expenditure,Chile,2005,16.2,Robbery (%),401.8
 152,Government Expenditure,Chile,2010,17.84,Homicide (%),3.2
-152,Government Expenditure,Chile,2010,17.84,"Percentage of male and female intentional homicide victims, Male",5.3
-152,Government Expenditure,Chile,2010,17.84,"Percentage of male and female intentional homicide victims, Female",1.1
 152,Government Expenditure,Chile,2010,17.84,Assault (%),131.0
 152,Government Expenditure,Chile,2010,17.84,Kidnapping (%),1.5
 152,Government Expenditure,Chile,2010,17.84,Theft (%),
 152,Government Expenditure,Chile,2010,17.84,Robbery (%),480.6
 152,Government Expenditure,Chile,2010,17.84,Sexual Violence (%),76.5
 152,Government Expenditure,Chile,2016,21.16,Homicide (%),3.5
-152,Government Expenditure,Chile,2016,21.16,"Percentage of male and female intentional homicide victims, Male",6.0
-152,Government Expenditure,Chile,2016,21.16,"Percentage of male and female intentional homicide victims, Female",1.0
 152,Government Expenditure,Chile,2016,21.16,Assault (%),67.1
 152,Government Expenditure,Chile,2016,21.16,Kidnapping (%),1.9
 152,Government Expenditure,Chile,2016,21.16,Theft (%),969.2
 152,Government Expenditure,Chile,2016,21.16,Robbery (%),647.2
 344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Homicide (%),0.5
-344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,"Percentage of male and female intentional homicide victims, Male",0.6
-344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,"Percentage of male and female intentional homicide victims, Female",0.4
 344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Assault (%),118.5
 344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Kidnapping (%),0.0
 344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Theft (%),515.7
 344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Robbery (%),24.5
 344,Government Expenditure,"China, Hong Kong SAR",2005,22.48,Sexual Violence (%),21.3
 344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Homicide (%),0.5
-344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,"Percentage of male and female intentional homicide victims, Male",0.5
-344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,"Percentage of male and female intentional homicide victims, Female",0.5
 344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Assault (%),108.2
 344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Kidnapping (%),0.0
 344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Theft (%),488.9
 344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Robbery (%),11.1
 344,Government Expenditure,"China, Hong Kong SAR",2010,19.91,Sexual Violence (%),26.3
 170,Government Expenditure,Colombia,2005,15.54,Homicide (%),41.8
-170,Government Expenditure,Colombia,2005,15.54,"Percentage of male and female intentional homicide victims, Male",77.7
-170,Government Expenditure,Colombia,2005,15.54,"Percentage of male and female intentional homicide victims, Female",6.8
 170,Government Expenditure,Colombia,2005,15.54,Assault (%),70.3
 170,Government Expenditure,Colombia,2005,15.54,Kidnapping (%),1.8
 170,Government Expenditure,Colombia,2005,15.54,Theft (%),158.8
 170,Government Expenditure,Colombia,2005,15.54,Robbery (%),93.9
 170,Government Expenditure,Colombia,2005,15.54,Sexual Violence (%),10.6
 170,Government Expenditure,Colombia,2010,16.42,Homicide (%),33.7
-170,Government Expenditure,Colombia,2010,16.42,"Percentage of male and female intentional homicide victims, Male",62.9
-170,Government Expenditure,Colombia,2010,16.42,"Percentage of male and female intentional homicide victims, Female",5.3
 170,Government Expenditure,Colombia,2010,16.42,Assault (%),115.7
 170,Government Expenditure,Colombia,2010,16.42,Kidnapping (%),0.6
 170,Government Expenditure,Colombia,2010,16.42,Theft (%),200.0
 170,Government Expenditure,Colombia,2010,16.42,Robbery (%),133.8
 170,Government Expenditure,Colombia,2010,16.42,Sexual Violence (%),14.8
 174,Government Expenditure,Comoros,2015,15.27,Homicide (%),7.7
-174,Government Expenditure,Comoros,2015,15.27,"Percentage of male and female intentional homicide victims, Male",11.6
-174,Government Expenditure,Comoros,2015,15.27,"Percentage of male and female intentional homicide victims, Female",3.7
 178,Government Expenditure,Congo,2005,7.6,Homicide (%),10.6
 178,Government Expenditure,Congo,2010,24.73,Homicide (%),9.9
 178,Government Expenditure,Congo,2015,7.95,Homicide (%),9.3
-178,Government Expenditure,Congo,2015,7.95,"Percentage of male and female intentional homicide victims, Male",14.1
-178,Government Expenditure,Congo,2015,7.95,"Percentage of male and female intentional homicide victims, Female",4.5
 191,Government Expenditure,Croatia,2010,8.96,Homicide (%),1.4
-191,Government Expenditure,Croatia,2010,8.96,"Percentage of male and female intentional homicide victims, Male",1.4
-191,Government Expenditure,Croatia,2010,8.96,"Percentage of male and female intentional homicide victims, Female",1.4
 191,Government Expenditure,Croatia,2010,8.96,Assault (%),22.8
 191,Government Expenditure,Croatia,2010,8.96,Kidnapping (%),0.3
 191,Government Expenditure,Croatia,2010,8.96,Theft (%),313.6
 191,Government Expenditure,Croatia,2010,8.96,Robbery (%),28.8
 191,Government Expenditure,Croatia,2010,8.96,Sexual Violence (%),9.2
 196,Government Expenditure,Cyprus,2005,15.84,Homicide (%),1.9
-196,Government Expenditure,Cyprus,2005,15.84,"Percentage of male and female intentional homicide victims, Male",3.5
-196,Government Expenditure,Cyprus,2005,15.84,"Percentage of male and female intentional homicide victims, Female",0.4
 196,Government Expenditure,Cyprus,2005,15.84,Assault (%),12.8
 196,Government Expenditure,Cyprus,2005,15.84,Kidnapping (%),1.6
 196,Government Expenditure,Cyprus,2005,15.84,Theft (%),116.9
 196,Government Expenditure,Cyprus,2005,15.84,Robbery (%),8.2
 196,Government Expenditure,Cyprus,2005,15.84,Sexual Violence (%),10.9
 196,Government Expenditure,Cyprus,2010,15.65,Homicide (%),0.7
-196,Government Expenditure,Cyprus,2010,15.65,"Percentage of male and female intentional homicide victims, Male",1.3
-196,Government Expenditure,Cyprus,2010,15.65,"Percentage of male and female intentional homicide victims, Female",0.2
 196,Government Expenditure,Cyprus,2010,15.65,Assault (%),15.5
 196,Government Expenditure,Cyprus,2010,15.65,Kidnapping (%),2.4
 196,Government Expenditure,Cyprus,2010,15.65,Theft (%),150.1
 196,Government Expenditure,Cyprus,2010,15.65,Robbery (%),14.0
 196,Government Expenditure,Cyprus,2010,15.65,Sexual Violence (%),7.2
 196,Government Expenditure,Cyprus,2015,16.28,Homicide (%),1.3
-196,Government Expenditure,Cyprus,2015,16.28,"Percentage of male and female intentional homicide victims, Male",2.2
-196,Government Expenditure,Cyprus,2015,16.28,"Percentage of male and female intentional homicide victims, Female",0.3
 196,Government Expenditure,Cyprus,2015,16.28,Assault (%),12.1
 196,Government Expenditure,Cyprus,2015,16.28,Kidnapping (%),2.1
 196,Government Expenditure,Cyprus,2015,16.28,Theft (%),79.1
 196,Government Expenditure,Cyprus,2015,16.28,Robbery (%),8.0
 196,Government Expenditure,Cyprus,2015,16.28,Sexual Violence (%),8.6
 203,Government Expenditure,Czechia,2005,9.2,Homicide (%),1.1
-203,Government Expenditure,Czechia,2005,9.2,"Percentage of male and female intentional homicide victims, Male",1.3
-203,Government Expenditure,Czechia,2005,9.2,"Percentage of male and female intentional homicide victims, Female",0.9
 203,Government Expenditure,Czechia,2005,9.2,Assault (%),211.4
 203,Government Expenditure,Czechia,2005,9.2,Kidnapping (%),0.1
 203,Government Expenditure,Czechia,2005,9.2,Theft (%),
 203,Government Expenditure,Czechia,2005,9.2,Robbery (%),54.1
 203,Government Expenditure,Czechia,2005,9.2,Sexual Violence (%),18.1
 203,Government Expenditure,Czechia,2010,9.34,Homicide (%),1.0
-203,Government Expenditure,Czechia,2010,9.34,"Percentage of male and female intentional homicide victims, Male",1.0
-203,Government Expenditure,Czechia,2010,9.34,"Percentage of male and female intentional homicide victims, Female",1.0
 203,Government Expenditure,Czechia,2010,9.34,Assault (%),171.5
 203,Government Expenditure,Czechia,2010,9.34,Kidnapping (%),0.1
 203,Government Expenditure,Czechia,2010,9.34,Theft (%),
 203,Government Expenditure,Czechia,2010,9.34,Robbery (%),38.1
 203,Government Expenditure,Czechia,2010,9.34,Sexual Violence (%),12.7
 203,Government Expenditure,Czechia,2015,13.88,Homicide (%),0.8
-203,Government Expenditure,Czechia,2015,13.88,"Percentage of male and female intentional homicide victims, Male",0.7
-203,Government Expenditure,Czechia,2015,13.88,"Percentage of male and female intentional homicide victims, Female",0.9
 203,Government Expenditure,Czechia,2015,13.88,Assault (%),147.8
 203,Government Expenditure,Czechia,2015,13.88,Kidnapping (%),0.0
 203,Government Expenditure,Czechia,2015,13.88,Theft (%),799.7
@@ -416,17 +318,11 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 203,Government Expenditure,Czechia,2015,13.88,Sexual Violence (%),13.5
 180,Government Expenditure,Dem. Rep. of the Congo,2010,9.66,Homicide (%),14.3
 180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,Homicide (%),13.5
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,"Percentage of male and female intentional homicide victims, Male",22.0
-180,Government Expenditure,Dem. Rep. of the Congo,2015,11.74,"Percentage of male and female intentional homicide victims, Female",5.1
 208,Government Expenditure,Denmark,2005,15.78,Homicide (%),1.0
-208,Government Expenditure,Denmark,2005,15.78,"Percentage of male and female intentional homicide victims, Male",1.4
-208,Government Expenditure,Denmark,2005,15.78,"Percentage of male and female intentional homicide victims, Female",0.6
 208,Government Expenditure,Denmark,2005,15.78,Assault (%),205.0
 208,Government Expenditure,Denmark,2005,15.78,Theft (%),
 208,Government Expenditure,Denmark,2005,15.78,Robbery (%),53.9
 208,Government Expenditure,Denmark,2010,15.1,Homicide (%),0.8
-208,Government Expenditure,Denmark,2010,15.1,"Percentage of male and female intentional homicide victims, Male",0.7
-208,Government Expenditure,Denmark,2010,15.1,"Percentage of male and female intentional homicide victims, Female",0.8
 208,Government Expenditure,Denmark,2010,15.1,Assault (%),31.6
 208,Government Expenditure,Denmark,2010,15.1,Theft (%),
 208,Government Expenditure,Denmark,2010,15.1,Robbery (%),60.7
@@ -434,56 +330,40 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 262,Government Expenditure,Djibouti,2005,22.72,Homicide (%),8.1
 262,Government Expenditure,Djibouti,2010,12.33,Homicide (%),7.4
 218,Government Expenditure,Ecuador,2010,13.0,Homicide (%),17.6
-218,Government Expenditure,Ecuador,2010,13.0,"Percentage of male and female intentional homicide victims, Male",31.9
-218,Government Expenditure,Ecuador,2010,13.0,"Percentage of male and female intentional homicide victims, Female",3.2
 218,Government Expenditure,Ecuador,2010,13.0,Assault (%),30.2
 218,Government Expenditure,Ecuador,2010,13.0,Kidnapping (%),0.2
 218,Government Expenditure,Ecuador,2010,13.0,Theft (%),33.6
 218,Government Expenditure,Ecuador,2010,13.0,Robbery (%),362.3
 218,Government Expenditure,Ecuador,2010,13.0,Sexual Violence (%),24.5
 818,Government Expenditure,Egypt,2005,15.04,Homicide (%),0.7
-818,Government Expenditure,Egypt,2005,15.04,"Percentage of male and female intentional homicide victims, Male",1.2
-818,Government Expenditure,Egypt,2005,15.04,"Percentage of male and female intentional homicide victims, Female",0.2
 818,Government Expenditure,Egypt,2005,15.04,Kidnapping (%),0.0
 818,Government Expenditure,Egypt,2005,15.04,Theft (%),45.6
 818,Government Expenditure,Egypt,2005,15.04,Robbery (%),0.6
 222,Government Expenditure,El Salvador,2005,14.66,Homicide (%),64.4
-222,Government Expenditure,El Salvador,2005,14.66,"Percentage of male and female intentional homicide victims, Male",121.0
-222,Government Expenditure,El Salvador,2005,14.66,"Percentage of male and female intentional homicide victims, Female",12.6
 222,Government Expenditure,El Salvador,2005,14.66,Assault (%),76.8
 222,Government Expenditure,El Salvador,2005,14.66,Kidnapping (%),0.1
 222,Government Expenditure,El Salvador,2005,14.66,Theft (%),177.8
 222,Government Expenditure,El Salvador,2005,14.66,Robbery (%),80.6
 222,Government Expenditure,El Salvador,2010,16.16,Homicide (%),64.7
-222,Government Expenditure,El Salvador,2010,16.16,"Percentage of male and female intentional homicide victims, Male",117.4
-222,Government Expenditure,El Salvador,2010,16.16,"Percentage of male and female intentional homicide victims, Female",17.3
 222,Government Expenditure,El Salvador,2010,16.16,Assault (%),63.1
 222,Government Expenditure,El Salvador,2010,16.16,Kidnapping (%),0.5
 222,Government Expenditure,El Salvador,2010,16.16,Theft (%),157.0
 222,Government Expenditure,El Salvador,2010,16.16,Robbery (%),87.9
 222,Government Expenditure,El Salvador,2010,16.16,Sexual Violence (%),37.0
 222,Government Expenditure,El Salvador,2016,16.11,Homicide (%),82.8
-222,Government Expenditure,El Salvador,2016,16.11,"Percentage of male and female intentional homicide victims, Male",158.4
-222,Government Expenditure,El Salvador,2016,16.11,"Percentage of male and female intentional homicide victims, Female",15.7
 233,Government Expenditure,Estonia,2005,14.26,Homicide (%),8.3
-233,Government Expenditure,Estonia,2005,14.26,"Percentage of male and female intentional homicide victims, Male",13.4
-233,Government Expenditure,Estonia,2005,14.26,"Percentage of male and female intentional homicide victims, Female",3.9
 233,Government Expenditure,Estonia,2005,14.26,Assault (%),9.7
 233,Government Expenditure,Estonia,2005,14.26,Kidnapping (%),0.1
 233,Government Expenditure,Estonia,2005,14.26,Theft (%),
 233,Government Expenditure,Estonia,2005,14.26,Robbery (%),97.8
 233,Government Expenditure,Estonia,2005,14.26,Sexual Violence (%),29.7
 233,Government Expenditure,Estonia,2010,13.64,Homicide (%),5.3
-233,Government Expenditure,Estonia,2010,13.64,"Percentage of male and female intentional homicide victims, Male",8.6
-233,Government Expenditure,Estonia,2010,13.64,"Percentage of male and female intentional homicide victims, Female",2.3
 233,Government Expenditure,Estonia,2010,13.64,Assault (%),7.7
 233,Government Expenditure,Estonia,2010,13.64,Kidnapping (%),0.0
 233,Government Expenditure,Estonia,2010,13.64,Theft (%),
 233,Government Expenditure,Estonia,2010,13.64,Robbery (%),45.0
 233,Government Expenditure,Estonia,2010,13.64,Sexual Violence (%),20.6
 233,Government Expenditure,Estonia,2015,12.97,Homicide (%),3.2
-233,Government Expenditure,Estonia,2015,12.97,"Percentage of male and female intentional homicide victims, Male",5.2
-233,Government Expenditure,Estonia,2015,12.97,"Percentage of male and female intentional homicide victims, Female",1.4
 233,Government Expenditure,Estonia,2015,12.97,Assault (%),7.5
 233,Government Expenditure,Estonia,2015,12.97,Kidnapping (%),0.0
 233,Government Expenditure,Estonia,2015,12.97,Theft (%),863.2
@@ -491,34 +371,22 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 233,Government Expenditure,Estonia,2015,12.97,Sexual Violence (%),42.9
 748,Government Expenditure,Eswatini,2005,20.89,Homicide (%),13.7
 748,Government Expenditure,Eswatini,2010,18.28,Homicide (%),17.3
-748,Government Expenditure,Eswatini,2010,18.28,"Percentage of male and female intentional homicide victims, Male",30.9
-748,Government Expenditure,Eswatini,2010,18.28,"Percentage of male and female intentional homicide victims, Female",4.5
 231,Government Expenditure,Ethiopia,2010,26.3,Homicide (%),8.5
 231,Government Expenditure,Ethiopia,2015,27.1,Homicide (%),7.6
-231,Government Expenditure,Ethiopia,2015,27.1,"Percentage of male and female intentional homicide victims, Male",11.3
-231,Government Expenditure,Ethiopia,2015,27.1,"Percentage of male and female intentional homicide victims, Female",3.9
 242,Government Expenditure,Fiji,2005,20.27,Homicide (%),2.8
-242,Government Expenditure,Fiji,2005,20.27,"Percentage of male and female intentional homicide victims, Male",3.3
-242,Government Expenditure,Fiji,2005,20.27,"Percentage of male and female intentional homicide victims, Female",2.2
 246,Government Expenditure,Finland,2005,12.25,Homicide (%),2.3
-246,Government Expenditure,Finland,2005,12.25,"Percentage of male and female intentional homicide victims, Male",3.3
-246,Government Expenditure,Finland,2005,12.25,"Percentage of male and female intentional homicide victims, Female",1.3
 246,Government Expenditure,Finland,2005,12.25,Assault (%),579.3
 246,Government Expenditure,Finland,2005,12.25,Kidnapping (%),0.0
 246,Government Expenditure,Finland,2005,12.25,Theft (%),
 246,Government Expenditure,Finland,2005,12.25,Robbery (%),34.5
 246,Government Expenditure,Finland,2005,12.25,Sexual Violence (%),36.6
 246,Government Expenditure,Finland,2010,11.95,Homicide (%),2.2
-246,Government Expenditure,Finland,2010,11.95,"Percentage of male and female intentional homicide victims, Male",3.5
-246,Government Expenditure,Finland,2010,11.95,"Percentage of male and female intentional homicide victims, Female",1.0
 246,Government Expenditure,Finland,2010,11.95,Assault (%),37.2
 246,Government Expenditure,Finland,2010,11.95,Kidnapping (%),0.0
 246,Government Expenditure,Finland,2010,11.95,Theft (%),
 246,Government Expenditure,Finland,2010,11.95,Robbery (%),28.1
 246,Government Expenditure,Finland,2010,11.95,Sexual Violence (%),45.0
 246,Government Expenditure,Finland,2015,12.41,Homicide (%),1.5
-246,Government Expenditure,Finland,2015,12.41,"Percentage of male and female intentional homicide victims, Male",2.4
-246,Government Expenditure,Finland,2015,12.41,"Percentage of male and female intentional homicide victims, Female",0.6
 246,Government Expenditure,Finland,2015,12.41,Assault (%),28.5
 246,Government Expenditure,Finland,2015,12.41,Kidnapping (%),0.0
 246,Government Expenditure,Finland,2015,12.41,Theft (%),
@@ -537,8 +405,6 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 250,Government Expenditure,France,2010,10.01,Robbery (%),192.0
 250,Government Expenditure,France,2010,10.01,Sexual Violence (%),36.5
 250,Government Expenditure,France,2015,9.62,Homicide (%),1.6
-250,Government Expenditure,France,2015,9.62,"Percentage of male and female intentional homicide victims, Male",2.0
-250,Government Expenditure,France,2015,9.62,"Percentage of male and female intentional homicide victims, Female",1.2
 250,Government Expenditure,France,2015,9.62,Assault (%),375.7
 250,Government Expenditure,France,2015,9.62,Kidnapping (%),5.9
 250,Government Expenditure,France,2015,9.62,Theft (%),
@@ -548,24 +414,18 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 270,Government Expenditure,Gambia,2005,5.34,Homicide (%),9.8
 270,Government Expenditure,Gambia,2010,17.61,Homicide (%),9.8
 268,Government Expenditure,Georgia,2005,11.18,Homicide (%),9.0
-268,Government Expenditure,Georgia,2005,11.18,"Percentage of male and female intentional homicide victims, Male",15.6
-268,Government Expenditure,Georgia,2005,11.18,"Percentage of male and female intentional homicide victims, Female",3.0
 268,Government Expenditure,Georgia,2005,11.18,Assault (%),8.2
 268,Government Expenditure,Georgia,2005,11.18,Kidnapping (%),2.0
 268,Government Expenditure,Georgia,2005,11.18,Theft (%),362.3
 268,Government Expenditure,Georgia,2005,11.18,Robbery (%),46.5
 268,Government Expenditure,Georgia,2005,11.18,Sexual Violence (%),3.7
 276,Government Expenditure,Germany,2010,10.4,Homicide (%),1.0
-276,Government Expenditure,Germany,2010,10.4,"Percentage of male and female intentional homicide victims, Male",1.0
-276,Government Expenditure,Germany,2010,10.4,"Percentage of male and female intentional homicide victims, Female",1.0
 276,Government Expenditure,Germany,2010,10.4,Assault (%),176.7
 276,Government Expenditure,Germany,2010,10.4,Kidnapping (%),6.1
 276,Government Expenditure,Germany,2010,10.4,Theft (%),
 276,Government Expenditure,Germany,2010,10.4,Robbery (%),59.5
 276,Government Expenditure,Germany,2010,10.4,Sexual Violence (%),45.5
 276,Government Expenditure,Germany,2015,10.99,Homicide (%),0.8
-276,Government Expenditure,Germany,2015,10.99,"Percentage of male and female intentional homicide victims, Male",0.9
-276,Government Expenditure,Germany,2015,10.99,"Percentage of male and female intentional homicide victims, Female",0.8
 276,Government Expenditure,Germany,2015,10.99,Assault (%),155.9
 276,Government Expenditure,Germany,2015,10.99,Kidnapping (%),5.8
 276,Government Expenditure,Germany,2015,10.99,Theft (%),
@@ -574,22 +434,16 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 288,Government Expenditure,Ghana,2005,23.43,Homicide (%),1.8
 288,Government Expenditure,Ghana,2010,20.7,Homicide (%),1.7
 300,Government Expenditure,Greece,2005,8.7,Homicide (%),1.2
-300,Government Expenditure,Greece,2005,8.7,"Percentage of male and female intentional homicide victims, Male",1.6
-300,Government Expenditure,Greece,2005,8.7,"Percentage of male and female intentional homicide victims, Female",0.8
 300,Government Expenditure,Greece,2005,8.7,Assault (%),68.8
 300,Government Expenditure,Greece,2005,8.7,Kidnapping (%),0.2
 300,Government Expenditure,Greece,2005,8.7,Theft (%),545.5
 300,Government Expenditure,Greece,2005,8.7,Robbery (%),18.4
 300,Government Expenditure,Greece,2005,8.7,Sexual Violence (%),5.7
 308,Government Expenditure,Grenada,2016,42.79,Homicide (%),10.2
-308,Government Expenditure,Grenada,2016,42.79,"Percentage of male and female intentional homicide victims, Male",14.9
-308,Government Expenditure,Grenada,2016,42.79,"Percentage of male and female intentional homicide victims, Female",5.6
 308,Government Expenditure,Grenada,2016,42.79,Assault (%),
 308,Government Expenditure,Grenada,2016,42.79,Theft (%),
 308,Government Expenditure,Grenada,2016,42.79,Robbery (%),51.2
 320,Government Expenditure,Guatemala,2010,19.3,Homicide (%),40.7
-320,Government Expenditure,Guatemala,2010,19.3,"Percentage of male and female intentional homicide victims, Male",73.3
-320,Government Expenditure,Guatemala,2010,19.3,"Percentage of male and female intentional homicide victims, Female",9.3
 320,Government Expenditure,Guatemala,2010,19.3,Assault (%),50.9
 320,Government Expenditure,Guatemala,2010,19.3,Kidnapping (%),0.9
 320,Government Expenditure,Guatemala,2010,19.3,Theft (%),44.5
@@ -601,87 +455,63 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 324,Government Expenditure,Guinea,2010,12.44,Homicide (%),9.4
 624,Government Expenditure,Guinea-Bissau,2010,9.07,Homicide (%),10.5
 328,Government Expenditure,Guyana,2005,13.82,Homicide (%),18.9
-328,Government Expenditure,Guyana,2005,13.82,"Percentage of male and female intentional homicide victims, Male",30.3
-328,Government Expenditure,Guyana,2005,13.82,"Percentage of male and female intentional homicide victims, Female",7.5
 328,Government Expenditure,Guyana,2005,13.82,Sexual Violence (%),32.2
 328,Government Expenditure,Guyana,2010,11.84,Homicide (%),18.8
-328,Government Expenditure,Guyana,2010,11.84,"Percentage of male and female intentional homicide victims, Male",29.2
-328,Government Expenditure,Guyana,2010,11.84,"Percentage of male and female intentional homicide victims, Female",8.3
 328,Government Expenditure,Guyana,2010,11.84,Assault (%),
 328,Government Expenditure,Guyana,2010,11.84,Kidnapping (%),0.3
 328,Government Expenditure,Guyana,2010,11.84,Theft (%),523.2
 328,Government Expenditure,Guyana,2010,11.84,Robbery (%),146.7
 328,Government Expenditure,Guyana,2010,11.84,Sexual Violence (%),19.5
 340,Government Expenditure,Honduras,2015,24.64,Homicide (%),57.5
-340,Government Expenditure,Honduras,2015,24.64,"Percentage of male and female intentional homicide victims, Male",104.5
-340,Government Expenditure,Honduras,2015,24.64,"Percentage of male and female intentional homicide victims, Female",10.6
 340,Government Expenditure,Honduras,2015,24.64,Assault (%),14.8
 340,Government Expenditure,Honduras,2015,24.64,Kidnapping (%),0.5
 340,Government Expenditure,Honduras,2015,24.64,Theft (%),32.5
 340,Government Expenditure,Honduras,2015,24.64,Robbery (%),106.6
 340,Government Expenditure,Honduras,2015,24.64,Sexual Violence (%),18.4
 348,Government Expenditure,Hungary,2005,10.8,Homicide (%),1.6
-348,Government Expenditure,Hungary,2005,10.8,"Percentage of male and female intentional homicide victims, Male",1.8
-348,Government Expenditure,Hungary,2005,10.8,"Percentage of male and female intentional homicide victims, Female",1.4
 348,Government Expenditure,Hungary,2005,10.8,Assault (%),122.3
 348,Government Expenditure,Hungary,2005,10.8,Kidnapping (%),0.1
 348,Government Expenditure,Hungary,2005,10.8,Theft (%),
 348,Government Expenditure,Hungary,2005,10.8,Robbery (%),29.6
 348,Government Expenditure,Hungary,2005,10.8,Sexual Violence (%),8.5
 348,Government Expenditure,Hungary,2010,9.69,Homicide (%),1.4
-348,Government Expenditure,Hungary,2010,9.69,"Percentage of male and female intentional homicide victims, Male",1.6
-348,Government Expenditure,Hungary,2010,9.69,"Percentage of male and female intentional homicide victims, Female",1.2
 348,Government Expenditure,Hungary,2010,9.69,Assault (%),146.7
 348,Government Expenditure,Hungary,2010,9.69,Kidnapping (%),0.2
 348,Government Expenditure,Hungary,2010,9.69,Theft (%),
 348,Government Expenditure,Hungary,2010,9.69,Robbery (%),34.2
 348,Government Expenditure,Hungary,2010,9.69,Sexual Violence (%),12.9
 348,Government Expenditure,Hungary,2015,9.14,Homicide (%),2.3
-348,Government Expenditure,Hungary,2015,9.14,"Percentage of male and female intentional homicide victims, Male",2.6
-348,Government Expenditure,Hungary,2015,9.14,"Percentage of male and female intentional homicide victims, Female",2.0
 348,Government Expenditure,Hungary,2015,9.14,Assault (%),127.5
 348,Government Expenditure,Hungary,2015,9.14,Kidnapping (%),0.1
 348,Government Expenditure,Hungary,2015,9.14,Theft (%),
 348,Government Expenditure,Hungary,2015,9.14,Robbery (%),14.7
 352,Government Expenditure,Iceland,2005,17.81,Homicide (%),1.0
-352,Government Expenditure,Iceland,2005,17.81,"Percentage of male and female intentional homicide victims, Male",2.0
-352,Government Expenditure,Iceland,2005,17.81,"Percentage of male and female intentional homicide victims, Female",0.0
 352,Government Expenditure,Iceland,2005,17.81,Theft (%),
 352,Government Expenditure,Iceland,2005,17.81,Robbery (%),16.6
 352,Government Expenditure,Iceland,2005,17.81,Sexual Violence (%),97.1
 352,Government Expenditure,Iceland,2010,14.6,Homicide (%),0.6
-352,Government Expenditure,Iceland,2010,14.6,"Percentage of male and female intentional homicide victims, Male",1.2
-352,Government Expenditure,Iceland,2010,14.6,"Percentage of male and female intentional homicide victims, Female",0.0
 352,Government Expenditure,Iceland,2010,14.6,Assault (%),17.8
 352,Government Expenditure,Iceland,2010,14.6,Theft (%),
 352,Government Expenditure,Iceland,2010,14.6,Robbery (%),13.1
 352,Government Expenditure,Iceland,2010,14.6,Sexual Violence (%),68.2
 352,Government Expenditure,Iceland,2015,18.16,Homicide (%),0.9
-352,Government Expenditure,Iceland,2015,18.16,"Percentage of male and female intentional homicide victims, Male",1.8
-352,Government Expenditure,Iceland,2015,18.16,"Percentage of male and female intentional homicide victims, Female",0.0
 352,Government Expenditure,Iceland,2015,18.16,Assault (%),25.7
 352,Government Expenditure,Iceland,2015,18.16,Theft (%),
 352,Government Expenditure,Iceland,2015,18.16,Robbery (%),16.0
 352,Government Expenditure,Iceland,2015,18.16,Sexual Violence (%),108.7
 356,Government Expenditure,India,2005,11.21,Homicide (%),3.9
-356,Government Expenditure,India,2005,11.21,"Percentage of male and female intentional homicide victims, Male",5.0
-356,Government Expenditure,India,2005,11.21,"Percentage of male and female intentional homicide victims, Female",2.8
 356,Government Expenditure,India,2005,11.21,Assault (%),23.7
 356,Government Expenditure,India,2005,11.21,Kidnapping (%),2.0
 356,Government Expenditure,India,2005,11.21,Theft (%),23.9
 356,Government Expenditure,India,2005,11.21,Robbery (%),1.5
 356,Government Expenditure,India,2005,11.21,Sexual Violence (%),5.5
 356,Government Expenditure,India,2010,11.83,Homicide (%),3.8
-356,Government Expenditure,India,2010,11.83,"Percentage of male and female intentional homicide victims, Male",4.5
-356,Government Expenditure,India,2010,11.83,"Percentage of male and female intentional homicide victims, Female",3.0
 356,Government Expenditure,India,2010,11.83,Assault (%),23.5
 356,Government Expenditure,India,2010,11.83,Kidnapping (%),3.1
 356,Government Expenditure,India,2010,11.83,Theft (%),26.8
 356,Government Expenditure,India,2010,11.83,Robbery (%),1.9
 356,Government Expenditure,India,2010,11.83,Sexual Violence (%),5.9
 356,Government Expenditure,India,2013,14.05,Homicide (%),3.6
-356,Government Expenditure,India,2013,14.05,"Percentage of male and female intentional homicide victims, Male",4.2
-356,Government Expenditure,India,2013,14.05,"Percentage of male and female intentional homicide victims, Female",2.9
 356,Government Expenditure,India,2013,14.05,Assault (%),26.2
 356,Government Expenditure,India,2013,14.05,Kidnapping (%),5.1
 356,Government Expenditure,India,2013,14.05,Theft (%),29.1
@@ -693,8 +523,6 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 360,Government Expenditure,Indonesia,2010,16.65,Theft (%),10.1
 360,Government Expenditure,Indonesia,2010,16.65,Robbery (%),4.1
 360,Government Expenditure,Indonesia,2014,17.67,Homicide (%),0.5
-360,Government Expenditure,Indonesia,2014,17.67,"Percentage of male and female intentional homicide victims, Male",0.7
-360,Government Expenditure,Indonesia,2014,17.67,"Percentage of male and female intentional homicide victims, Female",0.3
 360,Government Expenditure,Indonesia,2014,17.67,Assault (%),14.5
 360,Government Expenditure,Indonesia,2014,17.67,Kidnapping (%),0.1
 360,Government Expenditure,Indonesia,2014,17.67,Theft (%),9.6
@@ -707,16 +535,12 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 360,Government Expenditure,Indonesia,2015,20.5,Robbery (%),4.6
 360,Government Expenditure,Indonesia,2015,20.5,Sexual Violence (%),2.0
 372,Government Expenditure,Ireland,2005,13.56,Homicide (%),1.2
-372,Government Expenditure,Ireland,2005,13.56,"Percentage of male and female intentional homicide victims, Male",2.1
-372,Government Expenditure,Ireland,2005,13.56,"Percentage of male and female intentional homicide victims, Female",0.4
 372,Government Expenditure,Ireland,2005,13.56,Assault (%),296.2
 372,Government Expenditure,Ireland,2005,13.56,Kidnapping (%),1.8
 372,Government Expenditure,Ireland,2005,13.56,Theft (%),
 372,Government Expenditure,Ireland,2005,13.56,Robbery (%),57.5
 372,Government Expenditure,Ireland,2005,13.56,Sexual Violence (%),42.8
 372,Government Expenditure,Ireland,2010,9.28,Homicide (%),1.1
-372,Government Expenditure,Ireland,2010,9.28,"Percentage of male and female intentional homicide victims, Male",2.0
-372,Government Expenditure,Ireland,2010,9.28,"Percentage of male and female intentional homicide victims, Female",0.3
 372,Government Expenditure,Ireland,2010,9.28,Assault (%),325.0
 372,Government Expenditure,Ireland,2010,9.28,Kidnapping (%),2.9
 372,Government Expenditure,Ireland,2010,9.28,Theft (%),
@@ -729,16 +553,12 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 372,Government Expenditure,Ireland,2015,13.03,Robbery (%),54.8
 372,Government Expenditure,Ireland,2015,13.03,Sexual Violence (%),50.2
 376,Government Expenditure,Israel,2005,12.74,Homicide (%),2.5
-376,Government Expenditure,Israel,2005,12.74,"Percentage of male and female intentional homicide victims, Male",3.5
-376,Government Expenditure,Israel,2005,12.74,"Percentage of male and female intentional homicide victims, Female",1.5
 376,Government Expenditure,Israel,2005,12.74,Assault (%),774.1
 376,Government Expenditure,Israel,2005,12.74,Kidnapping (%),6.3
 376,Government Expenditure,Israel,2005,12.74,Theft (%),
 376,Government Expenditure,Israel,2005,12.74,Robbery (%),65.6
 376,Government Expenditure,Israel,2005,12.74,Sexual Violence (%),69.6
 376,Government Expenditure,Israel,2010,13.61,Homicide (%),2.0
-376,Government Expenditure,Israel,2010,13.61,"Percentage of male and female intentional homicide victims, Male",3.1
-376,Government Expenditure,Israel,2010,13.61,"Percentage of male and female intentional homicide victims, Female",0.9
 376,Government Expenditure,Israel,2010,13.61,Assault (%),619.5
 376,Government Expenditure,Israel,2010,13.61,Kidnapping (%),3.6
 376,Government Expenditure,Israel,2010,13.61,Theft (%),974.2
@@ -746,49 +566,35 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 376,Government Expenditure,Israel,2010,13.61,Sexual Violence (%),66.8
 376,Government Expenditure,Israel,2015,15.04,Homicide (%),1.4
 380,Government Expenditure,Italy,2005,9.01,Homicide (%),1.0
-380,Government Expenditure,Italy,2005,9.01,"Percentage of male and female intentional homicide victims, Male",1.7
-380,Government Expenditure,Italy,2005,9.01,"Percentage of male and female intentional homicide victims, Female",0.5
 380,Government Expenditure,Italy,2005,9.01,Assault (%),96.3
 380,Government Expenditure,Italy,2005,9.01,Kidnapping (%),0.6
 380,Government Expenditure,Italy,2005,9.01,Theft (%),
 380,Government Expenditure,Italy,2005,9.01,Robbery (%),111.8
 380,Government Expenditure,Italy,2005,9.01,Sexual Violence (%),6.9
 380,Government Expenditure,Italy,2010,8.72,Homicide (%),0.9
-380,Government Expenditure,Italy,2010,8.72,"Percentage of male and female intentional homicide victims, Male",1.3
-380,Government Expenditure,Italy,2010,8.72,"Percentage of male and female intentional homicide victims, Female",0.5
 380,Government Expenditure,Italy,2010,8.72,Assault (%),108.6
 380,Government Expenditure,Italy,2010,8.72,Kidnapping (%),0.6
 380,Government Expenditure,Italy,2010,8.72,Theft (%),
 380,Government Expenditure,Italy,2010,8.72,Robbery (%),80.4
 380,Government Expenditure,Italy,2010,8.72,Sexual Violence (%),8.1
 380,Government Expenditure,Italy,2015,8.11,Homicide (%),0.8
-380,Government Expenditure,Italy,2015,8.11,"Percentage of male and female intentional homicide victims, Male",1.2
-380,Government Expenditure,Italy,2015,8.11,"Percentage of male and female intentional homicide victims, Female",0.4
 380,Government Expenditure,Italy,2015,8.11,Assault (%),107.6
 380,Government Expenditure,Italy,2015,8.11,Kidnapping (%),0.5
 380,Government Expenditure,Italy,2015,8.11,Theft (%),
 380,Government Expenditure,Italy,2015,8.11,Robbery (%),58.9
 380,Government Expenditure,Italy,2015,8.11,Sexual Violence (%),6.7
 388,Government Expenditure,Jamaica,2005,14.27,Homicide (%),61.0
-388,Government Expenditure,Jamaica,2005,14.27,"Percentage of male and female intentional homicide victims, Male",109.5
-388,Government Expenditure,Jamaica,2005,14.27,"Percentage of male and female intentional homicide victims, Female",13.4
 388,Government Expenditure,Jamaica,2005,14.27,Kidnapping (%),1.1
 388,Government Expenditure,Jamaica,2005,14.27,Sexual Violence (%),40.8
 388,Government Expenditure,Jamaica,2008,19.12,Homicide (%),58.0
-388,Government Expenditure,Jamaica,2008,19.12,"Percentage of male and female intentional homicide victims, Male",105.1
-388,Government Expenditure,Jamaica,2008,19.12,"Percentage of male and female intentional homicide victims, Female",11.7
 388,Government Expenditure,Jamaica,2008,19.12,Kidnapping (%),1.5
 388,Government Expenditure,Jamaica,2008,19.12,Robbery (%),95.3
 388,Government Expenditure,Jamaica,2008,19.12,Sexual Violence (%),54.2
 388,Government Expenditure,Jamaica,2010,16.1,Homicide (%),51.4
-388,Government Expenditure,Jamaica,2010,16.1,"Percentage of male and female intentional homicide victims, Male",93.1
-388,Government Expenditure,Jamaica,2010,16.1,"Percentage of male and female intentional homicide victims, Female",10.2
 388,Government Expenditure,Jamaica,2010,16.1,Assault (%),49.9
 388,Government Expenditure,Jamaica,2010,16.1,Robbery (%),101.3
 388,Government Expenditure,Jamaica,2010,16.1,Sexual Violence (%),54.2
 392,Government Expenditure,Japan,2016,9.13,Homicide (%),0.3
-392,Government Expenditure,Japan,2016,9.13,"Percentage of male and female intentional homicide victims, Male",0.3
-392,Government Expenditure,Japan,2016,9.13,"Percentage of male and female intentional homicide victims, Female",0.3
 392,Government Expenditure,Japan,2016,9.13,Assault (%),19.1
 392,Government Expenditure,Japan,2016,9.13,Kidnapping (%),0.2
 392,Government Expenditure,Japan,2016,9.13,Theft (%),293.3
@@ -809,8 +615,6 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 404,Government Expenditure,Kenya,2010,20.56,Robbery (%),6.9
 404,Government Expenditure,Kenya,2010,20.56,Sexual Violence (%),11.9
 404,Government Expenditure,Kenya,2015,16.66,Homicide (%),4.8
-404,Government Expenditure,Kenya,2015,16.66,"Percentage of male and female intentional homicide victims, Male",7.0
-404,Government Expenditure,Kenya,2015,16.66,"Percentage of male and female intentional homicide victims, Female",2.6
 404,Government Expenditure,Kenya,2015,16.66,Assault (%),31.6
 404,Government Expenditure,Kenya,2015,16.66,Kidnapping (%),0.2
 404,Government Expenditure,Kenya,2015,16.66,Theft (%),2.4
@@ -818,16 +622,12 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 404,Government Expenditure,Kenya,2015,16.66,Sexual Violence (%),13.4
 296,Government Expenditure,Kiribati,2001,11.52,Homicide (%),4.7
 414,Government Expenditure,Kuwait,2005,13.85,Homicide (%),1.8
-414,Government Expenditure,Kuwait,2005,13.85,"Percentage of male and female intentional homicide victims, Male",1.9
-414,Government Expenditure,Kuwait,2005,13.85,"Percentage of male and female intentional homicide victims, Female",1.7
 414,Government Expenditure,Kuwait,2005,13.85,Assault (%),26.1
 414,Government Expenditure,Kuwait,2005,13.85,Kidnapping (%),12.3
 414,Government Expenditure,Kuwait,2005,13.85,Theft (%),430.0
 414,Government Expenditure,Kuwait,2005,13.85,Robbery (%),18.9
 414,Government Expenditure,Kuwait,2005,13.85,Sexual Violence (%),16.4
 417,Government Expenditure,Kyrgyzstan,2005,16.77,Homicide (%),8.3
-417,Government Expenditure,Kyrgyzstan,2005,16.77,"Percentage of male and female intentional homicide victims, Male",13.1
-417,Government Expenditure,Kyrgyzstan,2005,16.77,"Percentage of male and female intentional homicide victims, Female",3.5
 417,Government Expenditure,Kyrgyzstan,2005,16.77,Assault (%),5.2
 417,Government Expenditure,Kyrgyzstan,2005,16.77,Kidnapping (%),0.5
 417,Government Expenditure,Kyrgyzstan,2005,16.77,Theft (%),243.0
@@ -852,8 +652,6 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 428,Government Expenditure,Latvia,2010,11.81,Robbery (%),50.6
 428,Government Expenditure,Latvia,2010,11.81,Sexual Violence (%),11.1
 428,Government Expenditure,Latvia,2015,14.13,Homicide (%),3.4
-428,Government Expenditure,Latvia,2015,14.13,"Percentage of male and female intentional homicide victims, Male",4.1
-428,Government Expenditure,Latvia,2015,14.13,"Percentage of male and female intentional homicide victims, Female",2.7
 428,Government Expenditure,Latvia,2015,14.13,Assault (%),26.8
 428,Government Expenditure,Latvia,2015,14.13,Kidnapping (%),0.9
 428,Government Expenditure,Latvia,2015,14.13,Theft (%),972.9
@@ -866,27 +664,19 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 422,Government Expenditure,Lebanon,2010,5.53,Robbery (%),0.5
 422,Government Expenditure,Lebanon,2010,5.53,Sexual Violence (%),4.8
 430,Government Expenditure,Liberia,2012,5.18,Homicide (%),3.2
-430,Government Expenditure,Liberia,2012,5.18,"Percentage of male and female intentional homicide victims, Male",5.1
-430,Government Expenditure,Liberia,2012,5.18,"Percentage of male and female intentional homicide victims, Female",1.4
 440,Government Expenditure,Lithuania,2005,14.58,Homicide (%),11.1
-440,Government Expenditure,Lithuania,2005,14.58,"Percentage of male and female intentional homicide victims, Male",17.5
-440,Government Expenditure,Lithuania,2005,14.58,"Percentage of male and female intentional homicide victims, Female",5.6
 440,Government Expenditure,Lithuania,2005,14.58,Assault (%),12.2
 440,Government Expenditure,Lithuania,2005,14.58,Kidnapping (%),2.1
 440,Government Expenditure,Lithuania,2005,14.58,Theft (%),825.8
 440,Government Expenditure,Lithuania,2005,14.58,Robbery (%),155.7
 440,Government Expenditure,Lithuania,2005,14.58,Sexual Violence (%),16.7
 440,Government Expenditure,Lithuania,2010,12.86,Homicide (%),7.0
-440,Government Expenditure,Lithuania,2010,12.86,"Percentage of male and female intentional homicide victims, Male",10.0
-440,Government Expenditure,Lithuania,2010,12.86,"Percentage of male and female intentional homicide victims, Female",4.4
 440,Government Expenditure,Lithuania,2010,12.86,Assault (%),7.8
 440,Government Expenditure,Lithuania,2010,12.86,Kidnapping (%),2.2
 440,Government Expenditure,Lithuania,2010,12.86,Theft (%),849.3
 440,Government Expenditure,Lithuania,2010,12.86,Robbery (%),87.3
 440,Government Expenditure,Lithuania,2010,12.86,Sexual Violence (%),16.5
 440,Government Expenditure,Lithuania,2015,12.29,Homicide (%),5.9
-440,Government Expenditure,Lithuania,2015,12.29,"Percentage of male and female intentional homicide victims, Male",9.1
-440,Government Expenditure,Lithuania,2015,12.29,"Percentage of male and female intentional homicide victims, Female",3.1
 440,Government Expenditure,Lithuania,2015,12.29,Assault (%),7.3
 440,Government Expenditure,Lithuania,2015,12.29,Kidnapping (%),1.7
 440,Government Expenditure,Lithuania,2015,12.29,Theft (%),777.1
@@ -895,8 +685,6 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 450,Government Expenditure,Madagascar,2005,18.03,Homicide (%),10.0
 454,Government Expenditure,Malawi,2010,12.52,Homicide (%),3.4
 458,Government Expenditure,Malaysia,2010,18.41,Homicide (%),1.9
-458,Government Expenditure,Malaysia,2010,18.41,"Percentage of male and female intentional homicide victims, Male",3.0
-458,Government Expenditure,Malaysia,2010,18.41,"Percentage of male and female intentional homicide victims, Female",0.7
 462,Government Expenditure,Maldives,2010,12.46,Homicide (%),1.6
 462,Government Expenditure,Maldives,2010,12.46,Assault (%),405.5
 462,Government Expenditure,Maldives,2010,12.46,Kidnapping (%),7.1
@@ -906,16 +694,12 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 466,Government Expenditure,Mali,2005,16.28,Homicide (%),12.7
 466,Government Expenditure,Mali,2010,16.5,Homicide (%),12.2
 470,Government Expenditure,Malta,2010,15.72,Homicide (%),1.0
-470,Government Expenditure,Malta,2010,15.72,"Percentage of male and female intentional homicide victims, Male",1.4
-470,Government Expenditure,Malta,2010,15.72,"Percentage of male and female intentional homicide victims, Female",0.5
 470,Government Expenditure,Malta,2010,15.72,Assault (%),43.3
 470,Government Expenditure,Malta,2010,15.72,Kidnapping (%),0.0
 470,Government Expenditure,Malta,2010,15.72,Theft (%),
 470,Government Expenditure,Malta,2010,15.72,Robbery (%),47.1
 470,Government Expenditure,Malta,2010,15.72,Sexual Violence (%),22.1
 470,Government Expenditure,Malta,2015,13.15,Homicide (%),0.9
-470,Government Expenditure,Malta,2015,13.15,"Percentage of male and female intentional homicide victims, Male",0.9
-470,Government Expenditure,Malta,2015,13.15,"Percentage of male and female intentional homicide victims, Female",0.9
 470,Government Expenditure,Malta,2015,13.15,Assault (%),42.8
 470,Government Expenditure,Malta,2015,13.15,Kidnapping (%),0.0
 470,Government Expenditure,Malta,2015,13.15,Theft (%),
@@ -923,58 +707,42 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 470,Government Expenditure,Malta,2015,13.15,Sexual Violence (%),24.8
 478,Government Expenditure,Mauritania,2010,16.04,Homicide (%),10.9
 480,Government Expenditure,Mauritius,2005,17.09,Homicide (%),3.0
-480,Government Expenditure,Mauritius,2005,17.09,"Percentage of male and female intentional homicide victims, Male",3.9
-480,Government Expenditure,Mauritius,2005,17.09,"Percentage of male and female intentional homicide victims, Female",2.1
 480,Government Expenditure,Mauritius,2005,17.09,Assault (%),10.0
 480,Government Expenditure,Mauritius,2005,17.09,Theft (%),
 480,Government Expenditure,Mauritius,2005,17.09,Robbery (%),110.5
 480,Government Expenditure,Mauritius,2005,17.09,Sexual Violence (%),25.7
 480,Government Expenditure,Mauritius,2010,14.57,Homicide (%),2.6
-480,Government Expenditure,Mauritius,2010,14.57,"Percentage of male and female intentional homicide victims, Male",4.0
-480,Government Expenditure,Mauritius,2010,14.57,"Percentage of male and female intentional homicide victims, Female",1.3
 480,Government Expenditure,Mauritius,2010,14.57,Assault (%),19.1
 480,Government Expenditure,Mauritius,2010,14.57,Kidnapping (%),2.8
 480,Government Expenditure,Mauritius,2010,14.57,Theft (%),864.0
 480,Government Expenditure,Mauritius,2010,14.57,Robbery (%),86.9
 480,Government Expenditure,Mauritius,2010,14.57,Sexual Violence (%),34.6
 484,Government Expenditure,Mexico,2005,21.9,Homicide (%),9.1
-484,Government Expenditure,Mexico,2005,21.9,"Percentage of male and female intentional homicide victims, Male",16.0
-484,Government Expenditure,Mexico,2005,21.9,"Percentage of male and female intentional homicide victims, Female",2.4
 484,Government Expenditure,Mexico,2005,21.9,Assault (%),220.5
 484,Government Expenditure,Mexico,2005,21.9,Kidnapping (%),0.3
 484,Government Expenditure,Mexico,2005,21.9,Theft (%),78.2
 484,Government Expenditure,Mexico,2005,21.9,Robbery (%),475.6
 484,Government Expenditure,Mexico,2005,21.9,Sexual Violence (%),26.1
 484,Government Expenditure,Mexico,2010,18.64,Homicide (%),22.0
-484,Government Expenditure,Mexico,2010,18.64,"Percentage of male and female intentional homicide victims, Male",40.0
-484,Government Expenditure,Mexico,2010,18.64,"Percentage of male and female intentional homicide victims, Female",4.1
 484,Government Expenditure,Mexico,2010,18.64,Assault (%),196.6
 484,Government Expenditure,Mexico,2010,18.64,Kidnapping (%),1.1
 484,Government Expenditure,Mexico,2010,18.64,Theft (%),112.6
 484,Government Expenditure,Mexico,2010,18.64,Robbery (%),629.2
 484,Government Expenditure,Mexico,2010,18.64,Sexual Violence (%),28.8
 484,Government Expenditure,Mexico,2015,19.02,Homicide (%),16.5
-484,Government Expenditure,Mexico,2015,19.02,"Percentage of male and female intentional homicide victims, Male",29.3
-484,Government Expenditure,Mexico,2015,19.02,"Percentage of male and female intentional homicide victims, Female",3.8
 484,Government Expenditure,Mexico,2015,19.02,Assault (%),36.7
 484,Government Expenditure,Mexico,2015,19.02,Kidnapping (%),0.7
 484,Government Expenditure,Mexico,2015,19.02,Theft (%),210.5
 484,Government Expenditure,Mexico,2015,19.02,Robbery (%),76.6
 484,Government Expenditure,Mexico,2015,19.02,Sexual Violence (%),31.8
 583,Government Expenditure,Micronesia (Fed. States of),2015,22.31,Homicide (%),4.7
-583,Government Expenditure,Micronesia (Fed. States of),2015,22.31,"Percentage of male and female intentional homicide victims, Male",6.9
-583,Government Expenditure,Micronesia (Fed. States of),2015,22.31,"Percentage of male and female intentional homicide victims, Female",2.4
 496,Government Expenditure,Mongolia,2010,14.71,Homicide (%),8.8
-496,Government Expenditure,Mongolia,2010,14.71,"Percentage of male and female intentional homicide victims, Male",12.8
-496,Government Expenditure,Mongolia,2010,14.71,"Percentage of male and female intentional homicide victims, Female",4.9
 496,Government Expenditure,Mongolia,2010,14.71,Assault (%),214.6
 496,Government Expenditure,Mongolia,2010,14.71,Kidnapping (%),0.0
 496,Government Expenditure,Mongolia,2010,14.71,Theft (%),213.0
 496,Government Expenditure,Mongolia,2010,14.71,Robbery (%),19.2
 496,Government Expenditure,Mongolia,2010,14.71,Sexual Violence (%),13.3
 504,Government Expenditure,Morocco,2009,17.3,Homicide (%),1.4
-504,Government Expenditure,Morocco,2009,17.3,"Percentage of male and female intentional homicide victims, Male",2.4
-504,Government Expenditure,Morocco,2009,17.3,"Percentage of male and female intentional homicide victims, Female",0.3
 504,Government Expenditure,Morocco,2009,17.3,Assault (%),97.2
 504,Government Expenditure,Morocco,2009,17.3,Kidnapping (%),1.0
 504,Government Expenditure,Morocco,2009,17.3,Theft (%),245.1
@@ -993,55 +761,41 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 524,Government Expenditure,Nepal,2005,22.29,Robbery (%),0.9
 524,Government Expenditure,Nepal,2010,16.03,Homicide (%),3.0
 528,Government Expenditure,Netherlands,2005,12.44,Homicide (%),1.1
-528,Government Expenditure,Netherlands,2005,12.44,"Percentage of male and female intentional homicide victims, Male",1.4
-528,Government Expenditure,Netherlands,2005,12.44,"Percentage of male and female intentional homicide victims, Female",0.7
 528,Government Expenditure,Netherlands,2005,12.44,Assault (%),409.7
 528,Government Expenditure,Netherlands,2005,12.44,Kidnapping (%),5.6
 528,Government Expenditure,Netherlands,2005,12.44,Theft (%),
 528,Government Expenditure,Netherlands,2005,12.44,Robbery (%),100.5
 528,Government Expenditure,Netherlands,2005,12.44,Sexual Violence (%),44.6
 528,Government Expenditure,Netherlands,2010,11.74,Homicide (%),0.9
-528,Government Expenditure,Netherlands,2010,11.74,"Percentage of male and female intentional homicide victims, Male",1.1
-528,Government Expenditure,Netherlands,2010,11.74,"Percentage of male and female intentional homicide victims, Female",0.6
 528,Government Expenditure,Netherlands,2010,11.74,Assault (%),361.3
 528,Government Expenditure,Netherlands,2010,11.74,Kidnapping (%),3.9
 528,Government Expenditure,Netherlands,2010,11.74,Theft (%),
 528,Government Expenditure,Netherlands,2010,11.74,Robbery (%),96.7
 528,Government Expenditure,Netherlands,2010,11.74,Sexual Violence (%),57.8
 528,Government Expenditure,Netherlands,2015,12.25,Homicide (%),0.6
-528,Government Expenditure,Netherlands,2015,12.25,"Percentage of male and female intentional homicide victims, Male",0.7
-528,Government Expenditure,Netherlands,2015,12.25,"Percentage of male and female intentional homicide victims, Female",0.5
 528,Government Expenditure,Netherlands,2015,12.25,Assault (%),30.1
 528,Government Expenditure,Netherlands,2015,12.25,Kidnapping (%),2.6
 528,Government Expenditure,Netherlands,2015,12.25,Theft (%),
 528,Government Expenditure,Netherlands,2015,12.25,Robbery (%),57.5
 528,Government Expenditure,Netherlands,2015,12.25,Sexual Violence (%),43.5
 554,Government Expenditure,New Zealand,2005,16.27,Homicide (%),1.5
-554,Government Expenditure,New Zealand,2005,16.27,"Percentage of male and female intentional homicide victims, Male",1.7
-554,Government Expenditure,New Zealand,2005,16.27,"Percentage of male and female intentional homicide victims, Female",1.3
 554,Government Expenditure,New Zealand,2005,16.27,Assault (%),234.2
 554,Government Expenditure,New Zealand,2005,16.27,Kidnapping (%),7.0
 554,Government Expenditure,New Zealand,2005,16.27,Theft (%),
 554,Government Expenditure,New Zealand,2005,16.27,Robbery (%),56.2
 554,Government Expenditure,New Zealand,2005,16.27,Sexual Violence (%),59.6
 554,Government Expenditure,New Zealand,2010,15.72,Homicide (%),1.0
-554,Government Expenditure,New Zealand,2010,15.72,"Percentage of male and female intentional homicide victims, Male",1.0
-554,Government Expenditure,New Zealand,2010,15.72,"Percentage of male and female intentional homicide victims, Female",1.0
 554,Government Expenditure,New Zealand,2010,15.72,Assault (%),257.7
 554,Government Expenditure,New Zealand,2010,15.72,Kidnapping (%),5.2
 554,Government Expenditure,New Zealand,2010,15.72,Theft (%),
 554,Government Expenditure,New Zealand,2010,15.72,Robbery (%),57.0
 554,Government Expenditure,New Zealand,2010,15.72,Sexual Violence (%),66.7
 578,Government Expenditure,Norway,2005,16.55,Homicide (%),0.7
-578,Government Expenditure,Norway,2005,16.55,"Percentage of male and female intentional homicide victims, Male",0.8
-578,Government Expenditure,Norway,2005,16.55,"Percentage of male and female intentional homicide victims, Female",0.6
 578,Government Expenditure,Norway,2005,16.55,Assault (%),63.9
 578,Government Expenditure,Norway,2005,16.55,Theft (%),
 578,Government Expenditure,Norway,2005,16.55,Robbery (%),31.3
 578,Government Expenditure,Norway,2005,16.55,Sexual Violence (%),42.4
 578,Government Expenditure,Norway,2010,15.23,Homicide (%),0.6
-578,Government Expenditure,Norway,2010,15.23,"Percentage of male and female intentional homicide victims, Male",0.6
-578,Government Expenditure,Norway,2010,15.23,"Percentage of male and female intentional homicide victims, Female",0.6
 578,Government Expenditure,Norway,2010,15.23,Assault (%),59.9
 578,Government Expenditure,Norway,2010,15.23,Theft (%),
 578,Government Expenditure,Norway,2010,15.23,Robbery (%),34.5
@@ -1072,14 +826,10 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 608,Government Expenditure,Philippines,2005,12.42,Theft (%),12.9
 608,Government Expenditure,Philippines,2005,12.42,Robbery (%),9.0
 616,Government Expenditure,Poland,2005,12.22,Homicide (%),1.4
-616,Government Expenditure,Poland,2005,12.22,"Percentage of male and female intentional homicide victims, Male",2.2
-616,Government Expenditure,Poland,2005,12.22,"Percentage of male and female intentional homicide victims, Female",0.7
 616,Government Expenditure,Poland,2005,12.22,Kidnapping (%),0.1
 616,Government Expenditure,Poland,2005,12.22,Theft (%),726.9
 616,Government Expenditure,Poland,2005,12.22,Robbery (%),109.9
 616,Government Expenditure,Poland,2010,11.06,Homicide (%),1.1
-616,Government Expenditure,Poland,2010,11.06,"Percentage of male and female intentional homicide victims, Male",1.6
-616,Government Expenditure,Poland,2010,11.06,"Percentage of male and female intentional homicide victims, Female",0.7
 616,Government Expenditure,Poland,2010,11.06,Assault (%),28.7
 616,Government Expenditure,Poland,2010,11.06,Kidnapping (%),0.1
 616,Government Expenditure,Poland,2010,11.06,Theft (%),532.1
@@ -1092,16 +842,12 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 616,Government Expenditure,Poland,2015,11.58,Robbery (%),26.7
 616,Government Expenditure,Poland,2015,11.58,Sexual Violence (%),7.8
 620,Government Expenditure,Portugal,2005,10.86,Homicide (%),1.3
-620,Government Expenditure,Portugal,2005,10.86,"Percentage of male and female intentional homicide victims, Male",2.0
-620,Government Expenditure,Portugal,2005,10.86,"Percentage of male and female intentional homicide victims, Female",0.6
 620,Government Expenditure,Portugal,2005,10.86,Assault (%),371.2
 620,Government Expenditure,Portugal,2005,10.86,Kidnapping (%),4.1
 620,Government Expenditure,Portugal,2005,10.86,Theft (%),869.0
 620,Government Expenditure,Portugal,2005,10.86,Robbery (%),191.4
 620,Government Expenditure,Portugal,2005,10.86,Sexual Violence (%),15.5
 620,Government Expenditure,Portugal,2010,10.43,Homicide (%),1.2
-620,Government Expenditure,Portugal,2010,10.43,"Percentage of male and female intentional homicide victims, Male",1.6
-620,Government Expenditure,Portugal,2010,10.43,"Percentage of male and female intentional homicide victims, Female",0.8
 620,Government Expenditure,Portugal,2010,10.43,Assault (%),8.1
 620,Government Expenditure,Portugal,2010,10.43,Kidnapping (%),4.7
 620,Government Expenditure,Portugal,2010,10.43,Theft (%),892.4
@@ -1114,54 +860,38 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 620,Government Expenditure,Portugal,2015,10.15,Robbery (%),148.5
 620,Government Expenditure,Portugal,2015,10.15,Sexual Violence (%),23.6
 634,Government Expenditure,Qatar,2005,13.74,Homicide (%),0.7
-634,Government Expenditure,Qatar,2005,13.74,"Percentage of male and female intentional homicide victims, Male",0.3
-634,Government Expenditure,Qatar,2005,13.74,"Percentage of male and female intentional homicide victims, Female",1.4
 634,Government Expenditure,Qatar,2005,13.74,Theft (%),103.7
 634,Government Expenditure,Qatar,2010,13.82,Homicide (%),0.2
-634,Government Expenditure,Qatar,2010,13.82,"Percentage of male and female intentional homicide victims, Male",0.3
-634,Government Expenditure,Qatar,2010,13.82,"Percentage of male and female intentional homicide victims, Female",0.0
 498,Government Expenditure,Republic of Moldova,2005,19.3,Homicide (%),7.1
-498,Government Expenditure,Republic of Moldova,2005,19.3,"Percentage of male and female intentional homicide victims, Male",9.8
-498,Government Expenditure,Republic of Moldova,2005,19.3,"Percentage of male and female intentional homicide victims, Female",4.6
 498,Government Expenditure,Republic of Moldova,2005,19.3,Assault (%),9.5
 498,Government Expenditure,Republic of Moldova,2005,19.3,Kidnapping (%),0.4
 498,Government Expenditure,Republic of Moldova,2005,19.3,Theft (%),276.7
 498,Government Expenditure,Republic of Moldova,2005,19.3,Robbery (%),4.5
 498,Government Expenditure,Republic of Moldova,2005,19.3,Sexual Violence (%),9.5
 498,Government Expenditure,Republic of Moldova,2010,22.27,Homicide (%),6.5
-498,Government Expenditure,Republic of Moldova,2010,22.27,"Percentage of male and female intentional homicide victims, Male",10.8
-498,Government Expenditure,Republic of Moldova,2010,22.27,"Percentage of male and female intentional homicide victims, Female",2.5
 498,Government Expenditure,Republic of Moldova,2010,22.27,Assault (%),10.2
 498,Government Expenditure,Republic of Moldova,2010,22.27,Kidnapping (%),0.9
 498,Government Expenditure,Republic of Moldova,2010,22.27,Theft (%),334.1
 498,Government Expenditure,Republic of Moldova,2010,22.27,Robbery (%),4.5
 498,Government Expenditure,Republic of Moldova,2010,22.27,Sexual Violence (%),13.6
 642,Government Expenditure,Romania,2005,10.84,Homicide (%),2.1
-642,Government Expenditure,Romania,2005,10.84,"Percentage of male and female intentional homicide victims, Male",3.0
-642,Government Expenditure,Romania,2005,10.84,"Percentage of male and female intentional homicide victims, Female",1.2
 642,Government Expenditure,Romania,2005,10.84,Assault (%),41.5
 642,Government Expenditure,Romania,2005,10.84,Kidnapping (%),1.3
 642,Government Expenditure,Romania,2005,10.84,Theft (%),201.5
 642,Government Expenditure,Romania,2005,10.84,Robbery (%),15.5
 642,Government Expenditure,Romania,2010,9.13,Homicide (%),2.0
-642,Government Expenditure,Romania,2010,9.13,"Percentage of male and female intentional homicide victims, Male",2.7
-642,Government Expenditure,Romania,2010,9.13,"Percentage of male and female intentional homicide victims, Female",1.3
 642,Government Expenditure,Romania,2010,9.13,Assault (%),60.2
 642,Government Expenditure,Romania,2010,9.13,Kidnapping (%),1.6
 642,Government Expenditure,Romania,2010,9.13,Theft (%),238.9
 642,Government Expenditure,Romania,2010,9.13,Robbery (%),12.2
 642,Government Expenditure,Romania,2010,9.13,Sexual Violence (%),7.3
 642,Government Expenditure,Romania,2015,9.08,Homicide (%),1.5
-642,Government Expenditure,Romania,2015,9.08,"Percentage of male and female intentional homicide victims, Male",2.0
-642,Government Expenditure,Romania,2015,9.08,"Percentage of male and female intentional homicide victims, Female",1.0
 642,Government Expenditure,Romania,2015,9.08,Assault (%),1.5
 642,Government Expenditure,Romania,2015,9.08,Kidnapping (%),1.5
 642,Government Expenditure,Romania,2015,9.08,Theft (%),545.6
 642,Government Expenditure,Romania,2015,9.08,Robbery (%),16.9
 642,Government Expenditure,Romania,2015,9.08,Sexual Violence (%),8.9
 643,Government Expenditure,Russian Federation,2005,11.95,Homicide (%),24.8
-643,Government Expenditure,Russian Federation,2005,11.95,"Percentage of male and female intentional homicide victims, Male",40.1
-643,Government Expenditure,Russian Federation,2005,11.95,"Percentage of male and female intentional homicide victims, Female",11.5
 643,Government Expenditure,Russian Federation,2005,11.95,Assault (%),40.3
 643,Government Expenditure,Russian Federation,2005,11.95,Kidnapping (%),0.8
 643,Government Expenditure,Russian Federation,2005,11.95,Theft (%),
@@ -1178,27 +908,17 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 646,Government Expenditure,Rwanda,2010,17.55,Kidnapping (%),0.1
 646,Government Expenditure,Rwanda,2010,17.55,Robbery (%),20.2
 646,Government Expenditure,Rwanda,2015,12.54,Homicide (%),2.5
-646,Government Expenditure,Rwanda,2015,12.54,"Percentage of male and female intentional homicide victims, Male",4.0
-646,Government Expenditure,Rwanda,2015,12.54,"Percentage of male and female intentional homicide victims, Female",1.1
 659,Government Expenditure,Saint Kitts and Nevis,2005,11.06,Homicide (%),16.5
 662,Government Expenditure,Saint Lucia,2004,15.04,Homicide (%),22.8
-662,Government Expenditure,Saint Lucia,2004,15.04,"Percentage of male and female intentional homicide victims, Male",41.7
-662,Government Expenditure,Saint Lucia,2004,15.04,"Percentage of male and female intentional homicide victims, Female",4.7
 662,Government Expenditure,Saint Lucia,2005,16.31,Homicide (%),25.0
 662,Government Expenditure,Saint Lucia,2010,14.2,Homicide (%),25.5
-662,Government Expenditure,Saint Lucia,2010,14.2,"Percentage of male and female intentional homicide victims, Male",45.5
-662,Government Expenditure,Saint Lucia,2010,14.2,"Percentage of male and female intentional homicide victims, Female",6.3
 670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,Homicide (%),23.9
-670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,"Percentage of male and female intentional homicide victims, Male",34.6
-670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,"Percentage of male and female intentional homicide victims, Female",13.0
 670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,Assault (%),
 670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,Kidnapping (%),1.8
 670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,Theft (%),
 670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,Robbery (%),67.1
 670,Government Expenditure,Saint Vincent & Grenadines,2005,22.59,Sexual Violence (%),104.8
 670,Government Expenditure,Saint Vincent & Grenadines,2010,15.49,Homicide (%),22.9
-670,Government Expenditure,Saint Vincent & Grenadines,2010,15.49,"Percentage of male and female intentional homicide victims, Male",39.9
-670,Government Expenditure,Saint Vincent & Grenadines,2010,15.49,"Percentage of male and female intentional homicide victims, Female",5.5
 670,Government Expenditure,Saint Vincent & Grenadines,2010,15.49,Assault (%),
 670,Government Expenditure,Saint Vincent & Grenadines,2010,15.49,Kidnapping (%),1.8
 670,Government Expenditure,Saint Vincent & Grenadines,2010,15.49,Theft (%),
@@ -1223,24 +943,18 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 686,Government Expenditure,Senegal,2016,21.34,Theft (%),1.0
 686,Government Expenditure,Senegal,2016,21.34,Robbery (%),1.4
 688,Government Expenditure,Serbia,2010,10.1,Homicide (%),1.4
-688,Government Expenditure,Serbia,2010,10.1,"Percentage of male and female intentional homicide victims, Male",2.0
-688,Government Expenditure,Serbia,2010,10.1,"Percentage of male and female intentional homicide victims, Female",0.9
 688,Government Expenditure,Serbia,2010,10.1,Assault (%),15.4
 688,Government Expenditure,Serbia,2010,10.1,Kidnapping (%),0.2
 688,Government Expenditure,Serbia,2010,10.1,Theft (%),176.2
 688,Government Expenditure,Serbia,2010,10.1,Robbery (%),40.1
 688,Government Expenditure,Serbia,2010,10.1,Sexual Violence (%),5.4
 688,Government Expenditure,Serbia,2015,8.88,Homicide (%),1.2
-688,Government Expenditure,Serbia,2015,8.88,"Percentage of male and female intentional homicide victims, Male",1.7
-688,Government Expenditure,Serbia,2015,8.88,"Percentage of male and female intentional homicide victims, Female",0.7
 688,Government Expenditure,Serbia,2015,8.88,Assault (%),16.1
 688,Government Expenditure,Serbia,2015,8.88,Kidnapping (%),0.2
 688,Government Expenditure,Serbia,2015,8.88,Theft (%),276.6
 688,Government Expenditure,Serbia,2015,8.88,Robbery (%),34.3
 688,Government Expenditure,Serbia,2015,8.88,Sexual Violence (%),3.8
 688,Government Expenditure,Serbia,2016,8.69,Homicide (%),1.4
-688,Government Expenditure,Serbia,2016,8.69,"Percentage of male and female intentional homicide victims, Male",1.9
-688,Government Expenditure,Serbia,2016,8.69,"Percentage of male and female intentional homicide victims, Female",0.9
 688,Government Expenditure,Serbia,2016,8.69,Assault (%),15.2
 688,Government Expenditure,Serbia,2016,8.69,Kidnapping (%),0.1
 688,Government Expenditure,Serbia,2016,8.69,Theft (%),254.4
@@ -1254,55 +968,41 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 702,Government Expenditure,Singapore,2005,19.82,Theft (%),471.3
 702,Government Expenditure,Singapore,2005,19.82,Robbery (%),24.3
 702,Government Expenditure,Singapore,2010,17.17,Homicide (%),0.4
-702,Government Expenditure,Singapore,2010,17.17,"Percentage of male and female intentional homicide victims, Male",0.6
-702,Government Expenditure,Singapore,2010,17.17,"Percentage of male and female intentional homicide victims, Female",0.1
 702,Government Expenditure,Singapore,2010,17.17,Assault (%),8.5
 702,Government Expenditure,Singapore,2010,17.17,Kidnapping (%),0.0
 702,Government Expenditure,Singapore,2010,17.17,Theft (%),360.1
 702,Government Expenditure,Singapore,2010,17.17,Robbery (%),10.2
 702,Government Expenditure,Singapore,2010,17.17,Sexual Violence (%),31.1
 703,Government Expenditure,Slovakia,2005,9.47,Homicide (%),1.7
-703,Government Expenditure,Slovakia,2005,9.47,"Percentage of male and female intentional homicide victims, Male",2.3
-703,Government Expenditure,Slovakia,2005,9.47,"Percentage of male and female intentional homicide victims, Female",1.2
 703,Government Expenditure,Slovakia,2005,9.47,Assault (%),72.2
 703,Government Expenditure,Slovakia,2005,9.47,Kidnapping (%),0.3
 703,Government Expenditure,Slovakia,2005,9.47,Theft (%),350.0
 703,Government Expenditure,Slovakia,2005,9.47,Robbery (%),35.5
 703,Government Expenditure,Slovakia,2010,9.77,Homicide (%),1.5
-703,Government Expenditure,Slovakia,2010,9.77,"Percentage of male and female intentional homicide victims, Male",1.9
-703,Government Expenditure,Slovakia,2010,9.77,"Percentage of male and female intentional homicide victims, Female",1.1
 703,Government Expenditure,Slovakia,2010,9.77,Assault (%),44.9
 703,Government Expenditure,Slovakia,2010,9.77,Kidnapping (%),0.1
 703,Government Expenditure,Slovakia,2010,9.77,Theft (%),452.7
 703,Government Expenditure,Slovakia,2010,9.77,Robbery (%),22.0
 703,Government Expenditure,Slovakia,2010,9.77,Sexual Violence (%),10.4
 703,Government Expenditure,Slovakia,2015,10.28,Homicide (%),0.8
-703,Government Expenditure,Slovakia,2015,10.28,"Percentage of male and female intentional homicide victims, Male",1.1
-703,Government Expenditure,Slovakia,2015,10.28,"Percentage of male and female intentional homicide victims, Female",0.5
 703,Government Expenditure,Slovakia,2015,10.28,Assault (%),34.9
 703,Government Expenditure,Slovakia,2015,10.28,Kidnapping (%),1.5
 703,Government Expenditure,Slovakia,2015,10.28,Theft (%),442.9
 703,Government Expenditure,Slovakia,2015,10.28,Robbery (%),9.9
 703,Government Expenditure,Slovakia,2015,10.28,Sexual Violence (%),3.0
 705,Government Expenditure,Slovenia,2005,13.29,Homicide (%),1.0
-705,Government Expenditure,Slovenia,2005,13.29,"Percentage of male and female intentional homicide victims, Male",1.0
-705,Government Expenditure,Slovenia,2005,13.29,"Percentage of male and female intentional homicide victims, Female",1.0
 705,Government Expenditure,Slovenia,2005,13.29,Assault (%),115.4
 705,Government Expenditure,Slovenia,2005,13.29,Kidnapping (%),0.2
 705,Government Expenditure,Slovenia,2005,13.29,Theft (%),
 705,Government Expenditure,Slovenia,2005,13.29,Robbery (%),21.5
 705,Government Expenditure,Slovenia,2005,13.29,Sexual Violence (%),15.6
 705,Government Expenditure,Slovenia,2010,12.08,Homicide (%),0.7
-705,Government Expenditure,Slovenia,2010,12.08,"Percentage of male and female intentional homicide victims, Male",0.7
-705,Government Expenditure,Slovenia,2010,12.08,"Percentage of male and female intentional homicide victims, Female",0.8
 705,Government Expenditure,Slovenia,2010,12.08,Assault (%),106.7
 705,Government Expenditure,Slovenia,2010,12.08,Kidnapping (%),0.2
 705,Government Expenditure,Slovenia,2010,12.08,Theft (%),
 705,Government Expenditure,Slovenia,2010,12.08,Robbery (%),22.6
 705,Government Expenditure,Slovenia,2010,12.08,Sexual Violence (%),18.3
 705,Government Expenditure,Slovenia,2015,11.22,Homicide (%),1.0
-705,Government Expenditure,Slovenia,2015,11.22,"Percentage of male and female intentional homicide victims, Male",0.9
-705,Government Expenditure,Slovenia,2015,11.22,"Percentage of male and female intentional homicide victims, Female",1.1
 705,Government Expenditure,Slovenia,2015,11.22,Assault (%),74.2
 705,Government Expenditure,Slovenia,2015,11.22,Kidnapping (%),0.1
 705,Government Expenditure,Slovenia,2015,11.22,Theft (%),
@@ -1310,84 +1010,60 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 705,Government Expenditure,Slovenia,2015,11.22,Sexual Violence (%),7.4
 710,Government Expenditure,South Africa,2005,19.92,Homicide (%),38.0
 710,Government Expenditure,South Africa,2010,18.04,Homicide (%),30.8
-710,Government Expenditure,South Africa,2010,18.04,"Percentage of male and female intentional homicide victims, Male",51.9
-710,Government Expenditure,South Africa,2010,18.04,"Percentage of male and female intentional homicide victims, Female",10.4
 724,Government Expenditure,Spain,2005,10.78,Homicide (%),1.2
-724,Government Expenditure,Spain,2005,10.78,"Percentage of male and female intentional homicide victims, Male",1.8
-724,Government Expenditure,Spain,2005,10.78,"Percentage of male and female intentional homicide victims, Female",0.6
 724,Government Expenditure,Spain,2005,10.78,Assault (%),392.4
 724,Government Expenditure,Spain,2005,10.78,Kidnapping (%),0.5
 724,Government Expenditure,Spain,2010,10.56,Homicide (%),0.9
-724,Government Expenditure,Spain,2010,10.56,"Percentage of male and female intentional homicide victims, Male",1.1
-724,Government Expenditure,Spain,2010,10.56,"Percentage of male and female intentional homicide victims, Female",0.7
 724,Government Expenditure,Spain,2010,10.56,Assault (%),53.6
 724,Government Expenditure,Spain,2010,10.56,Kidnapping (%),0.3
 724,Government Expenditure,Spain,2010,10.56,Theft (%),309.1
 724,Government Expenditure,Spain,2010,10.56,Robbery (%),180.4
 724,Government Expenditure,Spain,2010,10.56,Sexual Violence (%),21.4
 724,Government Expenditure,Spain,2015,9.77,Homicide (%),0.7
-724,Government Expenditure,Spain,2015,9.77,"Percentage of male and female intentional homicide victims, Male",0.8
-724,Government Expenditure,Spain,2015,9.77,"Percentage of male and female intentional homicide victims, Female",0.5
 724,Government Expenditure,Spain,2015,9.77,Assault (%),62.6
 724,Government Expenditure,Spain,2015,9.77,Kidnapping (%),0.2
 724,Government Expenditure,Spain,2015,9.77,Theft (%),443.5
 724,Government Expenditure,Spain,2015,9.77,Robbery (%),139.2
 724,Government Expenditure,Spain,2015,9.77,Sexual Violence (%),21.4
 144,Government Expenditure,Sri Lanka,2010,8.61,Homicide (%),3.8
-144,Government Expenditure,Sri Lanka,2010,8.61,"Percentage of male and female intentional homicide victims, Male",6.1
-144,Government Expenditure,Sri Lanka,2010,8.61,"Percentage of male and female intentional homicide victims, Female",1.6
 144,Government Expenditure,Sri Lanka,2010,8.61,Assault (%),319.9
 144,Government Expenditure,Sri Lanka,2010,8.61,Kidnapping (%),1.0
 144,Government Expenditure,Sri Lanka,2010,8.61,Theft (%),62.8
 144,Government Expenditure,Sri Lanka,2010,8.61,Robbery (%),31.9
 144,Government Expenditure,Sri Lanka,2010,8.61,Sexual Violence (%),4.4
 752,Government Expenditure,Sweden,2005,12.76,Homicide (%),0.9
-752,Government Expenditure,Sweden,2005,12.76,"Percentage of male and female intentional homicide victims, Male",1.2
-752,Government Expenditure,Sweden,2005,12.76,"Percentage of male and female intentional homicide victims, Female",0.7
 752,Government Expenditure,Sweden,2005,12.76,Assault (%),803.7
 752,Government Expenditure,Sweden,2005,12.76,Theft (%),
 752,Government Expenditure,Sweden,2005,12.76,Robbery (%),104.0
 752,Government Expenditure,Sweden,2005,12.76,Sexual Violence (%),129.7
 752,Government Expenditure,Sweden,2010,13.31,Homicide (%),1.0
-752,Government Expenditure,Sweden,2010,13.31,"Percentage of male and female intentional homicide victims, Male",1.4
-752,Government Expenditure,Sweden,2010,13.31,"Percentage of male and female intentional homicide victims, Female",0.6
 752,Government Expenditure,Sweden,2010,13.31,Assault (%),59.6
 752,Government Expenditure,Sweden,2010,13.31,Theft (%),
 752,Government Expenditure,Sweden,2010,13.31,Robbery (%),98.2
 752,Government Expenditure,Sweden,2010,13.31,Sexual Violence (%),150.6
 752,Government Expenditure,Sweden,2015,15.5,Homicide (%),1.1
-752,Government Expenditure,Sweden,2015,15.5,"Percentage of male and female intentional homicide victims, Male",1.7
-752,Government Expenditure,Sweden,2015,15.5,"Percentage of male and female intentional homicide victims, Female",0.6
 752,Government Expenditure,Sweden,2015,15.5,Assault (%),47.4
 752,Government Expenditure,Sweden,2015,15.5,Theft (%),
 752,Government Expenditure,Sweden,2015,15.5,Robbery (%),86.7
 752,Government Expenditure,Sweden,2015,15.5,Sexual Violence (%),155.8
 756,Government Expenditure,Switzerland,2005,15.82,Homicide (%),1.0
-756,Government Expenditure,Switzerland,2005,15.82,"Percentage of male and female intentional homicide victims, Male",1.0
-756,Government Expenditure,Switzerland,2005,15.82,"Percentage of male and female intentional homicide victims, Female",1.0
 756,Government Expenditure,Switzerland,2005,15.82,Assault (%),109.3
 756,Government Expenditure,Switzerland,2005,15.82,Kidnapping (%),3.3
 756,Government Expenditure,Switzerland,2005,15.82,Theft (%),
 756,Government Expenditure,Switzerland,2005,15.82,Robbery (%),53.7
 756,Government Expenditure,Switzerland,2010,15.39,Homicide (%),0.7
-756,Government Expenditure,Switzerland,2010,15.39,"Percentage of male and female intentional homicide victims, Male",0.7
-756,Government Expenditure,Switzerland,2010,15.39,"Percentage of male and female intentional homicide victims, Female",0.7
 756,Government Expenditure,Switzerland,2010,15.39,Assault (%),6.2
 756,Government Expenditure,Switzerland,2010,15.39,Kidnapping (%),0.0
 756,Government Expenditure,Switzerland,2010,15.39,Theft (%),
 756,Government Expenditure,Switzerland,2010,15.39,Robbery (%),56.3
 756,Government Expenditure,Switzerland,2010,15.39,Sexual Violence (%),31.8
 756,Government Expenditure,Switzerland,2015,15.53,Homicide (%),0.7
-756,Government Expenditure,Switzerland,2015,15.53,"Percentage of male and female intentional homicide victims, Male",0.7
-756,Government Expenditure,Switzerland,2015,15.53,"Percentage of male and female intentional homicide victims, Female",0.7
 756,Government Expenditure,Switzerland,2015,15.53,Assault (%),7.4
 756,Government Expenditure,Switzerland,2015,15.53,Kidnapping (%),0.0
 756,Government Expenditure,Switzerland,2015,15.53,Theft (%),
 756,Government Expenditure,Switzerland,2015,15.53,Robbery (%),22.3
 756,Government Expenditure,Switzerland,2015,15.53,Sexual Violence (%),32.7
 756,Government Expenditure,Switzerland,2016,15.53,Homicide (%),0.5
-756,Government Expenditure,Switzerland,2016,15.53,"Percentage of male and female intentional homicide victims, Male",0.5
-756,Government Expenditure,Switzerland,2016,15.53,"Percentage of male and female intentional homicide victims, Female",0.6
 756,Government Expenditure,Switzerland,2016,15.53,Assault (%),6.8
 756,Government Expenditure,Switzerland,2016,15.53,Kidnapping (%),0.0
 756,Government Expenditure,Switzerland,2016,15.53,Theft (%),
@@ -1400,22 +1076,16 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 762,Government Expenditure,Tajikistan,2005,15.29,Homicide (%),2.3
 762,Government Expenditure,Tajikistan,2005,15.29,Theft (%),51.9
 762,Government Expenditure,Tajikistan,2010,15.33,Homicide (%),2.4
-762,Government Expenditure,Tajikistan,2010,15.33,"Percentage of male and female intentional homicide victims, Male",4.1
-762,Government Expenditure,Tajikistan,2010,15.33,"Percentage of male and female intentional homicide victims, Female",0.6
 762,Government Expenditure,Tajikistan,2010,15.33,Assault (%),71.8
 762,Government Expenditure,Tajikistan,2010,15.33,Kidnapping (%),1.9
 762,Government Expenditure,Tajikistan,2010,15.33,Theft (%),46.6
 762,Government Expenditure,Tajikistan,2010,15.33,Robbery (%),3.2
 762,Government Expenditure,Tajikistan,2010,15.33,Sexual Violence (%),2.6
 764,Government Expenditure,Thailand,2005,20.55,Homicide (%),7.3
-764,Government Expenditure,Thailand,2005,20.55,"Percentage of male and female intentional homicide victims, Male",13.0
-764,Government Expenditure,Thailand,2005,20.55,"Percentage of male and female intentional homicide victims, Female",1.9
 764,Government Expenditure,Thailand,2005,20.55,Assault (%),43.2
 764,Government Expenditure,Thailand,2005,20.55,Kidnapping (%),0.0
 764,Government Expenditure,Thailand,2005,20.55,Theft (%),93.1
 764,Government Expenditure,Thailand,2010,16.22,Homicide (%),5.4
-764,Government Expenditure,Thailand,2010,16.22,"Percentage of male and female intentional homicide victims, Male",9.7
-764,Government Expenditure,Thailand,2010,16.22,"Percentage of male and female intentional homicide victims, Female",1.3
 764,Government Expenditure,Thailand,2010,16.22,Assault (%),13.6
 764,Government Expenditure,Thailand,2010,16.22,Kidnapping (%),0.0
 764,Government Expenditure,Thailand,2010,16.22,Theft (%),80.8
@@ -1427,61 +1097,45 @@ Country ID,Education Source Data,Country Name,Year,Education Spend (%),Source Da
 788,Government Expenditure,Tunisia,2005,26.7,Homicide (%),2.6
 788,Government Expenditure,Tunisia,2010,24.85,Homicide (%),2.7
 800,Government Expenditure,Uganda,2010,10.1,Homicide (%),9.3
-800,Government Expenditure,Uganda,2010,10.1,"Percentage of male and female intentional homicide victims, Male",15.2
-800,Government Expenditure,Uganda,2010,10.1,"Percentage of male and female intentional homicide victims, Female",3.5
 800,Government Expenditure,Uganda,2010,10.1,Assault (%),67.8
 800,Government Expenditure,Uganda,2010,10.1,Kidnapping (%),0.4
 800,Government Expenditure,Uganda,2010,10.1,Theft (%),69.1
 800,Government Expenditure,Uganda,2010,10.1,Robbery (%),17.8
 800,Government Expenditure,Uganda,2010,10.1,Sexual Violence (%),26.1
 800,Government Expenditure,Uganda,2014,10.88,Homicide (%),11.5
-800,Government Expenditure,Uganda,2014,10.88,"Percentage of male and female intentional homicide victims, Male",18.8
-800,Government Expenditure,Uganda,2014,10.88,"Percentage of male and female intentional homicide victims, Female",4.3
 800,Government Expenditure,Uganda,2014,10.88,Assault (%),37.4
 800,Government Expenditure,Uganda,2014,10.88,Kidnapping (%),0.6
 800,Government Expenditure,Uganda,2014,10.88,Theft (%),43.9
 800,Government Expenditure,Uganda,2014,10.88,Robbery (%),9.4
 800,Government Expenditure,Uganda,2014,10.88,Sexual Violence (%),36.2
 804,Government Expenditure,Ukraine,2005,13.74,Homicide (%),6.5
-804,Government Expenditure,Ukraine,2005,13.74,"Percentage of male and female intentional homicide victims, Male",9.5
-804,Government Expenditure,Ukraine,2005,13.74,"Percentage of male and female intentional homicide victims, Female",3.8
 804,Government Expenditure,Ukraine,2005,13.74,Assault (%),14.3
 804,Government Expenditure,Ukraine,2005,13.74,Kidnapping (%),0.4
 804,Government Expenditure,Ukraine,2005,13.74,Theft (%),398.1
 804,Government Expenditure,Ukraine,2005,13.74,Robbery (%),100.3
 804,Government Expenditure,Ukraine,2005,13.74,Sexual Violence (%),4.1
 826,Government Expenditure,United Kingdom,2005,13.17,Homicide (%),1.4
-826,Government Expenditure,United Kingdom,2005,13.17,"Percentage of male and female intentional homicide victims, Male",1.8
-826,Government Expenditure,United Kingdom,2005,13.17,"Percentage of male and female intentional homicide victims, Female",1.0
 826,Government Expenditure,United Kingdom,2005,13.17,Assault (%),
 826,Government Expenditure,United Kingdom,2005,13.17,Kidnapping (%),5.2
 826,Government Expenditure,United Kingdom,2005,13.17,Theft (%),
 826,Government Expenditure,United Kingdom,2005,13.17,Robbery (%),183.3
 826,Government Expenditure,United Kingdom,2005,13.17,Sexual Violence (%),88.0
 826,Government Expenditure,United Kingdom,2010,13.03,Homicide (%),1.2
-826,Government Expenditure,United Kingdom,2010,13.03,"Percentage of male and female intentional homicide victims, Male",1.5
-826,Government Expenditure,United Kingdom,2010,13.03,"Percentage of male and female intentional homicide victims, Female",0.9
 826,Government Expenditure,United Kingdom,2010,13.03,Assault (%),658.8
 826,Government Expenditure,United Kingdom,2010,13.03,Kidnapping (%),3.1
 826,Government Expenditure,United Kingdom,2010,13.03,Theft (%),
 826,Government Expenditure,United Kingdom,2010,13.03,Robbery (%),136.8
 826,Government Expenditure,United Kingdom,2010,13.03,Sexual Violence (%),81.5
 826,Government Expenditure,United Kingdom,2016,13.92,Homicide (%),1.2
-826,Government Expenditure,United Kingdom,2016,13.92,"Percentage of male and female intentional homicide victims, Male",1.5
-826,Government Expenditure,United Kingdom,2016,13.92,"Percentage of male and female intentional homicide victims, Female",0.9
 826,Government Expenditure,United Kingdom,2016,13.92,Assault (%),798.4
 826,Government Expenditure,United Kingdom,2016,13.92,Kidnapping (%),6.6
 826,Government Expenditure,United Kingdom,2016,13.92,Theft (%),
 826,Government Expenditure,United Kingdom,2016,13.92,Robbery (%),89.8
 834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Homicide (%),8.4
-834,Government Expenditure,United Rep. of Tanzania,2010,19.65,"Percentage of male and female intentional homicide victims, Male",14.7
-834,Government Expenditure,United Rep. of Tanzania,2010,19.65,"Percentage of male and female intentional homicide victims, Female",2.4
 834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Kidnapping (%),0.0
 834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Robbery (%),25.8
 834,Government Expenditure,United Rep. of Tanzania,2010,19.65,Sexual Violence (%),0.0
 840,Government Expenditure,United States of America,2010,13.15,Homicide (%),4.8
-840,Government Expenditure,United States of America,2010,13.15,"Percentage of male and female intentional homicide victims, Male",7.5
-840,Government Expenditure,United States of America,2010,13.15,"Percentage of male and female intentional homicide victims, Female",2.1
 840,Government Expenditure,United States of America,2010,13.15,Assault (%),253.3
 840,Government Expenditure,United States of America,2010,13.15,Theft (%),
 840,Government Expenditure,United States of America,2010,13.15,Robbery (%),119.6
