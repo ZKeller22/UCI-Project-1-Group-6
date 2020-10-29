@@ -1,7 +1,7 @@
 # UCI-Project-1-Group-6
 
 
-# Government Education Expenditure v Measures of Prosperity 
+# Government Education Expenditure vs. Measures of Prosperity 
 # Analysis Project
 
 ## Project Overview
