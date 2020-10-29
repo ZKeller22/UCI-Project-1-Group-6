@@ -19,7 +19,7 @@
         -Theft
 #Hypothesis
   
-  Our hypothesis was that the greater the % spend by government on education the better the measures of prosperity. The countries with the highest percent spend on education as a percent of total government expenditiure would have a lower crime rate, lower unemployment, higher CPI, higher percent spend on R&D, higher GDP compared to the rest of the countries.
+  Our hypothesis was that the greater the  percent spend by government on education the better the measures of prosperity. The countries with the highest percent spend on education as a percent of total government expenditiure would have a lower crime rate, lower unemployment, higher CPI, higher percent spend on R&D, higher GDP compared to the rest of the countries in the data set.
  
  #Data Clean-up
  
