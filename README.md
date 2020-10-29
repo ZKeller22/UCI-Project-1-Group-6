@@ -27,10 +27,13 @@
   The dataframes were then saved to a csv file and pushed to the folder "output_data". Finally, we merged each of the measures of propserity csv fiels with the spend on education file and saved that to the folder "merged_data". 
   
   ## Visualizations
+    
     The merged csv files were read into a second jupter notebook "project_visualizations". We had to filter the data by yers 2010 and forward and only looked at the top 10 countries in terms of spend % in each of the merged dataframes becuase there we so many countries it did not fit the bar chart. We created a bar chart  and scatter chart for each merged data frame (for crimes we split out by each sub-category). We displayed the mean, standard deviation and correlation coefficent. 
     
    ## Results
+    
     The data shows no real correlation between education spend as a percent of government expenditure and the measures of prosperity. The strongest correlation we had was 0.59 for GDP, which we had to divide by 100 so it could all fit in the bar chart. Each of the standard deviations was greater and often a multiple of the mean.
     
    ## Conclusion
+    
     The data could not prove our hypothesis.
