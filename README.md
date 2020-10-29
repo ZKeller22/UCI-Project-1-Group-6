@@ -12,7 +12,7 @@
       - Gross Domestic Product ($)
       - Government R&D expenditure (%)
       - Unemployment Rate (%)
-      -Crime Rate
+      - Crime Rate
         - Homicide
         -Assault
         -Robbery
