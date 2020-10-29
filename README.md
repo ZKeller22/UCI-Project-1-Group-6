@@ -21,6 +21,13 @@
 ## Hypothesis
   
   Our hypothesis was that the greater the  percent spend by government on education the better the measures of prosperity. The countries with the highest percent spend on education as a percent of total government expenditiure would have a lower crime rate, lower unemployment, higher CPI, higher percent spend on R&D, higher GDP compared to the rest of the countries in the data set.
+  
+ ## Challenges
+ 
+  1. Github pull/push and corrupt notebooks.
+  2. Seperating out the jupyter notebooks.
+  3. Broad initial data set.
+  
  
  ## Data Clean-up
  
